@@ -1,0 +1,16 @@
+= Jethro Tull ‎
+
+.link:1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html[Thick as a Brick]
+image:1972%20%20Thick%20As%20A%20Brick/cover.jpg[Thick as a Brick,200,200,role="thumb left"]
+
+.link:Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html[Heavy Horses]
+image:Jethro%20Tull%20-%20Heavy%20Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+.link:1972%20%20Living%20In%20The%20Past/lyrics/past.html[Living In The Past]
+image:1972%20%20Living%20In%20The%20Past/cover.jpg[Living In The Past,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From https://www.azlyrics.com/j/jethrotull.html

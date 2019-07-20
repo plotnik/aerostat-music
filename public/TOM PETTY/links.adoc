@@ -1,0 +1,18 @@
+= Tom Petty
+
+.link:Tom%20Petty%20-%20Echo/lyrics/echo.html[Echo]
+image:Tom%20Petty%20-%20Echo/cover.jpg[Echo,200,200,role="thumb left"]
+
+.link:Tom%20Petty%20-%20Highway%20Companion/lyrics/highway.html[Highway Companion]
+image:Tom%20Petty%20-%20Highway%20Companion/cover.jpg[Highway Companion,200,200,role="thumb left"]
+
+.link:Tom%20Petty%201994%20-%20Wildflowers/lyrics/wildflowers.html[Wildflowers]
+image:Tom%20Petty%201994%20-%20Wildflowers/cover.jpg[Wildflowers,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From https://www.azlyrics.com/t/tompettyandtheheartbreakers.html
+
+See https://en.wikipedia.org/wiki/Tom_Petty

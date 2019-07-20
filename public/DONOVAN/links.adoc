@@ -1,0 +1,19 @@
+= Donovan
+
+.link:Donovan%20-%20Greatest%20Hits/lyrics/greatest.html[Greatest Hits]
+image:Donovan%20-%20Greatest%20Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
+
+.link:Donovan%20-%20Brother%20Sun,%20Sister%20Moon/lyrics/moon.html[Brother Sun, Sister Moon]
+image:Donovan%20-%20Brother%20Sun,%20Sister%20Moon/Folder.jpg[Brother Sun Sister Moon,200,200,role="thumb left"]
+
+.link:Donovan%20-%20HMS%20Donovan/lyrics/hms.html[HMS Donovan]
+image:Donovan%20-%20HMS%20Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
+
+.link:Donovan%20-%20Beat%20Cafe/lyrics/beat.html[Beat Cafe]
+image:Donovan%20-%20Beat%20Cafe/cover.jpg[Beat Cafe,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From http://www.azlyrics.com/d/donovan.html

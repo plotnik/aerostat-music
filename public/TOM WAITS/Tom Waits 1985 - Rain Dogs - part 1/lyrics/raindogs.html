@@ -1,0 +1,1348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="author" content="Tom Waits">
+<title>Rain Dogs</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
+/* Remove comment around @import statement below when using as a custom stylesheet */
+/*@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";*/
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+audio,canvas,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+script{display:none!important}
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0}
+a{background:transparent}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+abbr[title]{border-bottom:1px dotted}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+body{-webkit-font-smoothing:antialiased}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.center{margin-left:auto;margin-right:auto}
+.spread{width:100%}
+p.lead,.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{font-size:1.21875em;line-height:1.6}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0;direction:ltr}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:none}
+p{font-family:inherit;font-weight:400;font-size:1em;line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #ddddd8;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em;height:0}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{font-size:1em;line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol,ul.no-bullet,ol.no-bullet{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0;font-size:1em}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ul.no-bullet{list-style:none}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+abbr,acronym{text-transform:uppercase;font-size:90%;color:rgba(0,0,0,.8);border-bottom:1px dotted #ddd;cursor:help}
+abbr{text-transform:none}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote cite{display:block;font-size:.9375em;color:rgba(0,0,0,.6)}
+blockquote cite:before{content:"\2014 \0020"}
+blockquote cite a,blockquote cite a:visited{color:rgba(0,0,0,.6)}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media only screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:solid 1px #dedede}
+table thead,table tfoot{background:#f7f8f7;font-weight:bold}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
+body{tab-size:4}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
+.clearfix:after,.float-group:after{clear:both}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menu{color:rgba(0,0,0,.8)}
+b.button:before,b.button:after{position:relative;top:-1px;font-weight:400}
+b.button:before{content:"[";padding:0 3px 0 2px}
+b.button:after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header:before,#header:after,#content:before,#content:after,#footnotes:before,#footnotes:after,#footer:before,#footer:after{content:" ";display:table}
+#header:after,#content:after,#footnotes:after,#footer:after{clear:both}
+#content{margin-top:1.25em}
+#content:before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #ddddd8}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #ddddd8;padding-bottom:8px}
+#header .details{border-bottom:1px solid #ddddd8;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span:before{content:"\00a0\2013\00a0"}
+#header .details br+span.author:before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark:before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber:after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #ddddd8;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #efefed;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media only screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background-color:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #efefed;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #efefed;left:auto;right:0}}
+@media only screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:100%;background-color:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+.sect1{padding-bottom:.625em}
+@media only screen and (min-width:768px){.sect1{padding-bottom:1.25em}}
+.sect1+.sect1{border-top:1px solid #efefed}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor:before,h2>a.anchor:before,h3>a.anchor:before,#toctitle>a.anchor:before,.sidebarblock>.content>.title>a.anchor:before,h4>a.anchor:before,h5>a.anchor:before,h6>a.anchor:before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock>caption.title{white-space:nowrap;overflow:visible;max-width:0}
+.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:rgba(0,0,0,.85)}
+table.tableblock #preamble>.sectionbody>.paragraph:first-of-type p{font-size:inherit}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #ddddd8;color:rgba(0,0,0,.6)}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border-style:solid;border-width:1px;border-color:#e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;-webkit-border-radius:4px;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock pre:not(.highlight),.listingblock pre[class="highlight"],.listingblock pre[class^="highlight "],.listingblock pre.CodeRay,.listingblock pre.prettyprint{background:#f7f7f8}
+.sidebarblock .literalblock pre,.sidebarblock .listingblock pre:not(.highlight),.sidebarblock .listingblock pre[class="highlight"],.sidebarblock .listingblock pre[class^="highlight "],.sidebarblock .listingblock pre.CodeRay,.sidebarblock .listingblock pre.prettyprint{background:#f2f1f1}
+.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{-webkit-border-radius:4px;border-radius:4px;word-wrap:break-word;padding:1em;font-size:.8125em}
+.literalblock pre.nowrap,.literalblock pre[class].nowrap,.listingblock pre.nowrap,.listingblock pre[class].nowrap{overflow-x:auto;white-space:pre;word-wrap:normal}
+@media only screen and (min-width:768px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:.90625em}}
+@media only screen and (min-width:1280px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:1em}}
+.literalblock.output pre{color:#f7f7f8;background-color:rgba(0,0,0,.9)}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;-webkit-border-radius:4px;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]:before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:#999}
+.listingblock:hover code[data-lang]:before{display:block}
+.listingblock.terminal pre .command:before{content:attr(data-prompt);padding-right:.5em;color:#999}
+.listingblock.terminal pre .command:not([data-prompt]):before{content:"$"}
+table.pyhltable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.pyhltable td{vertical-align:top;padding-top:0;padding-bottom:0;line-height:1.45}
+table.pyhltable td.code{padding-left:.75em;padding-right:0}
+pre.pygments .lineno,table.pyhltable td:not(.code){color:#999;padding-left:0;padding-right:.5em;border-right:1px solid #ddddd8}
+pre.pygments .lineno{display:inline-block;margin-right:.25em}
+table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock blockquote p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote:before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.5em;margin-right:.5ex;text-align:right}
+.quoteblock .quoteblock{margin-left:0;margin-right:0;padding:.5em 0;border-left:3px solid rgba(0,0,0,.6)}
+.quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
+.quoteblock .quoteblock blockquote:before{display:none}
+.verseblock{margin:0 1em 1.25em 1em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract{margin:0 0 1.25em 0;display:block}
+.quoteblock.abstract blockquote,.quoteblock.abstract blockquote p{text-align:left;word-spacing:0}
+.quoteblock.abstract blockquote:before,.quoteblock.abstract blockquote p:first-of-type:before{display:none}
+table.tableblock{max-width:100%;border-collapse:separate}
+table.tableblock td>.paragraph:last-child p>p:last-child,table.tableblock th>p:last-child,table.tableblock td>p:last-child{margin-bottom:0}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all th.tableblock,table.grid-all td.tableblock{border-width:0 1px 1px 0}
+table.grid-all tfoot>tr>th.tableblock,table.grid-all tfoot>tr>td.tableblock{border-width:1px 1px 0 0}
+table.grid-cols th.tableblock,table.grid-cols td.tableblock{border-width:0 1px 0 0}
+table.grid-all *>tr>.tableblock:last-child,table.grid-cols *>tr>.tableblock:last-child{border-right-width:0}
+table.grid-rows th.tableblock,table.grid-rows td.tableblock{border-width:0 0 1px 0}
+table.grid-all tbody>tr:last-child>th.tableblock,table.grid-all tbody>tr:last-child>td.tableblock,table.grid-all thead:last-child>tr>th.tableblock,table.grid-rows tbody>tr:last-child>th.tableblock,table.grid-rows tbody>tr:last-child>td.tableblock,table.grid-rows thead:last-child>tr>th.tableblock{border-bottom-width:0}
+table.grid-rows tfoot>tr>th.tableblock,table.grid-rows tfoot>tr>td.tableblock{border-width:1px 0 0 0}
+table.frame-all{border-width:1px}
+table.frame-sides{border-width:0 1px}
+table.frame-topbot{border-width:1px 0}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{display:table-cell;line-height:1.6;background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+td>div.verse{white-space:pre}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.unstyled,ol.unnumbered,ul.checklist,ul.none{list-style-type:none}
+ul.unstyled,ol.unnumbered,ul.checklist{margin-left:.625em}
+ul.checklist li>p:first-child>.fa-square-o:first-child,ul.checklist li>p:first-child>.fa-check-square-o:first-child{width:1em;font-size:.85em}
+ul.checklist li>p:first-child>input[type="checkbox"]:first-child{width:1em;position:relative;top:1px}
+ul.inline{margin:0 auto .625em auto;margin-left:-1.375em;margin-right:0;padding:0;list-style:none;overflow:hidden}
+ul.inline>li{list-style:none;float:left;margin-left:1.375em;display:block}
+ul.inline>li>*{display:block}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist>table tr>td:first-of-type{padding:0 .75em;line-height:1}
+.colist>table tr>td:last-of-type{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:solid 4px #fff;-webkit-box-shadow:0 0 0 1px #ddd;box-shadow:0 0 0 1px #ddd}
+.imageblock.left,.imageblock[style*="float: left"]{margin:.25em .625em 1.25em 0}
+.imageblock.right,.imageblock[style*="float: right"]{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em 0;border-width:1px 0 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;text-indent:-1.05em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background-color:#00fafa}
+.black{color:#000}
+.black-background{background-color:#000}
+.blue{color:#0000bf}
+.blue-background{background-color:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background-color:#fa00fa}
+.gray{color:#606060}
+.gray-background{background-color:#7d7d7d}
+.green{color:#006000}
+.green-background{background-color:#007d00}
+.lime{color:#00bf00}
+.lime-background{background-color:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background-color:#7d0000}
+.navy{color:#000060}
+.navy-background{background-color:#00007d}
+.olive{color:#606000}
+.olive-background{background-color:#7d7d00}
+.purple{color:#600060}
+.purple-background{background-color:#7d007d}
+.red{color:#bf0000}
+.red-background{background-color:#fa0000}
+.silver{color:#909090}
+.silver-background{background-color:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background-color:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background-color:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background-color:#fafa00}
+span.icon>.fa{cursor:default}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note:before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip:before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning:before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution:before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important:before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background-color:rgba(0,0,0,.8);-webkit-border-radius:100px;border-radius:100px;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]:after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background-color:#fffef7;border-color:#e0e0dc;-webkit-box-shadow:0 1px 4px #e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@media print{@page{margin:1.25cm .75cm}
+*{-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare):after,a[href^="https:"]:not(.bare):after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]:after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #ddddd8!important;padding-bottom:0!important}
+.sect1{padding-bottom:0!important}
+.sect1+.sect1{border:0!important}
+#header>h1:first-child{margin-top:1.25rem}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em 0}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span:before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]:before{display:block}
+#footer{background:none!important;padding:0 .9375em}
+#footer-text{color:rgba(0,0,0,.6)!important;font-size:.9em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Rain Dogs</h1>
+<div class="details">
+<span id="author" class="author">Tom Waits</span><br>
+<span id="revdate">1985</span>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_singapore">Singapore</a></li>
+<li><a href="#_clap_hands">Clap Hands</a></li>
+<li><a href="#_cemetery_polka">Cemetery Polka</a></li>
+<li><a href="#_jockey_full_of_bourbon">Jockey Full Of Bourbon</a></li>
+<li><a href="#_tango_till_they_re_sore">Tango Till They&#8217;re Sore</a></li>
+<li><a href="#_big_black_mariah">Big Black Mariah</a></li>
+<li><a href="#_diamonds_gold">Diamonds &amp; Gold</a></li>
+<li><a href="#_hang_down_your_head">Hang Down Your Head</a></li>
+<li><a href="#_time">Time</a></li>
+<li><a href="#_rain_dogs">Rain Dogs</a></li>
+<li><a href="#_9th_hennepin">9th &amp; Hennepin</a></li>
+<li><a href="#_gun_street_girl">Gun Street Girl</a></li>
+<li><a href="#_union_square">Union Square</a></li>
+<li><a href="#_blind_love">Blind Love</a></li>
+<li><a href="#_walking_spanish">Walking Spanish</a></li>
+<li><a href="#_downtown_train">Downtown Train</a></li>
+<li><a href="#_anywhere_i_lay_my_head">Anywhere I Lay My Head</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="image"><img src="../raindogs.png" alt="Rain Dogs" width="200" height="200"></span></p>
+</div>
+<div class="paragraph">
+<p><a href="../../links.html">Other albums</a></p>
+</div>
+<br clear="both">
+</div>
+</div>
+<div class="sect1">
+<h2 id="_singapore">Singapore</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">We sail tonight for Singapore
+We&#8217;re all as mad as hatters here
+I&#8217;ve fallen for a tawny moor
+took off to the Land of Nod
+Drank with all the Chinamen
+Walked the sewers of Paris
+I danced along a colored wind
+Dangled from a rope of sand
+You must say goodbye to me
+
+We sail tonight for Singapore
+Don&#8217;t fall asleep while you&#8217;re ashore
+Cross your heart and hope to die
+When you hear the children cry
+Let marrow bone and cleaver choose
+While making feet for children&#8217;s shoes
+Through the alley
+Back from Hell
+When you hear that steeple bell
+You must say goodbye to me
+
+Wipe him down with gasoline
+Till his arms are hard and mean
+From now on boys this iron boat&#8217;s your home
+So heave away boys
+
+We sail tonight for Singapore
+Take your blankets from the floor
+Wash your mouth out by the door
+The whole town is made of iron ore
+Every witness turns to steam
+They all become Italian dreams
+Fill your pockets up with earth
+Get yourself a dollar&#8217;s worth
+Away boys, away boys, heave away
+
+The captain is a one-armed dwarf
+He&#8217;s throwing dice along the wharf
+In the land of the blind, the one-eyed man is King
+So take this ring
+
+We sail tonight for Singapore
+We&#8217;re all as mad as hatters here
+I&#8217;ve fallen for a tawny moor
+took off to the Land of Nod
+Drank with all the Chinamen
+Walked the sewers of Paris
+I danced along a colored wind
+Dangled from a rope of sand
+You must say goodbye to me</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_clap_hands">Clap Hands</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Sane, sane, they&#8217;re all insane
+The fireman&#8217;s blind, the conductor&#8217;s lame
+A Cincinnati jacket and a sad luck dame
+Hanging out the window with a bottle full of rain
+Clap hands. Clap hands
+Clap hands. Clap hands
+
+Said roar, roar the thunder and the roar
+Son of a bitch is never comin' back here no more
+Moon in the window, a bird on the pole
+Can always find a millionaire to shovel all the coal
+
+Clap hands. Clap hands
+Clap hands. Clap hands
+
+Steam, steam a hundred bad dreams
+Goin' up to Harlem with a pistol in his jeans
+A fifty dollar bill inside of Palladin&#8217;s hat
+And nobody&#8217;s sure where Mr. Knickerbocker&#8217;s at
+
+Said roar, roar the thunder and the roar
+Son of a bitch is never comin' back here no more
+Moon in the window, a bird on the pole
+Can always find a millionaire to shovel all the coal
+Clap hands. Clap hands
+Clap hands. Clap hands
+
+Shine, shine a Roosevelt dime
+All the way to Baltimore and runnin' out of time
+Salvation Army seemed to wind up in the hole
+They all went to Heaven in a little row boat
+
+Clap hands. Clap hands
+Clap hands. Clap hands</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cemetery_polka">Cemetery Polka</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Uncle Vernon
+Uncle Vernon
+Independent as a
+Hog on ice
+He&#8217;s a big shot down there
+At the slaughterhouse
+He plays accordion
+For Mr. Weiss
+
+Uncle Biltmore and
+Uncle William
+Made a
+Million during
+World War II
+But they&#8217;re tightwads
+And they&#8217;re
+Cheap skates
+And they&#8217;ll never
+Give a dime to you
+
+Auntie Mame
+Has gone
+Insane
+She lives in
+The doorway of an old hotel
+And the
+Radio&#8217;s playing opera and
+All she ever says
+Is go to Hell
+
+Uncle Violet
+Flew as a pilot
+He said there
+Ain&#8217;t no pretty
+Girls in France
+Now he runs a
+Tidy little
+Bookie joint they say
+He never
+Keeps it in his pants
+
+Uncle Bill
+Will never leave a will
+And the tumour is as
+Big as an egg
+He has a mistress
+She&#8217;s Puerto Rican
+And I heard she has
+A wooden leg
+
+Uncle Phil
+Can&#8217;t live without his pills
+He has emphysema and
+He&#8217;s almost blind
+And we must find out
+Where the money is
+Get it now
+Before he loses his mind
+
+Uncle Vernon
+Uncle Vernon
+Independent as a
+Hog on ice
+He&#8217;s a big shot down there
+At the slaughterhouse
+He plays accordion
+For Mr. Weiss</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_jockey_full_of_bourbon">Jockey Full Of Bourbon</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Edna Million in a drop dead suit
+Dutch Pink on a downtown train
+Two dollar pistol but the gun won&#8217;t shoot
+I&#8217;m in the corner on the pouring rain
+16 men on a deadman&#8217;s chest
+And I&#8217;ve been drinking from a broken cup
+2 pairs of pants and a mohair vest
+I&#8217;m full of bourbon, I can&#8217;t stand up
+
+Hey little bird, fly away home
+Your house is on fire, your children are alone
+Hey little bird, fly away home
+Your house is on fire, your children are alone
+
+Schiffer broke a bottle on Morgan&#8217;s head
+And I&#8217;ve been stepping on the devil&#8217;s tail
+Across the stripes of a full moon&#8217;s head
+Through the bars of a Cuban jail
+Bloody fingers on a purple knife
+A flamingo drinking from a cocktail glass
+I&#8217;m on the lawn with someone else&#8217;s wife
+Come admire the view from up on top of the mast
+
+Hey little bird, fly away home
+Your house is on fire, your children are alone
+Hey little bird, fly away home
+Your house is on fire, your children are alone
+
+I said, hey little bird, fly away home
+Your house is on fire, your children are alone
+Hey little bird, fly away home
+House is on fire, your children are alone
+
+Yellow sheets in a Hong Kong bed
+Stazybo horn and a Slingerland ride
+To the carnival is what she said
+A hundred dollars makes it dark inside
+
+Edna Million in a drop dead suit
+Dutch Pink on a downtown train
+Two dollar pistol but the gun won&#8217;t shoot
+I&#8217;m in the corner on the pouring rain
+
+Hey little bird, fly away home
+Your house is on fire, your children are alone
+Hey little bird, fly away home
+Your house is on fire, your children are alone</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_tango_till_they_re_sore">Tango Till They&#8217;re Sore</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Well ya play that Tarantella
+All the hounds they start to roar
+And the boys all go to hell
+Then the Cubans hit the floor
+And they drive along the pipeline
+They tango till they&#8217;re sore
+They take apart their nightmares
+And they leave them by the door
+
+Let me fall out of the window
+With confetti in my hair
+Deal out jacks or better
+On a blanket by the stairs
+I&#8217;ll tell you all my secrets
+But I lie about my past
+So send me off to bed forever more
+
+Make sure they play my theme song
+I guess daisies will have to do
+Just get me to New Orleans
+And paint shadows on the pews
+Turn the spit on that pig
+Kick the drum and let me down
+Put my clarinet beneath your bed
+Till I get back in town
+
+Let me fall out of the window
+With confetti in my hair
+Deal out jacks or better
+On a blanket by the stairs
+I&#8217;ll tell you all my secrets
+But I lie about my past
+So send me off to bed forever more
+
+Just make sure she&#8217;s all in calico
+And the colour of a doll
+Wave the flag on cadillac day
+And a skillet on the wall
+Cut me a switch or hold your breath
+Till the sun goes down
+Write my name on the hood
+Send me off to another town
+
+Let me fall out of the window
+With confetti in my hair
+Deal out jacks or better
+On a blanket by the stairs
+I&#8217;ll tell you all my secrets
+But I lie about my past
+So send me off to bed forever more
+
+Send me off to bed forever more
+Send me off to bed forever more
+Send me off to bed forever more</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_big_black_mariah">Big Black Mariah</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Cuttin' through the cane break
+Rattling the sill
+Thunder that the rain makes
+When the shadow tops the hill
+Big light on the back street
+Hill to Evermore. Packin' down the ladder
+With the hammer to the floor
+
+Here comes the Big Black Mariah
+Here comes the Big Black Mariah
+Here comes the Big Black Mariah
+Here comes the Big Black Ford
+
+Well he&#8217;s all boxed up
+On a red bell dame
+Hunted Black Johnny with
+A blind man&#8217;s cane
+A yellow bullet with a
+Rag out in the wind
+An old blind tiger
+Get an old bell Jim
+Here comes the Big Black
+Mariah. Here comes the Big Black
+Mariah. Here comes the Big Black
+Mariah. Here comes the Big Black Ford
+
+Sent to the skies on a
+Benny Jag Blue
+Off to bed without his supper
+Like the Linda brides do
+Now he&#8217;s got to do the story
+With the old widow Jones&#8230;&#8203;
+He&#8217;s got a wooden coat this boy
+Is never coming home
+Here comes the Big Black Mariah
+Here comes the Big Black Mariah
+Here comes the Big Black Mariah
+Here comes the Big Black Ford
+
+Cut through the
+Cane break&#8230;&#8203;
+
+Well he&#8217;s all boxed up
+On a red bell dame
+Hunted Black Johnny with
+A blind man&#8217;s cane
+A yellow bullet with a
+Rag out in the wind
+An old blind tiger
+Get an old bell Jim
+Here comes the Big Black
+Mariah. Here comes the Big Black
+Mariah. Here comes the Big Black
+Mariah. Here comes the Big Black Ford</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_diamonds_gold">Diamonds &amp; Gold</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">The broken glass
+And the rusty nails
+Where the violets grow
+Say goodbye to the railroad
+And the mad dogs of summer
+And everything that I know
+
+What some men will do here for diamonds
+What some men will do here for gold
+They&#8217;re wounded but they just keep on climbin'
+And they sleep by the side of the road
+
+There&#8217;s a hole in the ladder
+A fence we can climb
+Mad as a hatter
+You&#8217;re thin as a dime
+Go out to the meadow
+The hills are agreen
+Sing me a rainbow
+Steal me a dream
+
+Small time Napoleons
+Shattered his knees
+But he stays in the saddle for Rose
+And all his disciples
+They shave in the gutter
+And gather what&#8217;s left of his clothes
+
+What some men will do here for diamonds
+What some men will do here for gold
+They&#8217;re wounded but they just keep on climbin'
+And they sleep by the side of the road
+
+There&#8217;s a hole in the ladder
+A fence we can climb
+Mad as a hatter
+You&#8217;re thin as a dime
+Go out to the meadow
+The hills are agreen
+Sing me a rainbow
+Steal me a dream</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_hang_down_your_head">Hang Down Your Head</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Hush a wild violet
+Hush a band of gold
+Hush you&#8217;re in a story
+I heard somebody told
+
+Tear the promise from my heart
+Tear my heart today
+You have found another
+Baby I must go away
+
+Hang down your head for sorrow
+Hang down your head for me
+Hang down your head tomorrow
+Hang down your head Marie
+
+Hush my love the rain now
+Hush my love was so true
+Hush my love a train now
+But it takes me away from you
+
+Hang down your head for sorrow
+Hang down your head for me
+Hang down your head tomorrow
+Hang down your head Marie</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_time">Time</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Well the smart money&#8217;s on Harlow
+And the moon is in the street
+The shadow boys are breaking all the laws
+And you&#8217;re east of East St. Louis
+And the wind is making speeches
+And the rain sounds like a round of applause
+Napoleon is weeping in the Carnival saloon
+His invisible fiance is in the mirror
+The band is going home
+It&#8217;s raining hammers, it&#8217;s raining nails
+Yes, it&#8217;s true, there&#8217;s nothin' left for him down here
+
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+That you love
+And it&#8217;s Time Time Time
+
+And they all pretend they&#8217;re Orphans
+And their memory&#8217;s like a train
+You can see it getting smaller as it pulls away
+And the things you can&#8217;t remember
+Tell the things you can&#8217;t forget that
+History puts a saint in every dream
+
+Well she said she&#8217;d stick around
+Until the bandages came off
+But these mamas boys just don&#8217;t know when to quit
+And Matilda asks the sailors are those dreams
+Or are those prayers?'
+So just close your eyes, son
+And this won&#8217;t hurt a bit
+
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+That you love
+And it&#8217;s Time Time Time
+
+Well, things are pretty lousy for a calendar girl
+The boys just dive right off the cars
+And splash into the street
+And when she&#8217;s on a roll she pulls a razor
+From her boot and a thousand
+Pigeons fall around her feet
+So put a candle in the window
+And a kiss upon his lips
+Till the dish outside the window fills with rain
+Just like a stranger with the weeds in your heart
+And pay the fiddler off till I come back again
+
+Oh, it&#8217;s time, time, time
+And it&#8217;s time, time, time
+
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+And it&#8217;s Time Time Time
+That you love
+And it&#8217;s Time Time Time</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rain_dogs">Rain Dogs</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Inside a broken clock
+Splashing the wine
+With all the rain dogs
+Taxi, we&#8217;d rather walk
+Huddle a doorway with the Rain Dogs
+For I am a Rain Dog, too
+
+Oh, how we danced and we swallowed the night
+For it was all ripe for dreaming
+Oh, how we danced away
+All of the lights
+We&#8217;ve always been out of our minds
+
+The rum pours strong and thin
+Beat out the dustman
+With the rain dogs
+Aboard a shipwreck train
+Give my umbrella to the Rain Dogs
+For I am a Rain Dog too
+
+Oh, how we danced with the
+Rose of Tralee
+Her long hair black as a raven
+Oh, how we danced and you
+Whispered to me
+You&#8217;ll never be going back home
+You&#8217;ll never be going back home
+
+Oh, how we danced and we swallowed the night
+For it was all ripe for dreaming
+Oh, how we danced away
+All of the lights
+We&#8217;ve always been out of our minds</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_9th_hennepin">9th &amp; Hennepin</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Well it&#8217;s 9th and Hennepin
+All the donuts have
+Names that sound like prostitutes
+And the moon&#8217;s teeth marks are
+On the sky like a tarp thrown over all this
+And the broken umbrellas like
+Dead birds and the steam
+Comes out of the grill like
+The whole goddamned town is ready to blow
+And the bricks are all scarred with jailhouse tattoos
+And everyone is behaving like dogs
+And the horses are coming down Violin Road
+And Dutch is dead on his feet
+And the rooms all smell like diesel
+And you take on the
+Dreams of the ones who have slept here
+And I&#8217;m lost in the window
+I hide in the stairway
+I hang in the curtain
+I sleep in your hat
+And no one brings anything
+Small into a bar around here
+
+They all started out with bad directions
+And the girl behind the counter has a tattooed tear
+One for every year he&#8217;s away she said, such
+A crumbling beauty, but there&#8217;s
+Nothing wrong with her that
+$100 won&#8217;t fix, she has that razor sadness
+That only gets worse
+With the clang and the thunder of the
+Southern Pacific going by
+As the clock ticks out like a dripping faucet
+Till you&#8217;re full of rag water and bitters and blue ruin
+And you spill out
+Over the side to anyone who&#8217;ll listen
+And I&#8217;ve seen it
+All through the yellow windows
+Of the evening train</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_gun_street_girl">Gun Street Girl</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Falling James in the Tahoe mud
+Stick around to tell us all the tale
+He fell in love with a Gun Street girl and
+Now he&#8217;s dancing in the Birmingham jail
+Dancing in the Birmingham jail
+
+Took a 100 dollars off a Slaughterhouse Joe
+Bought a bran' new Michigan 20 gauge
+Got all liquored up on that roadhouse corn
+Blew a hole in the hood of a yellow corvette
+Blew a hole in the hood of a yellow corvette
+Bought a second hand Nova from a Cuban Chinese
+Dyed his hair in the bathroom of a Texaco
+With a pawnshop radio, quarter past 4
+Well he left Waukegan at the slammin' of the door
+He left Waukegan at the slammin' of the door
+
+I said, John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home
+I said John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home
+
+Sitting in a sycamore in St. John&#8217;s Wood
+Soakin' day old bread in kerosene
+He was blue as a robin&#8217;s egg brown as a hog
+Stayin' out of circulation till the dogs get tired
+Stayin' out of circulation till the dogs get tired
+
+Shadow fixed the toilet with an old trombone
+He never got up in the morning on a Saturday
+Sittin' by the Erie with a bull whipped dog
+Tellin' everyone he saw
+They went thatta way
+Tellin' everyone he saw
+They went thatta way
+
+Now the rain&#8217;s like gravel on an old tin roof
+And the Burlington Northern&#8217;s pullin' out of the world
+With a head full of bourbon and a dream in the straw
+And a Gun Street Girl was the cause of it all
+A Gun Street girl was the cause of it all
+
+Riding in the shadow by the St. Joe Ridge
+He heard the click clack tappin' of a blind man&#8217;s cane
+Pullin' into Baker on a New Year&#8217;s Eve
+With one eye on the pistol and the other on the door
+With one eye on the pistol and the other on the door
+
+Miss Charlotte took her satchel down to King Fish Row
+And she smuggled in a bran' new pair of alligator shoes
+With her fireman&#8217;s raincoat and her long yellow hair, well
+They tied her to a tree with a skinny millionaire
+They tied her to a tree with a skinny millionaire
+
+I said, John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home
+I said John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home
+Bangin' on a table with an old tin cup
+Sing I&#8217;ll never kiss a Gun Street Girl again
+I&#8217;ll never kiss a Gun Street Girl again
+
+I said, John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home
+I said John, John he&#8217;s long gone
+Gone to Indiana
+Ain&#8217;t never coming home</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_union_square">Union Square</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Well time is always money
+For the boys at Union Square
+You can bust your ass till doomsday
+But don&#8217;t forget to say your prayers
+Someone&#8217;s got a wad on the backstreet
+Sacc got a bran' new slack
+And your baby is handcuffed on the front seat
+Sit right there, boy and you relax
+
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+
+Well they spill out of the Cinema 14
+To that drag bar down the block
+Best live show by far on the whole east coast
+With a bank rolled up in your sock
+She stand right there for your pleasure
+Half Puerto Rican Chinese
+You got to find your baby somebody to measure
+I&#8217;m goin' to get me some of these baby
+
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+
+Four in the mornin' on a Sunday
+Sacco drinkin' whiskey in church
+Half pint festival brandy
+That boy 'bout to fall right off his perch
+The guy in the sweaters off duty
+Out in front on the welfare hotel
+The guy in the dress is a beauty
+Go all the wayand I swear you never can tell
+
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down
+I&#8217;m goin' down down down</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_blind_love">Blind Love</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Now you&#8217;re gone
+And it&#8217;s hotels and whiskey and sad luck dames
+And I don&#8217;t care if they miss me
+And I never remember their names
+They say if you get far enough away
+You&#8217;ll be on your way back home
+Well I&#8217;m at the station
+And I can&#8217;t get on the train
+
+It must be blind love
+The only kind of love is stone blind love
+Blind love
+The only kind of love is stone blind love
+With your blind love
+With your blind love
+Stone blind love
+With your blind love
+
+Now the streets are turning blue
+And the dogs are barking
+And the night has come
+And there are tears that are falling
+From your blue eyes now
+Well I wonder where you are
+And I whisper your name
+The only way to find you
+Is if I close my eyes
+I&#8217;ll find you with my blind love
+The only kind of love is stone blind love
+
+It&#8217;s your blind love
+The only kind of love is stone blind love
+Stone blind love
+Only kind of love is stone blind love
+
+With your blind love
+The only kind of love is stone blind love
+Stone blind love
+Stone blind love
+
+Oh it&#8217;s blind love
+Blind love
+The only kind of love is stone blind love
+With your blind love
+Oh it&#8217;s blind love
+Blind love
+With your stone blind love</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_walking_spanish">Walking Spanish</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">He&#8217;s got himself a homemade special
+You know his glass is full of sand
+And it feels just like a jaybird
+The way it fits into his hand
+He rolled a blade up in his trick towel
+They slap their hands against the wall
+You never trip, you never stumble
+
+He&#8217;s walking spanish down the hall
+
+Slip him a picture of our Jesus
+Or give him a spoon to dig a hole
+What all he done ain&#8217;t no one&#8217;s business
+But he&#8217;ll need blankets for the cold
+They dim the lights over on Broadway
+Even the king has bowed his head
+Every face looks right up at Mason
+
+He&#8217;s walking spanish down the hall
+
+Latella&#8217;s screeching for a blind pig
+Punk Sander&#8217;s carved it out of wood
+He never sang when he got hoodwinked
+They tried it all but he never would
+Tomorrow morning there&#8217;ll be laundry
+But he&#8217;ll be somewhere else to hear the call
+Don&#8217;t say good bye he&#8217;s just leavin' early
+
+He&#8217;s walking spanish down the hall
+
+All St. Bartholomew said was whispered
+Into the ear of Blind Jack Dawes
+All the Baker told the machine
+Was that he never broke the law
+Go on and tip your hat up to the Pilate
+Take off your watch, your rings and all
+Even Jesus wanted just a little more time
+
+When he was walking spanish down the hall</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_downtown_train">Downtown Train</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Outside another yellow moon
+Punched a hole in the nighttime, yes
+I climb through the window and down the street
+Shining like a new dime
+The downtown trains are full
+With all those Brooklyn girls
+They try so hard to break out of their little worlds
+
+You wave your hand and they scatter like crows
+They have nothing that will ever capture your heart
+They&#8217;re just thorns without the rose
+Be careful of them in the dark
+Oh if I was the one
+You chose to be your only one
+Oh baby can&#8217;t you hear me now
+
+Will I see you tonight
+On a downtown train
+Every night its just the same
+You leave me lonely, now
+
+I know your window and I know it&#8217;s late
+I know your stairs and your doorway
+I walk down your street and past your gate
+I stand by the light at the four way
+You watch them as they fall
+They all have heart attacks
+They stay at the carnival
+But they&#8217;ll never win you back
+
+Will I see you tonight
+On a downtown train
+Where Every night its just the same
+You leave me lonely
+Will I see you tonight
+On a downtown train
+All of my dreams just fall like rain
+All upon on a downtown train</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_anywhere_i_lay_my_head">Anywhere I Lay My Head</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">My head is spinning round
+My heart is in my shoes
+I went and set the Thames on fire
+Now I must come back down
+She&#8217;s laughing in her sleeve at me
+I can feel it in my bones
+But anywhere I&#8217;m gonna
+Lay my head, boys
+I&#8217;m will call my home
+
+Well I see that
+The world is upside down
+My pockets were filled up with gold
+Now the clouds have covered o&#8217;er
+And the wind is blowing cold
+I don&#8217;t need anybody
+Because I learned to be alone
+And anywhere
+I lay my head, boys
+I will call my home</pre>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2018-02-25 14:36:58 +03
+</div>
+</div>
+</body>
+</html>

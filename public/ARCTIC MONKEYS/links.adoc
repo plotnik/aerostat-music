@@ -1,0 +1,14 @@
+= Arctic Monkeys
+
+.link:Arctic%20Monkeys%20-%20Tranquility%20Base%20Hotel%20Casino/lyrics/tranquility.html[Tranquility Base Hotel + Casino]
+image:Arctic%20Monkeys%20-%20Tranquility%20Base%20Hotel%20Casino/cover.jpg[Tranquility Base Hotel + Casino,200,200,role="thumb left"]
+
+.link:Beneath%20The%20Boardwalk/lyrics/boardwalk.html[Beneath The Boardwalk]
+image:Beneath%20The%20Boardwalk/cover.png[Beneath The Boardwalk,200,200,role="thumb left"]
+
+
+++++
+<br clear="both">
+++++
+
+From https://www.azlyrics.com/a/arcticmonkeys.html

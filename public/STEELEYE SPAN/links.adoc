@@ -1,0 +1,21 @@
+= Steeleye Span
+
+.link:Steeleye%20Span%20-%20Parcel%20Of%20Rogues/lyrics/rogues.html[Parcel Of Rogues]
+image:Steeleye%20Span%20-%20Parcel%20Of%20Rogues/cover.jpg[Parcel Of Rogues,200,200,role="thumb left"]
+
+.link:Steeleye%20Span%20-%20Wintersmith/lyrics/wintersmith.html[Wintersmith]
+image: Steeleye%20Span%20-%20Wintersmith/cover.jpg[Wintersmith,200,200,role="thumb left"]
+
+.link:Steeleye%20Span%20-%20Below%20the%20Salt/lyrics/salt.html[Below the Salt]
+image:Steeleye%20Span%20-%20Below%20the%20Salt/Folder.jpg[Below the Salt,200,200,role="thumb left"]
+
+.link:Steeleye%20Span%20-%20Dodgy%20Bastards/lyrics/bastards.html[Dodgy Bastards]
+image:Steeleye%20Span%20-%20Dodgy%20Bastards/cover.jpg[Dodgy Bastards,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From http://www.lyricsfreak.com/s/steeleye+span
+
+Also http://www.traditionalmusic.co.uk/

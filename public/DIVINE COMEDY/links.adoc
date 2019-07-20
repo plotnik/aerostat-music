@@ -1,0 +1,13 @@
+= The Divine Comedy
+
+.link:2016%20-%20Foreverland/lyrics/foreverland.html[Foreverland]
+image:2016%20-%20Foreverland/Cover.jpg[Foreverland,200,200,role="thumb left"]
+
+.link:2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[Bang Goes The Knighthood]
+image:2010%20-%20Bang%20Goes%20The%20Knighthood/cover.jpg[Bang Goes The Knighthood,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From http://thedivinecomedy.com/music/

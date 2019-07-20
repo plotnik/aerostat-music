@@ -1,0 +1,13 @@
+= Cotton Mather
+
+.link:Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html[Kon Tiki]
+image:Cotton%20Mather%20-%20Kon%20Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
+
+.link:Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html[Death of the Cool]
+image:Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/folder.jpg[Death of the Cool,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From https://genius.com/albums/Cotton-mather/Death-of-the-cool

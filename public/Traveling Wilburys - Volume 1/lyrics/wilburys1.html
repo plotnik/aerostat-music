@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="author" content="Traveling Wilburys">
+<title>Traveling Wilburys Vol. 1</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
+/* Remove comment around @import statement below when using as a custom stylesheet */
+/*@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";*/
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+audio,canvas,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+script{display:none!important}
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0}
+a{background:transparent}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+abbr[title]{border-bottom:1px dotted}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+body{-webkit-font-smoothing:antialiased}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.center{margin-left:auto;margin-right:auto}
+.spread{width:100%}
+p.lead,.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{font-size:1.21875em;line-height:1.6}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0;direction:ltr}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:none}
+p{font-family:inherit;font-weight:400;font-size:1em;line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #ddddd8;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em;height:0}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{font-size:1em;line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol,ul.no-bullet,ol.no-bullet{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0;font-size:1em}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ul.no-bullet{list-style:none}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+abbr,acronym{text-transform:uppercase;font-size:90%;color:rgba(0,0,0,.8);border-bottom:1px dotted #ddd;cursor:help}
+abbr{text-transform:none}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote cite{display:block;font-size:.9375em;color:rgba(0,0,0,.6)}
+blockquote cite:before{content:"\2014 \0020"}
+blockquote cite a,blockquote cite a:visited{color:rgba(0,0,0,.6)}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media only screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:solid 1px #dedede}
+table thead,table tfoot{background:#f7f8f7;font-weight:bold}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
+body{tab-size:4}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
+.clearfix:after,.float-group:after{clear:both}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menu{color:rgba(0,0,0,.8)}
+b.button:before,b.button:after{position:relative;top:-1px;font-weight:400}
+b.button:before{content:"[";padding:0 3px 0 2px}
+b.button:after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header:before,#header:after,#content:before,#content:after,#footnotes:before,#footnotes:after,#footer:before,#footer:after{content:" ";display:table}
+#header:after,#content:after,#footnotes:after,#footer:after{clear:both}
+#content{margin-top:1.25em}
+#content:before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #ddddd8}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #ddddd8;padding-bottom:8px}
+#header .details{border-bottom:1px solid #ddddd8;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span:before{content:"\00a0\2013\00a0"}
+#header .details br+span.author:before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark:before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber:after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #ddddd8;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #efefed;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media only screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background-color:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #efefed;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #efefed;left:auto;right:0}}
+@media only screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:100%;background-color:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+.sect1{padding-bottom:.625em}
+@media only screen and (min-width:768px){.sect1{padding-bottom:1.25em}}
+.sect1+.sect1{border-top:1px solid #efefed}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor:before,h2>a.anchor:before,h3>a.anchor:before,#toctitle>a.anchor:before,.sidebarblock>.content>.title>a.anchor:before,h4>a.anchor:before,h5>a.anchor:before,h6>a.anchor:before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock>caption.title{white-space:nowrap;overflow:visible;max-width:0}
+.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:rgba(0,0,0,.85)}
+table.tableblock #preamble>.sectionbody>.paragraph:first-of-type p{font-size:inherit}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #ddddd8;color:rgba(0,0,0,.6)}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border-style:solid;border-width:1px;border-color:#e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;-webkit-border-radius:4px;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock pre:not(.highlight),.listingblock pre[class="highlight"],.listingblock pre[class^="highlight "],.listingblock pre.CodeRay,.listingblock pre.prettyprint{background:#f7f7f8}
+.sidebarblock .literalblock pre,.sidebarblock .listingblock pre:not(.highlight),.sidebarblock .listingblock pre[class="highlight"],.sidebarblock .listingblock pre[class^="highlight "],.sidebarblock .listingblock pre.CodeRay,.sidebarblock .listingblock pre.prettyprint{background:#f2f1f1}
+.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{-webkit-border-radius:4px;border-radius:4px;word-wrap:break-word;padding:1em;font-size:.8125em}
+.literalblock pre.nowrap,.literalblock pre[class].nowrap,.listingblock pre.nowrap,.listingblock pre[class].nowrap{overflow-x:auto;white-space:pre;word-wrap:normal}
+@media only screen and (min-width:768px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:.90625em}}
+@media only screen and (min-width:1280px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:1em}}
+.literalblock.output pre{color:#f7f7f8;background-color:rgba(0,0,0,.9)}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;-webkit-border-radius:4px;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]:before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:#999}
+.listingblock:hover code[data-lang]:before{display:block}
+.listingblock.terminal pre .command:before{content:attr(data-prompt);padding-right:.5em;color:#999}
+.listingblock.terminal pre .command:not([data-prompt]):before{content:"$"}
+table.pyhltable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.pyhltable td{vertical-align:top;padding-top:0;padding-bottom:0;line-height:1.45}
+table.pyhltable td.code{padding-left:.75em;padding-right:0}
+pre.pygments .lineno,table.pyhltable td:not(.code){color:#999;padding-left:0;padding-right:.5em;border-right:1px solid #ddddd8}
+pre.pygments .lineno{display:inline-block;margin-right:.25em}
+table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock blockquote p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote:before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.5em;margin-right:.5ex;text-align:right}
+.quoteblock .quoteblock{margin-left:0;margin-right:0;padding:.5em 0;border-left:3px solid rgba(0,0,0,.6)}
+.quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
+.quoteblock .quoteblock blockquote:before{display:none}
+.verseblock{margin:0 1em 1.25em 1em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract{margin:0 0 1.25em 0;display:block}
+.quoteblock.abstract blockquote,.quoteblock.abstract blockquote p{text-align:left;word-spacing:0}
+.quoteblock.abstract blockquote:before,.quoteblock.abstract blockquote p:first-of-type:before{display:none}
+table.tableblock{max-width:100%;border-collapse:separate}
+table.tableblock td>.paragraph:last-child p>p:last-child,table.tableblock th>p:last-child,table.tableblock td>p:last-child{margin-bottom:0}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all th.tableblock,table.grid-all td.tableblock{border-width:0 1px 1px 0}
+table.grid-all tfoot>tr>th.tableblock,table.grid-all tfoot>tr>td.tableblock{border-width:1px 1px 0 0}
+table.grid-cols th.tableblock,table.grid-cols td.tableblock{border-width:0 1px 0 0}
+table.grid-all *>tr>.tableblock:last-child,table.grid-cols *>tr>.tableblock:last-child{border-right-width:0}
+table.grid-rows th.tableblock,table.grid-rows td.tableblock{border-width:0 0 1px 0}
+table.grid-all tbody>tr:last-child>th.tableblock,table.grid-all tbody>tr:last-child>td.tableblock,table.grid-all thead:last-child>tr>th.tableblock,table.grid-rows tbody>tr:last-child>th.tableblock,table.grid-rows tbody>tr:last-child>td.tableblock,table.grid-rows thead:last-child>tr>th.tableblock{border-bottom-width:0}
+table.grid-rows tfoot>tr>th.tableblock,table.grid-rows tfoot>tr>td.tableblock{border-width:1px 0 0 0}
+table.frame-all{border-width:1px}
+table.frame-sides{border-width:0 1px}
+table.frame-topbot{border-width:1px 0}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{display:table-cell;line-height:1.6;background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+td>div.verse{white-space:pre}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.unstyled,ol.unnumbered,ul.checklist,ul.none{list-style-type:none}
+ul.unstyled,ol.unnumbered,ul.checklist{margin-left:.625em}
+ul.checklist li>p:first-child>.fa-square-o:first-child,ul.checklist li>p:first-child>.fa-check-square-o:first-child{width:1em;font-size:.85em}
+ul.checklist li>p:first-child>input[type="checkbox"]:first-child{width:1em;position:relative;top:1px}
+ul.inline{margin:0 auto .625em auto;margin-left:-1.375em;margin-right:0;padding:0;list-style:none;overflow:hidden}
+ul.inline>li{list-style:none;float:left;margin-left:1.375em;display:block}
+ul.inline>li>*{display:block}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist>table tr>td:first-of-type{padding:0 .75em;line-height:1}
+.colist>table tr>td:last-of-type{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:solid 4px #fff;-webkit-box-shadow:0 0 0 1px #ddd;box-shadow:0 0 0 1px #ddd}
+.imageblock.left,.imageblock[style*="float: left"]{margin:.25em .625em 1.25em 0}
+.imageblock.right,.imageblock[style*="float: right"]{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em 0;border-width:1px 0 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;text-indent:-1.05em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background-color:#00fafa}
+.black{color:#000}
+.black-background{background-color:#000}
+.blue{color:#0000bf}
+.blue-background{background-color:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background-color:#fa00fa}
+.gray{color:#606060}
+.gray-background{background-color:#7d7d7d}
+.green{color:#006000}
+.green-background{background-color:#007d00}
+.lime{color:#00bf00}
+.lime-background{background-color:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background-color:#7d0000}
+.navy{color:#000060}
+.navy-background{background-color:#00007d}
+.olive{color:#606000}
+.olive-background{background-color:#7d7d00}
+.purple{color:#600060}
+.purple-background{background-color:#7d007d}
+.red{color:#bf0000}
+.red-background{background-color:#fa0000}
+.silver{color:#909090}
+.silver-background{background-color:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background-color:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background-color:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background-color:#fafa00}
+span.icon>.fa{cursor:default}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note:before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip:before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning:before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution:before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important:before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background-color:rgba(0,0,0,.8);-webkit-border-radius:100px;border-radius:100px;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]:after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background-color:#fffef7;border-color:#e0e0dc;-webkit-box-shadow:0 1px 4px #e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@media print{@page{margin:1.25cm .75cm}
+*{-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare):after,a[href^="https:"]:not(.bare):after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]:after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #ddddd8!important;padding-bottom:0!important}
+.sect1{padding-bottom:0!important}
+.sect1+.sect1{border:0!important}
+#header>h1:first-child{margin-top:1.25rem}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em 0}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span:before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]:before{display:block}
+#footer{background:none!important;padding:0 .9375em}
+#footer-text{color:rgba(0,0,0,.6)!important;font-size:.9em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Traveling Wilburys Vol. 1</h1>
+<div class="details">
+<span id="author" class="author">Traveling Wilburys</span><br>
+<span id="revdate">1988</span>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_handle_with_care">Handle With Care</a></li>
+<li><a href="#_dirty_world">Dirty World</a></li>
+<li><a href="#_rattled">Rattled</a></li>
+<li><a href="#_last_night">Last Night</a></li>
+<li><a href="#_not_alone_anymore">Not Alone Anymore</a></li>
+<li><a href="#_congratulations">Congratulations</a></li>
+<li><a href="#_heading_for_the_light">Heading For The Light</a></li>
+<li><a href="#_margarita">Margarita</a></li>
+<li><a href="#_tweeter_and_the_monkey_man">Tweeter And The Monkey Man</a></li>
+<li><a href="#_end_of_the_line">End Of The Line</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="image"><img src="../cover.jpg" alt="Traveling Wilburys 1" width="200" height="200"></span></p>
+</div>
+<div class="paragraph">
+<p>From <a href="http://www.azlyrics.com/lyrics/travelingwilburys/" class="bare">http://www.azlyrics.com/lyrics/travelingwilburys/</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_handle_with_care">Handle With Care</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Been beat up and battered 'round
+Been sent up, and I&#8217;ve been shot down
+You&#8217;re the best thing that I&#8217;ve ever found
+
+Handle me with care
+Reputations changeable
+Situations tolerable
+But baby, you&#8217;re adorable
+Handle me with care
+I&#8217;m so tired of being lonely
+I still have some love to give
+Won&#8217;t you show me that you really care
+
+Everybody&#8217;s got somebody to lean on
+Put your body next to mine, and dream on
+
+I&#8217;ve been fobbed off, and I&#8217;ve been fooled
+I&#8217;ve been robbed and ridiculed
+In day care centers and night schools
+Handle me with care
+
+[Guitar Solo]
+
+Been stuck in airports, terrorized
+Sent to meetings, hypnotized
+Overexposed, commercialized
+Handle me with care
+
+I&#8217;m so tired of being lonely
+I still have some love to give
+Won&#8217;t you show me that you really care
+
+Everybody&#8217;s got somebody to lean on
+Put your body next to mine, and dream on
+
+I&#8217;ve been uptight and made a mess
+But I&#8217;ll clean it up myself, I guess
+Oh, the sweet smell of success
+Handle me with care</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_dirty_world">Dirty World</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">He love your sexy body, he loves your dirty mind
+He loves when you hold him, grab him from behind
+Oh baby, you&#8217;re such a pretty thing
+I can&#8217;t wait to introduce you to the other members of my gang
+
+You don&#8217;t need no wax job, you&#8217;re smooth enough for me
+If you need you oil changed I&#8217;ll do it for you free
+Oh baby, the pleasure would be all mine
+If you let me drive your pickup truck and park it where the sun don&#8217;t shine
+
+Every time he touches you his ass stands up on end
+His legs begin to quiver and his mind begins to bend
+Oh baby, you&#8217;re such a tasty treat
+But I&#8217;m under doctor&#8217;s orders, I&#8217;m afraid to overeat
+
+He love your sense of humor, your disposition too
+There&#8217;s absolutely nothing that he don&#8217;t love about you
+Oh baby, I&#8217;m on my hands and knees
+Life would be so simple if I only had you to please
+
+Oh baby, turn around and say goodbye
+You go to the airport now and I&#8217;m going home to cry
+He loves your&#8230;&#8203;
+
+Electric dumplings
+Red bell peppers
+Fuel injection
+Service charge
+Five-speed gearbox
+Long endurance
+Quest for junk food
+Big refrigerator
+Trembling Wilbury
+Marble earrings
+Porky curtains
+Power steering
+Bottled water
+Parts and services
+
+Dirty world, a dirty world, it&#8217;s a &#8230;&#8203;ing dirty world</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rattled">Rattled</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Oh yeah
+Well, I get rattled every time we meet
+I get rattled even in my sleep
+I get rattled, baby, o-over you
+
+Yeah, I get twisted, I get turned around
+I get twisted, and I&#8217;m up then I&#8217;m down
+I get twisted, baby, o-over you
+
+Well, baby, baby, baby won&#8217;t you save one night for me
+Baby, baby, baby is there something wrong with you
+Baby, baby, baby this is out of my control
+It looks like nothing&#8217;s wrong but deep down in my soul
+
+I&#8217;m twisted - shaken - rattled (grrrwl)
+
+I get rattled, baby, over you
+
+[Guitar solo]
+
+Rattled Baby, over you
+
+Well, baby, baby, baby won&#8217;t you save one night for me
+Baby, baby, baby is there something wrong with you
+Baby, baby, baby this is out of my control
+It looks like nothing&#8217;s wrong but deep down in my soul
+
+I&#8217;m twisted - shaken - rattled (grrrwl)
+I get rattled, baby, o-over you
+
+Oh, I get shaken, I&#8217;m torn up by the roots
+Yeah, I&#8217;m shakin', way down in my boots
+I get rattled, baby, over you
+Yeah, I get rattled, baby, over you
+Yeah I&#8217;m rattled, baby, over you</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_last_night">Last Night</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">She was there at the bar, she heard my guitar
+She was long and tall, she was the queen of them all
+Last night, thinking about last night
+Last night, thinking about last night
+
+She was dark and discreet, she was light on her feet
+We went up to her room and she lowered the boom
+Last night, thinking about last night
+Last night, thinking about last night
+
+Down below they danced and sang in the street
+While up above the walls were steaming with heat
+Last night, thinking about last night
+Last night, thinking about last night
+
+I was feeling no pain, feeling good in my brain
+I looked in her eyes, they were full of surprise
+Last night, talking about last night
+Last night, talking about last night
+
+I asked her to marry me she smiled and pulled out a knife
+The party&#8217;s just beginning she said, "Your money or you life?"
+Last night, talking about last night
+Last night, talking about last night
+
+Now I&#8217;m back at the bar, she went a little too far
+She done me wrong, all I got is this song
+Last night, thinking about last night
+Last night, thinking about last night
+
+[Repeat to fade]</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_not_alone_anymore">Not Alone Anymore</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">You always said that I&#8217;d be back again
+That I&#8217;d come running to you in the end
+I thought that you were on your own
+And now I find you&#8217;re not alone
+
+I&#8217;ll see you through the rain
+Through the heartache and pain
+It hurts like never before
+You&#8217;re not alone any more
+
+You always said that I would know someday
+Just how it feels when your love walks away
+I let you down, I let you go
+I lost you, how was I to know
+
+I&#8217;ll see you through the rain
+Through the heartache and pain
+It hurts like never before
+You&#8217;re not alone any more
+
+I never knew I could feel this way
+I never could see past yesterday
+You feel that everything is gone
+I feel it too, you&#8217;re not alone
+
+I&#8217;ll see you through the rain
+Every heartache and pain
+It hurts like never before
+You&#8217;re not alone, you&#8217;re not alone
+You&#8217;re not alone any more, any more, any more</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_congratulations">Congratulations</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Congratulations for breaking my heart
+Congratulations for tearing it all apart
+Congratulations you finally did succeed
+Congratulations for leaving me in need
+
+This morning I looked out my window and found
+A bluebird singing but there was no one around
+At night I lay alone in my bed
+With an image of you goin' around in my head
+
+Congratulations for bringing me down
+Congratulations now I&#8217;m sorrow bound
+Congratulations you got a good deal
+Congratulations how good you must feel
+
+I guess that I must have loved you more than I ever knew
+My world is empty now cause it don&#8217;t have you
+And if I had just one more chance to win your heart again
+I would do things differently but what&#8217;s the use to pretend
+
+Congratulations for making me wait
+Congratulations now it&#8217;s too late
+Congratulations you came out on top
+Congratulations you never did know when to stop
+
+Congratulations
+
+[Repeat to end&#8230;&#8203;]</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_heading_for_the_light">Heading For The Light</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;ve wandered around with nothing more than time on my hands
+I was lost in the night with no sight of you
+And at times it was so blue and lonely
+Heading for the light
+
+Been close to the edge, hanging by my fingernails
+I&#8217;ve rolled and I&#8217;ve tumbled through the roses and the thorns
+And I couldn&#8217;t see the sign that warned me, I&#8217;m
+Heading for the light
+
+Ooh - I didn&#8217;t see that big black cloud hanging over me
+And when the rain came down I was nearly drowned
+I didn&#8217;t know the mess I was in
+My shoes are wearing out from walking down this same highway
+
+I don&#8217;t see nothing new but I feel a lot of change
+And I get the strangest feeling, as I&#8217;m
+Heading for the light
+
+[solo]
+
+Ooh - my hands were tired
+Jokers and fools on either side
+But still I kept on till the worst had gone
+Now I see the hole I was in
+My shoes are wearing out from walking down this same highway
+
+I don&#8217;t see nothing new but I feel a lot of change
+And I get the strangest feeling, as I&#8217;m
+Heading for the light
+
+I see the sun ahead, I ain&#8217;t never looking back
+All the dreams are coming true as I think of you
+Now there&#8217;s nothing in the way to stop me
+Heading for the light
+
+Now there&#8217;s nothing in the way to stop me
+Heading for the light</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_margarita">Margarita</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Mar&#8212;&#8203;ga&#8212;&#8203;rita, ah
+Mar&#8212;&#8203;ga&#8212;&#8203;rita, ah
+Ooh
+
+It was in Pittsburgh, late one night
+I lost my hat, got into a fight
+I rolled and tumbled, till I saw the light
+Went to the big apple, took a bite
+
+Still the sun went down your way
+Down from the blue into the gray
+Where I stood I saw you walk away
+You danced away
+
+I asked her what we&#8217;re gonna do tonight
+She said "Cahuenga Langa-Langa-Shoe Box Soup"
+We better keep tryin' till we get it right
+Tala mala sheela jaipur dhoop
+
+She wrote a long letter on a short piece of paper
+
+Mar&#8212;&#8203;ga&#8212;&#8203;rita</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_tweeter_and_the_monkey_man">Tweeter And The Monkey Man</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Tweeter and the Monkey Man were hard up for cash
+They stayed up all night selling cocaine and hash
+To an undercover cop who had a sister named Jan
+For reasons unexplained she loved the Monkey Man
+
+Tweeter was a boy scout before she went to Vietnam
+And found out the hard way nobody gives a damn
+They knew that they found freedom just across the Jersey Line
+So they hopped into a stolen car took Highway 99
+
+And the walls came down, all the way to hell
+Never saw them when they&#8217;re standing
+Never saw them when they fell
+
+The undercover cop never liked the Monkey Man
+Even back in childhood he wanted to see him in the can
+Jan got married at fourteen to a racketeer named Bill
+She made secret calls to the Monkey Man from a mansion on the hill
+
+It was out on thunder road - Tweeter at the wheel
+They crashed into paradise - they could hear them tires squeal
+The undercover cop pulled up and said "Everyone of you&#8217;s a liar
+If you don&#8217;t surrender now it&#8217;s gonna go down to the wire"
+
+And the walls came down, all the way to hell
+Never saw them when they&#8217;re standing
+Never saw them when they fell
+
+An ambulance rolled up, a state trooper close behind
+Tweeter took his gun away and messed up his mind
+The undercover cop was left tied up to a tree
+Near the souvenir stand by the old abandoned factory
+
+Next day the undercover cop was-a hot in pursuit
+He was taking the whole thing personal
+He didn&#8217;t care about the loot
+Jan had told him many times it was you to me who taught
+In Jersey anything&#8217;s legal as long as you don&#8217;t get caught
+
+And the walls came down, all the way to hell
+Never saw them when they&#8217;re standing
+Never saw them when they fell
+
+Someplace by Rahway prison they ran out of gas
+The undercover cop had cornered them said "Boy, you didn&#8217;t think that this could last"
+Jan jumped out of bed said "There&#8217;s someplace I gotta go"
+She took a gun out of the drawer and said "It&#8217;s best if you don&#8217;t know"
+
+The undercover cop was found face down in a field
+The monkey man was on the river bridge using Tweeter as a shield
+Jan said to the Monkey Man "I&#8217;m not fooled by Tweeter&#8217;s curl
+I knew him long before he ever became a Jersey girl"
+
+And the walls came down, all the way to hell
+Never saw them when they&#8217;re standing
+Never saw them when they fell
+
+Now the town of Jersey City is quieting down again
+I&#8217;m sitting in a gambling club called the Lion&#8217;s Den
+The TV set was blown up, every bit of it is gone
+Ever since the nightly news show that the Monkey Man was on
+
+I guess I&#8217;ll go to Florida and get myself some sun
+There ain&#8217;t no more opportunity here, everything&#8217;s been done
+Sometime I think of Tweeter, sometimes I think of Jan
+Sometimes I don&#8217;t think about nothing but the Monkey Man
+
+And the walls came down, all the way to hell
+Never saw them when they&#8217;re standing
+Never saw them when they fell
+
+[repeat chorus]</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_end_of_the_line">End Of The Line</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Well it&#8217;s all right, riding around in the breeze
+Well it&#8217;s all right, if you live the life you please
+Well it&#8217;s all right, doing the best you can
+Well it&#8217;s all right, as long as you lend a hand
+
+You can sit around and wait for the phone to ring (End of the Line)
+Waiting for someone to tell you everything (End of the Line)
+Sit around and wonder what tomorrow will bring (End of the Line)
+Maybe a diamond ring
+
+Well it&#8217;s all right, even if they say you&#8217;re wrong
+Well it&#8217;s all right, sometimes you gotta be strong
+Well it&#8217;s all right, As long as you got somewhere to lay
+Well it&#8217;s all right, everyday is Judgment Day
+
+Maybe somewhere down the road aways (End of the Line)
+You&#8217;ll think of me, wonder where I am these days (End of the Line)
+Maybe somewhere down the road when somebody plays (End of the Line)
+Purple haze
+
+Well it&#8217;s all right, even when push comes to shove
+Well it&#8217;s all right, if you got someone to love
+Well it&#8217;s all right, everything&#8217;ll work out fine
+Well it&#8217;s all right, we&#8217;re going to the end of the line
+
+Don&#8217;t have to be ashamed of the car I drive (End of the Line)
+I&#8217;m glad to be here, happy to be alive (End of the Line)
+It don&#8217;t matter if you&#8217;re by my side (End of the Line)
+I&#8217;m satisfied
+
+Well it&#8217;s all right, even if you&#8217;re old and gray
+Well it&#8217;s all right, you still got something to say
+Well it&#8217;s all right, remember to live and let live
+Well it&#8217;s all right, the best you can do is forgive
+
+Well it&#8217;s all right, riding around in the breeze
+Well it&#8217;s all right, if you live the life you please
+Well it&#8217;s all right, even if the sun don&#8217;t shine
+Well it&#8217;s all right, we&#8217;re going to the end of the line</pre>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2017-12-23 23:19:11 +03
+</div>
+</div>
+</body>
+</html>

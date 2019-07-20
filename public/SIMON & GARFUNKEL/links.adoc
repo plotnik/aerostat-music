@@ -1,0 +1,18 @@
+= Simon & Garfunkel
+
+.link:Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html[Parsley, Sage, Rosemary and Thyme]
+image:Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/cover.jpg[Parsley,200,200,role="thumb left"]
+
+.link:Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html[Sounds of Silence]
+image:Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/cover.jpg[Sounds of Silence, 200,200,role="thumb left"]
+
+++++
+<br clear="both">
+<hr>
+++++
+
+Also at link:../PAUL%20SIMON/links.html[Paul Simon]
+
+From https://www.azlyrics.com/s/simongarfunkel.html
+
+See https://en.wikipedia.org/wiki/Simon_%26_Garfunkel

@@ -1,0 +1,20 @@
+= Bob Dylan
+
+.link:Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html[1963 - Blowing In The Wind]
+image:Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
+
+.link:Bob%20Dylan%201966%20-%20Blonde%20On%20Blonde/lyrics/blonde.html[1966 - Blonde On Blonde]
+image:Bob Dylan 1966 - Blonde On Blonde/cover.jpg[Blonde On Blonde,200,200,role="thumb left"]
+
+.link:Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html[1993 - World Gone Wrong]
+image:Bob Dylan 1993 - World Gone Wrong/cover.jpg[World Gone Wrong,200,200,role="thumb left"]
+
+.link:Bob%20Dylan%202001%20-%20Love%20And%20Theft/lyrics/love.html[Love And Theft]
+image:Bob%20Dylan%202001%20-%20Love%20And%20Theft/cover.jpg[Love And Theft,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From: http://www.azlyrics.com/d/dylan.html
+

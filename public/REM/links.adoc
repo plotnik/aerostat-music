@@ -1,0 +1,19 @@
+= R.E.M.
+
+.link:REM%20-%20Document/lyrics/document.html[Document]
+image:REM%20-%20Document/cover.jpg[Document,200,200,role="thumb left"]
+
+.link:REM%20-%20Reveal/lyrics/reveal.html[Reveal]
+image:REM%20-%20Reveal/cover.jpg[Reveal,200,200,role="thumb left"]
+
+.link:REM%20-%20Up/lyrics/up.html[Up]
+image:REM%20-%20Up/cover.jpg[Up,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+<hr>
+++++
+
+From http://www.azlyrics.com/r/rem.html
+
+See https://en.wikipedia.org/wiki/R.E.M.

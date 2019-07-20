@@ -1,0 +1,19 @@
+= Paul Simon
+
+.link:Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html[Stranger to Stranger]
+image:Paul%20Simon%20-%20Stranger%20To%20Stranger/cover.jpg[Stranger to Stranger,200,200,role="thumb left"]
+
+.link:Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html[Songwriter]
+image:Paul%20Simon%20-%20Songwriter/cover.jpg[Songwriter,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+<hr>
+++++
+
+Also at link:../SIMON%20&%20GARFUNKEL/links.html[Simon & Garfunkel]
+
+From http://www.paulsimon.com/music/
+
+See https://en.wikipedia.org/wiki/Paul_Simon
+

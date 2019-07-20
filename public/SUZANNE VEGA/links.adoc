@@ -1,0 +1,29 @@
+= Suzanne Vega
+
+.link:1985%20-%20Suzanne%20Vega/lyrics/vega.html[1985 - Suzanne Vega]
+image:1985 - Suzanne Vega/cover.jpg[Suzanne Vega,200,200,role="thumb left"]
+
+.link:1987%20-%20Solitude%20Standing/lyrics/solitude.html[1987 - Solitude Standing]
+image:1987 - Solitude Standing/cover.jpg[Solitude Standing,200,200,role="thumb left"]
+
+.link:1992%20-%2099,9%20F/lyrics/99.html[1992 - 99,9 F]
+image:1992 - 99,9 F/cover.jpg[99F,200,200,role="thumb left"]
+
+.link:2007%20-%20Beauty%20&%20Crime/lyrics/beauty.html[2007 - Beauty & Crime]
+image:2007 - Beauty & Crime/Cover.jpg[Beauty & Crime,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.link:2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html[2014 - Tales from the Realm of the Queen of Pentacles]
+image:2014 - Tales from the Realm of the Queen of Pentacles/cover.jpg[Tales from the Realm of the Queen of Pentacles,200,200,role="thumb left"]
+
+.link:2016%20-%20Lover%20Beloved%20Songs%20From%20An%20Evening%20With%20Carson%20McCullers/lyrics/mccallers.html[2016 - Lover Beloved Songs From An Evening With Carson McCullers]
+image:2016 - Lover Beloved Songs From An Evening With Carson McCullers/cover.png[Lover Beloved Songs From An Evening With Carson McCullers,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From: http://www.azlyrics.com/v/vega.html

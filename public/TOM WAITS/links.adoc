@@ -1,0 +1,28 @@
+= Tom Waits
+
+.link:Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html[Franks Wild Years]
+image:Tom%20Waits%201987%20-%20Franks%20Wild%20Years/cover.jpg[Franks Wild Years,200,200,role="thumb left"]
+
+.link:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD1/lyrics/orphans1.html[Orphans: Disc one: Brawlers]
+image:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/cover.jpg[Brawlers,200,200,role="thumb left"]
+
+.link:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD2/lyrics/orphans2.html[Orphans: Disc two: Bawlers]
+image:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/cover.jpg[Bawlers,200,200,role="thumb left"]
+
+.link:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD3/lyrics/orphans3.html[Orphans: Disc three: Bastards]
+image:2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/cover.jpg[Bastards,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.link:Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html[Rain Dogs]
+image:Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/raindogs.png[Rain Dogs,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+From::
+- https://www.sing365.com/music/lyric.nsf/Tom-Waits-lyrics/193E85B14E55AAA94825699D002B0634
+- https://www.azlyrics.com/t/tomwaits.html

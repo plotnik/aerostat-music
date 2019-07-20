@@ -1,0 +1,71 @@
+<project name="Music" default="aerostat" basedir=".">
+	
+	<!--property name="dest" value="/media/egor/UUI/aerostat"/-->
+	<property name="destHeroku" value="../Документы/heroku/owl-stories/public/music"/>
+	<property name="destNetlify" value="../Документы/netlify/aerostat-music/public"/>
+
+
+    <target name="cc">
+		<exec executable="groovy" >
+		  <arg line="cowon.groovy"/>
+		</exec>
+    </target>
+    
+    <target name="lyrics">
+		<exec executable="groovy" >
+		  <arg line="lyrics.groovy"/>
+		</exec>
+    </target>
+
+	<target name="aerostat" depends="lyrics"
+	        description="Copy changed files to Heroku folder">
+        <copy todir="${destNetlify}">
+            <fileset dir=".">
+                      
+				<include name="**/*.html"/>
+				<include name="**/*.xml"/>
+				<include name="**/*.adoc"/>
+				<include name="**/*.jpg"/>
+				<include name="**/*.png"/>
+				<include name="**/*.gif"/>
+               
+            </fileset>
+            
+        </copy>
+    </target>	
+
+    <target name="tt"
+            description="Refresh mus_tree file on UUI">
+		<exec executable="tree" 
+		      output="/media/egor/UUI/raspberry/mus_tree.txt">
+		  <arg line="/home/egor/Музыка/"/>
+		</exec>
+    </target>
+
+    <target name="gg"
+            description="Push changes to git">
+		<exec executable="git" 
+		      dir="../Документы/heroku/owl-stories/">
+		  <arg line="add ."/>
+		</exec>
+		<exec executable="git" 
+		      dir="../Документы/heroku/owl-stories/">
+		  <arg line="commit -m aerostat"/>
+		</exec>
+		<exec executable="git" 
+		      dir="../Документы/heroku/owl-stories/">
+		  <arg line="push heroku master"/>
+		</exec>
+    </target>
+	
+	<target name="bb"
+	        description="Backup to Toshiba">
+        <copy todir="/media/egor/TOSHIBA EXT/music">
+            <fileset dir=".">
+                 
+            </fileset>
+            
+        </copy>
+    </target>
+    	
+</project>
