@@ -18,7 +18,7 @@
     </target>
 
 	<target name="aerostat" depends="lyrics"
-	        description="Copy changed files to Heroku folder">
+	        description="Copy changed files to Netlify folder">
         <copy todir="${destNetlify}">
             <fileset dir=".">
                       
@@ -33,7 +33,24 @@
             
         </copy>
     </target>	
-
+    
+	<target name="hh" depends="lyrics"
+	        description="Copy changed files to Heroku folder">
+        <copy todir="${destHeroku}">
+            <fileset dir=".">
+                      
+				<include name="**/*.html"/>
+				<include name="**/*.xml"/>
+				<include name="**/*.adoc"/>
+				<include name="**/*.jpg"/>
+				<include name="**/*.png"/>
+				<include name="**/*.gif"/>
+               
+            </fileset>
+            
+        </copy>
+    </target>	
+    
     <target name="tt"
             description="Refresh mus_tree file on UUI">
 		<exec executable="tree" 
@@ -43,7 +60,23 @@
     </target>
 
     <target name="gg"
-            description="Push changes to git">
+            description="Push changes to Netlify git">
+		<exec executable="git" 
+		      dir="../Документы/netlify/aerostat-music/">
+		  <arg line="add ."/>
+		</exec>
+		<exec executable="git" 
+		      dir="../Документы/netlify/aerostat-music/">
+		  <arg line="commit -m aerostat"/>
+		</exec>
+		<exec executable="git" 
+		      dir="../Документы/netlify/aerostat-music/">
+		  <arg line="push origin master"/>
+		</exec>
+    </target>
+
+    <target name="hg"
+            description="Push changes to Heroku git">
 		<exec executable="git" 
 		      dir="../Документы/heroku/owl-stories/">
 		  <arg line="add ."/>
