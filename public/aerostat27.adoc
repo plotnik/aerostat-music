@@ -661,8 +661,10 @@ Beck - Dear Life
 
 <https://aerostatica.ru/2017/09/10/643-vtoroy-urozhay-sentyabrya/>
 
+.Steven Wilson - To The Bone
+image:Steven Wilson - To the Bone/Cover.jpg[To the Bone,200,200,role="thumb left"]
+
 [%hardbreaks]
-Steven Wilson - To The Bone
 Iron & Wine - Thomas County Law
 Kabaka Pyramid - Nuh Hype
 Tori Amos - Cloud Riders
