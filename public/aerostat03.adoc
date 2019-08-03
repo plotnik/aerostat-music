@@ -97,9 +97,11 @@ Bob Dylan - Beyond The Horizon
 .Tom Waits - Jockey Full Of Bourbon
 image:TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1/raindogs.png[Rain Dogs - part 1,200,200,role="thumb left"]
 
+.Leon Redbone - Champagne Charlie
+image:LEON REDBONE/Champagne Charlie/cover.jpg[Champagne Charlie,200,200,role="thumb left"]
+
 [%hardbreaks]
 Robin Laing - More Than Just
-Leon Redbone - Champagne Charlie
 Splinter - Drink All Day
 Roger McGuinn - Finnegan's Wake
 UB40 - Red Red Wine
