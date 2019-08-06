@@ -172,11 +172,13 @@ image:Snarky Puppy 2019 - Immigrance/cover.jpg[Immigrance,200,200,role="thumb le
 <br clear="both">
 ++++
 
+.Iron & Wine - Passing Afternoon
+image:IRON AND WINE/Our Endless Numbered Days/cover.jpg[Our Endless Numbered Days,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bassekou Kouyate feat. Habib Koite - Kanto Kelena
 Toni Molina - Nothing I Can Say
 Martyn Joseph - Oh My Soul
-Iron & Wine - Passing Afternoon
 Cass McCombs - Absentee
 
 ++++
@@ -517,7 +519,7 @@ image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
 image:Breabach - Frenzy Of The Meeting/cover.jpg[Frenzy Of The Meeting,200,200,role="thumb left"]
 
 .Iron & Wine - What Hurts Worse
-image:Iron And Wine - Weed Garden/folder.jpg[Weed Garden,200,200,role="thumb left"]
+image:IRON AND WINE/Iron And Wine - Weed Garden/folder.jpg[Weed Garden,200,200,role="thumb left"]
 
 .Van Morrison - The Prophet Speaks
 image:VAN MORRISON/2018 - The Prophet Speaks/cover.jpg[The Prophet Speaks,200,200,role="thumb left"]
