@@ -22,16 +22,32 @@ h3 {
 
 <https://aerostatica.ru/2017/09/03/642-urozhay-sentyabrya/>
 
+.Robert Plant - link:ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html#_the_may_queen[The May Queen]
+image:ROBERT PLANT/2017 - Carry Fire/cover.jpg[Carry Fire,200,200,role="thumb left"]
+
+.Yusuf / Cat Stevens - See What Love Did To Me
+image:CAT STEVENS/Yusuf 2017 - The Laughing Apple/cover.png[The Laughing Apple,200,200,role="thumb left"]
+
+.Damian Marley - The Struggle Discontinues
+image:Damian Marley - Stony Hill/cover.jpg[Stony Hill,200,200,role="thumb left"]
+
+.Can - She Brings The Rain
+image:Can 1970 - Soundtracks/Folder.jpg[Soundtracks,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Yusuf / Cat Stevens - See What Love Did To Me
-Robert Plant - The May Queen
-Can - She Brings The Rain
 Mick Jagger - England Lost
-Damian Marley - The Struggle Discontinues
 Alice Cooper - Paranormal
 Аквариум - Стучаться в двери травы
 Randy Newman - She Chose Me
 Ringo Starr - Give More Love
+
+++++
+<br clear="both">
+++++
 
 === Нисаргадатта Махарадж, 27 августа 2017
 
@@ -46,10 +62,16 @@ image:PAUL MCCARTNEY/Paul McCartney 1980 - McCartney II/Folder.jpg[McCartney II,
 .Robert Plant & The Strange Sensation - Shine It All Around
 image:ROBERT PLANT/2005 - Mighty Rearranger/front.jpg[Mighty Rearranger,200,200,role="thumb left"]
 
+.Tom Petty And The Heartbreakers - Insider
+image:TOM PETTY/Tom Petty 2008 - An American Treasure/cover.jpg[An American Treasure,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Аквариум - Сharam Сharam
 Uma Mohan - Mahalakshmi Suktam
-Tom Petty And The Heartbreakers - Insider
 Krishna Das - By Your Grace/Jai Gurudev
 Frivolous - You Gotta Sing
 Shivkumar Sharma - Shri Gayatri Mahamantra
