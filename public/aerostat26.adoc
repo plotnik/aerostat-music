@@ -316,9 +316,11 @@ Japan - Quiet Life
 .Fleet Foxes - Kept Woman
 image:Fleet Foxes - Crack-Up/Crack-Up_-_Fleet_Foxes.jpg[Crack-Up,200,200,role="thumb left"]
 
+.Dan Auerbach - King of a One Horse Town
+image:Dan Auerbach - Waiting On A Song/cover.jpg[Waiting On A Song,200,200,role="thumb left"]
+
 [%hardbreaks]
 Flogging Molly - The Hand of John L. Sullivan
-Dan Auerbach - King of a One Horse Town
 Аквариум - Пегги Поршень
 Trio Mediaeval & Arve Henriksen - Om Ödet Skulle Skicka Mig
 Der Plan - Lass Die Katze Stehn
@@ -326,6 +328,10 @@ Songhoy Blues - Mali Nord
 Lindsey Buckingham & Christine McVie - Feel About You
 Kronos Quartet & Natalie Merchant - The Butcher’s Boy
 Charlatans - There Will Be Chances
+
+++++
+<br clear="both">
+++++
 
 === 12 лет. Лето Любви ‘67, 28 мая 2017
 
