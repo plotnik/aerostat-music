@@ -394,13 +394,15 @@ Arvo Pärt - Spiegel im Spiegel
 .Sparks - link:Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_hippopotamus[Hippopotamus]
 image:Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
 
+.Blondie - Long Time
+image:Blondie 2017 - Pollinator/00-blondie-pollinator_cover.jpg[Pollinator,200,200,role="thumb left"]
+
 [%hardbreaks]
 Roger Waters - Smell the Roses
 Ray Davies - The Deal
 Damian Marley (feat. Stephen Marley) - Medication
 Jane Birkin ‎- L’Aquoiboniste
 Lisa Knapp - Bedfordshire May Day Carol
-Blondie - Long Time
 Аквариум - Дело мастера Бо
 Tyrannosaurus Rex - Ride a White Swan
 
