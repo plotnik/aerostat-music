@@ -417,15 +417,20 @@ Tyrannosaurus Rex - Ride a White Swan
 .Steeleye Span - link:STEELEYE%20SPAN/Steeleye%20Span%20-%20Below%20the%20Salt/lyrics/salt.html#_spotted_cow[Spotted Cow]
 image:STEELEYE SPAN/Steeleye Span - Below the Salt/Folder.jpg[Below the Salt,200,200,role="thumb left"]
 
+.Van Morrison & The Chieftains - My Lagan Love
+image:VAN MORRISON/Van Morrison - Irish Heartbeat/cover.jpg[Irish Heartbeat,200,200,role="thumb left"]
+
 [%hardbreaks]
 Shooglenifty - The Tammienorrie: The Tammienorie/Leo Elsey’s Reel/Les Reel des Voyageurs
 Johnny Flynn - Detectorists
 Matt Molloy - Fisherman’s Lilt/Ship in Full Sail/Out on the Ocean
 Andy M. Stewart And Manus Lunny - Bogie’s Bonnie Bell
-Van Morrison & The Chieftains - My Lagan Love
 Steve Tilston & Jez Lowe - Tattered and Torn
 Goitse - Transformed
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Апреля, 23 апреля 2017
 
@@ -490,11 +495,21 @@ Pugwash - My Genius
 .Leonard Cohen - link:LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html#_the_future[The Future]
 image:LEONARD%20COHEN/09-The%20Future%20(1992)/cover.jpg[The Future,200,200,role="thumb left"]
 
+.Leonard Cohen - Hey, That’s No Way To Say Goodbye
+image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
+
+.Leonard Cohen - Dance Me To The End Of Love
+image:LEONARD COHEN/07-Various Positions (1984)/cover.jpg[Various Positions (1984),200,200,role="thumb left"]
+
+.Leonard Cohen - Ain’t No Cure For Love
+image:LEONARD COHEN/08-Im Your Man (1988)/cover.jpg[Im Your Man (1988),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Leonard Cohen - Dance Me To The End Of Love
-Leonard Cohen - Hey, That’s No Way To Say Goodbye
-Leonard Cohen - Closing Time
-Leonard Cohen - Ain’t No Cure For Love
+Leonard Cohen - link:LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html#_closing_time[Closing Time]
 Leonard Cohen - Hallelujah
 
 ++++
