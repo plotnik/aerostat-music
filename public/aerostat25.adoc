@@ -101,16 +101,24 @@ Nico Muhly - Who Was She?
 .Mr. Fox - Elvira Madigan
 image:Mr Fox - The Gypsy/Folder.jpg[The Gypsy,200,200,role="thumb left"]
 
+.Silly Wizard - Bridget O’Malley
+image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
+
+.Maddy Prior & The Carnival Band - My Dancing Day
+image:STEELEYE SPAN/Maddy Prior & The Carnival Band 1991 - Сarols & Сapers/cover.jpg[Сarols & Сapers,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tim Hart & Maddy Prior - Dancing At Whitsun
 Whistlebinkies - Sir John Fenwick
 Clutha - Binnorie
-Silly Wizard - Bridget O’Malley
 5 Hand Reel - Bratach Bana
 Gerry Rafferty - Mary Skeffington
-Maddy Prior & The Carnival Band - My Dancing Day
 McCalmans - Lochs Of The Tay
 Guidewires - Marbh Ban
+
+++++
+<br clear="both">
+++++
 
 === Аквариум. Гиперборея, 22 января 2017
 
