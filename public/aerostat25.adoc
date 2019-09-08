@@ -339,9 +339,11 @@ image:DIVINE COMEDY/2010 - Bang Goes The Knighthood/cover.jpg[Bang Goes The Knig
 .Elliot Smith - Waltz #2
 image:Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
 
+.Peter Gabriel - The Book of Love
+image:PETER GABRIEL/2010 - Scratch My Back/cover.jpg[Scratch My Back,200,200,role="thumb left"]
+
 [%hardbreaks]
 Lumiere - The Silver Tassie
-Peter Gabriel - The Book of Love
 
 ++++
 <br clear="both">
@@ -416,15 +418,20 @@ image:LAMBCHOP/Lambchop 2016 - FLOTUS/folder.jpg[FLOTUS,200,200,role="thumb left
 .Sleaford Mods - TCR
 image:Sleaford Mods - TCR EP/folder.jpg[TCR EP,200,200,role="thumb left"]
 
+.Tinariven - Tenere Taqqai
+image:Tinariwen - Elwan/cover.jpg[Elwan,200,200,role="thumb left"]
+
 [%hardbreaks]
 Syd Arthur - Sun Rays
-Tinariven - Tenere Taqqai
 Dillinger Escape Plan - Symptom
 Peter Gabriel - The Veil
 Max Romeo - Scammer Jammers
 Herb Albert - Don't Go Breaking My Heart
 Oasis - Stay Young
 
+++++
+<br clear="both">
+++++
 
 === Samhain, 30 октября 2016
 
@@ -433,9 +440,11 @@ Oasis - Stay Young
 .Steeleye Span - The Blacksmith
 image:STEELEYE SPAN/Steeleye Span - Hark The Village Wait/Folder.jpg[Hark The Village Wait,200,200,role="thumb left"]
 
+.Richard Thompson - I Still Dream
+image:RICHARD THOMPSON/1988 - Amnesia/cover.jpg[Amnesia,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gryphon - Unquiet Grave
-Richard Thompson - I Still Dream
 Chris Wood - Hard
 Shirley & Dolly Collins - Just As The Tide Was Flowing
 Martin Carthy - And A Begging I Will
