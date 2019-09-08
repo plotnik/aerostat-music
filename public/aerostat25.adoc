@@ -461,6 +461,12 @@ Ruth Notman - Still I Love Him
 .R.E.M. - link:REM/REM%20-%20Document/lyrics/document.html#_disturbance_at_the_heron_house[Disturbance At The Heron House]
 image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
 
+.Jethro Tull - Hunting Girl
+image:JETHRO TULL/1977  Songs From The Wood/cover.jpg[1977  Songs From The Wood,200,200,role="thumb left"]
+
+.Van Morrison - Memory Lane
+image:VAN MORRISON/2016 - Keep Me Singing/Folder.jpg[Keep Me Singing,200,200,role="thumb left"]
+
 [%hardbreaks]
 Hollies - Signs That Never Change
 Handel - Corgan Oncerto #8. Overture
@@ -468,10 +474,11 @@ Roger McGuinn - Let The Road Rise Up To Meet You
 Rod Stewart - Angel
 Hemant Kumar - Sansar Jabey Mon Kere Loy
 J.S.Bach - French Suite #6. Allemande
-Jethro Tull - Hunting Girl
-Van Morrison - Memory Lane
 ELO - One Day
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Октября, 16 октября 2016
 
@@ -500,21 +507,39 @@ Green Day - Revolution Radio
 
 <http://www.aquarium.ru/misc/aerostat/aerostat595.html>
 
+.Beatles - Help!
+image:THE BEATLES/The Beatles - Help!/front.jpg[Help!,200,200,role="thumb left"]
+
+.Beatles - I'm So Tired
+image:THE BEATLES/The Beatles - White Album CD 1/cover.jpg[White Album CD 1,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_and_your_bird_can_sing[And Your Bird Can Sing]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
+.Beatles - Being For The Benefit Of Mr Kite
+image:THE BEATLES/1967a - Sgt Peppers Lonely Hearts Club Band/cover.jpg[Sgt Peppers Lonely Hearts Club Band,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Beatles - Nowhere Man
+image:THE BEATLES/1965b - Rubber Soul/cover.jpg[Rubber Soul,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles - Help!
-Beatles - I'm So Tired
 Beatles - It's Only Love
-Beatles - And Your Bird Can Fly
 Beatles - You're Going To Lose That Girl
 Beatles - No Reply
-Beatles - Being For The Benefit Of Mr Kite
 Beatles - Happiness Is A Warm Gun
 Beatles - In My Life
 Beatles - Sexy Sadie
 Beatles - I'm Only Sleeping
 John Lennon - Look At Me
 Beatles - She Said She Said
-Beatles - Nowhere Man
+
+++++
+<br clear="both">
+++++
 
 === Gene Clark, 2 октября 2016
 
@@ -542,9 +567,11 @@ image:King Creosote/King Creosote 2016 - Astronaut Meets Appleman/cover.jpg[Astr
 .Of Montreal - My Fair Lady
 image:Of Montreal - Innocence Reaches/Folder.jpg[Innocence Reaches,200,200,role="thumb left"]
 
+.Van Morrison - Too Late
+image:VAN MORRISON/2016 - Keep Me Singing/Folder.jpg[Keep Me Singing,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gonjasufi - Krishna Punk
-Van Morrison - Too Late
 Pixies - Tenement Song
 Bell X1 - Upswing
 Сплин - Окраины
