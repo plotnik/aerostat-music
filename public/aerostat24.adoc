@@ -112,8 +112,10 @@ Pauline Scanlon - The Poorest Company
 
 <http://www.aquarium.ru/misc/aerostat/aerostat583.html>
 
+.Super Furry Animals - Helium Hearts
+image:Super Furry Animails - Dark Days-Light Years/cover.jpg[Dark Days-Light Years,200,200,role="thumb left"]
+
 [%hardbreaks]
-Super Furry Animals - Helium Hearts
 Dandy Warhols - Bohemian Like You
 Le Femme - Sphynx
 Texas Tornados - Who Were You Thinkin'
