@@ -172,14 +172,20 @@ Red Hot Chili Peppers - Detroit
 .King Creosote - Helpless To Turn
 image:King Creosote/2016 - with Michael Johnston - The Bound Of The Red Deer/folder.jpg[The Bound Of The Red Deer,200,200,role="thumb left"]
 
+.Richard Ashcroft - This Is How It Feels
+image:Richard Ashcroft - These People/Richard Ashcroft - These  People.jpg[These People,200,200,role="thumb left"]
+
 [%hardbreaks]
-Richard Ashcroft - This Is How It Feels
 Christie Moore - Mandolin Mountain
 Beck - Wow
 Clayton Lennon Delirium - Cricket & The Genie
 Afrocelt Sound System - Cascade
 Аукцыон - Луна Упала
 Paul McCartney - Wild And Beautiful
+
+++++
+<br clear="both">
+++++
 
 === Paul Simon - "Stranger To Stranger", 19 июня 2016
 
