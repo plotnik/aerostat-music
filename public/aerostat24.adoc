@@ -250,17 +250,26 @@ King Gizzard & The Lizard Wizard - Bone
 
 <http://www.aquarium.ru/misc/aerostat/aerostat576.html>
 
+.Paul McCartney - Blue Jean Babe
+image:PAUL MCCARTNEY/1999 - Run Devil Run/cover.jpg[Run Devil Run,200,200,role="thumb left"]
+
+.Tom Waits - Mr. Siegal
+image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
+
+.George Harrison - Life Itself
+image:GEORGE HARRISON/George Harrison - Somewhere In England/cover.jpg[Somewhere In England,200,200,role="thumb left"]
+
 [%hardbreaks]
-Paul McCartney - Blue Jean Babe
 Alap Desai - Dhooni Re Dhakhavi
 UB40 - Bring Me Your Cup
 Mike Oldfield - Wonderful Land
-Tom Waits - Mr. Siegal
 Handel - Organ Concerto #8, 2
 Ustad Shujaat Khan - Benares
-George Harrison - Life Itself
 Paul McCartney - With A Little Luck
 
+++++
+<br clear="both">
+++++
 
 === Cнег На Голову или Новые Песни Мая, 22 мая 2016
 
@@ -269,11 +278,13 @@ Paul McCartney - With A Little Luck
 .Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html#_cool_papa_bell[Cool Papa Bell]
 image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Stranger,200,200,role="thumb left"]
 
+.Radiohead - Daydreaming
+image:RADIOHEAD/Radiohead 2016 - A Moon Shaped Pool/Folder.jpg[A Moon Shaped Pool,200,200,role="thumb left"]
+
 [%hardbreaks]
 Red Hot Chili Peppers - Dark Necessities
 Monkees - She Makes Me Laugh
 9bach - Llyn Du
-Radiohead - Daydreaming
 Optimystica Оrchestra - Долго До Праздника
 Аквариум - Весна На Заречной Улице
 Stone Roses - All For One
