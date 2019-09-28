@@ -232,9 +232,11 @@ Bob Dylan - Absolutely Sweet Marie
 .King Gizzard & The Lizard Wizard- Papier Mache Dream Balloon
 image:KING GIZZARD & THE LIZARD WIZARD/2015 - Paper Mache Dream Balloon/front.jpg[Paper Mache Dream Balloon,200,200,role="thumb left"]
 
+.Dead Can Dance - Black Sun
+image:DEAD CAN DANCE/1990 Aion/cover.jpg[1990 Aion,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tame Impala - Disciples
-Dead Can Dance - Black Sun
 Midnight Oil - Beds Are Burning
 Dennis Gibbons - Waltzing Matilda
 Frank Ifield - She Taught Me How To Yode
@@ -259,13 +261,23 @@ image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And 
 .George Harrison - Life Itself
 image:GEORGE HARRISON/George Harrison - Somewhere In England/cover.jpg[Somewhere In England,200,200,role="thumb left"]
 
+.UB40 - Bring Me Your Cup
+image:UB40 - Promises and Lies/folder.jpg[Promises and Lies,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Paul McCartney - With A Little Luck
+image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
+
+.Mike Oldfield - Wonderful Land
+image:Mike Oldfield - Essential Collection - 2019/front.jpg[Essential Collection - 2019,200,200,role="thumb left"]
+
 [%hardbreaks]
 Alap Desai - Dhooni Re Dhakhavi
-UB40 - Bring Me Your Cup
-Mike Oldfield - Wonderful Land
 Handel - Organ Concerto #8, 2
 Ustad Shujaat Khan - Benares
-Paul McCartney - With A Little Luck
 
 ++++
 <br clear="both">
@@ -288,6 +300,10 @@ Monkees - She Makes Me Laugh
 Optimystica Оrchestra - Долго До Праздника
 Аквариум - Весна На Заречной Улице
 Stone Roses - All For One
+
+++++
+<br clear="both">
+++++
 
 === Маленькие Альбомы (EP), 15 мая 2016
 
