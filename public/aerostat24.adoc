@@ -330,10 +330,12 @@ Clash - I Fought The Law
 
 <http://www.aquarium.ru/misc/aerostat/aerostat573.html>
 
+.Etta James - At Lasty
+image:Etta James - At Last!/cover.jpg[At Last!,200,200,role="thumb left"]
+
 [%hardbreaks]
 Elephants - Friendy
 Papa Wemba - Maria Valenciay
-Etta James - At Lasty
 MC5 - Tonighty
 Who - See My Wayy
 Os Mutantes - Panis Et Circencesy
