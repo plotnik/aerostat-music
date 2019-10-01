@@ -312,8 +312,13 @@ Stone Roses - All For One
 .Donovan - Universal Soldier
 image:DONOVAN/Donovan - Catch The Wind/cover.jpg[Catch The Wind,200,200,role="thumb left"]
 
+.Beatles - Long Tall Sally
+image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
+
+.Cocteau Twins - Quisquose
+image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 05 Aikea-Guinea/cover.jpg[05 Aikea-Guinea,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles - Long Tall Sally
 Rolling Stones - Around And Around
 Kinks - Till The End Of The Day
 Beatles - I Call Your Name
@@ -321,7 +326,6 @@ Pink Floyd - See Emily Play
 Buzzcocks - Boredom
 R.E.M. - Volves, Lower
 Pogues - The Body Of The American
-Cocteau Twins - Quisquose
 Аквариум - Собачий Вальс
 Clash - I Fought The Law
 
@@ -343,6 +347,9 @@ Killing Joke - Redy
 Afro Celt Sound System - When You're Fallingy
 Andy Williams - Can't Get Used To Losing You
 
+++++
+<br clear="both">
+++++
 
 === Пасха и Белтайн, 1 мая 2016
 
@@ -354,16 +361,27 @@ image:Christy Moore - Ordinary Man/cover.jpg[Ordinary Man,200,200,role="thumb le
 .Donovan - Lord Of The Dance
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
 
+.Maddy Prior - Christ The Lord Is Risen Today
+image:STEELEYE SPAN/1990 - Sing Lustily & With Good Courage/cover.png[Sing Lustily & With Good Courage,200,200,role="thumb left"]
+
+.Cat Stevens - Morning Has Broken
+image:CAT STEVENS/1971 - Teaser And The Firecat/Folder.jpg[Teaser And The Firecat,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Simeon Wood - Standing On The Rock
 Beatles - Eight Days A Week
-Maddy Prior - Christ The Lord Is Risen Today
-Cat Stevens - Morning Has Broken
 Craig Duncan - All Things Bright and Beautiful
 Chieftains - Hedigan's Fancy
 Maddy Prior - Light Of The World
 Our Daily Bread - A Mighty Fortress 
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни В Апреле, 24 апреля 2016
 
@@ -372,15 +390,28 @@ Our Daily Bread - A Mighty Fortress
 .Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html#_wristband[Wristband]
 image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Stranger,200,200,role="thumb left"]
 
+.Brian Eno - The Ship
+image:BRIAN ENO/Brian Eno 2016 - The Ship/folder.jpg[The Ship,200,200,role="thumb left"]
+
+.Eric Clapton - Can't Let You Do It
+image:Eric Clapton/2016 - I Still Do/folder.jpg[I Still Do,200,200,role="thumb left"]
+
+.PJ Harvey - The Community Of Hope
+image:PJ Harvey 2016 - The Hope Six Demolition Project/cover.jpg[The Hope Six Demolition Project,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Pet Shop Boys - The Pop Kids
-PJ Harvey - The Community Of Hope
 Mudcrutch - Trailer
-Eric Clapton - Can't Let You Do It
 Imarhan - Tahabort
-Brian Eno - The Ship
 Weezer - Good Thing
 
+++++
+<br clear="both">
+++++
 
 === Aftermath, 17 апреля 2016
 
