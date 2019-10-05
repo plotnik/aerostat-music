@@ -457,11 +457,19 @@ image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="
 .Red Hot Chili Peppers - By The Way
 image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - By the way/cover.jpg[By the way,200,200,role="thumb left"]
 
+.Talking Heads - Crosseyed And Painless
+image:Talking Heads - Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
+
+.T-Rex - King Of The Mountain Cometh
+image:T-REX/T-Rex - Electric Warrior/folder.jpg[Rex - Electric Warrior,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Traffic - Utterly Simple
 Free - The Highway Song
-T.Rex - King Of The Mountain Cometh
-Talking Heads - Crosseyed And Painless
 
 ++++
 <br clear="both">
@@ -471,10 +479,12 @@ Talking Heads - Crosseyed And Painless
 
 <http://www.aquarium.ru/misc/aerostat/aerostat568.html>
 
+.Kimmo Pohjonen - Anemone
+image:Kimmo Pohjonen - Sensitive Skin (2015)/cover.jpg[Sensitive Skin (2015),200,200,role="thumb left"]
+
 [%hardbreaks]
 Coral - She Runs The River
 Steve Forbert - Oh So Close (And Yet)
-Kimmo Pohjonen - Anemone
 McCoy Tyner - Satin Doll
 Indila - Derniere Dance
 Robert Pollard - My Daughter Yes She Knows
@@ -486,15 +496,21 @@ The Matshikos - New South Africa
 
 <http://www.aquarium.ru/misc/aerostat/aerostat567.html>
 
+.Doors - Spanish Caravan
+image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
+
+.Don McLean - On The Amazon
+image:Don McLean 1972 - Don McLean/cover.png[Don McLean,200,200,role="thumb left"]
+
+.Jefferson Airplane - Somebody To Love
+image:Jefferson Airplane - Surrealistic Pillow/front.jpg[Surrealistic Pillow,200,200,role="thumb left"]
+
 [%hardbreaks]
-Don McLean - On The Amazon
 Eagles - Take It Easy
-Jefferson Airplane - Somebody To Love
 Elgar - Salut D'amour
 Who - Someone's Coming
 Emitt Rhodes - Somebody Made For Me
 Belle & Sebastian - Take Your Carriage Clock And Shove It
-Doors - Spanish Caravan
 Loreena McKennitt - Marco Polo
 Queen - Dear Friends
 Bhajans - Shirdi Sai
@@ -504,12 +520,14 @@ Bhajans - Shirdi Sai
 
 <http://www.aquarium.ru/misc/aerostat/aerostat566.html>
 
+.Tom Waits - The Soul Of A Man
+image:TOM WAITS/God Dont Never Change - The Songs Of Blind Willie Johnson/Cover.jpg[The Songs Of Blind Willie Johnson,200,200,role="thumb left"]
+
 [%hardbreaks]
 Аквариум - Собачий Вальс
 Аквариум - Пыль
 Аквариум - Песни Нелюбимых
 Blind Willie Johnson - Dark Was The Night
-Tom Waits - The Soul Of A Man
 Sinead O'Connor - Trouble Will Soon
 Iggy Pop - Break Into Your Heart
 Rokia Traore - Tu Voles
