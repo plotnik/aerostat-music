@@ -16,5 +16,15 @@ image:Bob%20Dylan%202001%20-%20Love%20And%20Theft/cover.jpg[Love And Theft,200,2
 <br clear="both">
 ++++
 
+.link:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/lyrics/highway.html[1965 - Highway 61 Revisited]
+image:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/cover.jpg[Highway 61 Revisited,200,200,role="thumb left"]
+
+.link:2006%20-%20Modern%20Times/lyrics/modern.html[2006 - Modern Times]
+image:2006%20-%20Modern%20Times/cover.jpg[Modern Times,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 From: http://www.azlyrics.com/d/dylan.html
 

@@ -141,6 +141,9 @@ image:BOB DYLAN/Bob Dylan 1963 - The Freewheelin' Bob Dylan/cover.jpg[The Freewh
 .Donovan - Universal Soldier
 image:DONOVAN/Donovan - Catch The Wind/cover.jpg[Catch The Wind,200,200,role="thumb left"]
 
+.Joan Baez - There But For Fortune
+image:Joan Baez 1998 - Joan Baez/cover.jpg[Joan Baez,200,200,role="thumb left"]
+
 [%hardbreaks]
 Buffalo Springfield - For What It's
 Rolling Stones - Street Fightin Man
@@ -148,7 +151,6 @@ Steppenwolf - Monster
 Barry Mcguire - Eve Of Destruction
 Neil Young - Ohio
 Jefferson Airplane - Crown Of Creation
-Joan Baez - There But For Fortune
 Byrds - Turn Turn Turn
 Creedence Clearwater Revival - Who'll Stop The Rain
 
@@ -185,10 +187,12 @@ Billy Gibbons - Treat Her Right
 
 <http://aquarium.ru/misc/aerostat/aerostat554.html>
 
+.Bob Dylan - Spirit On The Water
+image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
+
 [%hardbreaks]
 Boys Of The Lough - Stella's Trip
 The Ink Spots - I Don't Want to Set the World on Fire
-Bob Dylan - Spirit On The Water
 Grateful Dead - Sugar Magnolia 
 Bruce Springsteen - Tougher Than The Rest
 Elliot Smith - Say Yes
