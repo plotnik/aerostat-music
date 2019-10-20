@@ -190,15 +190,29 @@ Billy Gibbons - Treat Her Right
 .Bob Dylan - Spirit On The Water
 image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
 
+.Grateful Dead - Sugar Magnolia 
+image:GRATEFUL DEAD/1970 - American Beauty/Folder.jpg[American Beauty,200,200,role="thumb left"]
+
+.Elliot Smith - Say Yes
+image:ELLIOTT SMITH/Either-Or/cover.jpg[Or,200,200,role="thumb left"]
+
+.Beck - Nobody's Fault But Mine 
+image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Boys Of The Lough - Stella's Trip
 The Ink Spots - I Don't Want to Set the World on Fire
-Grateful Dead - Sugar Magnolia 
 Bruce Springsteen - Tougher Than The Rest
-Elliot Smith - Say Yes
 Archie Fisher - Waltz Into Winter
-Beck - Nobody's Fault But Mine 
 Rod Stewart - Love And Be Loved
+
+++++
+<br clear="both">
+++++
 
 === Стихи под Рождество, 20 декабря 2015
 

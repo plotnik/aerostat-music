@@ -337,7 +337,7 @@ image:DIVINE COMEDY/2010 - Bang Goes The Knighthood/cover.jpg[Bang Goes The Knig
 ++++
 
 .Elliot Smith - Waltz #2
-image:Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
+image:ELLIOTT SMITH/Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
 
 .Peter Gabriel - The Book of Love
 image:PETER GABRIEL/2010 - Scratch My Back/cover.jpg[Scratch My Back,200,200,role="thumb left"]

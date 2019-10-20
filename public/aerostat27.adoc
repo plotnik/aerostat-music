@@ -196,10 +196,10 @@ Soho Rezanejad - December Song
 <https://aerostatica.ru/2018/02/04/664-elliott-smith/>
 
 .Elliott Smith - Baby Britain
-image:Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
+image:ELLIOTT SMITH/Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
 
 .Elliott Smith - Can’t Make A Sound
-image:Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
 
 [%hardbreaks]
 Elliott Smith - A Fond Farewell
@@ -290,7 +290,7 @@ Snarky Puppy - Tarova
 <https://aerostatica.ru/2018/01/07/660-pritchi/>
 
 .Elliott Smith - I Better Be Quiet Now
-image:Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
 
 .Lovin’ Spoonful - Coconut Grove
 image:Lovin Spoonful - Hums of the Lovin' Spoonful/cover.jpg[Hums of the Lovin' Spoonful,200,200,role="thumb left"]
@@ -367,7 +367,7 @@ Keith Emerson - Snowman’s Land
 image:King Creosote/King Creosote 2011 - Diamond Mine/Front.jpg[Diamond Mine,200,200,role="thumb left"]
 
 .Elliott Smith - I Better Be Quiet Now
-image:Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
 
 [%hardbreaks]
 Ustad Mehdi Hassan - Heer In Raga Bhairavi
