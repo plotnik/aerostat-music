@@ -187,7 +187,7 @@ Billy Gibbons - Treat Her Right
 
 <http://aquarium.ru/misc/aerostat/aerostat554.html>
 
-.Bob Dylan - Spirit On The Water
+.Bob Dylan - link:BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html#_spirit_on_the_water[Spirit On The Water]
 image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
 
 .Grateful Dead - Sugar Magnolia 
@@ -337,10 +337,12 @@ Rod Stewart - Hold The Line
 
 <http://aquarium.ru/misc/aerostat/aerostat546.html>
 
+.Battlefield Band - 5 Mile Chase 
+image:Battlefield Band - Beg & Borrow/cover.jpg[Beg & Borrow,200,200,role="thumb left"]
+
 [%hardbreaks]
 Whistlebinkies - Ceilidh Lines 
 Lunasa - The Walrus 
-Battlefield Band - 5 Mile Chase 
 Archie Fisher - Lord Of the May 
 Andy M. Stewart - Parish Of Dunkeld 
 Seamus Begley - Taimse Im Chodladh 
