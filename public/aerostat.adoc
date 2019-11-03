@@ -369,7 +369,7 @@ Thelonius Monk - Well, You Needn't
 
 <http://www.radiorus.ru/brand/57083/episode/2173518>
 
-.Divine Comedy - Queuejumper
+.Divine Comedy - link:DIVINE%20COMEDY/2019%20-%20Office%20Politics%20(Deluxe)/lyrics/office.html#_queuejumper[Queuejumper]
 image:DIVINE COMEDY/2019 - Office Politics (Deluxe)/cover.png[Office Politics (Deluxe),200,200,role="thumb left"]
 
 [%hardbreaks]

@@ -6,6 +6,9 @@ image:2016%20-%20Foreverland/Cover.jpg[Foreverland,200,200,role="thumb left"]
 .link:2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[Bang Goes The Knighthood]
 image:2010%20-%20Bang%20Goes%20The%20Knighthood/cover.jpg[Bang Goes The Knighthood,200,200,role="thumb left"]
 
+.link:2019%20-%20Office%20Politics%20(Deluxe)/lyrics/office.html[Office Politics]
+image:2019%20-%20Office%20Politics%20(Deluxe)/cover.png[Office Politics,200,200,role="thumb left"]
+
 ++++
 <br clear="both">
 ++++

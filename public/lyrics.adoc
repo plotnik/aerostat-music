@@ -18,6 +18,7 @@
 - link:./David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html[David Byrne - American Utopia]
 - link:./DIVINE%20COMEDY/2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[DIVINE COMEDY/2010 - Bang Goes The Knighthood]
 - link:./DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html[DIVINE COMEDY/2016 - Foreverland]
+- link:./DIVINE%20COMEDY/2019%20-%20Office%20Politics%20(Deluxe)/lyrics/office.html[DIVINE COMEDY/2019 - Office Politics (Deluxe)]
 - link:./DIVINE%20COMEDY/links.html[DIVINE COMEDY]
 - link:./Don%20McLean%20-%20American%20Pie/lyrics/mclean.html[Don McLean - American Pie]
 - link:./DONOVAN/Donovan%20-%20Beat%20Cafe/lyrics/beat.html[DONOVAN/Donovan - Beat Cafe]
