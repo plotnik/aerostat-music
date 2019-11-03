@@ -335,23 +335,44 @@ Free - Travellin In Style
 
 <http://www.radiorus.ru/brand/57083/episode/2175601>
 
+.Thelonius Monk - Light Blue
+image:Thelonius Monk/05 1958-Thelonious In Action/cover.jpg[Thelonious In Action,200,200,role="thumb left"]
+
+.Thelonius Monk - Just A Gigolo
+image:Thelonius Monk/1958 - Misterioso/Folder.jpg[Misterioso,200,200,role="thumb left"]
+
+.Thelonius Monk - Bemsha Swing
+image:Thelonius Monk/02 1956-Brilliant Corners/cover.jpg[Brilliant Corners,200,200,role="thumb left"]
+
+.Thelonius Monk - Ruby My Dear
+image:Thelonius Monk/08-Monks Classic Recordings (1983)/cover.jpg[Monks Classic Recordings (1983),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Thelonius Monk - Round Midnight
+image:Thelonius Monk/01-Mulligan Meets Monk (1957)/cover.jpg[Mulligan Meets Monk (1957),200,200,role="thumb left"]
+
+.Thelonius Monk - Crepuscule With Nellie
+image:Thelonius Monk/04 1957-Monks Music/cover.jpg[Monks Music,200,200,role="thumb left"]
+
 [%hardbreaks]
-Thelonius Monk - Light Blue
 Thelonius Monk - Blue Monk
-Thelonius Monk - Just A Gigolo
-Thelonius Monk - Bemsha Swing
-Thelonius Monk - Ruby My Dear
-Thelonius Monk - Round Midnight
-Thelonius Monk - Crepuscule With Nellie
 Thelonius Monk - Well, You Needn't
 
+++++
+<br clear="both">
+++++
 
 === Новые песни июня, 2 июня 2019
 
 <http://www.radiorus.ru/brand/57083/episode/2173518>
 
+.Divine Comedy - Queuejumper
+image:DIVINE COMEDY/2019 - Office Politics (Deluxe)/cover.png[Office Politics (Deluxe),200,200,role="thumb left"]
+
 [%hardbreaks]
-Divine Comedy - Queuejumper
 Richard Hawley - Alone
 Eliza Carthy - Friendship
 Santana - Breaking Down The Door
@@ -404,6 +425,10 @@ Mick Jagger - Evening Gown
 
 <http://www.radiorus.ru/brand/57083/episode/2167507>
 
+////
+<http://aquarium.ru/misc/aerostat/aerostat729.html>
+////
+
 [%hardbreaks]
 Black Keys - Eagle Birds
 Steel Pulse - Cry Cry Blood
@@ -418,6 +443,10 @@ Stray Cats - Rock It Off
 === Beltain Flook - 2019, 28 апреля 2019
 
 <https://aerostatica.ru/2019/04/28/728-beltain-flook-2019/>
+
+////
+<http://aquarium.ru/misc/aerostat/aerostat728.html>
+////
 
 .Flook - Lalabee/Jig For Simon
 image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
