@@ -67,12 +67,14 @@ Super Furry Animals - Juxtapozed With U
 
 <https://www.radiorus.ru/brand/57083/episode/2205467>
 
+.Thelonius Monk - Ruby My Dear
+image:Thelonius Monk/Thelonious Monk - Monk Alone (CD 2)/cover.jpg[Monk Alone (CD 2),200,200,role="thumb left"]
+
 [%hardbreaks]
 Chet Baker - Lets Get Lost
 Sidney Bechet - Summertime
 Albert Ammons - Boogie Woogie Blues
 Horace Silver - Que Pasa (Trio Version)
-Thelonius Monk - Ruby My Dear
 Sonny Rollins - Tune Up
 Herbie Hancock - Maiden Voyage
 Jimmy Smith - Back At The Chicken Shack

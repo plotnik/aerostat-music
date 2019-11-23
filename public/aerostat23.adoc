@@ -340,31 +340,45 @@ Rod Stewart - Hold The Line
 .Battlefield Band - 5 Mile Chase 
 image:Battlefield Band - Beg & Borrow/cover.jpg[Beg & Borrow,200,200,role="thumb left"]
 
+.Andy M. Stewart - Parish Of Dunkeld 
+image:Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
+
 [%hardbreaks]
 Whistlebinkies - Ceilidh Lines 
 Lunasa - The Walrus 
 Archie Fisher - Lord Of the May 
-Andy M. Stewart - Parish Of Dunkeld 
 Seamus Begley - Taimse Im Chodladh 
 De Danann - My Baby Need A Shepherd 
 Shooglenifty - Fitzroy Crossing 
 Tannahill Weavers - Roddie MacDonald's Favourite
 
+++++
+<br clear="both">
+++++
+
 === Стихи Поля Элюара, 25 октября 2015
 
 <http://aquarium.ru/misc/aerostat/aerostat545.html>
+
+.Leonard Cohen - If It Be Your Will 
+image:LEONARD COHEN/07-Various Positions (1984)/cover.jpg[Various Positions (1984),200,200,role="thumb left"]
+
+.Lambchop - Is A Woman
+image:LAMBCHOP/2002 - Is A Woman/Folder.jpg[Is A Woman,200,200,role="thumb left"]
 
 [%hardbreaks]
 Hesperus - Cary Owen 
 Dragostin Folk - Hey You White Ned 
 Afrocubism - Nima Diyala 
 Jacques Brel - La Chanson Des Vieux 
-Leonard Cohen - If It Be Your Will 
 Franz Benda - Flute Sonata E Min, 3 
 Free - Come Together In The Morning 
 Dechen Shak-Dagsay - Namgyel Ma
 Faure - Dolly: Tendresse 
-Lambchop - Is A Woman
+
+++++
+<br clear="both">
+++++
 
 === Новости Октября, 18 октября 2015
 
@@ -376,10 +390,18 @@ image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,ro
 .Decemberists - What Would I Now? 
 image:THE DECEMBERISTS/The Decemberists - Florasongs/florasongs.png[Florasongs,200,200,role="thumb left"]
 
+.Jeff Lynne's Elo - When I Was A Boy
+image:Electric Light Orchestra/2015 - Alone In The Universe/Front.jpg[Alone In The Universe,200,200,role="thumb left"]
+
+.John Grant - Disappointing
+image:John Grant - Grey Tickles Black Pressure/cover.png[Grey Tickles Black Pressure,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Jeff Lynne's Elo - When I Was A Boy
 London Souls - Someday
-John Grant - Disappointing
 Buddy Guy - Whiskey, Beer & Wine
 Billy Gibbons - Got Love If You Want It
 Gurrumul - Marwurrunburr
