@@ -411,11 +411,13 @@ Faces - You Can Make Me Dance
 
 <http://aquarium.ru/misc/aerostat/aerostat543.html>
 
+.Beck - Chain Reaction
+image:BECK/Guero/cover.jpg[Guero,200,200,role="thumb left"]
+
 [%hardbreaks]
 Kathmandu Music - 25 Pioneers
 Andy M. Stewart - They Wounded Old Ireland
 Family - Burning Bridges
-Beck - Chain Reaction
 Procol Harum - Nothing That I Didn't Know
 Jethro Tull - Weathercock
 Dead Can Dance - The End Of Words
