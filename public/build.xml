@@ -5,13 +5,15 @@
 	<property name="destNetlify" value="../Документы/netlify/aerostat-music/public"/>
 
 
-    <target name="cc">
+    <target name="cc"
+            description="Пройти по каталогу альбомов COWON и создать список альбомов с указанием размера папки">
 		<exec executable="groovy" >
 		  <arg line="cowon.groovy"/>
 		</exec>
     </target>
     
-    <target name="lyrics">
+    <target name="lyrics"
+            description="Собрать ссылки на тексты песен в один файл Asciidoctor">
 		<exec executable="groovy" >
 		  <arg line="lyrics.groovy"/>
 		</exec>

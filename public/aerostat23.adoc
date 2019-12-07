@@ -341,7 +341,7 @@ Rod Stewart - Hold The Line
 image:Battlefield Band - Beg & Borrow/cover.jpg[Beg & Borrow,200,200,role="thumb left"]
 
 .Andy M. Stewart - Parish Of Dunkeld 
-image:Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
+image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
 
 [%hardbreaks]
 Whistlebinkies - Ceilidh Lines 
@@ -414,15 +414,33 @@ Faces - You Can Make Me Dance
 .Beck - Chain Reaction
 image:BECK/Guero/cover.jpg[Guero,200,200,role="thumb left"]
 
+.Andy M. Stewart - They Wounded Old Ireland
+image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
+
+.Jethro Tull - Weathercock
+image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+.Procol Harum - Nothing That I Didn't Know
+image:PROCOL HARUM/04-Home (1970)/cover.jpg[Home (1970),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Dead Can Dance - The End Of Words
+image:DEAD CAN DANCE/1990 Aion/cover.jpg[1990 Aion,200,200,role="thumb left"]
+
+.Richard Thompson - Shine On Love
+image:RICHARD THOMPSON/Across a Crowded Room/cover.jpg[Across a Crowded Room,200,200,role="thumb left"]
+
 [%hardbreaks]
 Kathmandu Music - 25 Pioneers
-Andy M. Stewart - They Wounded Old Ireland
 Family - Burning Bridges
-Procol Harum - Nothing That I Didn't Know
-Jethro Tull - Weathercock
-Dead Can Dance - The End Of Words
 Arthada & Friends - Charan Tale
-Richard Thompson - Shine On Love
+
+++++
+<br clear="both">
+++++
 
 === Стихи Алена Боскэ, 4 октября 2015
 

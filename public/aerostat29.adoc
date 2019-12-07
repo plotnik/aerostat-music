@@ -138,7 +138,7 @@ image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb l
 image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
 
 .Andy M. Stewart - Macgregor’s Gathering
-image:Andy M Stewart - Man In The Moon/cover.jpg[Man In The Moon,200,200,role="thumb left"]
+image:ANDY STEWART/Andy M Stewart - Man In The Moon/cover.jpg[Man In The Moon,200,200,role="thumb left"]
 
 [%hardbreaks]
 Orlando di Lasso - Tristis Est Anima Mea
