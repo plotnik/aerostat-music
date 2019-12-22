@@ -446,21 +446,37 @@ Arthada & Friends - Charan Tale
 
 <http://aquarium.ru/misc/aerostat/aerostat542.html>
 
+.Cardigans - Travels With Charley
+image:The Cardigans - Life/cover.jpg[Life,200,200,role="thumb left"]
+
+.Brian Wilson - Somewhere Quiet
+image:Brian Wilson - No Pier Pressure (Deluxe Edition)/cover.jpg[No Pier Pressure,200,200,role="thumb left"]
+
+.Beatles - And I Love Her
+image:THE BEATLES/1964a - A Hard Days Night/cover.jpg[A Hard Days Night,200,200,role="thumb left"]
+
 [%hardbreaks]
 Calliope Music - Smiles
 Cannonball Adderley - Corcovado 
-Cardigans - Travels With Charley
 Cat Stevens - Sun/C79
-Brian Wilson - Somewhere Quiet
 Cocteau Twins - Fluffy Tuffs
 Teleman - Recorder Sonata C Maj
 Djivan Gasparian - Chiarescuroed
 Bhajan Singers - Nam Dhare 
-Beatles - And I Love Her
+
+++++
+<br clear="both">
+++++
 
 === Еще Немного Нового , 27 сентября 2015
 
 <http://aquarium.ru/misc/aerostat/aerostat541.html>
+
+.Small Faces - Ichickoo Park
+image:The Small Faces - Ultimate Collection/cover.jpg[Ultimate Collection,200,200,role="thumb left"]
+
+.Amy Winehouse - Valerie 
+image:AMY WINEHOUSE/Lioness-Hidden Treasures/FOLDER.jpg[Hidden Treasures,200,200,role="thumb left"]
 
 [%hardbreaks]
 Beach House - Sparks 
@@ -469,25 +485,37 @@ Rory Gallagher - Bad Penny
 Beverley Sisters - The Young Cavalier 
 Jaga Jazzist - Starfire 
 Gully Bop - My God Dem Nuh Bad Like Me 
-Amy Whitehouse - Valerie 
 Paul McCartney Etc - Love Song To Earth 
-Small Faces - Ichickoo Park
+
+++++
+<br clear="both">
+++++
 
 === Молчание - золото, 20 сентября 2015
 
 <http://aquarium.ru/misc/aerostat/aerostat540.html>
+
+.King Creosote - Something To Believe In
+image:King Creosote/King Creosote 2014 - From Scotland With Love/cover.jpg[From Scotland With Love,200,200,role="thumb left"]
+
+.Blondie - Dreaming
+image:Blondie - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
+
+.Bob Dylan - Gates Of Eden
+image:BOB DYLAN/Bob Dylan 1965 - Bringing It All Back Home/cover.jpg[Bringing It All Back Home,200,200,role="thumb left"]
 
 [%hardbreaks]
 Tremeloes - Silence Is Golden
 Alan Price - Poor People
 Peter Gabriel - Home Sweet Home
 Free - Only My Soul
-Blondie - Dreaming
 Handel - Organ Concerto #8: Ouverture
-King Creosote - Something To Believe In
 David Gilmour - Today
 Motorhead - Evil Eye
-Bob Dylan - Gates Of Eden
+
+++++
+<br clear="both">
+++++
 
 === Еще Новые Песни Сентября, 13 сентября 2015
 
@@ -525,13 +553,15 @@ Black - Good Liar
 
 <http://aquarium.ru/misc/aerostat/aerostat537.html>
 
+.T-Rex - Mystic Lady
+image:T-REX/T-Rex - The Slider/cover.jpg[Rex - The Slider,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jeff Lynne - Junk
 Rolling Stones - Cool Calm Collected
 Zombies - Beechwood Park
 Grateful Dead - Touch Of Grey
 Jethro Tull - Down At The End Of Yr Road
-T.Rex - Mystic Lady
 Red Hot Chili Peppers - Love Of Your Life
 Sandy Denny - Until The Real Thing Come
 Rolling Stones - Something Happened To Me Yesterday
