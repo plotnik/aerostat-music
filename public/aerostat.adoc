@@ -100,16 +100,34 @@ Liam Gallagher - Once
 
 <https://www.radiorus.ru/brand/57083/episode/1321661>
 
+.Sufjan Stevens - Concerning The UFO
+image:SUFJAN STEVENS/Sufjan Stevens 2005 - Illinoise/Folder.jpg[Illinoise,200,200,role="thumb left"]
+
+.Mamas&Papas - Dancing Bear
+image:THE MAMAS AND THE PAPAS/The Mamas & The Papas - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
+
+.Electric Light Orchestra - Xanadu
+image:Electric Light Orchestra/08_Xanadu (1980)/cover.jpg[08_Xanadu (1980),200,200,role="thumb left"]
+
+.George Harrison - Unknown Delight
+image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Sinead O'Connor - The Lamb's Book of Life
+image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fat White Family - Whitest Boy On The Beach
 Love - Message To Pretty
-Mamas&Papas - Dancing Bear
-Sufjan Stevens - Concerning The UFO
-George Harrison - Unknown Delight
-Sinead O'Connor - The Lamb's Book of Life
 Page&Plant - Wonderful One
 Al Bowlly - Easy Come Easy Go
-Electric Light Orchestra - Xanadu
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Сентября, 8 сентября 2019
 
@@ -214,8 +232,10 @@ Belle&Sebastian - Sister Buddha
 
 <https://www.radiorus.ru/brand/57083/episode/2188154>
 
+.Kate Rusby - The Farmers Toast
+image:Kate Rusby - Philosophers Poets and Kings (2019)/cover.jpg[Philosophers Poets and Kings,200,200,role="thumb left"]
+
 [%hardbreaks]
-Kate Rusby - The Farmers Toast
 Kate Rusby - Bogie's Bonnie Bell
 Kate Rusby - The Squire And The Parson
 Kate Rusby - As The Lights Go Out

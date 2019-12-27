@@ -69,11 +69,13 @@ Magic - Rude
 
 <http://www.aquarium.ru/misc/aerostat/aerostat533.html>
 
+.John Surman - Dark Reflections
+image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
+
 [%hardbreaks]
 Derek Bell - Untitled Air/Colonel O'Hara
 Chieftains - Ag Taisteal Na Blarnan
 Alan Kelly Gang - Birdmaker
-John Surman - Dark Reflections
 Robin Williamson - Flowers Of The Forrest
 Chieftains - Green Grow The Rushes
 Gay McKeown - Bean Dubh A'ghleanna
@@ -161,13 +163,17 @@ Steely Dan - Aja
 
 <http://www.aquarium.ru/misc/aerostat/aerostat528.html>
 
+.Bob Dylan – Queen Jane Approximately
+image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
+
+.Elliot Smith – Everything Means Nothing To Me
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+
 [%hardbreaks]
 Paul Simon – Song About The Moon
 Стравинский – Pastorale:Chant Sans Paroles
 Beck – Dreams
-Elliot Smith – Everything Means Nothing To Me
 Malcolm Arnold - Inn Of 6th Happiness 2
-Bob Dylan – Queen Jane Approximately
 Pixies – Indie Cindy
 Terry Riley – Derveshum Carnivalis
 Gandalf – Love Is The Answer
@@ -177,6 +183,9 @@ Gandalf – Love Is The Answer
 
 <http://www.aquarium.ru/misc/aerostat/aerostat527.html>
 
+.Brian Wilson – The Right Time
+image:Brian Wilson - No Pier Pressure (Deluxe Edition)/cover.jpg[No Pier Pressure,200,200,role="thumb left"]
+
 [%hardbreaks]
 Grasscut – Radar
 Slaves – Cheer Up London
@@ -185,7 +194,6 @@ Bill Wyman – Stuff
 Tom Petty – Somewhere Under Heaven
 David Cross/Fripp – Fear Of Starlight
 Yo La Tengo – Deeper Into Movies
-Brian Wilson – The Right Time
 Motorhead – Thunder & Lightning
 Third Eye Blind – Everything Is Easy
 
@@ -194,11 +202,13 @@ Third Eye Blind – Everything Is Easy
 
 <http://www.aquarium.ru/misc/aerostat/aerostat526.html>
 
+.Leonard Cohen – Everybody Knows
+image:LEONARD COHEN/08-Im Your Man (1988)/cover.jpg[Im Your Man,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gordon Lightfoot – If You Could Read
 Guess Who – American Woman
 Joni Mitchell – Court And Spark
-Leonard Cohen – Everybody Knows
 Neil Young – Old Man
 Steppenwolf – Who Needs Ya
 Nickelback – Rockstar
