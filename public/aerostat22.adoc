@@ -256,13 +256,23 @@ Eric Burdon & The Animals – Anything
 .Donovan – Skip-A-Long Sam
 image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
 
+.David Bowie – Move On
+image:DAVID BOWIE/David Bowie - Lodger/cover.jpg[Lodger,200,200,role="thumb left"]
+
+.Robert Wyatt – Maryan
+image:ROBERT WYATT/Shleep/cover.png[Shleep,200,200,role="thumb left"]
+
+.Jethro Tull – Moths
+image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-David Bowie – Move On
 Mary Hopkin – Voyage Of The Moon
-Robert Wyatt – Maryan
 Tyrannosaurus Rex – Lofty Skies
 Family – No Mule's Fool
-Jethro Tull – Moths
 Grateful Dead – Ripple
 Cotton Mather – Heaven's Helping
 Beatles – P.S. I Love You
