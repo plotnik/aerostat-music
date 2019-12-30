@@ -269,15 +269,29 @@ image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role
 <br clear="both">
 ++++
 
+.Mary Hopkin – Voyage Of The Moon
+image:MARY HOPKIN/Mary Hopkin - Post Card/cover.jpg[Post Card,200,200,role="thumb left"]
+
+.Cotton Mather – Heaven's Helping
+image:COTTON MATHER/Cotton Mather 2010 - Innocent Street/cover.jpg[Innocent Street,200,200,role="thumb left"]
+
+.Tyrannosaurus Rex – Lofty Skies
+image:T-REX/T-Rex - A Beard Of Stars/cover.jpg[Rex - A Beard Of Stars,200,200,role="thumb left"]
+
+.Grateful Dead – Ripple
+image:GRATEFUL DEAD/1970 - American Beauty/Folder.jpg[American Beauty,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Mary Hopkin – Voyage Of The Moon
-Tyrannosaurus Rex – Lofty Skies
 Family – No Mule's Fool
-Grateful Dead – Ripple
-Cotton Mather – Heaven's Helping
 Beatles – P.S. I Love You
 
-
+++++
+<br clear="both">
+++++
 
 === Radio Silence, 17 мая 2015
 
