@@ -312,15 +312,25 @@ Beatles – P.S. I Love You
 
 <http://www.aquarium.ru/misc/aerostat/aerostat521.html>
 
+.Richard Thompson – Beatnik Walking
+image:RICHARD THOMPSON/Richard Thompson - Still/cover.jpg[Still,200,200,role="thumb left"]
+
+.Leonard Cohen – I Can't Forget
+image:LEONARD COHEN/08-Im Your Man (1988)/cover.jpg[Im Your Man,200,200,role="thumb left"]
+
+.East India Youth – Turn Away
+image:East India Youth 2015 - Culture Of Volume/cover.jpg[Culture Of Volume,200,200,role="thumb left"]
+
 [%hardbreaks]
-East India Youth – Turn Away
 Blur – Ghost Ship
 Django Django – Found You
 Weepies – Sirens
 Bassekou Kouyate – Siran Fen
-Richard Thompson – Beatnik Walking
-Leonard Cohen – I Can't Forget
 East India Youth – Carousel
+
+++++
+<br clear="both">
+++++
 
 === Белтайн, 3 мая 2015
 
