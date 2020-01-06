@@ -151,17 +151,39 @@ Angel Olson - New Love Cassette
 
 <http://www.radiorus.ru/brand/57083/episode/2217965>
 
+.Tom Waits - The Piano Has Been Drinking
+image:TOM WAITS/Tom Waits 1976 - Small Change/cover.jpg[Small Change,200,200,role="thumb left"]
+
+.Tom Waits - Downtown
+image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
+
+.Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_more_than_rain[More Than Rain]
+image:TOM WAITS/Tom Waits 1987 - Franks Wild Years/cover.jpg[Franks Wild Years,200,200,role="thumb left"]
+
+.Tom Waits - Underground
+image:TOM WAITS/Tom Waits 1983 - Swordfishtrombones/cover.jpg[Swordfishtrombones,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tom Waits - link:TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_anywhere_i_lay_my_head[Anywhere I Lay My Head]
+image:TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1/raindogs.png[Rain Dogs - part 1,200,200,role="thumb left"]
+
+.Tom Waits - Downtown Train
+image:TOM WAITS/1998 - Beautiful Maladies - part 1/cover.jpg[Beautiful Maladies - part 1,200,200,role="thumb left"]
+
+.Tom Waits - A Good Man Is Hard To Find
+image:TOM WAITS/2002 - Blood Money/cover.jpg[Blood Money,200,200,role="thumb left"]
+
 [%hardbreaks]
-Tom Waits - The Piano Has Been Drinking
-Tom Waits - Downtown
-Tom Waits - More Than Rain
 Tom Waits - Saving All My Love For You
-Tom Waits - Underground
-Tom Waits - Anywhere I Lay My Head
 Tom Waits - Blow Wind Blow
 Tom Waits - Big Black Maria
-Tom Waits - Downtown Train
-Tom Waits - A Good Man Is Hard To Find
+
+++++
+<br clear="both">
+++++
 
 === Samhain 2019, 3 ноября 2019
 
