@@ -336,6 +336,9 @@ East India Youth – Carousel
 
 <http://www.aquarium.ru/misc/aerostat/aerostat520.html>
 
+.Fairport Convention – Clear Water
+image:FAIRPORT CONVENTION/2015 - Myths and Heroes/mythsandheroes_mgcd053.jpg[Myths and Heroes,200,200,role="thumb left"]
+
 [%hardbreaks]
 Young Dubliners – Seeds Of Sorrow
 Bella Hardy – Good Man's Wife
@@ -344,15 +347,16 @@ Hanz Araki – Valentine O'Hara
 Spiers & Boden – Bold Sir Rylas
 Sam Lee – The Jew's Garden
 Fisherman's Friends – Sweet Maids Of Madeira
-Fairport Convention – Clear Water
 Fairport Convention – Fylde Mountain
 
 === Ритуал, 26 апреля 2015
 
 <http://www.aquarium.ru/misc/aerostat/aerostat519.html>
 
+.Pugwash – Answers On A Postcard
+image:Pugwash 2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
+
 [%hardbreaks]
-Pugwash – Answers On A Postcard
 Eminem – Kill You
 Elliot Smith – Morning After
 Emerson Lake & Palmer – C'est La Vie
@@ -383,11 +387,13 @@ Van Morrison – Get On With The Show
 
 <http://www.aquarium.ru/misc/aerostat/aerostat517.html>
 
+.REM. – At My Most Beatiful
+image:REM/REM - Live In Stockholm/cover.jpg[Live In Stockholm,200,200,role="thumb left"]
+
 [%hardbreaks]
 Junipers – Golden Fields In Golden Sun
 Lumiere – The Silver Tassie
 J. S. Bach – Partita #1.IV Sarabande
-R.E.M. – At My Most Beatiful
 Buxtehude – Fuga In G Maj
 Vetiver – Time Flies By
 George Harrison – Pisces Fish
