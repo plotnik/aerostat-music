@@ -135,10 +135,12 @@ Electric Light Orchestra - From Out Of Nowhere
 
 <http://www.radiorus.ru/brand/57083/episode/2220587>
 
+.Leonard Cohen - What Happened To The Heart
+image:LEONARD COHEN/2016 Thanks for the Dance/cover.png[2016 Thanks for the Dance,200,200,role="thumb left"]
+
 [%hardbreaks]
 The New York Renaissance Band - Le Triory De Bretaigne
 Ringo Starr - Grow Old With Me
-Leonard Cohen - What Happened To The Heart
 Winged Victory For The Sullen - The Haunted V Pencil
 Elbow - Dexter & Sinister
 Battles - Juice B Crypts
