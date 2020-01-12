@@ -392,37 +392,53 @@ Van Morrison – Get On With The Show
 .REM. – At My Most Beatiful
 image:REM/REM - Live In Stockholm/cover.jpg[Live In Stockholm,200,200,role="thumb left"]
 
+.George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html#_pisces_fish[Pisces Fish]
+image:GEORGE HARRISON/George Harrison - Brainwashed/cover.jpg[Brainwashed,200,200,role="thumb left"]
+
 [%hardbreaks]
 Junipers – Golden Fields In Golden Sun
 Lumiere – The Silver Tassie
 J. S. Bach – Partita #1.IV Sarabande
 Buxtehude – Fuga In G Maj
 Vetiver – Time Flies By
-George Harrison – Pisces Fish
 Looper – These Things
 Elgar – Chanson De Matin
 Eberg – No Need To Worry
+
+++++
+<br clear="both">
+++++
 
 === Что Я Слушаю, 5 апреля 2015
 
 <http://www.aquarium.ru/misc/aerostat/aerostat516.html>
 
+.Robert Wyatt – Alien
+image:ROBERT WYATT/Shleep/cover.png[Shleep,200,200,role="thumb left"]
+
+.Richard Thompson – Al Bowlly's In Heaven
+image:RICHARD THOMPSON/Daring Adventures/cover.jpg[Daring Adventures,200,200,role="thumb left"]
+
 [%hardbreaks]
-Robert Wyatt – Alien
 Robert Wyatt – A Sunday In Madrid
-Richard Thompson – Al Bowlly's In Heaven
 Hemanta Kumar – Sangsar Jabe Mon Kere
 Happy Traum – Sporting Life Blues
 John Surman – The Pilgrim's Way
 Jimi Hendrix – One Rainy Wish
 Herman's Hermits – It's Nice To Be Out 
 
+++++
+<br clear="both">
+++++
+
 === Позитивная Энергия, 29 марта 2015
 
 <http://www.aquarium.ru/misc/aerostat/aerostat515.html>
 
+.Paul McCartney – No More Lonely Nights
+image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
-Paul McCartney – No More Lonely Nights
 Catrin Finch/Seckou Keita – Ceffylau
 Cat Stevens – Another Saturday Night
 Robin Williamson – Woodcutter's Song
