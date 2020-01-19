@@ -453,6 +453,9 @@ Valerie Kimani – Sirudi Tena
 
 <http://www.aquarium.ru/misc/aerostat/aerostat514.html>
 
+.Sufjan Stevens – No Shade In The Shadow
+image:SUFJAN STEVENS/2015 - Carrie and Lowell/Folder.jpg[Carrie and Lowell,200,200,role="thumb left"]
+
 [%hardbreaks]
 Belle & Sebastian – The Cat With Cream
 Blur – Go Out
@@ -461,7 +464,6 @@ Songhoy Blues – Soubour
 Chilly Gonzales – Sweet Burden
 Mark Almond – When The Comet Comes
 Terrarium – Conduktor
-Sufjan Stevens – No Shade In The Shadow
 Seasick Steve – Bring It On
 
 
