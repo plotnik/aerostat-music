@@ -177,16 +177,26 @@ Bing Crosby – White Christmas
 
 <http://www.aquarium.ru/misc/aerostat/aerostat501.html>
 
+.Sun Kil Moon – Ben's My Friend
+image:Sun Kil Moon - The Best/sun_kil_moon.png[The Best,200,200,role="thumb left"]
+
+.Robert Plant – Up On The Hollow Hill
+image:ROBERT PLANT/2014 - Lullaby and the ceaseless roar/cover.jpg[Lullaby and the ceaseless roar,200,200,role="thumb left"]
+
+.Lana Del Rey – West Coast
+image:Lana Del Rey - Ultraviolence/folder.jpg[Ultraviolence,200,200,role="thumb left"]
+
 [%hardbreaks]
 War On Drugs – Red Eyes
 Eels – Lonely Lockdown Hurricane
-Sun Kil Moon – Ben's My Friend
 FKA Twigs – Two Weeks
 Hiss Golden Messenger – Lucia
 Leonard Cohen – My Oh My
-Lana Del Rey – West Coast
 Future Islands – Seasons (Waiting On You)
-Robert Plant – Up On The Hollow Hill
+
+++++
+<br clear="both">
+++++
 
 === О красоте и счастье, 14 декабря 2014
 
