@@ -68,13 +68,15 @@ Infected Mushroom - Bass Nipple
 
 <http://www.aquarium.ru/misc/aerostat/aerostat507.html>
 
+.James Vincent McMorrow - Gold
+image:James Vincent McMorrow - Post Tropical/cover.jpg[Post Tropical,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gaelic Storm - Slim Jim & The 7/11 Girl
 Alan Kelly's Gang - Lollie's Waltz
 Caoimhin O'Raghallaigh - What What What
 Talos - Tethered Bones
 I Have A Tribe - Monsoon
-James Vincent McMorrow - Gold
 Padraig Rynne - May's Smile
 John McSherry - The Wave Sweeper
 Lumiere - My Dearest Dear
@@ -144,12 +146,14 @@ Paul McCartney – Hope For The Future
 .Bob Dylan – I Dreamed I Saw St Augustine
 image:BOB DYLAN/Bob Dylan 1967 - John Wesley Harding/cover.jpg[John Wesley Harding,200,200,role="thumb left"]
 
+.Don McLean – Falling Through Time
+image:Don McLean 1972 - Don McLean/cover.png[Don McLean,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chris Wood – The Cottager's Reply
 Nic Jones – The Flandyke Shore
 John Martyn – Sweet Little Mystery
 Dick Gaughan – Bonnie Jeannie O'Betheln
-Don McLean – Falling Through Time
 Eliza Carthy/Norma Waterson – 5
 Bert Jansch – Black Water Side
 Archie Fisher – Lindsay
@@ -208,9 +212,11 @@ image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a
 .Cotton Mather – link:COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html#_my_before_and_after[My Before & After]
 image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
 
+.Beatles – Sexie Sadie
+image:THE BEATLES/The Beatles - White Album CD 2/cover.jpg[White Album CD 2,200,200,role="thumb left"]
+
 [%hardbreaks]
 Manfredini – Concerto Grosso In D, 1
-Beatles – Sexie Sadie
 King Crimson – Cadence & Cascade
 Tony Scott – Za Zen (Meditation)
 Procol Harum – Boredom

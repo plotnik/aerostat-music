@@ -12,14 +12,14 @@
 		</exec>
     </target>
     
-    <target name="lyrics"
+    <target name="ll"
             description="Собрать ссылки на тексты песен в один файл Asciidoctor">
 		<exec executable="groovy" >
 		  <arg line="lyrics.groovy"/>
 		</exec>
     </target>
 
-	<target name="aerostat" depends="lyrics"
+	<target name="aerostat"
 	        description="Copy changed files to Netlify folder">
         <copy todir="${destNetlify}">
             <fileset dir=".">
@@ -38,7 +38,7 @@
         </copy>
     </target>	
     
-	<target name="hh" depends="lyrics"
+	<target name="hh"
 	        description="Copy changed files to Heroku folder">
         <copy todir="${destHeroku}">
             <fileset dir=".">
