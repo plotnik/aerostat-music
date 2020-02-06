@@ -206,7 +206,7 @@ Future Islands – Seasons (Waiting On You)
 
 <http://www.aquarium.ru/misc/aerostat/aerostat500.html>
 
-.Donovan – There Was A Time
+.Donovan - link:DONOVAN/Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/lyrics/gift.html#_there_was_a_time[There Was A Time]
 image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
 
 .Cotton Mather – link:COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html#_my_before_and_after[My Before & After]
@@ -215,15 +215,26 @@ image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="t
 .Beatles – Sexie Sadie
 image:THE BEATLES/The Beatles - White Album CD 2/cover.jpg[White Album CD 2,200,200,role="thumb left"]
 
+.Tom Waits - link:TOM%20WAITS/2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD2/lyrics/orphans2.html#_you_can_never_hold_back_spring[You Can Never Hold Back Spring]
+image:TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/cover.jpg[Orphans Brawlers  Bawlers  Bastards,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Procol Harum – Boredom
+image:PROCOL HARUM/Procol Harum - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
+
 [%hardbreaks]
 Manfredini – Concerto Grosso In D, 1
 King Crimson – Cadence & Cascade
 Tony Scott – Za Zen (Meditation)
-Procol Harum – Boredom
-Tom Waits – You Can Never Hold Back Spring
 George Harrison – Let It Be Me
 John Lennon – Bless You
 
+++++
+<br clear="both">
+++++
 
 === Небылицы из жизни, 7 декабря 2014
 

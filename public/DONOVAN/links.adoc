@@ -16,4 +16,7 @@ image:Donovan%20-%20Beat%20Cafe/cover.jpg[Beat Cafe,200,200,role="thumb left"]
 <br clear="both">
 ++++
 
+.link:Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/lyrics/gift.html[A Gift From A Flower To A Garden]
+image:Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/cover.jpg[A Gift From A Flower To A Garden,200,200]
+
 From http://www.azlyrics.com/d/donovan.html
