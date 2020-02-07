@@ -238,7 +238,7 @@ Liam O’Flynn – An Droichead (The Bridge)
 image:Jonny Greenwood 2018 - Phantom Thread OST/cover.jpg[Phantom Thread OST,200,200,role="thumb left"]
 
 .Roger Eno - Riddle
-image:Roger Eno - This Floating World 2017/cover.jpg[This Floating World 2017,200,200,role="thumb left"]
+image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
 
 [%hardbreaks]
 Fratellis - Stand Up Tragedy

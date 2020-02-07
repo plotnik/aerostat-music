@@ -225,9 +225,11 @@ image:TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/cover.jpg[Orphans Bra
 .Procol Harum – Boredom
 image:PROCOL HARUM/Procol Harum - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
 
+.King Crimson – Cadence & Cascade
+image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
+
 [%hardbreaks]
 Manfredini – Concerto Grosso In D, 1
-King Crimson – Cadence & Cascade
 Tony Scott – Za Zen (Meditation)
 George Harrison – Let It Be Me
 John Lennon – Bless You
@@ -243,18 +245,33 @@ John Lennon – Bless You
 .Donovan – link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_lost_time[Lost Time]
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
 
+.Soft Machine – Dedicated To You But You Weren't Listening
+image:SOFT MACHINE/1969 - Volume II/Folder.jpg[Volume II,200,200,role="thumb left"]
+
+.Roger Eno – An Excursion
+image:ROGER ENO/1993 - In a Room/cover.jpg[In a Room,200,200,role="thumb left"]
+
+.Joni Mitchell – Ladies Of The Canyon
+image:JONI MITCHELL/1970 - Ladies of the Canyon/front.png[Ladies of the Canyon,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Van Morrison – Crazy Face
+image:VAN MORRISON/1970 - His Band And Steet Choir/Front.jpg[His Band And Steet Choir,200,200,role="thumb left"]
+
 [%hardbreaks]
 Who – Heinz Baked Beans
 Jerry Rafferty – Please Sing A Song For Us
 Paul Rodgers & The Maytals – See You Smile
 Parry – Jerusalem
-Soft Machine – Dedicated To You But You Weren't Listening
-Van Morrison – Crazy Face
-Roger Eno – An Excursion
 Roger Mcguinn – Suddenly Blue
-Joni Mitchell – Ladies Of The Canyon
 Bhajan Singers – Ganesh
 
+++++
+<br clear="both">
+++++
 
 === Kevin Ayers, 30 ноября 2014
 

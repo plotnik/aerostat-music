@@ -63,9 +63,11 @@ image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,20
 .Brian Eno – Events In Dense Fog
 image:BRIAN ENO/1978 - Music For Films/cover.jpg[Music For Films,200,200,role="thumb left"]
 
+.Roger Eno – A Moment
+image:ROGER ENO/1993 - In a Room/cover.jpg[In a Room,200,200,role="thumb left"]
+
 [%hardbreaks]
 Matt Molloy - Idir Deighric ‘Gus Breo’
-Roger Eno – A Moment
 Carlo Gesualdo
 Li Wei - Song For Gu Cheng
 Giuseppe Cambini - Wind Quintet No.1 in B major: III. Rondo: Allegretto grazioso
