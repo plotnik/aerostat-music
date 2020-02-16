@@ -321,17 +321,22 @@ Ed Sheeran – I See Fire
 
 <http://www.aquarium.ru/misc/aerostat/aerostat495.html>
 
+.Thom Yorke – A Brain In The Bottle
+image:RADIOHEAD/Tomorrows Modern Boxes/cover.jpg[Tomorrows Modern Boxes,200,200,role="thumb left"]
+
+.Damien Rice – I Don't Want To Change You
+image:Damien Rice - My Favourite Faded Fantasy/cover.jpg[My Favourite Faded Fantasy,200,200,role="thumb left"]
+
 [%hardbreaks]
 Levellers – What A Beautiful Day
-Thom Yorke – A Brain In The Bottle
 Eric Clapton – For Jack
 Bonnie Prince Billy – There Will Be Spring
 AC/DC – Play Ball
 Noel Gallagher – In the Heat Of A Moment
 Ariel Pink – Put Your Number in My Phone
-Damien Rice – I Don't Want To Change You
 Bob Dylan – 900 Miles from My Home
 Old Crow Medicine Show – Firewater
+
 
 
 === "Соль", 2 ноября 2014
@@ -354,15 +359,25 @@ Old Crow Medicine Show – Firewater
 
 <http://www.aquarium.ru/misc/aerostat/aerostat493.html>
 
+.Leonard Cohen – Slow
+image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
+
+.Robert Plant – Somebody There
+image:ROBERT PLANT/2014 - Lullaby and the ceaseless roar/cover.jpg[Lullaby and the ceaseless roar,200,200,role="thumb left"]
+
+.BB King – Tired Of Your Jive
+image:BB KING/B.B. King - Blues is king/cover.jpg[Blues is king,200,200,role="thumb left"]
+
 [%hardbreaks]
 Вахтанг Кикабидзе – Мои Года Мое Богатство
 Arthur Brown – Junkyard King
-Leonard Cohen – Slow
 Lee Perry – Blackboard Re-Vision
 Bob Dylan – Pay In Blood
-BB King – Tired Of Your Jive
-Robert Plant – Somebody There
 Rolling Stones – Doom And Gloom
+
+++++
+<br clear="both">
+++++
 
 === Молодые Неизвестно Кто, 19 октября 2014
 
