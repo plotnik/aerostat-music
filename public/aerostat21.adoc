@@ -419,18 +419,26 @@ Fortunes – Here It Comes Again
 
 <http://www.aquarium.ru/misc/aerostat/aerostat490.html>
 
+.Leonard Cohen – Nevermind
+image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
+
+.Annie Lennox – I Put A Spell On You
+image:ANNIE LENNOX/Annie Lennox - Nostalgia 2014/cover.jpg[Nostalgia 2014,200,200,role="thumb left"]
+
+.U2 – Iris
+image:U2 - Songs Of Innocence/folder.jpg[Songs Of Innocence,200,200,role="thumb left"]
+
 [%hardbreaks]
 Courteneers – White Horses
-U2 – Iris
 Neville Staple – Play A Song For Me
 Robyn Hitchcock – The Ghost In You
 Cambodian Space Project – Mountain Dance
-Leonard Cohen – Nevermind
-Annie Lennox – I Put A Spell On You
 Brian Setzer – Let's Shake
 Leonard Cohen – You Got Me Singing
 
-
+++++
+<br clear="both">
+++++
 
 === Откуда Взялся "Чубчик", 28 сентября 2014
 
