@@ -15,7 +15,7 @@
 - link:./COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html[COTTON MATHER/Cotton Mather - Kon Tiki]
 - link:./COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html[COTTON MATHER/Cotton Mather 2016 - Death of the Cool]
 - link:./COTTON%20MATHER/links.html[COTTON MATHER]
-- link:./Crowded%20House%20-%201996%20-%20Recurring%20Dream%20(The%20Very%20Best%20Of%20Crowded%20House)/lyrics/house.html[Crowded House - 1996 - Recurring Dream (The Very Best Of Crowded House)]
+- link:./CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html[CROWDED HOUSE/1996 - The Very Best Of Crowded House]
 - link:./David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html[David Byrne - American Utopia]
 - link:./DIVINE%20COMEDY/2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[DIVINE COMEDY/2010 - Bang Goes The Knighthood]
 - link:./DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html[DIVINE COMEDY/2016 - Foreverland]

@@ -226,7 +226,7 @@ Smiths - There's The Light That Never Goes Out
 .R.E.M. - link:REM/REM%20-%20Document/lyrics/document.html#_welcome_to_the_occupation[Welcome To The Occupation]
 image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
 
-.R.E.M. - It's The End Of The World
+.R.E.M. - link:REM/REM%20-%20Eponymous/lyrics/eponymous.html#_it_s_the_end_of_the_world[It's The End Of The World]
 image:REM/REM - Eponymous/cover.jpg[Eponymous,200,200,role="thumb left"]
 
 .Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_innocent_when_you_dream[Innocent When You Dream]
@@ -242,9 +242,11 @@ image:Guided By Voices 1999 - Do the Collapse/cover.jpg[Do the Collapse,200,200,
 .Tom Petty - Mary Jane's Last Dance
 image:TOM PETTY/Tom Petty And The Heartbreakers - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
 
+.Crowded House - Nails In My Feet
+image:CROWDED HOUSE/1993 - Together Alone/front.jpg[Together Alone,200,200,role="thumb left"]
+
 [%hardbreaks]
 Laurie Anderson - O Superman
-Crowded House - Nails In My Feet
 Cars - You Might Think
 Tom Petty - Wildflowers
 

@@ -221,7 +221,7 @@ Belle&Sebastian - Sister Buddha
 <https://www.radiorus.ru/brand/57083/episode/2188154>
 
 .Kate Rusby - The Farmers Toast
-image:Kate Rusby - Philosophers Poets and Kings (2019)/cover.jpg[Philosophers Poets and Kings,200,200,role="thumb left"]
+image:KATE RUSBY/2019 - Philosophers Poets and Kings/cover.jpg[Philosophers Poets and Kings,200,200,role="thumb left"]
 
 [%hardbreaks]
 Kate Rusby - Bogie's Bonnie Bell
@@ -274,15 +274,21 @@ Cornelius - Sensuous
 .Bruce Springsteen - The Wayfarer
 image:Bruce Springsteen - Western Stars/cover.jpg[Western Stars,200,200,role="thumb left"]
 
+.Kate Rusby - Until Morning
+image:KATE RUSBY/2019 - Philosophers Poets and Kings/cover.jpg[Philosophers Poets and Kings,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sheryl Crow - Prove You Wrong
 Thom Yorke - Traffic
 Freddie Mercury - Time Waits For Noone
 Ludovico Einaudi - Day 4: Full Moon
-Kate Rusby - Until Morning
 Plaid - Ops
 Bitw/Hitmore - Love Is Happening
 High Kings - Red Is The Rose
+
+++++
+<br clear="both">
+++++
 
 === John Lee Hooker, 30 июня 2019
 
@@ -384,13 +390,15 @@ Thelonius Monk - Well, You Needn't
 .Divine Comedy - link:DIVINE%20COMEDY/2019%20-%20Office%20Politics%20(Deluxe)/lyrics/office.html#_queuejumper[Queuejumper]
 image:DIVINE COMEDY/2019 - Office Politics (Deluxe)/cover.png[Office Politics (Deluxe),200,200,role="thumb left"]
 
+.Dervish & Kate Rusby - Down By The Sally Gardens
+image:KATE RUSBY/Dervish 2019 - Great Irish Songbook/cover.jpg[Great Irish Songbook,200,200,role="thumb left"]
+
 [%hardbreaks]
 Richard Hawley - Alone
 Eliza Carthy - Friendship
 Santana - Breaking Down The Door
 Calexico/Iron & Wine - Father Mountain
 John Zorn - The Hermit
-Dervish & Kate Rusby - Down By The Sally Gardens
 Beck - Saw Lightning
 Shannon Lay - Something On Your Mind
 Morrissey - Wedding Bell Blues

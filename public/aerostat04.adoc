@@ -52,11 +52,13 @@ Juluka - Akanaki Nobunaga
 
 <http://www.aquarium.ru/misc/aerostat/aerostat94.html>
 
+.Crowded House - link:CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html#_into_temptation[Into Temptation]
+image:CROWDED HOUSE/1996 - The Very Best Of Crowded House/folder.jpg[The Very Best Of Crowded House,200,200,role="thumb left"]
+
 [%hardbreaks]
 Glen Weston - What Is A Youth?
 Robert Palmer - Know By Now
 David Bowie - Wild as The Wind
-Crowded House - Into Temptation
 Mary Hopkin - The Fields Of St. Etienne
 Leonard Cohen - A Thousand Kisses Deep
 Аквариум - Услышь Меня, Хорошая

@@ -306,11 +306,13 @@ Jeff Lynne's ELO - Blue
 
 <http://aquarium.ru/misc/aerostat/aerostat548.html>
 
+.Crowded House - Help Is Coming 
+image:CROWDED HOUSE/1999 - Afterglow/front.jpg[Afterglow,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bryan Adams - We Did It All 
 Deerhunter - Take Care 
 5 Seconds Of Summer - She's Kinda Hot 
-Crowded House - Help Is Coming 
 Umo & Jimi Tenor - Huumatun Pako 
 Bill Ryder-Jones - Catharine & Hus 
 Elvis Costello - I Want You 

@@ -132,6 +132,9 @@ Bob Marley - Redemption Song
 
 <http://www.aquarium.ru/misc/aerostat/aerostat66.html>
 
+.Crowded House - Distant Sun
+image:CROWDED HOUSE/1993 - Together Alone/front.jpg[Together Alone,200,200,role="thumb left"]
+
 [%hardbreaks]
 Muse - Supermassive Black Hole
 Emerson, Lake & Palmer - Jeremy Bender
@@ -143,7 +146,6 @@ Bob Geldov - The Great Song Of Indifference
 The Buggles - Video Killed A Radio Star
 Kate Rusby - The Daughter Of Megan
 The Crimea - Lottery Winners On Acid
-Crowded House - Distant Sun
 
 === Мосты Между Небом и Землей, 13 августа 2006
 
