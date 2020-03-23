@@ -533,14 +533,27 @@ J.S. Bach – English Suite #1, Sarabande
 
 <http://www.aquarium.ru/misc/aerostat/aerostat485.html>
 
+.Beck – Lazy Flies
+image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]
+
+.Leonard Cohen – Suzanne
+image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
+
+.Beatles – This Boy
+image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
+
+.Procol Harum – Still There'll Be More
+image:PROCOL HARUM/04-Home (1970)/cover.jpg[Home (1970),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Blood Sweat And Tears – Hi De Ho
-Beck – Lazy Flies
 Battlefield Band – Shepherd's Lad
 Alan Price – My Home Town
 Coope, Boyes & Sipson – Now Is The Cool Of The Day
 Cake – Palm Of Your Hand
 Rolling Stones – Love In Vain
-Procol Harum – Still There'll Be More
-Beatles – This Boy
-Leonard Cohen – Suzanne
+
