@@ -53,11 +53,13 @@ code {
 
 <https://www.radiorus.ru/brand/57083/episode/2258315>
 
+.Tamikrest - Awnafin
+image:Tamikrest - Tamotaït/cover.jpg[Tamotaït,200,200,role="thumb left"]
+
 [%hardbreaks]
 Killers - Caution
 Pretenders - The Buzz
 Of Montreal - Carmillas Of Love
-Tamikrest - Awnafin
 Four Tet - Teenage Birdsong
 Nadia Reid - Other Side Of The Wheel
 Califone - Bandicoot
