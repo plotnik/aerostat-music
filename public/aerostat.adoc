@@ -56,9 +56,11 @@ code {
 .Tamikrest - Awnafin
 image:Tamikrest - Tamotaït/cover.jpg[Tamotaït,200,200,role="thumb left"]
 
+.Pretenders - The Buzz
+image:Pretenders - The Best Of/cover.jpg[The Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
 Killers - Caution
-Pretenders - The Buzz
 Of Montreal - Carmillas Of Love
 Four Tet - Teenage Birdsong
 Nadia Reid - Other Side Of The Wheel
@@ -116,8 +118,10 @@ Joe Brown - There's No Pleasing You
 
 <https://www.radiorus.ru/brand/57083/episode/2252005>
 
+.Red Hot Chili Peppers - Someone
+image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
+
 [%hardbreaks]
-Red Hot Chili Peppers - Someone
 Jeff Lynne - Blown Away
 T.Rex - Diamond Meadows
 Bryan Ferry - You Do Something To Me
