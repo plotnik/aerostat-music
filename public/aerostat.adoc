@@ -121,17 +121,25 @@ Joe Brown - There's No Pleasing You
 .Red Hot Chili Peppers - Someone
 image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
 
+.Silly Wizard - Wi My Dog And Gun
+image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
+
+.Robert Plant - link:ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html#_if_it_s_really_got_to_be_this_way[If It Really Got To Be This Way]
+image:ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)/cover.jpg[Sixty Six To Timbuktu (Disc 1),200,200,role="thumb left"]
+
 [%hardbreaks]
 Jeff Lynne - Blown Away
 T.Rex - Diamond Meadows
 Bryan Ferry - You Do Something To Me
-Silly Wizard - Wi My Dog And Gun
-Robert Plant - If It Really Got To Be This Way
 Beatles - Its Only Love
 Roy Orbison - Pretty One
 Robert Palmer - You Blow Me Away
 Jethro Tull - Life's A Long Song
 Beach Boys - God Only Knows
+
+++++
+<br clear="both">
+++++
 
 === Новые песни в марте, 1 марта 2020
 
