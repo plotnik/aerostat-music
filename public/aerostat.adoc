@@ -59,15 +59,21 @@ image:Tamikrest - Tamotaït/cover.jpg[Tamotaït,200,200,role="thumb left"]
 .Pretenders - The Buzz
 image:Pretenders - The Best Of/cover.jpg[The Best Of,200,200,role="thumb left"]
 
+.Nadia Reid - Other Side Of The Wheel
+image:Nadia Reid - Out of My Province/folder.jpg[Out of My Province,200,200,role="thumb left"]
+
 [%hardbreaks]
 Killers - Caution
 Of Montreal - Carmillas Of Love
 Four Tet - Teenage Birdsong
-Nadia Reid - Other Side Of The Wheel
 Califone - Bandicoot
 Graham Gouldman - Its Not You Its Me
 Real Estate - November
 Аквариум - Месть Королевы Анны
+
+++++
+<br clear="both">
+++++
 
 === Интуиция и сознание, 29 марта 2020
 
