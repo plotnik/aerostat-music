@@ -63,7 +63,7 @@
 		</exec>
     </target>
 
-    <target name="gg"
+    <target name="gg" depends="aerostat"
             description="Push changes to Netlify git">
 		<exec executable="git" 
 		      dir="../Документы/netlify/aerostat-music/">
