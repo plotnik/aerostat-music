@@ -133,6 +133,13 @@ image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,20
 .Robert Plant - link:ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html#_if_it_s_really_got_to_be_this_way[If It Really Got To Be This Way]
 image:ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)/cover.jpg[Sixty Six To Timbuktu (Disc 1),200,200,role="thumb left"]
 
+.Jethro Tull - link:JETHRO%20TULL/1972%20%20Living%20In%20The%20Past/lyrics/past.html#_life_is_a_long_song[Life's A Long Song]
+image:JETHRO TULL/1972  Living In The Past/cover.jpg[1972  Living In The Past,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Jeff Lynne - Blown Away
 T.Rex - Diamond Meadows
@@ -140,7 +147,6 @@ Bryan Ferry - You Do Something To Me
 Beatles - Its Only Love
 Roy Orbison - Pretty One
 Robert Palmer - You Blow Me Away
-Jethro Tull - Life's A Long Song
 Beach Boys - God Only Knows
 
 ++++
