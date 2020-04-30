@@ -157,8 +157,10 @@ Beach Boys - God Only Knows
 
 <https://www.radiorus.ru/brand/57083/episode/2250202>
 
+.Wire - Cactused
+image:Wire - Mind Hive/cover.jpg[Mind Hive,200,200,role="thumb left"]
+
 [%hardbreaks]
-Wire - Cactused
 Roger & Brian Eno - Blonde
 Stephen Malkmus - Xian Man
 James Taylor - As Easy As Falling Off The Log
