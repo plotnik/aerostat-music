@@ -62,11 +62,17 @@ image:Pretenders - The Best Of/cover.jpg[The Best Of,200,200,role="thumb left"]
 .Nadia Reid - Other Side Of The Wheel
 image:Nadia Reid - Out of My Province/folder.jpg[Out of My Province,200,200,role="thumb left"]
 
+.Califone - Bandicoot
+image:Califone - Echo Mine/cover.jpg[Echo Mine,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Killers - Caution
 Of Montreal - Carmillas Of Love
 Four Tet - Teenage Birdsong
-Califone - Bandicoot
 Graham Gouldman - Its Not You Its Me
 Real Estate - November
 Аквариум - Месть Королевы Анны
