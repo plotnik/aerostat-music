@@ -328,16 +328,28 @@ Robin Laing - Lochanside
 
 <https://www.radiorus.ru/brand/57083/episode/2233216>
 
+.Jethro Tull - Jack In The Green
+image:JETHRO TULL/1977  Songs From The Wood/cover.jpg[1977  Songs From The Wood,200,200,role="thumb left"]
+
+.Tom Petty - For Real
+image:TOM PETTY/The Best Of Everything/cover.png[The Best Of Everything,200,200,role="thumb left"]
+
+.George Harrison - Flying Hour
+image:GEORGE HARRISON/1995 - Pirate Songs/cover.jpg[Pirate Songs,200,200,role="thumb left"]
+
+.Paul McCartney - Mr. Bellamy
+image:PAUL MCCARTNEY/Memory Almost Full/cover.jpg[Memory Almost Full,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Albinoni - Trumpet Concerto D-Min. Adagio
-Jethro Tull - Jack In The Green
-Tom Petty - For Real
-Paul McCartney - Mr. Bellamy
 Jeff Lynne's ELO - On My Mind
 S.E. Rogie - Clua Koonde
 Donovan - Breezes Of Patchouli
 Albion Christmas Band - Gloustershire Wassail
-George Harrison - Flying Hour
 Annie Lennox - The First Noel
 
 === Рождество, 22 декабря 2019
