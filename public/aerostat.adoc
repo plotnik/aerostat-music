@@ -292,17 +292,37 @@ Divine Comedy - Don't Mention The War
 
 <https://www.radiorus.ru/brand/57083/episode/2234173>
 
+.Elliot Smith - I Better Be Quiet Now
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+
+.Bob Dylan - To Ramona
+image:BOB DYLAN/Bob Dylan 1964 - Another Side Of Bob Dylan/cover.jpg[Another Side Of Bob Dylan,200,200,role="thumb left"]
+
+.Fairport Convention - Book Song
+image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
+
+.Procol Harum - A Rum Tale
+image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Beck - Stratosphere
+image:BECK/2019 - Hyperspace/cover.png[Hyperspace,200,200,role="thumb left"]
+
+.Eric Clapton - River Runs Deep
+image:Eric Clapton/2010 - Clapton/cover.jpg[Clapton,200,200,role="thumb left"]
+
 [%hardbreaks]
 Robin Williamson - The Scotch Cap - Scotland
-Elliot Smith - I Better Be Quiet Now
-Bob Dylan - To Ramona
 Scaffold - Potato Clock
-Beck - Stratosphere
 Rustavi - Djvarsa Shensa
-Fairport Convention - Book Song
-Procol Harum - A Rum Tale
-Eric Clapton - River Runs Deep
 Robin Laing - Lochanside
+
+++++
+<br clear="both">
+++++
 
 === С Наступающим!, 29 декабря 2019
 
