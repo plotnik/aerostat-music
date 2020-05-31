@@ -393,8 +393,10 @@ image:DIVINE COMEDY/2019 - Office Politics (Deluxe)/cover.png[Office Politics (D
 .Dervish & Kate Rusby - Down By The Sally Gardens
 image:KATE RUSBY/Dervish 2019 - Great Irish Songbook/cover.jpg[Great Irish Songbook,200,200,role="thumb left"]
 
+.Richard Hawley - Alone
+image:Richard Hawley - Further/cover.jpg[Further,200,200,role="thumb left"]
+
 [%hardbreaks]
-Richard Hawley - Alone
 Eliza Carthy - Friendship
 Santana - Breaking Down The Door
 Calexico/Iron & Wine - Father Mountain

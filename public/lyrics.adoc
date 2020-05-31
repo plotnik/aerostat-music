@@ -1,8 +1,17 @@
 = Lyrics
+:toc: left
+
+
+
+=== A
 
 - link:./ARCTIC%20MONKEYS/Arctic%20Monkeys%20-%20Tranquility%20Base%20Hotel%20Casino/lyrics/tranquility.html[ARCTIC MONKEYS/Arctic Monkeys - Tranquility Base Hotel Casino]
 - link:./ARCTIC%20MONKEYS/Beneath%20The%20Boardwalk/lyrics/boardwalk.html[ARCTIC MONKEYS/Beneath The Boardwalk]
 - link:./ARCTIC%20MONKEYS/links.html[ARCTIC MONKEYS]
+
+
+=== B
+
 - link:./Blondie%20-%20Greatest%20Hits/lyrics/blondie.html[Blondie - Greatest Hits]
 - link:./BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html[BOB DYLAN/2006 - Modern Times]
 - link:./BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html[BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind]
@@ -11,11 +20,19 @@
 - link:./BOB%20DYLAN/Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html[BOB DYLAN/Bob Dylan 1993 - World Gone Wrong]
 - link:./BOB%20DYLAN/Bob%20Dylan%202001%20-%20Love%20And%20Theft/lyrics/love.html[BOB DYLAN/Bob Dylan 2001 - Love And Theft]
 - link:./BOB%20DYLAN/links.html[BOB DYLAN]
+
+
+=== C
+
 - link:./Christy%20Moore%20-%20Ordinary%20Man/lyrics/ordinary.html[Christy Moore - Ordinary Man]
 - link:./COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html[COTTON MATHER/Cotton Mather - Kon Tiki]
 - link:./COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html[COTTON MATHER/Cotton Mather 2016 - Death of the Cool]
 - link:./COTTON%20MATHER/links.html[COTTON MATHER]
 - link:./CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html[CROWDED HOUSE/1996 - The Very Best Of Crowded House]
+
+
+=== D
+
 - link:./David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html[David Byrne - American Utopia]
 - link:./DIVINE%20COMEDY/2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[DIVINE COMEDY/2010 - Bang Goes The Knighthood]
 - link:./DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html[DIVINE COMEDY/2016 - Foreverland]
@@ -29,11 +46,27 @@
 - link:./DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html[DONOVAN/Donovan - HMS Donovan]
 - link:./DONOVAN/links.html[DONOVAN]
 - link:./Doors%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html[Doors - Waiting For The Sun]
+
+
+=== E
+
 - link:./EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html[EELS/Eels - Blinking Lights And Other Revelations]
+
+
+=== F
+
 - link:./FAIRPORT%20CONVENTION/Fairport%20Convention-Full%20House-1970/lyrics/full_house.html[FAIRPORT CONVENTION/Fairport Convention-Full House-1970]
+
+
+=== G
+
 - link:./GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html[GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989]
 - link:./GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html[GEORGE HARRISON/George Harrison - Brainwashed]
 - link:./GORAN%20BREGOVIC/Bregovic%20-%20Arizona%20Dream%20-%20Soundtrack/lyrics/arizona.html[GORAN BREGOVIC/Bregovic - Arizona Dream - Soundtrack]
+
+
+=== J
+
 - link:./JETHRO%20TULL/1972%20%20Living%20In%20The%20Past/lyrics/past.html[JETHRO TULL/1972  Living In The Past]
 - link:./JETHRO%20TULL/1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html[JETHRO TULL/1972  Thick As A Brick]
 - link:./JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html[JETHRO TULL/Jethro Tull - Heavy Horses]
@@ -41,14 +74,30 @@
 - link:./John%20Grant%20-%20Grey%20Tickles%20Black%20Pressure/lyrics/tickles.html[John Grant - Grey Tickles Black Pressure]
 - link:./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%201)/lyrics/hooker1.html[JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 1)]
 - link:./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%202)/lyrics/hooker2.html[JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 2)]
+
+
+=== K
+
 - link:./Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html[Keith Richards 2015 - Crosseyed Heart]
 - link:./King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html[King Creosote/King Creosote 2014 - From Scotland With Love]
+
+
+=== L
+
 - link:./LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html[LEONARD COHEN/09-The Future (1992)]
 - link:./LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html[LEONARD COHEN/Leonard Cohen - Ten New Songs]
+
+
+=== M
+
 - link:./MILK%20CARTON%20KIDS/2018%20-%20All%20The%20Things%20That%20I%20Did%20And%20All%20The%20Things%20That%20I%20Didnt%20Do/lyrics/things.html[MILK CARTON KIDS/2018 - All The Things That I Did And All The Things That I Didnt Do]
 - link:./MORRISSEY/2006%20-%20Ringleader%20of%20the%20Tormentors/lyrics/ringleader.html[MORRISSEY/2006 - Ringleader of the Tormentors]
 - link:./MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html[MORRISSEY/2017 - Low in High School]
 - link:./MORRISSEY/links.html[MORRISSEY]
+
+
+=== P
+
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Chaos%20And%20Creation%20In%20The%20Backyard/lyrics/backyard.html[PAUL MCCARTNEY/Paul McCartney - Chaos And Creation In The Backyard]
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Kisses%20On%20The%20Bottom/lyrics/kisses.html[PAUL MCCARTNEY/Paul McCartney - Kisses On The Bottom]
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Pipes%20Of%20Peace/lyrics/peace.html[PAUL MCCARTNEY/Paul McCartney - Pipes Of Peace]
@@ -57,6 +106,10 @@
 - link:./PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html[PAUL SIMON/Paul Simon - Songwriter]
 - link:./PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html[PAUL SIMON/Paul Simon - Stranger To Stranger]
 - link:./PROCOL%20HARUM/Procol%20Harum%201967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html[PROCOL HARUM/Procol Harum 1967 - Procol Harum (With Bonus Tracks)]
+
+
+=== R
+
 - link:./RADIOHEAD/1997%20-%20OK%20Computer/lyrics/ok.html[RADIOHEAD/1997 - OK Computer]
 - link:./REM/links.html[REM]
 - link:./REM/REM%20-%20Document/lyrics/document.html[REM/REM - Document]
@@ -68,6 +121,10 @@
 - link:./RICHARD%20THOMPSON/Richard%20Thompson%20-%20Still/lyrics/still.html[RICHARD THOMPSON/Richard Thompson - Still]
 - link:./ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html[ROBERT PLANT/2017 - Carry Fire]
 - link:./ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html[ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)]
+
+
+=== S
+
 - link:./SIMON%20&%20GARFUNKEL/links.html[SIMON & GARFUNKEL]
 - link:./SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html[SIMON & GARFUNKEL/Simon & Garfunkel - Parsley, Sage, Rosemary and Thyme]
 - link:./SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html[SIMON & GARFUNKEL/Simon & Garfunkel - Sounds of Silence]
@@ -85,6 +142,10 @@
 - link:./SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html[SUZANNE VEGA/2014 - Tales from the Realm of the Queen of Pentacles]
 - link:./SUZANNE%20VEGA/2016%20-%20Lover%20Beloved%20Songs%20From%20An%20Evening%20With%20Carson%20McCullers/lyrics/mccallers.html[SUZANNE VEGA/2016 - Lover Beloved Songs From An Evening With Carson McCullers]
 - link:./SUZANNE%20VEGA/links.html[SUZANNE VEGA]
+
+
+=== T
+
 - link:./THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html[THE BEATLES/1966 - Revolver]
 - link:./THE%20BEATLES/1969b%20-%20Abbey%20Road/lyrics/abbey.html[THE BEATLES/1969b - Abbey Road]
 - link:./THE%20DECEMBERISTS/The%20Decemberists%20-%20I_ll%20Be%20Your%20Girl/lyrics/dec_girl.html[THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl]
@@ -101,5 +162,9 @@
 - link:./TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html[TOM WAITS/Tom Waits 1987 - Franks Wild Years]
 - link:./Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html[Traveling Wilburys - Volume 1]
 - link:./Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html[Traveling Wilburys - Volume 3]
+
+
+=== V
+
 - link:./Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html[Velvet Undeground/Velvet Underground - The Best of the Velvet Underground]
 - link:./VILLAGERS/Villagers%20-%20The%20Art%20of%20Pretending%20to%20Swim/lyrics/swim.html[VILLAGERS/Villagers - The Art of Pretending to Swim]
