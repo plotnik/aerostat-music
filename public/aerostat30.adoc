@@ -396,6 +396,13 @@ image:KATE RUSBY/Dervish 2019 - Great Irish Songbook/cover.jpg[Great Irish Songb
 .Richard Hawley - Alone
 image:Richard Hawley - Further/cover.jpg[Further,200,200,role="thumb left"]
 
+.Morrissey - Wedding Bell Blues
+image:MORRISSEY/2019 - California Son/cover.jpg[California Son,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Eliza Carthy - Friendship
 Santana - Breaking Down The Door
@@ -403,7 +410,10 @@ Calexico/Iron & Wine - Father Mountain
 John Zorn - The Hermit
 Beck - Saw Lightning
 Shannon Lay - Something On Your Mind
-Morrissey - Wedding Bell Blues
+
+++++
+<br clear="both">
+++++
 
 === Священность музыки, 26 мая 2019
 
