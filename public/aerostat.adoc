@@ -1,6 +1,8 @@
 = Радио Аэростат
 :toc: left
 
+> link:lyrics.html[Lyrics]
+
 - link:aerostat30.html[`Глава XXX.    28.04.2018 - 20.10.2019`]
 - link:aerostat29.html[`Глава XXIX.   14.10.2018 - 21.04.2019`]
 - link:aerostat28.html[`Глава XXVIII.  8.04.2018 -  7.10.2018`]
@@ -27,7 +29,6 @@
 <br clear="both">
 ++++
 
-> link:lyrics.html[Lyrics]
 
 ++++
 <style>

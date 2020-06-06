@@ -1,7 +1,7 @@
 = Радио Аэростат. Глава XXVIII
 :toc: left
 
-link:aerostat.html[Главная страница]
+> link:aerostat.html[Главная страница]
 
 == 8 апреля 2018 - 7 октября 2018
 

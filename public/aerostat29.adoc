@@ -1,7 +1,7 @@
 = Радио Аэростат. Глава XXIX
 :toc: left
 
-link:aerostat.html[Главная страница]
+> link:aerostat.html[Главная страница]
 
 == 14 октября 2018 - 21 апреля 2019
 
@@ -30,6 +30,9 @@ code {
 .Cranberries - The Pressure
 image:CRANBERRIES/2019 In The End/wm.jpg[2019 In The End,200,200,role="thumb left"]
 
+.Flook - Companion Star/The Coral Castle
+image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
+
 [%hardbreaks]
 Vampire Weekend - Big Blue
 Joshua Burnell - Ah! Robin, Gentyl Robin
@@ -40,7 +43,6 @@ Bu Kolthoum - Zamilou
 Drugdealer feat. Weyes Blood - Honey
 Ruth Notman & Sam Kelly - Caw The Yowes
 Sly & Robbie feat. Michael Rose, Mykal Rose, Sidney Mills & Don Camel - This Morning
-Flook - Companion Star/The Coral Castle
 
 === «Stand Up» (словами авторов), 14 апреля 2019
 
