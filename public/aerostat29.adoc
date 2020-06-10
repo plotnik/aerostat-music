@@ -192,15 +192,24 @@ Cass McCombs - Absentee
 <https://aerostatica.ru/2019/02/24/719-glavnye-albomy-boba-marli/>
 
 .Bob Marley & The Wailers - Natty Dread
-image:BOB MARLEY/Bob Marley - Natty Dread (1974)/cover.jpg[Natty Dread (1974),200,200,role="thumb left"]
+image:BOB MARLEY/1978 - Natty Dread/cover.jpg[Natty Dread,200,200,role="thumb left"]
 
 .Bob Marley & The Wailers - Kaya
-image:BOB MARLEY/Bob Marley - Kaya (1978)/cover.jpg[Kaya (1978),200,200,role="thumb left"]
+image:BOB MARLEY/1978 - Kaya/cover.jpg[Kaya,200,200,role="thumb left"]
+
+.Bob Marley & The Wailers - Concrete Jungle
+image:BOB MARLEY/1973 - Catch A Fire/cover.jpg[Catch A Fire,200,200,role="thumb left"]
+
+.Bob Marley & The Wailers - Crazy Baldhead
+image:BOB MARLEY/1976 - Rastaman Vibration/Folder.jpg[Rastaman Vibration,200,200,role="thumb left"]
+
+
+++++
+<br clear="both">
+++++
 
 [%hardbreaks]
 Bob Marley & The Wailers - Is This Love
-Bob Marley & The Wailers - Concrete Jungle
-Bob Marley & The Wailers - Crazy Baldhead
 Bob Marley & The Wailers - Jamming
 Bob Marley & The Wailers - So Much Trouble In The World
 Bob Marley & The Wailers - Coming In From The Cold
