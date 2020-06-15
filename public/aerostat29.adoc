@@ -236,8 +236,10 @@ Doors - Light My Fire
 
 <https://aerostatica.ru/2019/02/10/717-howlin-wolf/>
 
+.Howlin’ Wolf - Spoonful
+image:Howlin Wolf - His Best/cover.jpg[His Best,200,200,role="thumb left"]
+
 [%hardbreaks]
-Howlin’ Wolf - Spoonful
 Howlin’ Wolf - Cause Of It All
 Howlin’ Wolf - Smokestack Lightning
 Howlin’ Wolf - How Many More Years
