@@ -357,10 +357,16 @@ image:Eric Clapton/2010 - Clapton/cover.jpg[Clapton,200,200,role="thumb left"]
 .Bob Dylan - Workingman’s Blues #2
 image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
 
+.Richard Thompson - Precious One
+image:RICHARD THOMPSON/Front Parlour Ballads/cover.jpg[Front Parlour Ballads,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Rustavi Choir - Shen Khar Venakhi
 Gordon Lightfoot - Steel Rail Blues
-Richard Thompson - Precious One
 Johann Sebastian Bach - French Suite No. 2 In C Minor: Allemande
 Shirley & Dolly Collins - Lord Allenwater
 Eric Andersen - Just A Country Dream

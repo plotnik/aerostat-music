@@ -3,13 +3,24 @@
 	<!--property name="dest" value="/media/egor/UUI/aerostat"/-->
 	<property name="destHeroku" value="../Документы/heroku/owl-stories/public/music"/>
 	<property name="destNetlify" value="../Документы/netlify/aerostat-music/public"/>
+	<property name="cowonHome" value="../prog/cowon"/>
 
 
     <target name="cc"
-            description="Пройти по каталогу альбомов COWON и создать список альбомов с указанием размера папки">
-		<exec executable="groovy" >
-		  <arg line="cowon.groovy"/>
+            description="Пройти по каталогу альбомов COWON и сохранить список альбомов в JSON">
+
+		<exec executable="jbang" 
+		      dir="${cowonHome}">
+		  <arg line="cowon.java"/>
 		</exec>
+		<exec executable="jbang" 
+		      dir="${cowonHome}">
+		  <arg line="covers.java"/>
+		</exec>
+		
+		<!--exec executable="groovy" >
+		  <arg line="cowon.groovy"/>
+		</exec-->		
     </target>
     
     <target name="ll"
