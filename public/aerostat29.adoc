@@ -487,10 +487,12 @@ image:MARK KNOPFLER/2018 - Down The Road Wherever/cover.jpg[Down The Road Wherev
 .Dead Can Dance - ACT II : The Mountain
 image:DEAD CAN DANCE/Dead Can Dance - Dionysus/cover.jpg[Dionysus,200,200,role="thumb left"]
 
+.Adam Hopkins - I Think The Duck Was Fine
+image:Adam Hopkins - Crickets/folder.jpg[Crickets,200,200,role="thumb left"]
+
 [%hardbreaks]
 Lúnasa - Paddy’s Green Shamrock Shore
 Bokanté + Metropole Orkest - La Maison En Feu (House On Fire)
-Adam Hopkins - I Think The Duck Was Fine
 Skiffle Players - John O’Dreams
 John Smith - Hummingbird
 
