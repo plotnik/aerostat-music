@@ -51,8 +51,10 @@ Beatles - Back In The USSR [Esher Demo]
 
 <https://aerostatica.ru/2018/09/30/698-everly-brothers/>
 
+.Everly Brothers - So Sad (To Watch Good Love Go Bad)
+image:Everly Brothers - The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
-Everly Brothers - So Sad (To Watch Good Love Go Bad)
 Everly Brothers - All I Have To Do Is Dream
 Everly Brothers - Cathy’s Clown
 Everly Brothers - Wake Up Little Susie

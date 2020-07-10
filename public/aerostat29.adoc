@@ -516,8 +516,10 @@ Alice Coltrane - Jagadishwar
 
 <https://aerostatica.ru/2018/11/11/704-the-band/>
 
+.Band - Across The Great Divide
+image:The Band 1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
+
 [%hardbreaks]
-Band - Across The Great Divide
 Band - The Night They Drove Old Dixie Down
 Band - Up On Cripple Creek
 Band - Time To Kill
