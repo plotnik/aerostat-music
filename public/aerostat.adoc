@@ -50,6 +50,42 @@ code {
 
 <http://www.aquarium.ru/misc/aerostat/index.html>
 
+=== То да се #8, 10 мая 2020
+
+<https://www.radiorus.ru/brand/57083/episode/2267550>
+
+.Jethro Tull – Teacher
+image:JETHRO TULL/1976  M.U. - The Best of Jethro Tull/cover.jpg[The Best of Jethro Tull,200,200,role="thumb left"]
+
+.Tom Waits – Cold Cold Ground
+image:TOM WAITS/1988 - Big Time/cover.jpg[Big Time,200,200,role="thumb left"]
+
+.Giles, Giles & Fripp –  Thursday Morning
+image:KING CRIMSON/1968 - The Cheerful Insanity Of/Folder.jpg[The Cheerful Insanity Of,200,200,role="thumb left"]
+
+.Gentle Giant – Black Cat
+image:Gentle Giant 1971 - Acquiring The Taste/Folder.jpg[Acquiring The Taste,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Grateful Dead – Mississippi Half-Step Uptown Toodeloo
+image:GRATEFUL DEAD/1973 - Wake Of The Flood/cover.jpg[Wake Of The Flood,200,200,role="thumb left"]
+
+.Thom Yorke – And It Rained All Night (Burial Remix)
+image:RADIOHEAD/Thom Yorke - The Eraser/folder.jpg[The Eraser,200,200,role="thumb left"]
+
+.Whistlebinkies – My Bonnie Moor Hen
+image:Whistlebinkies 2006 - Albannach/front.jpg[Albannach,200,200,role="thumb left"]
+
+.Tommy Sands –  Misty Mourne Shore
+image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 === Новые песни мая, 3 мая 2020
 
 <https://www.radiorus.ru/brand/57083/episode/2265666>
