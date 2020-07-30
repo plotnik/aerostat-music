@@ -5,7 +5,7 @@
 
 == 1 марта 2015 - 23 августа 2015
 
-<http://www.aquarium.ru/misc/aerostat/index22.html>
+<http://old.aquarium.ru/misc/aerostat/index22.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === Dave Brubeck, 23 августа 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat536.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat536.html>
 
 [%hardbreaks]
 Dave Brubeck - Blue Rondo A La Turk
@@ -33,7 +33,7 @@ Dave Brubeck - Pick Up Sticks
 
 === Море чайной ложкой, 16 августа 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat535.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat535.html>
 
 [%hardbreaks]
 Iron&Wine&Ben Bridwell - This Must Be The Place
@@ -49,7 +49,7 @@ Dion & The Belmonts - Runaround Sue
 === Урожай августа, 9 августа 2015
 
 
-<http://www.aquarium.ru/misc/aerostat/aerostat534.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat534.html>
 
 .Richard Thompson - link:RICHARD%20THOMPSON/Richard%20Thompson%20-%20Still/lyrics/still.html#_she_never_could_resist_a_winding_road[She Never Could Resist a Winding Road]
 image:RICHARD THOMPSON/Richard Thompson - Still/cover.jpg[Still,200,200,role="thumb left"]
@@ -67,7 +67,7 @@ Magic - Rude
 
 === Друиды, 2 августа 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat533.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat533.html>
 
 .John Surman - Dark Reflections
 image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
@@ -85,7 +85,7 @@ Lumier - Wind That Shakes The Barley
 
 === Майк, 26 июля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat532.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat532.html>
 
 [%hardbreaks]
 Зоопарк - Пригородный Блюз
@@ -104,7 +104,7 @@ Lumier - Wind That Shakes The Barley
 
 === Мир и Наши Мысли, 19 июля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat531.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat531.html>
 
 .Stravinsky - Pulcinella Suite, 6. Gavot
 image:Stravinsky - Pulcinella (Suite)/cover.jpg[Pulcinella (Suite),200,200,role="thumb left"]
@@ -128,7 +128,7 @@ Beatles - Tell Me What You
 
 === Новое у Друзей в Петербурге, 12 июля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat530.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat530.html>
 
 [%hardbreaks]
 Manfredini - Concerto Grosso F, Presto
@@ -146,7 +146,7 @@ Manfredini - Concerto Grosso F, Presto
 
 === Новые Имена, 5 июля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat529.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat529.html>
 
 [%hardbreaks]
 T.Rex - There Was A Time
@@ -161,7 +161,7 @@ Steely Dan - Aja
 
 === Время Перемен, 28 июня 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat528.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat528.html>
 
 .Bob Dylan – Queen Jane Approximately
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
@@ -181,7 +181,7 @@ Gandalf – Love Is The Answer
 
 === Еще Новые Песни, 21 июня 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat527.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat527.html>
 
 .Brian Wilson – The Right Time
 image:Brian Wilson - No Pier Pressure (Deluxe Edition)/cover.jpg[No Pier Pressure,200,200,role="thumb left"]
@@ -200,7 +200,7 @@ Third Eye Blind – Everything Is Easy
 
 === Канадская Музыка, 14 июня 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat526.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat526.html>
 
 .Leonard Cohen – Everybody Knows
 image:LEONARD COHEN/08-Im Your Man (1988)/cover.jpg[Im Your Man,200,200,role="thumb left"]
@@ -219,7 +219,7 @@ Barenaked Ladies – If I Had A 1000000$
 
 === Система Трех Ф, 7 июня 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat525.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat525.html>
 
 [%hardbreaks]
 Hot Chip – Huarache Lights
@@ -236,7 +236,7 @@ Death & Vanilla – California Owls
 
 === Eric's Winds Of Change, 31 мая 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat524.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat524.html>
 
 [%hardbreaks]
 Eric Burdon & The Animals – Winds Of Change
@@ -251,7 +251,7 @@ Eric Burdon & The Animals – Anything
 
 === 10 Лет Аэростату, 24 мая 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat523.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat523.html>
 
 .Donovan – Skip-A-Long Sam
 image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
@@ -295,7 +295,7 @@ Beatles – P.S. I Love You
 
 === Radio Silence, 17 мая 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat522.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat522.html>
 
 [%hardbreaks]
 БГ – Radio Silence
@@ -310,7 +310,7 @@ Beatles – P.S. I Love You
 
 === Новые Альбомы Мая, 10 мая 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat521.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat521.html>
 
 .Richard Thompson – Beatnik Walking
 image:RICHARD THOMPSON/Richard Thompson - Still/cover.jpg[Still,200,200,role="thumb left"]
@@ -334,7 +334,7 @@ East India Youth – Carousel
 
 === Белтайн, 3 мая 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat520.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat520.html>
 
 .Fairport Convention – Clear Water
 image:FAIRPORT CONVENTION/2015 - Myths and Heroes/mythsandheroes_mgcd053.jpg[Myths and Heroes,200,200,role="thumb left"]
@@ -351,7 +351,7 @@ Fairport Convention – Fylde Mountain
 
 === Ритуал, 26 апреля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat519.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat519.html>
 
 .Pugwash – Answers On A Postcard
 image:Pugwash 2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
@@ -370,7 +370,7 @@ Bhajans – Shirdi Sai
 
 === Новые альбомы, апрель, 19 апреля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat518.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat518.html>
 
 .Leonard Cohen – Never Gave Nobody Trouble
 image:LEONARD COHEN/Cant Forget - A Souvenir of the Grand Tour/cover.jpg[A Souvenir of the Grand Tour,200,200,role="thumb left"]
@@ -387,7 +387,7 @@ Van Morrison – Get On With The Show
 
 === Пасха: Делать и Быть, 12 апреля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat517.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat517.html>
 
 .REM. – At My Most Beatiful
 image:REM/REM - Live In Stockholm/cover.jpg[Live In Stockholm,200,200,role="thumb left"]
@@ -411,7 +411,7 @@ Eberg – No Need To Worry
 
 === Что Я Слушаю, 5 апреля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat516.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat516.html>
 
 .Robert Wyatt – Alien
 image:ROBERT WYATT/Shleep/cover.png[Shleep,200,200,role="thumb left"]
@@ -433,7 +433,7 @@ Herman's Hermits – It's Nice To Be Out
 
 === Позитивная Энергия, 29 марта 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat515.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat515.html>
 
 .Paul McCartney – No More Lonely Nights
 image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
@@ -451,7 +451,7 @@ Valerie Kimani – Sirudi Tena
 
 === Новые Песни Марта, 22 марта 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat514.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat514.html>
 
 .Sufjan Stevens – No Shade In The Shadow
 image:SUFJAN STEVENS/2015 - Carrie and Lowell/Folder.jpg[Carrie and Lowell,200,200,role="thumb left"]
@@ -470,7 +470,7 @@ Seasick Steve – Bring It On
 
 === Коктейли и Жизнь, 15 марта 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat513.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat513.html>
 
 [%hardbreaks]
 Tommy Dorsey – You're Lonely And I'm Lonely
@@ -486,7 +486,7 @@ Vera Lynn – We'll Meet Again
 
 === Песни 8 марта, 8 марта 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat512.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat512.html>
 
 [%hardbreaks]
 Beatles – Words Of Love
@@ -502,7 +502,7 @@ Paul Simon – Was A Sunny Da
 
 === Новые имена, 1 марта 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat511.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat511.html>
 
 [%hardbreaks]
 Idlewild – Readers And Writers

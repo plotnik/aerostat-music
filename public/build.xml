@@ -10,19 +10,38 @@
             description="Пройти по каталогу альбомов COWON и сохранить список альбомов в JSON">
 
 		<exec executable="jbang" 
+		      failonerror="yes"
 		      dir="${cowonHome}">
 		  <arg line="cowon.java"/>
+		  <arg value="x9"/>
+		  <arg value="&quot;/media/egor/COWON X9/Music/&quot;"/>
 		</exec>
 		<exec executable="jbang" 
+		      failonerror="yes"
+		      dir="${cowonHome}">
+		  <arg line="cowon.java"/>
+		  <arg value="x9-ext"/>
+		  <arg value="&quot;/media/egor/9016-4EF8&quot;"/>
+		</exec>
+		<exec executable="jbang" 
+		      failonerror="yes"
 		      dir="${cowonHome}">
 		  <arg line="covers.java"/>
+		  <arg value="x9-ext"/>
+		  <arg value="&quot;/media/egor/9016-4EF8&quot;"/>
 		</exec>
+		
+		<!-- Скопировать cowon.json на расп -->
+		<scp todir="pi:terry@192.168.100.7:/home/pi/pi-lists"
+		     file="${cowonHome}/cowon.json"
+		     trust="yes">
+		</scp>
 		
 		<!--exec executable="groovy" >
 		  <arg line="cowon.groovy"/>
 		</exec-->		
     </target>
-    
+        
     <target name="ll"
             description="Собрать ссылки на тексты песен в один файл Asciidoctor">
 		<exec executable="groovy" >

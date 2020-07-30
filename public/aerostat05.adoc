@@ -5,7 +5,7 @@
 
 == 25 марта 2007 - 9 сентября 2007
 
-<http://www.aquarium.ru/misc/aerostat/index05.html>
+<http://old.aquarium.ru/misc/aerostat/index05.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === Суфии - Кто Они?, 25 марта 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat97.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat97.html>
 
 [%hardbreaks]
 Sonzoo - Sufi Meditation Song
@@ -37,7 +37,7 @@ Jacques Arcadelt
 
 === ОБЭРИУ, 1 апреля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat98.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat98.html>
 
 [%hardbreaks]
 Hugh Le Caine - Dripsody
@@ -53,7 +53,7 @@ Nobukazu Takemura - Astral Beads
 
 === Апология Америки, 8 апреля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat99.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat99.html>
 
 .Simon & Garfunkel - America
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Bookends/Bookends.jpg[Bookends,200,200,role="thumb left"]
@@ -71,7 +71,7 @@ Billy Joel - Matter Of Trust
 
 === 1000 лет музыки, 15 апреля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat100.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat100.html>
 
 [%hardbreaks]
 Atrium Musicae de Madrid - Homero Hymnus
@@ -89,7 +89,7 @@ Ranjana Singers
 
 === Richard Thompson, 22 апреля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat101.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat101.html>
 
 [%hardbreaks]
 Richard Thompson - Turning Of The Tide
@@ -103,7 +103,7 @@ Richard Thompson - Walking The Long Miles Home
 
 === Дверь Лета (Beltane Eve), 29 апреля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat102.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat102.html>
 
 [%hardbreaks]
 Andy M. Stewart - Take Her In Your Arms
@@ -120,7 +120,7 @@ T.Rex - Beltane Walk
 
 === Памяти Ильи Кормильцева, 6 мая 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat103.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat103.html>
 
 [%hardbreaks]
 Nautilus Pompilius - Взгляд с экрана
@@ -135,7 +135,7 @@ Nautilus Pompilius - Титаник
 
 === Elvis Presley'56, 13 мая 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat104.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat104.html>
 
 [%hardbreaks]
 Elvis Presley - That's Alright (Mama)
@@ -156,7 +156,7 @@ Elvis Presley - Finders Keepers, Losers Weepers
 
 === Новая Коломна, 20 мая 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat105.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat105.html>
 
 [%hardbreaks]
 Ryou Kunihiko - William's Love
@@ -173,7 +173,7 @@ Sean Lennon - On Again Off Again
 
 === Иоганн Себастьян Бах, 27 мая 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat106.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat106.html>
 
 [%hardbreaks]
 Well-Tempered Clavier (4)
@@ -191,7 +191,7 @@ Suite #1 C maj - No6. Bouree 1 & 2
 
 === Frank Zappa, 3 июня 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat107.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat107.html>
 
 [%hardbreaks]
 Frank Zappa - Camarillo Brillo
@@ -213,7 +213,7 @@ Frank Zappa - Take Your Clothes Off When You Dance
 
 === Новые песни, 10 июня 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat108.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat108.html>
 
 [%hardbreaks]
 Paul McCartney - You Tell Me
@@ -229,7 +229,7 @@ Dan Bern - Suicide Room
 
 === Серьезная Музыка, 17 июня 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat109.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat109.html>
 
 [%hardbreaks]
 Brahms - Symphonie #3, part 2
@@ -239,7 +239,7 @@ Terry Riley - Rainbow In Curved Air
 
 === Несерьезная Музыка, 24 июня 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat110.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat110.html>
 
 [%hardbreaks]
 Leslie Saronie with Jack Hylton & His Orchestra - Jollity Farm
@@ -257,7 +257,7 @@ Jack Hylton - By The Waterfall
 
 === Sgt. Pepper's Lonely Hearts Club Band, 1 июля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat111.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat111.html>
 
 .Beatles - Sgt. Pepper's Lonely Hearts Club Band
 image:THE BEATLES/1967a - Sgt Peppers Lonely Hearts Club Band/cover.jpg[Sgt Peppers Lonely Hearts Club Band,200,200,role="thumb left"]
@@ -276,7 +276,7 @@ Beatles - All You Need Is Love
 
 === R.E.M., 8 июля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat112.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat112.html>
 
 .R.E.M. - Fall On Me
 image:REM/REM - Eponymous/cover.jpg[Eponymous,200,200,role="thumb left"]
@@ -313,7 +313,7 @@ R.E.M. - link:REM/REM%20-%20Up/lyrics/up.html#_daysleeper[Daysleeper]
 
 === Дао Де Цзин, 15 июля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat113.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat113.html>
 
 [%hardbreaks]
 Cattle In The Meadow
@@ -330,7 +330,7 @@ Donovan - Old Fashioned Picture Book
 
 === Восток и Запад, 22 июля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat114.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat114.html>
 
 [%hardbreaks]
 Dowland - Leggiero
@@ -344,7 +344,7 @@ Bhajan Singers - Jhili Mili
 
 === Silly Wizard, 29 июля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat115.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat115.html>
 
 [%hardbreaks]
 Silly Wizard - Lover's Heart
@@ -358,7 +358,7 @@ Silly Wizard - The Chill Eastern Winds
 
 === Археология - Canterbury And Others, 5 августа 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat116.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat116.html>
 
 [%hardbreaks]
 Matching Mole - Starting In The Middle Of The Day We Can Drink Our Politics Away
@@ -373,7 +373,7 @@ Matching Mole - O Caroline
 
 === Алиса в Зазеркалье, 12 августа 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat117.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat117.html>
 
 [%hardbreaks]
 Donovan - Mr.Wind
@@ -392,7 +392,7 @@ Idle Race - Sea Of Dreams
 
 === Сно-видение, 19 августа 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat118.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat118.html>
 
 [%hardbreaks]
 Brian Eno - Here He Comes
@@ -408,7 +408,7 @@ Beatles - Good Night
 
 === The Byrds, 26 августа 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat119.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat119.html>
 
 [%hardbreaks]
 Byrds - Turn Turn Turn
@@ -427,7 +427,7 @@ Byrds - Get To You
 
 === Новые Песни В Сентябре, 2 сентября 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat120.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat120.html>
 
 [%hardbreaks]
 Gallows - In The Belly Of A Shark
@@ -443,7 +443,7 @@ Paul McCartney - Too Much Rain
 
 === Paul Simon, 9 сентября 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat121.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat121.html>
 
 .Simon & Garfunkel - Mrs. Robinson
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Bookends/Bookends.jpg[Bookends,200,200,role="thumb left"]
@@ -467,7 +467,7 @@ Paul Simon - 59th Bridge Street Song
 
 === Jimi: Are You Experienced?, 16 сентября 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat122.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat122.html>
 
 [%hardbreaks]
 Jimi Hendrix Experience - Purple Haze

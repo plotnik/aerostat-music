@@ -18,7 +18,7 @@ h3 {
 
 === Новый Джаз Британии, 22 февраля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat510.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat510.html>
 
 .John Surman - Whistman's Wood
 image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
@@ -34,7 +34,7 @@ Nigel Price Organ Trio - Hit The Road
 
 === Русские композиторы, 15 февраля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat509.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat509.html>
 
 [%hardbreaks]
 Римский-Корсаков - Майская Ночь
@@ -49,7 +49,7 @@ Nigel Price Organ Trio - Hit The Road
 
 === Новые Песни. Февраль, 8 февраля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat508.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat508.html>
 
 .Aphex Twin - Diskhat ALL Prepared1mixed
 image:APHEX TWIN/Aphex Twin - Computer Controlled Acoustic Instruments pt2 EP/cover.jpg[Computer Controlled Acoustic Instruments pt2 EP,200,200,role="thumb left"]
@@ -66,7 +66,7 @@ Infected Mushroom - Bass Nipple
 
 === Imbolc 2015, 1 февраля 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat507.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat507.html>
 
 .James Vincent McMorrow - Gold
 image:James Vincent McMorrow - Post Tropical/cover.jpg[Post Tropical,200,200,role="thumb left"]
@@ -85,7 +85,7 @@ Phil Cunningham/Aly Bain - Sheenagh's Air
 
 === Пятиугольный Грех, 25 января 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat506.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat506.html>
 
 [%hardbreaks]
 Террариум - Полина Дороти
@@ -102,7 +102,7 @@ Phil Cunningham/Aly Bain - Sheenagh's Air
 
 === Deluxe По Сусекам, 18 января 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat505.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat505.html>
 
 .Jethro Tull – Rainbow Blues
 image:JETHRO TULL/1976  M.U. - The Best of Jethro Tull/cover.jpg[The Best of Jethro Tull,200,200,role="thumb left"]
@@ -124,7 +124,7 @@ Hollies - Do The Best You Can
 
 === Новая музыка, 11 января 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat504.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat504.html>
 
 .Decemberists – The Wrong Year
 image:THE DECEMBERISTS/2015 What a terrible world what a beautiful world/cover.png[2015 What a terrible world what a beautiful world,200,200,role="thumb left"]
@@ -141,7 +141,7 @@ Paul McCartney – Hope For The Future
 
 === Притчи, 4 января 2015
 
-<http://www.aquarium.ru/misc/aerostat/aerostat503.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat503.html>
 
 .Bob Dylan – I Dreamed I Saw St Augustine
 image:BOB DYLAN/Bob Dylan 1967 - John Wesley Harding/cover.jpg[John Wesley Harding,200,200,role="thumb left"]
@@ -161,7 +161,7 @@ Bob Dylan – You Ain't Going Nowhere
 
 === К Новому Году!, 28 декабря 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat502.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat502.html>
 
 [%hardbreaks]
 Billy Gilman – Angels We Have Heard On High
@@ -179,7 +179,7 @@ Bing Crosby – White Christmas
 
 === Лучшие Альбомы 2014, 21 декабря 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat501.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat501.html>
 
 .Sun Kil Moon – Ben's My Friend
 image:Sun Kil Moon - The Best/sun_kil_moon.png[The Best,200,200,role="thumb left"]
@@ -204,7 +204,7 @@ Future Islands – Seasons (Waiting On You)
 
 === О красоте и счастье, 14 декабря 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat500.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat500.html>
 
 .Donovan - link:DONOVAN/Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/lyrics/gift.html#_there_was_a_time[There Was A Time]
 image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
@@ -240,7 +240,7 @@ John Lennon – Bless You
 
 === Небылицы из жизни, 7 декабря 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat499.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat499.html>
 
 .Donovan – link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_lost_time[Lost Time]
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
@@ -275,7 +275,7 @@ Bhajan Singers – Ganesh
 
 === Kevin Ayers, 30 ноября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat498.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat498.html>
 
 [%hardbreaks]
 Kevin Ayers – Town Feeling
@@ -292,7 +292,7 @@ Kevin Ayers – Red Green And You Blue
 
 === Новые Пляски Динозавров, 23 ноября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat497.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat497.html>
 
 [%hardbreaks]
 Pink Floyd – Calling
@@ -306,7 +306,7 @@ Queen – Love Kills
 
 === По Вашим Просьбам, 16 ноября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat496.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat496.html>
 
 [%hardbreaks]
 Billy Mackenzie – Outernational
@@ -319,7 +319,7 @@ Ed Sheeran – I See Fire
 
 === Новые Песни. Ноябрь, 9 ноября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat495.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat495.html>
 
 .Thom Yorke – A Brain In The Bottle
 image:RADIOHEAD/Tomorrows Modern Boxes/cover.jpg[Tomorrows Modern Boxes,200,200,role="thumb left"]
@@ -341,7 +341,7 @@ Old Crow Medicine Show – Firewater
 
 === "Соль", 2 ноября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat494.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat494.html>
 
 [%hardbreaks]
 БГ – Праздник Урожая
@@ -357,7 +357,7 @@ Old Crow Medicine Show – Firewater
 
 === Старики, 26 октября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat493.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat493.html>
 
 .Leonard Cohen – Slow
 image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
@@ -381,7 +381,7 @@ Rolling Stones – Doom And Gloom
 
 === Молодые Неизвестно Кто, 19 октября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat492.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat492.html>
 
 [%hardbreaks]
 Го Го Го – Коза
@@ -397,7 +397,7 @@ Lindisfarne – Meet Me On The Corner
 
 === Слова игумена Евмения, 12 октября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat491.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat491.html>
 
 .Donovan – To Susan On The West Coast
 image:DONOVAN/Donovan - Barabajagal/cover.jpg[Barabajagal,200,200,role="thumb left"]
@@ -417,7 +417,7 @@ Fortunes – Here It Comes Again
 
 === Урожай в Октябре, 5 октября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat490.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat490.html>
 
 .Leonard Cohen – Nevermind
 image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
@@ -442,7 +442,7 @@ Leonard Cohen – You Got Me Singing
 
 === Откуда Взялся "Чубчик", 28 сентября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat489.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat489.html>
 
 [%hardbreaks]
 БГ – Станочек
@@ -461,7 +461,7 @@ Leonard Cohen – You Got Me Singing
 
 === Новые имена, 21 сентября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat488.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat488.html>
 
 [%hardbreaks]
 Shakin' Stevens – This Ole House
@@ -479,7 +479,7 @@ House Of Love – The Beatles And The Stones
 
 === Урожай Сентября 2014, 14 сентября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat487.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat487.html>
 
 .Eric Clapton – They Call Me The Breeze
 image:Eric Clapton/The Breeze - An Appreciation of JJ Cale/cover.jpg[An Appreciation of JJ Cale,200,200,role="thumb left"]
@@ -513,7 +513,7 @@ Royal Blood – Loose Change
 
 === Гленн Гульд, 7 сентября 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat486.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat486.html>
 
 [%hardbreaks]
 J.S. Bach – French Suite #5 (Gigue)
@@ -531,7 +531,7 @@ J.S. Bach – English Suite #1, Sarabande
 
 === Притчи в конце лета, 31 августа 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat485.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat485.html>
 
 .Beck – Lazy Flies
 image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]

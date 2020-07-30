@@ -5,7 +5,7 @@
 
 == 30 августа 2015 - 21 февраля 2016
 
-<http://www.aquarium.ru/misc/aerostat/index23.html>
+<http://old.aquarium.ru/misc/aerostat/index23.html>
 
 ++++
 <style>
@@ -21,7 +21,7 @@ h3 {
 
 === Новые Имена, 21 февраля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat562.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat562.html>
 
 [%hardbreaks]
 Holborne - The Night Watch
@@ -38,7 +38,7 @@ Runrig - Loch Lomond
 
 === Pet Sounds, 14 февраля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat561.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat561.html>
 
 .Beach Boys - Wouldn't It Be Nice
 image:The Beach Boys - Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
@@ -59,7 +59,7 @@ Beach Boys - Caroline No
 
 === New February Music, 7 февраля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat560.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat560.html>
 
 [%hardbreaks]
 Suede - Like Kids
@@ -75,7 +75,7 @@ Iggy Pop - Gardenia
 
 === Памяти Энди М. Стюарта, 31 января 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat559.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat559.html>
 
 .Silly Wizard - Queen Of All Argyll
 image:SILLY WIZARD/Silly Wizard - Kiss The Tears Away/cover.jpg[Kiss The Tears Away,200,200,role="thumb left"]
@@ -97,7 +97,7 @@ Andy M. Stewart - I Mourn For The Highlands
 
 === David Bowie R.I.P., 24 января 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat558.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat558.html>
 
 [%hardbreaks]
 David Bowie - Sound And Vision
@@ -112,7 +112,7 @@ David Bowie - All The Madmen
 
 === История "Акустики", 17 января 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat557.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat557.html>
 
 [%hardbreaks]
 Аквариум - Песня Для Нового Быта
@@ -133,7 +133,7 @@ David Bowie - All The Madmen
 
 === Песни Протеста, 10 января 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat556.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat556.html>
 
 .Bob Dylan - Masters Of War
 image:BOB DYLAN/Bob Dylan 1963 - The Freewheelin' Bob Dylan/cover.jpg[The Freewheelin Bob Dylan,200,200,role="thumb left"]
@@ -157,7 +157,7 @@ Creedence Clearwater Revival - Who'll Stop The Rain
 
 === Best of 2015, 3 января 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat555.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat555.html>
 
 .Richard Thompson - link:RICHARD%20THOMPSON/Richard%20Thompson%20-%20Still/lyrics/still.html#_broken_doll[Broken Doll]
 image:RICHARD THOMPSON/Richard Thompson - Still/cover.jpg[Still,200,200,role="thumb left"]
@@ -185,7 +185,7 @@ Billy Gibbons - Treat Her Right
 
 === Предновогодние Притчи, 27 декабря 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat554.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat554.html>
 
 .Bob Dylan - link:BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html#_spirit_on_the_water[Spirit On The Water]
 image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
@@ -216,7 +216,7 @@ Rod Stewart - Love And Be Loved
 
 === Стихи под Рождество, 20 декабря 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat553.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat553.html>
 
 [%hardbreaks]
 Bing Crosby - Christmas Is Here To Stay 
@@ -233,7 +233,7 @@ Bing Crosby - White Christmas
 
 === Buena Vista Social Club, 13 декабря 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat552.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat552.html>
 
 [%hardbreaks]
 Buena Vista Social Club - Amor De Loca Juventud
@@ -246,7 +246,7 @@ Ibrahim Ferrer - Cienfuegos Tiene
 
 === Новые Песни Декабря, 6 декабря 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat551.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat551.html>
 
 .King Gizzard &The Lizard Wizard - Sense 
 image:KING GIZZARD & THE LIZARD WIZARD/2015 - Paper Mache Dream Balloon/front.jpg[Paper Mache Dream Balloon,200,200,role="thumb left"]
@@ -268,7 +268,7 @@ Everything Everything - Spring / Sun / Winter / Dread
 
 === Alone in the Universe, 29 ноября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat550.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat550.html>
 
 .Jeff Lynne's ELO - When I Was A Boy
 image:Electric Light Orchestra/2015 - Alone In The Universe/Front.jpg[Alone In The Universe,200,200,role="thumb left"]
@@ -288,7 +288,7 @@ Jeff Lynne's ELO - Blue
 
 === 3 = 8, 22 ноября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat549.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat549.html>
 
 [%hardbreaks]
 Террариум - Сибирская Песня
@@ -304,7 +304,7 @@ Jeff Lynne's ELO - Blue
 
 === Новые Песни Ноября, 15 ноября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat548.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat548.html>
 
 .Crowded House - Help Is Coming 
 image:CROWDED HOUSE/1999 - Afterglow/front.jpg[Afterglow,200,200,role="thumb left"]
@@ -321,7 +321,7 @@ Rod Stewart - Hold The Line
 
 === Памяти Бориса Рубекина, 8 ноября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat547.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat547.html>
 
 [%hardbreaks]
 Борис Рубекин - Катенькин Вальс
@@ -337,7 +337,7 @@ Rod Stewart - Hold The Line
 
 === Соуэн, 1 ноября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat546.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat546.html>
 
 .Battlefield Band - 5 Mile Chase 
 image:Battlefield Band - Beg & Borrow/cover.jpg[Beg & Borrow,200,200,role="thumb left"]
@@ -360,7 +360,7 @@ Tannahill Weavers - Roddie MacDonald's Favourite
 
 === Стихи Поля Элюара, 25 октября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat545.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat545.html>
 
 .Leonard Cohen - If It Be Your Will 
 image:LEONARD COHEN/07-Various Positions (1984)/cover.jpg[Various Positions (1984),200,200,role="thumb left"]
@@ -384,7 +384,7 @@ Faure - Dolly: Tendresse
 
 === Новости Октября, 18 октября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat544.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat544.html>
 
 .Keith Richards - link:Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html#_robbed_blind[Robbed Blind]
 image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
@@ -411,7 +411,7 @@ Faces - You Can Make Me Dance
 
 === Велосипедист и эгрегор, 11 октября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat543.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat543.html>
 
 .Beck - Chain Reaction
 image:BECK/Guero/cover.jpg[Guero,200,200,role="thumb left"]
@@ -446,7 +446,7 @@ Arthada & Friends - Charan Tale
 
 === Стихи Алена Боскэ, 4 октября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat542.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat542.html>
 
 .Cardigans - Travels With Charley
 image:The Cardigans - Life/cover.jpg[Life,200,200,role="thumb left"]
@@ -472,7 +472,7 @@ Bhajan Singers - Nam Dhare
 
 === Еще Немного Нового , 27 сентября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat541.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat541.html>
 
 .Small Faces - Ichickoo Park
 image:The Small Faces - Ultimate Collection/cover.jpg[Ultimate Collection,200,200,role="thumb left"]
@@ -495,7 +495,7 @@ Paul McCartney Etc - Love Song To Earth
 
 === Молчание - золото, 20 сентября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat540.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat540.html>
 
 .King Creosote - Something To Believe In
 image:King Creosote/King Creosote 2014 - From Scotland With Love/cover.jpg[From Scotland With Love,200,200,role="thumb left"]
@@ -521,7 +521,7 @@ Motorhead - Evil Eye
 
 === Еще Новые Песни Сентября, 13 сентября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat539.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat539.html>
 
 [%hardbreaks]
 Mynabirds - All My Heart
@@ -536,7 +536,7 @@ Incredible String Band - Lover Man
 
 === Новые Песни Сентября, 6 сентября 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat538.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat538.html>
 
 .Keith Richards - link:Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html#_trouble[Trouble]
 image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
@@ -553,7 +553,7 @@ Black - Good Liar
 
 === Новости О Том и Сем, 30 августа 2015
 
-<http://aquarium.ru/misc/aerostat/aerostat537.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat537.html>
 
 .T-Rex - Mystic Lady
 image:T-REX/T-Rex - The Slider/cover.jpg[Rex - The Slider,200,200,role="thumb left"]

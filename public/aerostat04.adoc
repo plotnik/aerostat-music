@@ -5,7 +5,7 @@
 
 == 8 октября 2006 - 18 марта 2007
 
-<http://www.aquarium.ru/misc/aerostat/index04.html>
+<http://old.aquarium.ru/misc/aerostat/index04.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === The Grateful Dead, 18 марта 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat96.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat96.html>
 
 [%hardbreaks]
 The Grateful Dead - Terrapin Station
@@ -35,7 +35,7 @@ The Grateful Dead - Ship Of Fools
 
 === Квасса-Квасса или Этно-3, 11 марта 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat95.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat95.html>
 
 [%hardbreaks]
 S.E. Rogie - Jojo Yalahjo
@@ -50,7 +50,7 @@ Juluka - Akanaki Nobunaga
 
 === О любви, 4 марта 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat94.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat94.html>
 
 .Crowded House - link:CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html#_into_temptation[Into Temptation]
 image:CROWDED HOUSE/1996 - The Very Best Of Crowded House/folder.jpg[The Very Best Of Crowded House,200,200,role="thumb left"]
@@ -68,7 +68,7 @@ Paul Simon - Love
 
 === Музыка Индии, 25 февраля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat93.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat93.html>
 
 [%hardbreaks]
 George Harrison - Microbes
@@ -84,7 +84,7 @@ George Harrison - Mystical One
 
 === Искатель Бога Cat Stevens, он же - Юсуф Ислам, 18 февраля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat92.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat92.html>
 
 [%hardbreaks]
 Cat Stevens - Longer Boats
@@ -101,7 +101,7 @@ Yusuf Islam - Midday
 
 === Cocteau Twins, 11 февраля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat91.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat91.html>
 
 [%hardbreaks]
 Cocteau Twins - Evangeline
@@ -117,7 +117,7 @@ Cocteau Twins - Donimo
 
 === Traffic, 4 февраля 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat90.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat90.html>
 
 [%hardbreaks]
 Traffic - Coloured Rain
@@ -133,7 +133,7 @@ Traffic - Vagabond Virgin
 
 === Памятка Паломнику по Европе, 28 января 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat89.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat89.html>
 
 [%hardbreaks]
 Flook! - Rosbeg
@@ -148,7 +148,7 @@ Battlefield Band - Happy Daze
 
 === Tom Petty, 21 января 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat88.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat88.html>
 
 .Tom Petty - You Got Lucky
 image:TOM PETTY/Tom Petty - Long After Dark/Folder.jpg[Long After Dark,200,200,role="thumb left"]
@@ -177,7 +177,7 @@ Tom Petty - Time To Move On
 
 === Содержимое Моей Головы, 14 января 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat87.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat87.html>
 
 [%hardbreaks]
 Dillinger Escape Plan - We Are The Storm
@@ -196,7 +196,7 @@ Donovan - Aye My Love
 
 === 10 лучших групп за последние 2006 лет, 7 января 2007
 
-<http://www.aquarium.ru/misc/aerostat/aerostat86.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat86.html>
 
 .R.E.M. - Bad Day
 image:REM/2003_In Time-The Best of R.E.M. 1988-2003/cover.jpg[The Best of R.E.M. 1988-2003,200,200,role="thumb left"]
@@ -214,7 +214,7 @@ Beatles - She Said She Said
 
 === С Наступающим!, 31 декабря 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat85.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat85.html>
 
 [%hardbreaks]
 Cindy Lauper - Girls Just Want To Have Fun
@@ -232,7 +232,7 @@ The Beatles - Octopus' Garden
 
 === Christmas time Again!, 24 декабря 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat84.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat84.html>
 
 [%hardbreaks]
 Bing Crosby - White Christmas
@@ -250,7 +250,7 @@ We Wish You A Merry Christmas!
 
 === Happy Birthday, Keith!, 17 декабря 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat83.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat83.html>
 
 [%hardbreaks]
 Rolling Stones - Beast Of Burden
@@ -267,7 +267,7 @@ Rolling Stones - Dandelion
 
 === Tom Waits: Сироты и все-все-все, 10 декабря 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat82.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat82.html>
 
 [%hardbreaks]
 Tom Waits - Bend Down The Branches
@@ -285,7 +285,7 @@ Tom Waits - Widow's Grove
 
 === George Frideric Handel, 3 декабря 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat81.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat81.html>
 
 [%hardbreaks]
 Water Music (D maj) - Allegro
@@ -303,7 +303,7 @@ Royal Fireworks - La rejouissance: Allegro
 
 === Психоделия, 26 ноября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat80.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat80.html>
 
 [%hardbreaks]
 Pink Floyd - The Gnome
@@ -320,7 +320,7 @@ Jimi Hendrix - Burning Of The Midnight Lamp
 
 === Новые песни, старые песни, 19 ноября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat79.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat79.html>
 
 [%hardbreaks]
 The Rosewood Thieves - Los Angeles
@@ -335,7 +335,7 @@ The Fratellis - Whistle For The Choir
 
 === Песни южных морей, 12 ноября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat78.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat78.html>
 
 [%hardbreaks]
 Sting - Blood Red Roses
@@ -353,7 +353,7 @@ The Fratellis - Cigarello
 
 === Снова 70-е, 5 ноября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat77.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat77.html>
 
 [%hardbreaks]
 Rod Stewart - Maggie May
@@ -369,7 +369,7 @@ Cat Stevens - Moonshadow
 
 === Samhain, 29 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat76.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat76.html>
 
 [%hardbreaks]
 Sandy Denny - Fotheringay
@@ -384,7 +384,7 @@ Archie Fisher - Joy Of My Heart
 
 === Митьки и Дэвид Боуи, 22 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat75.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat75.html>
 
 [%hardbreaks]
 David Bowie - Fantastic Voyage
@@ -400,7 +400,7 @@ David Bowie - Word On A Wing
 
 === Краткая Суть Буддизма, 15 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat74.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat74.html>
 
 .R.E.M. - link:REM/REM%20-%20Up/lyrics/up.html#_at_my_most_beautiful[At My Most Beautiful]
 image:REM/REM - Up/cover.jpg[Up,200,200,role="thumb left"]
@@ -436,7 +436,7 @@ Om Mani Padme Hum
 
 === Золотая Заря Рок-н-Ролла, 8 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat73.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat73.html>
 
 .John Lee Hooker - link:JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%202)/lyrics/hooker2.html#_boom_boom[Boom Boom]
 image:JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 2)/cover.jpg[The Ultimate Collection (CD 2),200,200,role="thumb left"]

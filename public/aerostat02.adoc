@@ -5,7 +5,7 @@
 
 == 6 ноября 2005 - 16 апреля 2006
 
-<http://www.aquarium.ru/misc/aerostat/index02.html>
+<http://old.aquarium.ru/misc/aerostat/index02.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === "Как Рок-н-Ролл Спас Западную Цивилизацию От Вымирания", 16 апреля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat48.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat48.html>
 
 .Beatles - I Want To Hold Your Hand
 image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
@@ -43,7 +43,7 @@ Billy J. Kramer & The Dakotas - I'll Keep You Satisfied
 
 === "Божественная Музыка", 9 апреля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat47.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat47.html>
 
 [%hardbreaks]
 Srila GuruDeva - Shri Guru Vandanam
@@ -60,7 +60,7 @@ Beatles - Across The Universe
 
 === "Беспечный Русский Бродяга", 2 апреля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat46.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat46.html>
 
 [%hardbreaks]
 Аквариум - Стаканы
@@ -75,7 +75,7 @@ Beatles - Across The Universe
 
 === "Donovan", 26 марта 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat45.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat45.html>
 
 .Donovan - Universal Soldier
 image:DONOVAN/Donovan - Fairytale/cover.jpg[Fairytale,200,200,role="thumb left"]
@@ -124,7 +124,7 @@ Donovan - Entertaintment Of a Shy Girl
 
 === "Голоса Из Золотого Сумрака", 19 марта 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat44.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat44.html>
 
 [%hardbreaks]
 Malcolm Arnold - Whistle Down The Wind
@@ -143,7 +143,7 @@ Tremeloes - Silence Is Golden
 
 === "Марк Болан", 12 марта 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat43.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat43.html>
 
 [%hardbreaks]
 Tyrannosaurus Rex - Life's A Gas
@@ -165,7 +165,7 @@ Tyrannosaurus Rex - A Day Laye
 
 === "Слово о Великой Богине", 5 марта 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat42.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat42.html>
 
 .Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_alexandra_leaving[Alexandra Leaving]
 image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
@@ -199,7 +199,7 @@ Robert Palmer - Airplane
 
 === "Happy Birthday, George!", 24 февраля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat41.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat41.html>
 
 .George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html#_any_road[Any Road]
 image:GEORGE HARRISON/George Harrison - Brainwashed/cover.jpg[Brainwashed,200,200,role="thumb left"]
@@ -222,7 +222,7 @@ George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dar
 
 === "Есенин и Электроника", 19 февраля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat40.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat40.html>
 
 [%hardbreaks]
 Two Banks Of Four - Street Lullaby
@@ -238,7 +238,7 @@ Shpongle - Dorset Perception
 
 === "Звук Другого Барабана", 12 февраля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat39.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat39.html>
 
 .Tom Waits - Cemetery Polka
 image:TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1/raindogs.png[Rain Dogs - part 1,200,200,role="thumb left"]
@@ -261,7 +261,7 @@ Mike Oldfield - Sheba
 
 === "American Cousins", 5 февраля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat38.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat38.html>
 
 [%hardbreaks]
 Harry Nilsson - My Old Desk
@@ -278,7 +278,7 @@ Grateful Dead - Ripples
 
 === "Imbolk - Celts Galore!", 29 января 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat37.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat37.html>
 
 .Van Morrison - On Raglan Road
 image:VAN MORRISON/Van Morrison - Irish Heartbeat/cover.jpg[Irish Heartbeat,200,200,role="thumb left"]
@@ -296,7 +296,7 @@ Silly Wizard - The Loch Tay Boat Song
 
 === "Гитары гандхарвов", 22 января 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat36.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat36.html>
 
 George Harrison - That's The Way It Goes
 image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
@@ -317,7 +317,7 @@ George Harrison - That's The Way It Goes
 
 === "70-е - 2", 15 января 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat35.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat35.html>
 
 .Procol Harum - Fires Which Burnt Brightly
 image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
@@ -347,7 +347,7 @@ Splinter - Elly May
 
 === "Мудрость пустыни", 8 января 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat34.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat34.html>
 
 .Bob Dylan - Lone Pilgrim
 image:BOB DYLAN/Bob Dylan 1993 - World Gone Wrong/cover.jpg[World Gone Wrong,200,200,role="thumb left"]
@@ -370,7 +370,7 @@ Electric Light Orchestra - One Summer Dream
 
 === "Свет и сладость", 1 января 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat33.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat33.html>
 
 .Donovan - Jennifer Juniper
 image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="thumb left"]
@@ -391,7 +391,7 @@ The Beatles - I'll Be On My Way
 
 === "Рождественские песни", 25 декабря 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat32.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat32.html>
 
 .Jethro Tull - Christmas Song
 image:JETHRO TULL/1972  Living In The Past/cover.jpg[Living In The Past,200,200,role="thumb left"]
@@ -414,7 +414,7 @@ John Lennon - Happy Christmas (War Is Over)
 
 === "Позитивные Вибрации С Солнечного Острова или Чему Джа Растафари научил своих детей", 18 декабря 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat31.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat31.html>
 
 [%hardbreaks]
 Bob Marley - Natty Dread
@@ -432,7 +432,7 @@ Bob Marley - Three Little Birds
 
 === "Музыка Безмятежной Неги", 11 декабря 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat30.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat30.html>
 
 [%hardbreaks]
 Beatles - Honey Pie
@@ -450,7 +450,7 @@ Glenn Miller - Say "Si Si"
 
 === "Этно Снова На Коне", 4 декабря 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat29.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat29.html>
 
 [%hardbreaks]
 Дживан Гаспарян
@@ -466,7 +466,7 @@ Beatles - The Inner Light
 
 === День Рождения, 27 ноября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat28.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat28.html>
 
 .Jethro Tull - Cup Of Wonder
 image:JETHRO TULL/1977  Songs From The Wood/cover.jpg[Songs From The Wood,200,200,role="thumb left"]
@@ -487,7 +487,7 @@ Bach - "Air" from Orchestra Suite No. 3
 
 === "Голоса Гандхарвов", 20 ноября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat27.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat27.html>
 
 .Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_moths[Moths]
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
@@ -509,7 +509,7 @@ Beatles - All You Need Is Love
 
 === "Поучительная История Б. Дилана", 13 ноября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat26.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat26.html>
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_it_ain_t_me_babe[It Ain't Me]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
@@ -541,7 +541,7 @@ Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/
 
 === "Странные песни, странные люди, безоблачный мир", 6 ноября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat25.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat25.html>
 
 .Donovan - Jabberwocky
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]

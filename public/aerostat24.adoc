@@ -5,7 +5,7 @@
 
 == 28 февраля 2016 - 21 августа 2016
 
-<http://www.aquarium.ru/misc/aerostat/index24.html>
+<http://old.aquarium.ru/misc/aerostat/index24.html>
 
 ++++
 <style>
@@ -21,7 +21,7 @@ h3 {
 
 === э э каммингс, 21 августа 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat588.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat588.html>
 
 [%hardbreaks]
 Debussy - The Girl With The Flaxen Hair
@@ -38,7 +38,7 @@ Alexi Murdoch - Blue Mind
 
 === Не судьба, 14 августа 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat587.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat587.html>
 
 .Sufjan Stevens - Concerning The UFO
 image:SUFJAN STEVENS/Sufjan Stevens 2005 - Illinoise/Folder.jpg[Illinoise,200,200,role="thumb left"]
@@ -60,7 +60,7 @@ Al Bowlly - Easy Come Easy Go
 
 === Новые Песни Августа, 7 августа 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat586.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat586.html>
 
 .Divine Comedy - Catherine The Great
 image:DIVINE COMEDY/2016 - Foreverland/Cover.jpg[Foreverland,200,200,role="thumb left"]
@@ -78,7 +78,7 @@ Ikaya - Love Note
 
 === Лунассад, 31 июля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat585.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat585.html>
 
 [%hardbreaks]
 Iron Horse - Helen Of Kirconnel
@@ -93,7 +93,7 @@ Pauline Scanlon - The Poorest Company
 
 === "Золотой Букет", 24 июля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat584.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat584.html>
 
 [%hardbreaks]
 БГ - Таруса
@@ -110,7 +110,7 @@ Pauline Scanlon - The Poorest Company
 
 === Новые Имена No.13, 17 июля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat583.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat583.html>
 
 .Super Furry Animals - Helium Hearts
 image:Super Furry Animails - Dark Days-Light Years/cover.jpg[Dark Days-Light Years,200,200,role="thumb left"]
@@ -129,7 +129,7 @@ Rupa & April Fishes - Maintenant
 
 === Гендель - "Музыка на воде", 10 июля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat582.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat582.html>
 
 [%hardbreaks]
 Handel - The Water Music. Suite in D maj. Allegro
@@ -150,7 +150,7 @@ Handel - The Water Music. Suite in F maj. Country Dance
 
 === Red Hot Chili Peppers - "The Getaway", 3 июля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat581.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat581.html>
 
 .Red Hot Chili Peppers - The Getaway
 image:RED HOT CHILI PEPPERS/Red Hot Chili Peppers 2016 - The Getaway/cover.jpg[The Getaway,200,200,role="thumb left"]
@@ -167,7 +167,7 @@ Red Hot Chili Peppers - Detroit
 
 === Новые Песни Июня, 26 июня 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat580.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat580.html>
 
 .King Creosote - Helpless To Turn
 image:King Creosote/2016 - with Michael Johnston - The Bound Of The Red Deer/folder.jpg[The Bound Of The Red Deer,200,200,role="thumb left"]
@@ -189,7 +189,7 @@ Paul McCartney - Wild And Beautiful
 
 === Paul Simon - "Stranger To Stranger", 19 июня 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat579.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat579.html>
 
 .Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html#_in_a_parade[In A Parade]
 image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Stranger,200,200,role="thumb left"]
@@ -208,7 +208,7 @@ Paul Simon - Proof of Love
 
 === Blonde On Blonde, 12 июня 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat578.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat578.html>
 
 .Bob Dylan - Rainy Day Women #12&5
 image:BOB DYLAN/Bob Dylan 1966 - Blonde On Blonde/cover.jpg[Blonde On Blonde,200,200,role="thumb left"]
@@ -227,7 +227,7 @@ Bob Dylan - Absolutely Sweet Marie
 
 === Музыка Австралии, 5 июня 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat577.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat577.html>
 
 .King Gizzard & The Lizard Wizard- Papier Mache Dream Balloon
 image:KING GIZZARD & THE LIZARD WIZARD/2015 - Paper Mache Dream Balloon/front.jpg[Paper Mache Dream Balloon,200,200,role="thumb left"]
@@ -250,7 +250,7 @@ King Gizzard & The Lizard Wizard - Bone
 
 === Мысли о йоге, 29 мая 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat576.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat576.html>
 
 .Paul McCartney - Blue Jean Babe
 image:PAUL MCCARTNEY/1999 - Run Devil Run/cover.jpg[Run Devil Run,200,200,role="thumb left"]
@@ -285,7 +285,7 @@ Ustad Shujaat Khan - Benares
 
 === Cнег На Голову или Новые Песни Мая, 22 мая 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat575.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat575.html>
 
 .Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html#_cool_papa_bell[Cool Papa Bell]
 image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Stranger,200,200,role="thumb left"]
@@ -307,7 +307,7 @@ Stone Roses - All For One
 
 === Маленькие Альбомы (EP), 15 мая 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat574.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat574.html>
 
 .Donovan - Universal Soldier
 image:DONOVAN/Donovan - Catch The Wind/cover.jpg[Catch The Wind,200,200,role="thumb left"]
@@ -332,7 +332,7 @@ Clash - I Fought The Law
 
 === Истории О Музыке, 8 мая 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat573.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat573.html>
 
 .Etta James - At Lasty
 image:Etta James - At Last!/cover.jpg[At Last!,200,200,role="thumb left"]
@@ -353,7 +353,7 @@ Andy Williams - Can't Get Used To Losing You
 
 === Пасха и Белтайн, 1 мая 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat572.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat572.html>
 
 .Christy Moore - link:Christy%20Moore%20-%20Ordinary%20Man/lyrics/ordinary.html#_st_brendan_s_voyage[St. Brendan’s Voyage]
 image:Christy Moore - Ordinary Man/cover.jpg[Ordinary Man,200,200,role="thumb left"]
@@ -385,7 +385,7 @@ Our Daily Bread - A Mighty Fortress
 
 === Новые Песни В Апреле, 24 апреля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat571.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat571.html>
 
 .Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html#_wristband[Wristband]
 image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Stranger,200,200,role="thumb left"]
@@ -415,7 +415,7 @@ Weezer - Good Thing
 
 === Aftermath, 17 апреля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat570.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat570.html>
 
 [%hardbreaks]
 Rolling Stones - Mother's Little Helper
@@ -433,7 +433,7 @@ Rolling Stones - Take It Or Leave It
 
 === Великие Продюсеры, 10 апреля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat569.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat569.html>
 
 .Tom Petty - Kings Highway
 image:TOM PETTY/Tom Petty 1991 - Into the Great Wide Open/Folder.jpg[Into the Great Wide Open,200,200,role="thumb left"]
@@ -477,7 +477,7 @@ Free - The Highway Song
 
 === Новые Имена, 3 апреля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat568.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat568.html>
 
 .Kimmo Pohjonen - Anemone
 image:Kimmo Pohjonen - Sensitive Skin (2015)/cover.jpg[Sensitive Skin (2015),200,200,role="thumb left"]
@@ -494,7 +494,7 @@ The Matshikos - New South Africa
 
 === Ирландское Рагу, 27 марта 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat567.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat567.html>
 
 .Doors - Spanish Caravan
 image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
@@ -518,7 +518,7 @@ Bhajans - Shirdi Sai
 
 === Новые Песни Марта, 20 марта 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat566.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat566.html>
 
 .Tom Waits - The Soul Of A Man
 image:TOM WAITS/God Dont Never Change - The Songs Of Blind Willie Johnson/Cover.jpg[The Songs Of Blind Willie Johnson,200,200,role="thumb left"]
@@ -537,7 +537,7 @@ Loretta Lynn - Everybody Wants To Go To Heaven
 
 === 60-е: Археология, 13 марта 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat565.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat565.html>
 
 [%hardbreaks]
 Harmony Grass - Summer Dreaming
@@ -554,7 +554,7 @@ Tremeloes - Even The Bad Times Are Good
 
 === Булат Окуджава, 6 марта 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat564.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat564.html>
 
 [%hardbreaks]
 Булат Окуджава - Последний Троллейбус
@@ -574,7 +574,7 @@ Tremeloes - Even The Bad Times Are Good
 
 === Queen, 28 февраля 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat563.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat563.html>
 
 [%hardbreaks]
 Queen - I Want To Break Free

@@ -5,7 +5,7 @@
 
 == 22 мая 2005 - 30 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/index01.html>
+<http://old.aquarium.ru/misc/aerostat/index01.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === "Самайн (Соуэн)", 30 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat24.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat24.html>
 
 .Steeleye Span - Little Sir Hugh
 image:STEELEYE SPAN/Steeleye Span - Commoners Crown/cover.jpg[Commoners Crown,200,200,role="thumb left"]
@@ -42,7 +42,7 @@ Maire Brennan - Song Of David
 
 === "Правь, Британия!", 23 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat23.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat23.html>
 
 .Radiohead - Everything In Its Right Place
 image:RADIOHEAD/Radiohead - Not My Fault/cover.png[Not My Fault,200,200,role="thumb left"]
@@ -58,7 +58,7 @@ Looper - On The Flipside
 
 === "Сделай Сам!", 16 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat22.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat22.html>
 
 .Cotton Mather - Glory Eyes
 image:COTTON MATHER/Cotton Mather - The Big Picture/cover.png[The Big Picture,200,200,role="thumb left"]
@@ -92,7 +92,7 @@ Sixpence None The Richer - Kiss Me
 
 === "С днем рождения, Джон", 9 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat21.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat21.html>
 
 .Beatles - Strawberry Fields Forever
 image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
@@ -115,7 +115,7 @@ Beatles - Free As A Bird
 
 === "Россия - 80-е", 2 октября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat20.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat20.html>
 
 [%hardbreaks]
 Санкт-Петербург - Сердце Камня
@@ -131,7 +131,7 @@ Beatles - Free As A Bird
 
 === "Пора сбора урожая", 25 сентября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat19.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat19.html>
 
 .Sigur Ros - Glosoli
 image:SIGUR ROS/Sigur Ros - Takk (V0)/Takk.jpg[Takk (V0),200,200,role="thumb left"]
@@ -150,7 +150,7 @@ Damien Rice - Unplayed Piano
 
 === Прямой эфир, 18 сентября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat18.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat18.html>
 
 .Tom Petty - link:TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html#_accused_of_love[Accused Of Love]
 image:TOM PETTY/Tom Petty - Echo/cover.jpg[Echo,200,200,role="thumb left"]
@@ -163,7 +163,7 @@ Red Hot Chili Peppers - Eskimo
 
 === "Beatles после Beatles", 11 сентября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat17.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat17.html>
 
 .George Harrison - My Sweet Lord
 image:GEORGE HARRISON/George Harrison - Live In Japan CD2/cover.jpg[Live In Japan CD2,200,200,role="thumb left"]
@@ -184,7 +184,7 @@ Beatles - Real Love
 
 === "Синтезатор Galore!", 4 сентября 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat16.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat16.html>
 
 .Brian Eno - By This River
 image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Science,200,200,role="thumb left"]
@@ -203,7 +203,7 @@ Nobukazu Takemura - Wandering
 
 === "God Save Britania (80s)", 28 августа 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat15.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat15.html>
 
 .Cocteau Twins - Iceblink Luck
 image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
@@ -221,7 +221,7 @@ Smiths - There's The Light That Never Goes Out
 
 === "Альтернатива за океаном или Искусство жить в корпоративном пейзаже", 21 августа 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat14.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat14.html>
 
 .R.E.M. - link:REM/REM%20-%20Document/lyrics/document.html#_welcome_to_the_occupation[Welcome To The Occupation]
 image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
@@ -256,7 +256,7 @@ Tom Petty - Wildflowers
 
 === "Рок-н-ролл", 14 августа 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat13.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat13.html>
 
 .Roy Orbison - Lana
 image:Roy Orbison/Roy Orbison - Crying/cover.jpg[Crying,200,200,role="thumb left"]
@@ -278,7 +278,7 @@ Elvis Presley - His Latest Flame
 
 === "Против шерсти", 7 августа 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat12.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat12.html>
 
 .Blondie - link:Blondie%20-%20Greatest%20Hits/lyrics/blondie.html#_sunday_girl[Sunday Girl]
 image:Blondie - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
@@ -298,7 +298,7 @@ System Of A Down - Chop Suey!
 
 === "Голова Бога Брана", 31 июля 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat11.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat11.html>
 
 .Steeleye Span - link:STEELEYE%20SPAN/Steeleye%20Span%20-%20Parcel%20Of%20Rogues/lyrics/rogues.html#_rogues_in_a_nation[Rogues in a Nation]
 image:STEELEYE SPAN/Steeleye Span - Parcel Of Rogues/cover.jpg[Parcel Of Rogues,200,200,role="thumb left"]
@@ -319,7 +319,7 @@ Andy Stewart - Hold Your Tongue Dear Sally
 
 === "Магия музыки", 24 июля 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat10.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat10.html>
 
 .Donovan - Hi, It's Been A Long Time
 image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="thumb left"]
@@ -349,7 +349,7 @@ The Who - I Can't Reach You
 
 === "World music", 17 июля 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat09.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat09.html>
 
 .Krishna Das - Hara Hara Mahadev
 image:Krishna Das - The Greatest Hits of the Kali Yuga/cover.jpg[The Greatest Hits of the Kali Yuga,200,200,role="thumb left"]
@@ -371,7 +371,7 @@ Ryuichi Sakamoto - Okinava Song
 
 === "Куда бедному крестьянину податься?", 10 июля 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat08.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat08.html>
 
 .Don McLean - link:Don%20McLean%20-%20American%20Pie/lyrics/mclean.html#_american_pie[American Pie]
 image:Don McLean - American Pie/cover.jpg[American Pie,200,200,role="thumb left"]
@@ -390,7 +390,7 @@ T.Rex - Ballrooms Of Mars
 
 === "Вавилонская филармония", 3 июля 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat07.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat07.html>
 
 .Jethro Tull - link:JETHRO%20TULL/1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html[Thick As A Brick] 
 image:JETHRO TULL/1972  Thick As A Brick/cover.jpg[Thick As A Brick,200,200,role="thumb left"]
@@ -411,7 +411,7 @@ Kraftwerk - Radioactivity
 
 === "Золотой век музыки" - 3, 26 июня 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat06.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat06.html>
 
 .Procol Harum - Magdalene (My Regal Zonophone)
 image:PROCOL HARUM/Procol Harum - Shine On Brightly/cover.jpg[Shine On Brightly,200,200,role="thumb left"]
@@ -433,7 +433,7 @@ Chad & Jeremy - Summer Song
 
 === "За океаном, или Дайте нам своих Битлов - 2", 19 июня 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat05.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat05.html>
 
 .Simon & Garfunkel - link:SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html#_scarborough_fair_canticle[Scarborough Fair]
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Parsley, Sage, Rosemary and Thyme/cover.jpg[Parsley Sage Rosemary and Thyme,200,200,role="thumb left"]
@@ -468,7 +468,7 @@ Beach Boys - Good Vibrations
 
 === "За океаном, или Дайте нам своих Битлов", 12 июня 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat04.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat04.html>
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_i_want_you[I Want You]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
@@ -501,7 +501,7 @@ Frank Zappa - Brown Shoes Dont Make It
 
 === "Сегодня в июне" , 5 июня 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat03.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat03.html>
 
 .Eels - link:EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html#_trouble_with_dreams[Trouble with Dreams]
 image:EELS/Eels - Blinking Lights And Other Revelations/Folder.jpg[Blinking Lights And Other Revelations,200,200,role="thumb left"]
@@ -525,7 +525,7 @@ System of a Down - B.Y.O.B.
 
 === "Золотой век музыки" - 2, 29 мая 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat02.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat02.html>
 
 .Jethro Tull - Reasons For Waiting
 image:JETHRO TULL/Jethro Tull - Stand Up/cover.jpg[Stand Up,200,200,role="thumb left"]
@@ -548,7 +548,7 @@ Seekers - Georgie Girl
 
 === "Золотой век музыки" - 1, 22 мая 2005
 
-<http://www.aquarium.ru/misc/aerostat/aerostat01.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat01.html>
 
 .Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_i_m_only_sleeping[I'm Only Sleeping]
 image:THE%20BEATLES/1966%20-%20Revolver/cover.jpg[Revolver,200,200,role="thumb left"]

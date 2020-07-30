@@ -18,7 +18,7 @@ h3 {
 
 === Новая Музыка Февраля, 23 февраля 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat458.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat458.html>
 
 [%hardbreaks]
 Suzanne Vega – Horizon
@@ -34,7 +34,7 @@ Suzanne Vega – Silver Bridge
 
 === Акустические Воины 60-х, 16 февраля 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat457.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat457.html>
 
 [%hardbreaks]
 Ralph McTell – Bright And Beautiful Thing
@@ -51,7 +51,7 @@ Crosby & Nash – Southbound Train
 
 === Тело Боли, 9 февраля 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat456.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat456.html>
 
 [%hardbreaks]
 Jethro Tull – With You There To Help
@@ -67,7 +67,7 @@ Cat Stevens – Fill My Eyes
 
 === Химолк, 2 февраля 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat455.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat455.html>
 
 [%hardbreaks]
 Boys Of The Lough – Farewell To Whisky
@@ -83,7 +83,7 @@ Boys Of The Lough – Sharon Eubank's Waltz
 
 === Миры Ашкенази, 26 января 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat454.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat454.html>
 
 .Jethro Tull – One Brown Mouse
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
@@ -100,7 +100,7 @@ Paul Simon – Take Me To The Mardi Gras
 
 === Примечательные альбомы 2013-го, 19 января 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat453.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat453.html>
 
 .Eels – I'm Your Brave Little Soldier
 image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cover.jpg[2014 - The cautionary tales of Mark Oliver Everett - CD 1,200,200,role="thumb left"]
@@ -118,7 +118,7 @@ Orchestral Manoeuvres In The Dark – Night Cafe
 
 === Новые Имена, 12 января 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat452.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat452.html>
 
 [%hardbreaks]
 Asgeir – Nyfallio Regn
@@ -134,7 +134,7 @@ Eric Church – Springsteen
 
 === Cнова Притчи, 5 января 2014
 
-<http://aquarium.ru/misc/aerostat/aerostat451.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat451.html>
 
 .Jethro Tull – Songs From The Wood
 image:JETHRO TULL/1977  Songs From The Wood/cover.jpg[1977  Songs From The Wood,200,200,role="thumb left"]
@@ -159,7 +159,7 @@ Cat Stevens – Where Do The Children Play
 
 === С Новым Годом!, 29 декабря 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat450.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat450.html>
 
 [%hardbreaks]
 5 Hand Reel - Freedom Come-All-Ye
@@ -175,7 +175,7 @@ Louis Armstrong - Winter Wonderland
 
 === С Рождеством!, 22 декабря 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat449.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat449.html>
 
 [%hardbreaks]
 Bing Crosby - Here Comes Santa Claus
@@ -192,7 +192,7 @@ Bing Crosby - White Christmas
 
 === Америка в 50-е, 15 декабря 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat448.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat448.html>
 
 [%hardbreaks]
 Les Paul And Mary Ford - Vaya Con Dios
@@ -210,7 +210,7 @@ Michael Holliday - In Love
 
 === "Аквариум плюс", 8 декабря 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat447.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat447.html>
 
 [%hardbreaks]
 Аквариум - Как Движется Лед
@@ -225,7 +225,7 @@ Michael Holliday - In Love
 
 === Бог знает что, 1 декабря 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat446.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat446.html>
 
 [%hardbreaks]
 Procol Harum - Luskus Delph
@@ -238,7 +238,7 @@ Beatles - Hey Jude
 
 === Новая Му Ноября, 24 ноября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat445.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat445.html>
 
 [%hardbreaks]
 Sting - What Have We Got?
@@ -253,7 +253,7 @@ Clannad - Rhapsody Nagrann
 
 === Harry Nilsson, 17 ноября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat444.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat444.html>
 
 [%hardbreaks]
 Harry Nilsson - I Guess The Lord Must Be In NYC
@@ -271,7 +271,7 @@ Harry Nilsson - Mr. Bojangles
 
 === "New" Paul McCartney, 10 ноября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat443.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat443.html>
 
 [%hardbreaks]
 Paul McCartney – Save Us
@@ -288,7 +288,7 @@ Paul McCartney – Everybody Out There
 
 === Строго Второй Эшелон, 3 ноября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat442.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat442.html>
 
 [%hardbreaks]
 Those New Puritans – Fragment Two
@@ -301,7 +301,7 @@ Mavis Staples – You Are Not Alone
 
 === "Ommadawn", 27 октября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat441.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat441.html>
 
 [%hardbreaks]
 Mike Oldfield – Ommadawn Part 1
@@ -310,7 +310,7 @@ Mike Oldfield – On Horseback
 
 === Новые Песни Октября, 20 октября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat440.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat440.html>
 
 [%hardbreaks]
 Fratellis – We Need Medicine
@@ -326,7 +326,7 @@ Fratellis – Seven Days Seven Nights
 
 === Варвары и греки, 13 октября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat439.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat439.html>
 
 [%hardbreaks]
 David Bowie – Kooks
@@ -343,7 +343,7 @@ Future Cloud & Radar – Green Mountain Clover
 
 === Little Richard, 6 октября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat438.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat438.html>
 
 [%hardbreaks]
 Little Richard – Keep A Knockin'
@@ -364,7 +364,7 @@ Little Richard – Boo Hoo Hoo Hoo
 
 === Страшная Сила Красоты, 29 сентября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat437.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat437.html>
 
 [%hardbreaks]
 Lemon Jelly – His Majesty King Raam
@@ -380,7 +380,7 @@ Beatles – I Will
 
 === Del Amitri, 22 сентября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat436.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat436.html>
 
 [%hardbreaks]
 Del Amitri – Not Where It's At
@@ -396,7 +396,7 @@ Del Amitri – Won't Make It Better
 
 === Новые Песни Сентября, 15 сентября 2013
 
-<http://aquarium.ru/misc/aerostat/aerostat435.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat435.html>
 
 [%hardbreaks]
 Justin Currie – Bend To My Will

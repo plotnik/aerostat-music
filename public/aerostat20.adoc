@@ -18,7 +18,7 @@ h3 {
 
 === Fats Waller, 24 августа 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat484.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat484.html>
 
 [%hardbreaks]
 Fats Waller – Lulu's Back In Town
@@ -36,7 +36,7 @@ Fats Waller – Squeeze Me
 
 === Брик-О-Брак (Понемногу О Разном), 17 августа 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat483.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat483.html>
 
 [%hardbreaks]
 Stevie Wonder – Secret Life Of Plants
@@ -51,7 +51,7 @@ Nick Drake – Saturday Sun
 
 === Радио Африка, 10 августа 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat482.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat482.html>
 
 [%hardbreaks]
 Аквариум – Вызываю Капитана Африка
@@ -67,7 +67,7 @@ Nick Drake – Saturday Sun
 
 === Урожай Августа, 3 августа 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat481.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat481.html>
 
 .King Creosote - link:King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html#__one_floor_down[One Floor Down]
 image:King Creosote/King Creosote 2014 - From Scotland With Love/cover.jpg[From Scotland With Love,200,200,role="thumb left"]
@@ -92,7 +92,7 @@ Kip Moore – Somethin' Bout The Truck
 
 === Planxty, 27 июля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat480.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat480.html>
 
 [%hardbreaks]
 Planxty – Out On The Ocean/Toicfaidh Tu Abhaile
@@ -107,7 +107,7 @@ Planxty – The Irish Marche
 
 === Невоспетые герои, 20 июля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat479.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat479.html>
 
 .Neil Innes – How Sweet To Be An Idiot
 image:Neil Innes - How Sweet To Be An Idiot/folder.jpg[How Sweet To Be An Idiot,200,200,role="thumb left"]
@@ -126,7 +126,7 @@ J.S.Bach – English Suite 2.VI
 
 === Мой Led Zeppelin, 13 июля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat478.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat478.html>
 
 [%hardbreaks]
 Led Zeppelin - Houses Of The Holy
@@ -140,7 +140,7 @@ Led Zeppelin – In The Light
 
 === Новые Альбомы Июля, 6 июля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat477.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat477.html>
 
 .Tom Petty – U Get Me High
 image:TOM PETTY/2014 - Hypnotic Eye/Folder.jpg[Hypnotic Eye,200,200,role="thumb left"]
@@ -158,7 +158,7 @@ R.E.M. – Yellow River
 
 === Время Мифа, 29 июня 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat476.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat476.html>
 
 [%hardbreaks]
 Cocteau Twins – Watchlar
@@ -174,7 +174,7 @@ Jethro Tull – Look Into The Sun
 
 === Новые Имена, 22 июня 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat475.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat475.html>
 
 [%hardbreaks]
 Bombay Bicycle Club – Feel
@@ -189,7 +189,7 @@ Malawi Mouse Boys – Machimo Anga Ngambir
 
 === Евгений Клячкин, 15 июня 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat474.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat474.html>
 
 [%hardbreaks]
 Евгений Клячкин – Не Гляди Назад, Не Гляди
@@ -207,7 +207,7 @@ Malawi Mouse Boys – Machimo Anga Ngambir
 
 === The Specials, 8 июня 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat473.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat473.html>
 
 [%hardbreaks]
 The Specials – (Dawning Of A) New Era
@@ -223,7 +223,7 @@ The Specials – Enjoy Yourself
 
 === Новые Песни Июня, 1 июня 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat472.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat472.html>
 
 [%hardbreaks]
 Anoushka Shankar – River Pulse
@@ -239,7 +239,7 @@ Specials – Friday Night Saturday Morning
 
 === 9 лет Аэростатики, 25 мая 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat471.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat471.html>
 
 [%hardbreaks]
 Manfred Mann – My Name Is Jack
@@ -255,7 +255,7 @@ Jethro Tull – Reasons For Waiting
 
 === Истории Марка Эверетта, 18 мая 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat470.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat470.html>
 
 [%hardbreaks]
 Eels – Where I'm At
@@ -273,7 +273,7 @@ Eels – Where I'm Going
 
 === Новые Песни Мая, 11 мая 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat469.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat469.html>
 
 [%hardbreaks]
 Ziggy Marley – I Get Up
@@ -289,7 +289,7 @@ Ziggy Marley – Fly Rasta
 
 === Lester Young, 4 мая 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat468.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat468.html>
 
 [%hardbreaks]
 Lester Young – Ad Lib Blues
@@ -305,7 +305,7 @@ Lester Young – On The Sunny Side Of The Street
 
 === Белтайн, 27 апреля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat467.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat467.html>
 
 [%hardbreaks]
 Barleyjuice – Fiddlers Green
@@ -322,7 +322,7 @@ Andy M. Stewart – Heart Of The Home
 
 === Сейчас, 20 апреля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat466.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat466.html>
 
 [%hardbreaks]
 Charpantier – Te Deum
@@ -339,7 +339,7 @@ Weepies – All That Beauty
 
 === Новые альбомы апреля, 13 апреля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat465.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat465.html>
 
 [%hardbreaks]
 Quilt – Eye Of The Pearl
@@ -354,7 +354,7 @@ Stephen Malkmus & The Jicks – Lariat
 
 === Толубей Толубей, 6 апреля 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat464.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat464.html>
 
 [%hardbreaks]
 Jackson Browne – Take It Easy
@@ -368,7 +368,7 @@ George Harrison – Just For Today
 
 === Вакханалия Любовь, 30 марта 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat463.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat463.html>
 
 [%hardbreaks]
 Bryan Ferry – Sweet And Lovely
@@ -385,7 +385,7 @@ Beatles – All My Loving
 
 === Гобой и иже с ним, 23 марта 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat462.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat462.html>
 
 [%hardbreaks]
 Carl Ditters – Maj
@@ -401,7 +401,7 @@ J.S.Bach – Concerto In A Maj For Oboe
 
 === Русские Барды и Я, 16 марта 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat461.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat461.html>
 
 [%hardbreaks]
 Высоцкий – Дела
@@ -420,7 +420,7 @@ J.S.Bach – Concerto In A Maj For Oboe
 
 === Новые Песни Марта, 9 марта 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat460.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat460.html>
 
 [%hardbreaks]
 Villagers – Occupy Your Mind
@@ -434,7 +434,7 @@ Krishna Das – 4 Am Hanuman Chalisa
 
 === Lou Reed, 2 марта 2014
 
-<http://www.aquarium.ru/misc/aerostat/aerostat459.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat459.html>
 
 [%hardbreaks]
 Lou Reed – Vicious

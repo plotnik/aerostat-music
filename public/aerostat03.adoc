@@ -5,7 +5,7 @@
 
 == 23 апреля 2006 - 1 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/index03.html>
+<http://old.aquarium.ru/misc/aerostat/index03.html>
 
 ++++
 <style>
@@ -20,7 +20,7 @@ h3 {
 
 === История Джеффа Линна, 1 октября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat72.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat72.html>
 
 .Traveling Wilburys - New Blue Moon
 image:Traveling Wilburys - Volume 3/cover.jpg[Volume 3,200,200,role="thumb left"]
@@ -38,7 +38,7 @@ Jeff Lynne - Every Little Thing
 
 === Ирландское Рагу No.3 (и ремиксы), 24 сентября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat71.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat71.html>
 
 .Сotton Mather - Baby Freeze Queen
 image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
@@ -55,7 +55,7 @@ The Hollies - Rain On My Window
 
 === Кот Да Винчи, 17 сентября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat70.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat70.html>
 
 [%hardbreaks]
 Hot Chip - Ass Attack
@@ -72,7 +72,7 @@ Archie Fisher - Helen Of Kirkconell Lee
 
 === Новые альбомы, 10 сентября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat69.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat69.html>
 
 .Sufjan Stevens - Chicago
 image:SUFJAN STEVENS/Sufjan Stevens 2005 - Illinoise/Folder.jpg[Illinoise,200,200,role="thumb left"]
@@ -92,7 +92,7 @@ Bob Dylan - Beyond The Horizon
 
 === Общие принципы употребления алкогольных напитков, 3 сентября 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat68.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat68.html>
 
 .Tom Waits - Jockey Full Of Bourbon
 image:TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1/raindogs.png[Rain Dogs - part 1,200,200,role="thumb left"]
@@ -113,7 +113,7 @@ Robin Laing - Tak a Drum
 
 === Слово Растаману, 27 августа 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat67.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat67.html>
 
 [%hardbreaks]
 Wailers - Get Up, Stand Up
@@ -130,7 +130,7 @@ Bob Marley - Redemption Song
 
 === Ирландское Рагу 2, 20 августа 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat66.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat66.html>
 
 .Crowded House - Distant Sun
 image:CROWDED HOUSE/1993 - Together Alone/front.jpg[Together Alone,200,200,role="thumb left"]
@@ -149,7 +149,7 @@ The Crimea - Lottery Winners On Acid
 
 === Мосты Между Небом и Землей, 13 августа 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat65.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat65.html>
 
 [%hardbreaks]
 George Harrison - Singing Om
@@ -165,7 +165,7 @@ Jagjit Singh - Om Shivay Hari Om Shivay
 
 === Дорогая Мария Васильевна!, 6 августа 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat64.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat64.html>
 
 [%hardbreaks]
 J.S.Bach - Well-Tempered Klavier
@@ -181,7 +181,7 @@ Ima Sumak - Chuncho
 
 === Лунассад, 30 июля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat63.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat63.html>
 
 [%hardbreaks]
 Albion Band - Aboard For Pleasure
@@ -196,7 +196,7 @@ Silly Wizard - Golden Golden
 
 === Слово О Мистиках, 23 июля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat62.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat62.html>
 
 [%hardbreaks]
 Gottfried Stolzer - Trumphet concerto, part 1
@@ -212,7 +212,7 @@ Jeff Lynne - Lift Me Up
 
 === Ирландское рагу, 16 июля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat61.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat61.html>
 
 [%hardbreaks]
 The Who - Heinz Baked Beans
@@ -231,7 +231,7 @@ Simon & Garfunkel - Flowers Never Bend
 
 === Джаз!, 9 июля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat60.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat60.html>
 
 [%hardbreaks]
 George Shearing - Making Whoopee
@@ -247,7 +247,7 @@ Dave Brubeck - Take Five
 
 === КСП USA, 2 июля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat59.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat59.html>
 
 .Bob Dylan - Eternal Circle
 image:BOB DYLAN/The Bootleg Series Vol. 1/Folder.jpg[The Bootleg Series,200,200,role="thumb left"]
@@ -275,7 +275,7 @@ Arlo Guthrie - City Of New Orleans
 
 === Вечнозеленый Бомж, 25 июня 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat58.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat58.html>
 
 .Jethro Tull - Aqualung
 image:JETHRO TULL/1971  Aqualung/cover.jpg[1971  Aqualung,200,200,role="thumb left"]
@@ -312,7 +312,7 @@ Jethro Tull - Strip Cartoon
 
 === С днем рождения, Пол, 18 июня 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat57.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat57.html>
 
 .Beatles - When I'm 64
 image:THE BEATLES/1967a - Sgt Peppers Lonely Hearts Club Band/cover.jpg[Sgt Peppers Lonely Hearts Club Band,200,200,role="thumb left"]
@@ -333,7 +333,7 @@ Beatles - Golden Slumbers
 
 === Новая Волна, 11 июня 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat56.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat56.html>
 
 [%hardbreaks]
 Devo - Whip It
@@ -349,7 +349,7 @@ Elvis Costello - Oliver's Army
 
 === The Kinks, 4 июня 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat55.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat55.html>
 
 [%hardbreaks]
 The Kinks - Dedicated Follower Of Fashion
@@ -367,7 +367,7 @@ The Kinks - Waterloo Sunset
 
 === Медитация, 28 мая 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat54.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat54.html>
 
 .Beatles - Fool On The Hill
 image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
@@ -383,7 +383,7 @@ Shri Chinmoy's Play
 
 === Песни и Как Их Писать, 21 мая 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat53.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat53.html>
 
 .Bob Dylan - You Angel You
 image:BOB DYLAN/Bob Dylan 1974 - Planet Waves/cover.jpg[Planet Waves,200,200,role="thumb left"]
@@ -422,7 +422,7 @@ Tom Petty - Hard To Find A Friend
 
 === Новенькое, 14 мая 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat52.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat52.html>
 
 .Red Hot Chili Peppers - Storm In A Teacup
 image:RED HOT CHILI PEPPERS/Red Hot Chili Peppers - Stadium Arcadium (Disc 2)/cover.jpg[Stadium Arcadium (Disc 2),200,200,role="thumb left"]
@@ -445,7 +445,7 @@ Paul Simon - Surprise
 
 === Traveling Wilburys, 7 мая 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat51.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat51.html>
 
 .Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_dirty_world[Dirty World]
 image:Traveling Wilburys - Volume 1/cover.jpg[Volume 1,200,200,role="thumb left"]
@@ -485,7 +485,7 @@ Sandy Denny - Winter Winds
 
 === "Пока Несут Сакэ!", 23 апреля 2006
 
-<http://www.aquarium.ru/misc/aerostat/aerostat49.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat49.html>
 
 .Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html#_she_s_only_cool[She's Only Cool]
 image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]

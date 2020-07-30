@@ -5,7 +5,7 @@
 
 == 28 августа 2016 - 26 февраля 2017
 
-<http://www.aquarium.ru/misc/aerostat/index25.html>
+<http://old.aquarium.ru/misc/aerostat/index25.html>
 
 ++++
 <style>
@@ -288,7 +288,7 @@ Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.h
 
 === Новые имена, 4 декабря 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat603.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat603.html>
 
 [%hardbreaks]
 Edwyn Collins - A Girl Like You
@@ -304,7 +304,7 @@ Drive-By Truckers - Surrender Under Protest
 
 === Азбука, 27 ноября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat602.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat602.html>
 
 .King Creosote - link:King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html#__one_floor_down[One Floor Down]
 image:King Creosote/King Creosote 2014 - From Scotland With Love/cover.jpg[From Scotland With Love,200,200,role="thumb left"]
@@ -353,7 +353,7 @@ Lumiere - The Silver Tassie
 
 === Леонард Коэн RIP, 20 ноября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat601.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat601.html>
 
 .Leonard Cohen - You Want It Darker
 image:LEONARD COHEN/Leonard Cohen 2016 - You Want It Darker/front.jpg[You Want It Darker,200,200,role="thumb left"]
@@ -370,7 +370,7 @@ Leonard Cohen - String Reprise/Treaty
 
 === Юбилейная, 13 ноября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat600.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat600.html>
 
 .Tom Petty - In The Dark Of The Sun
 image:TOM PETTY/Tom Petty 1991 - Into the Great Wide Open/Folder.jpg[Into the Great Wide Open,200,200,role="thumb left"]
@@ -412,7 +412,7 @@ Ustad Shudjaat Khan - Utsav
 
 === Новые Звуки Ноября, 6 ноября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat599.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat599.html>
 
 .Lambchop - Niv
 image:LAMBCHOP/Lambchop 2016 - FLOTUS/folder.jpg[FLOTUS,200,200,role="thumb left"]
@@ -437,7 +437,7 @@ Oasis - Stay Young
 
 === Samhain, 30 октября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat598.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat598.html>
 
 .Steeleye Span - The Blacksmith
 image:STEELEYE SPAN/Steeleye Span - Hark The Village Wait/Folder.jpg[Hark The Village Wait,200,200,role="thumb left"]
@@ -458,7 +458,7 @@ Ruth Notman - Still I Love Him
 
 === О Смысле Жизни, 23 октября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat597.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat597.html>
 
 .R.E.M. - link:REM/REM%20-%20Document/lyrics/document.html#_disturbance_at_the_heron_house[Disturbance At The Heron House]
 image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
@@ -484,7 +484,7 @@ ELO - One Day
 
 === Новые Песни Октября, 16 октября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat596.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat596.html>
 
 .Suzanne Vega - link:SUZANNE%20VEGA/2016%20-%20Lover%20Beloved%20Songs%20From%20An%20Evening%20With%20Carson%20McCullers/lyrics/mccallers.html#_we_of_me[We Of Me]
 image:SUZANNE VEGA/2016 - Lover Beloved Songs From An Evening With Carson McCullers/cover.png[Lover Beloved Songs From An Evening With Carson McCullers,200,200,role="thumb left"]
@@ -507,7 +507,7 @@ Green Day - Revolution Radio
 
 === John Lennon, 9 октября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat595.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat595.html>
 
 .Beatles - Help!
 image:THE BEATLES/The Beatles - Help!/front.jpg[Help!,200,200,role="thumb left"]
@@ -545,7 +545,7 @@ Beatles - She Said She Said
 
 === Gene Clark, 2 октября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat594.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat594.html>
 
 [%hardbreaks]
 Gene Clark - Fair And Tender Ladies
@@ -561,7 +561,7 @@ Gene Clark - All I Want
 
 === Новые песни сентября, 25 сентября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat593.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat593.html>
 
 .King Creosote - Melin Wynt
 image:King Creosote/King Creosote 2016 - Astronaut Meets Appleman/cover.jpg[Astronaut Meets Appleman,200,200,role="thumb left"]
@@ -586,7 +586,7 @@ New English Beat - Walking On The Wrong Side
 
 === Новые имена, т.14, 18 сентября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat592.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat592.html>
 
 [%hardbreaks]
 Orange Blossom - Black Box
@@ -602,7 +602,7 @@ H-Burns - Silent Wars
 
 === Время Трепанга: Новые альбомы, 11 сентября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat591.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat591.html>
 
 [%hardbreaks]
 Teenage Fanclub - I'm In Love
@@ -618,7 +618,7 @@ Green Day - Bang Bang
 
 === Cotton Mather & "I Ching", 4 сентября 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat590.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat590.html>
 
 .Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html#_child_bride[Child Bride]
 image:COTTON MATHER/Cotton Mather 2016 - Death of the Cool/folder.jpg[Death of the Cool,200,200,role="thumb left"]
@@ -637,7 +637,7 @@ Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20t
 
 === The Small Faces, 28 августа 2016
 
-<http://www.aquarium.ru/misc/aerostat/aerostat589.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat589.html>
 
 [%hardbreaks]
 Small Faces - My Mind's Eye

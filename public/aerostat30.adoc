@@ -1,7 +1,22 @@
 = Радио Аэростат. Глава XXX
 :toc: left
 
+++++
+<style>
+h2 {
+  background-color: #FFC0CB;
+}
+h3 {
+  clear: both;
+}
+</style>
+++++
+
 > link:aerostat.html[Главная страница]
+
+== 28 апреля 2019 - 20 октября 2019
+
+<http://old.aquarium.ru/misc/aerostat/index30.html>
 
 === Поле и Обитатель Поля, 20 октября 2019
 
@@ -458,7 +473,7 @@ Mick Jagger - Evening Gown
 <http://www.radiorus.ru/brand/57083/episode/2167507>
 
 ////
-<http://aquarium.ru/misc/aerostat/aerostat729.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat729.html>
 ////
 
 [%hardbreaks]
@@ -477,7 +492,7 @@ Stray Cats - Rock It Off
 <https://aerostatica.ru/2019/04/28/728-beltain-flook-2019/>
 
 ////
-<http://aquarium.ru/misc/aerostat/aerostat728.html>
+<http://old.aquarium.ru/misc/aerostat/aerostat728.html>
 ////
 
 .Flook - Lalabee/Jig For Simon
