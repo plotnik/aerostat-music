@@ -81,9 +81,11 @@ image:JOHN DOWLAND/dowland.jpg[JOHN DOWLAND,200,200,role="thumb left"]
 .George Harrison - Lay His Head
 image:GEORGE HARRISON/1995 - Pirate Songs/cover.jpg[Pirate Songs,200,200,role="thumb left"]
 
+.Nobukazu Takemura - White Sheep And Small Light
+image:Nobukazu Takemura - Hoshi No Koe/cover.jpg[Hoshi No Koe,200,200,role="thumb left"]
+
 [%hardbreaks]
 Cars - Bye Bye Love
-Nobukazu Takemura - White Sheep And Small Light
 Burns Unit - What Is Life?
 Thelonious Monk ‎– Brilliant Corners
 Andy Summers ‎– Brilliant Corners
