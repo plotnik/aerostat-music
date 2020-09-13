@@ -438,7 +438,7 @@ Johann Sebastian Bach - Oboe Concerto In A Major (BWV 1055): Allegro
 <https://aerostatica.ru/2018/06/10/682-novye-pesni-v-iyune/>
 
 .Le Mystère Des Voix Bulgares feat. Lisa Gerrard - Pora Sotunda
-image:The Mystery of the Bulgarian Voices feat. Lisa Gerrard - 2018 - BooCheMish/cover.jpg[2018 - BooCheMish,200,200,role="thumb left"]
+image:The Mystery of the Bulgarian Voices/Feat. Lisa Gerrard - 2018 - BooCheMish/cover.jpg[2018 - BooCheMish,200,200,role="thumb left"]
 
 [%hardbreaks]
 Matthew Sweet - I Belong To You
