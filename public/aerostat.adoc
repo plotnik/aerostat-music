@@ -49,13 +49,36 @@ code {
 
 == 32.
 
+=== Новые Имена #29, 19 июля 2020
+
+<https://www.radiorus.ru/brand/57083/episode/2422039>
+
+.Bill Withers – Use Me
+image:Bill Withers - Still Bill/Folder.jpg[Still Bill,200,200,role="thumb left"]
+
+[%hardbreaks]
+Osborne Brothers – Some Old Day
+Mortimer – Careful
+Steve Howe – Surface Tension
+Rat Cage – A Country For Idiots
+Camila Cabello – Havana
+Debashish Bhattacharya – Maa
+Snowgoose – The Making Of You
+Yusef Lateef –  Juba Juba
+Green-House – Peperomia Seedling
+
 === Вслух о Музыке, 12 июля 2020
+
+<https://www.radiorus.ru/brand/57083/episode/2419403>
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_when_the_ship_comes_in[When The Ship Comes In]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
 
 .Le Mystère Des Voix Bulgares – Tche Da Ti Kupim Bela Seitsa
 image:The Mystery of the Bulgarian Voices/0801 - Volume 2/cover.jpg[Volume 2,200,200,role="thumb left"]
+
+.Cocteau Twins – Rilkean Heart
+image:Cocteau Twins/08 - Milk & Kisses/milkandkisses.jpg[Milk & Kisses,200,200,role="thumb left"]
 
 [%hardbreaks]
 King Crimson – Red
@@ -64,7 +87,6 @@ Dietrich Buxtehude – Ein Feste Burg Ist Unser Gott
 Animal Collective – Hounds Of Bairro
 Rakesh Chaurasia – Bada Natkhat Hai  
 Beatles – You Like Me Too Much
-Cocteau Twins – Rilkean Heart
 
 ++++
 <br clear="both">

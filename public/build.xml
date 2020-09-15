@@ -49,8 +49,8 @@
 		</exec>
     </target>
 
-	<target name="aerostat"
-	        description="Copy changed files to Netlify folder">
+	<target name="aerostat">
+	    <echo message="Copy changed files to Netlify folder"/>    
         <copy todir="${destNetlify}">
             <fileset dir=".">
                       
@@ -93,8 +93,8 @@
 		</exec>
     </target>
 
-    <target name="gg" depends="aerostat"
-            description="Push changes to Netlify git">
+    <target name="gg" depends="aerostat">
+        <echo message="Push changes to Netlify git"/>
 		<exec executable="git" 
 		      dir="../Документы/netlify/aerostat-music/">
 		  <arg line="add ."/>
