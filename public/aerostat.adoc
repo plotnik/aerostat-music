@@ -49,6 +49,25 @@ code {
 
 == 32.
 
+=== Лунассад, 2 августа 2020
+
+.Silly Wizard – The Highland Clearances
+image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
+
+.Emerson, Lake & Palmer – Jerusalem
+image:Emerson Lake Palmer - Brain Salad Surgery/cover.png[Brain Salad Surgery,200,200,role="thumb left"]
+
+.Sinéad O'Connor – Lord Franklin
+image:SINEAD OCONNOR/2002 - Sean-Nos Nua/cover.jpg[Sean-Nos Nua,200,200,role="thumb left"]
+
+[%hardbreaks]
+Brian Finnegan – Flow, In The Year Of Wu Wei
+Whistlebinkies – Waukin' O' The Fauld
+Peatbog Faeries – Abhainn a'Nathair
+Five Hand Reel – Death Of Argyll
+Boys Of The Lough – Beauty Deas An Oileain
+Ossian – 'S Gann Gann Dirich Mi Chaoidh
+
 === Новые Имена #29, 19 июля 2020
 
 <https://www.radiorus.ru/brand/57083/episode/2422039>
