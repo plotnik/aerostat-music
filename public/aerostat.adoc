@@ -49,6 +49,24 @@ code {
 
 == 32.
 
+=== Новые песни августа, 9 августа 2020
+
+.Christine Ott – Todeslied
+image:Christine Ott - Chimères/cover.jpg[Chimères,200,200,role="thumb left"]
+
+[%hardbreaks]
+David Gilmour – Yes, I Have Ghosts
+Shirley Collins – Wondrous Love
+Pinch feat. Killa P – Party
+Lianne La Havas – Can't Fight
+Rolling Stones – Criss Cross
+Peter Gabriel feat. Paddy Maloney & The Black Dyke Mills Band – That'll Do
+Jarv Is... – Am I Missing Something?
+
+++++
+<br clear="both">
+++++
+
 === Лунассад, 2 августа 2020
 
 .Silly Wizard – The Highland Clearances
@@ -68,9 +86,30 @@ Five Hand Reel – Death Of Argyll
 Boys Of The Lough – Beauty Deas An Oileain
 Ossian – 'S Gann Gann Dirich Mi Chaoidh
 
-=== Новые Имена #29, 19 июля 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2422039>
+=== Демон Мечты, 26 июля 2020
+
+.Iggy Pop – Cry For Love
+image:Iggy Pop - Blah-Blah-Blah/cover.jpg[Blah-Blah-Blah,200,200,role="thumb left"]
+
+[%hardbreaks]
+Cambini – Quintet No.1 in B Flat Major - Rondo. Allegretto grazioso 
+Books – None But Shining Hours
+Iron Butterfly – My Mirage
+Doors – Orange County Suite
+Roy Orbison – Careless Heart
+Paul Simon – My Little Town
+The Whistlebinkies – Great Is The Cause Of My Sorrow
+Rolling Stones –  Who's Been Sleeping Here
+
+++++
+<br clear="both">
+++++
+
+=== Новые Имена #29, 19 июля 2020
 
 .Bill Withers – Use Me
 image:Bill Withers - Still Bill/Folder.jpg[Still Bill,200,200,role="thumb left"]
@@ -86,9 +125,11 @@ Snowgoose – The Making Of You
 Yusef Lateef –  Juba Juba
 Green-House – Peperomia Seedling
 
-=== Вслух о Музыке, 12 июля 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2419403>
+=== Вслух о Музыке, 12 июля 2020
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_when_the_ship_comes_in[When The Ship Comes In]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
@@ -97,7 +138,7 @@ image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wi
 image:The Mystery of the Bulgarian Voices/0801 - Volume 2/cover.jpg[Volume 2,200,200,role="thumb left"]
 
 .Cocteau Twins – Rilkean Heart
-image:Cocteau Twins/08 - Milk & Kisses/milkandkisses.jpg[Milk & Kisses,200,200,role="thumb left"]
+image:Cocteau Twins/Milk & Kisses/milkandkisses.jpg[Milk & Kisses,200,200,role="thumb left"]
 
 [%hardbreaks]
 King Crimson – Red
@@ -112,8 +153,6 @@ Beatles – You Like Me Too Much
 ++++
 
 === Новые Песни Июля, 5 июля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2418045>
 
 .Bob Dylan – My Own Version Of You
 image:BOB DYLAN/2020 - Rough And Rowdy Days/cover.jpg[Rough And Rowdy Days,200,200,role="thumb left"]
@@ -136,8 +175,6 @@ Shaggy feat. Sting – Angel
 
 === Музыка Ревущих 20-х, 28 июня 2020
 
-<https://www.radiorus.ru/brand/57083/episode/2416430>
-
 [%hardbreaks]
 Fred Rich & His Orchestra – Singing In The Rain
 Nick Lucas – Tip-Toe Thru' The Tulips With Me
@@ -152,9 +189,11 @@ Al Jolson – Pasadena
 Paul Hindemith – Hindemith: Concerto for Orchestra, Op. 38 - 1. Mit Kraft, mäßig schnelle Viertel 
 Cliff «Ukulele Ike» Edwards –  Orange Blossom Time
 
-=== Новый Альбом А, 21 июня 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2414525>
+=== Новый Альбом А, 21 июня 2020
 
 .БГ – Альфа
 image:AQUARIUM/БГ - Знак Огня/cover.jpg[Знак Огня,200,200,role="thumb left"]
@@ -170,9 +209,11 @@ image:AQUARIUM/БГ - Знак Огня/cover.jpg[Знак Огня,200,200,role
 БГ – Мой Ясный Свет
 БГ – Поутру В Поле
 
-=== Рок-Звезда, 14 июня 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2412178>
+=== Рок-Звезда, 14 июня 2020
 
 .Ian Anderson – Photo Shop
 image:JETHRO TULL/IA - Rupis Dance (2003)/cover.jpg[Rupis Dance (2003),200,200,role="thumb left"]
@@ -188,10 +229,11 @@ Doors – Strange Days
 Eurythmics – Thorn In My Side
 Robert Plant – The Only Sound That Matters
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Июня, 7 июня 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2409143>
 
 .Bob Dylan – False Prophet
 image:BOB DYLAN/2020 - Rough And Rowdy Days/cover.jpg[Rough And Rowdy Days,200,200,role="thumb left"]
@@ -216,8 +258,6 @@ Phil Cunningham & Aly Bain –  Lightly Swims The Swan
 
 === Последний день Весны, 31 мая 2020
 
-<https://www.radiorus.ru/brand/57083/episode/2392948>
-
 .Maccabees – Toothpaste Kisses
 image:The Maccabees - Colour It In/cover.jpg[Colour It In,200,200,role="thumb left"]
 
@@ -231,9 +271,11 @@ Kraftwerk – Taschenrechner
 Bob Andy – Rock It Down
 Lei Quing – Night Song
 
-=== 15 лет Аэростатики, 24 мая 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2392948>
+=== 15 лет Аэростатики, 24 мая 2020
 
 .Jethro Tull – From The Dead Beat To An Old Greaser
 image:JETHRO TULL/1976  Too Old to Rock N Roll/cover.jpg[1976  Too Old to Rock N Roll,200,200,role="thumb left"]
@@ -249,9 +291,11 @@ Deep Purple – Into The Fire
 Andy M. Stewart – Land O' The Leal
 Beatles – Real Love
 
-=== Глубокие песни Джорджа, 17 мая 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2391038>
+=== Глубокие песни Джорджа, 17 мая 2020
 
 .George Harrison – Isn't It A Pity
 image:GEORGE HARRISON/George Harrison - Live In Japan CD2/cover.jpg[Live In Japan CD2,200,200,role="thumb left"]
@@ -271,9 +315,11 @@ George Harrison – Simply Shady
 George Harrison – Dark Sweet Lady
 George Harrison – That's What It Takes
 
-=== То да се #8, 10 мая 2020
+++++
+<br clear="both">
+++++
 
-<https://www.radiorus.ru/brand/57083/episode/2267550>
+=== То да се #8, 10 мая 2020
 
 .Jethro Tull – Teacher
 image:JETHRO TULL/1976  M.U. - The Best of Jethro Tull/cover.jpg[The Best of Jethro Tull,200,200,role="thumb left"]
@@ -308,8 +354,6 @@ image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200
 ++++
 
 === Новые песни мая, 3 мая 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2265666>
 
 .Ashley McBryde – One Night Standards
 image:Ashley McBryde - Never Will/cover.jpg[Never Will,200,200,role="thumb left"]
