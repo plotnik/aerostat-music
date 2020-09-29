@@ -1,4 +1,4 @@
-<project name="Music" default="aerostat" basedir=".">
+<project name="Music" default="gg" basedir=".">
 	
 	<!--property name="dest" value="/media/egor/UUI/aerostat"/-->
 	<property name="destHeroku" value="../Документы/heroku/owl-stories/public/music"/>
