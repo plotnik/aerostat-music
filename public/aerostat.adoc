@@ -49,7 +49,26 @@ code {
 
 == 32.
 
+=== О Картине Мира, 23 августа 2020
+
+[%hardbreaks]
+Sigur Rós – Rembihnútur
+Sergey Karamyshev – Menuett
+R.E.M. – Diminished / I'm Not Over You (Medley)
+Paul McCartney – Beautiful Night
+Rolling Stones – Jig-Saw Puzzle
+Roger Eno – A-Typical Waltz
+Robin Williamson – By Weary Well
+Paul Simon – Night Game
+
+++++
+<br clear="both">
+++++
+
 === О Том да Сем, 16 августа 2020
+
+.Fleetwood mac – Albatross
+image:Fleetwood Mac 2002 - The Best Of Peter Greens Fleetwood Mac/FRONT.jpg[The Best Of Peter Greens Fleetwood Mac,200,200,role="thumb left"]
 
 [%hardbreaks]
 Santana feat. Rob Thomas – Smooth
@@ -58,10 +77,13 @@ David Bowie – London Bye Ta-Ta
 Orlande de Lassus – Ave Verum Corpus
 UB40 – Red Red Wine
 Peter Gabriel – This Is The Picture (Excellent Birds)
-Fleetwood mac – Albatross
 Beatles – For You Blue
 Pied Pipers – Lily Belle
 Bhajan Singers – Ganesh
+
+++++
+<br clear="both">
+++++
 
 === Новые песни августа, 9 августа 2020
 
