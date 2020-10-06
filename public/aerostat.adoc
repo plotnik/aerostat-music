@@ -49,6 +49,39 @@ code {
 
 == 32.
 
+=== Магия камней, 20 сентября 2020
+
+.Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_fishes_in_love[Fishes In Love]
+image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
+
+.Planxty – Planxty Irwin
+image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
+
+.Grateful Dead – Sage & Spirit
+image:GRATEFUL DEAD/Grateful Dead - Blues For Allah/cover.jpg[Blues For Allah,200,200,role="thumb left"]
+
+.Jethro Tull – Living In These Hard Times
+image:JETHRO TULL/1982  Broadsword & The Beast/cover.jpg[1982  Broadsword & The Beast,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Jan Garbarek – De Spineto Nata Rosa
+Mahavishnu Orchestra – A Lotus On Irish Streams
+Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_coulter_s_candy[Coulter's Candy]
+Hong Ting – Ah-Do-Qing-Ah-Si-Er
+Derek Bell – Mrs. Poer Or Carolan's Concerto
+Simon & Garfunkel – Why Don't You Write Me
+Arbeau – La Traditore My Fa Morire
+Magnetic Fields – I Don't Want To Get Over You
+New Vaudeville Band – Sadie Moonshine
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Сентября, 13 сентября 2020
 
 .Sufjan Stevens –  Video Game
