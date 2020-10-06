@@ -49,6 +49,26 @@ code {
 
 == 32.
 
+=== Новые Песни Сентября, 13 сентября 2020
+
+.Sufjan Stevens –  Video Game
+image:SUFJAN STEVENS/The Ascension/cover.png[The Ascension,200,200,role="thumb left"]
+
+[%hardbreaks]
+Biffy Clyro – Tiny Indoor Fireworks
+Taylor Swift – Cardigan
+Max Richter – All Human Beings, Pt. 3
+Jónsi – Swill
+Eels – Baby Let's Make It Real
+Yusuf – On The Road To Find Out
+Jon Anderson – Makes Me Happy
+Bright Eyes – Pan And Broom
+Darius Rucker – Beers And Sunshine
+
+++++
+<br clear="both">
+++++
+
 === Части Света 2020, 6 сентября 2020
 
 [%hardbreaks]
