@@ -49,12 +49,35 @@ code {
 
 == 32.
 
-=== То да Сё №10
+
+
+=== Новые Песни Октября, 4 октября 2020
+
+[%hardbreaks]
+Tom Petty – Confusion Wheel
+Tom Petty – There Goes Angela (Dream Away)
+Songhoy Blues – Barre
+Lucrecia Dalt – Disuelta
+Marilyn Manson – Don't Chase The Dead
+Kelsea Ballerini – Club
+Idles – Ne Touche Pas Moi
+Brian Eno – Ship In A Bottle
+Kate Rusby – Everglow
+Robert Plant feat. Patty Griffin – Too Much Alike
+Oneohtrix Point Never – Auto & Allo
+
+++++
+<br clear="both">
+++++
+
+=== То да Сё №10, 27 сентября 2020
+
+.Charlie Watts & The Danish Radio Big Band – (Satis) Faction
+image:Charlie Watts Meets The Danish Radio Big/cover.jpg[Charlie Watts Meets The Danish Radio Big,200,200,role="thumb left"]
 
 [%hardbreaks]
 Tomaso Albinoni – Concerto in D major for Trumpet, Op. 7, No. 6: I. Allegro
 Rolling Stones – Jigsaw Puzzle
-Charlie Watts & The Danish Radio Big Band – (Satis) Faction
 Little Richard – Tutti Frutti
 Bob Marley – Punky Reggae Party
 Максим Леонидов – Когда я сухой
@@ -82,6 +105,9 @@ image:JETHRO TULL/1982  Broadsword & The Beast/cover.jpg[1982  Broadsword & The 
 <br clear="both">
 ++++
 
+.New Vaudeville Band – Sadie Moonshine
+image:New Vaudeville Band - Winchester Cathedral/cover.jpg[Winchester Cathedral,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jan Garbarek – De Spineto Nata Rosa
 Mahavishnu Orchestra – A Lotus On Irish Streams
@@ -91,7 +117,6 @@ Derek Bell – Mrs. Poer Or Carolan's Concerto
 Simon & Garfunkel – Why Don't You Write Me
 Arbeau – La Traditore My Fa Morire
 Magnetic Fields – I Don't Want To Get Over You
-New Vaudeville Band – Sadie Moonshine
 
 ++++
 <br clear="both">
