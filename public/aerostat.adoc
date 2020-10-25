@@ -55,11 +55,15 @@ code {
 .Jethro Tull – Some Day The Sun Won't Shine For You
 image:JETHRO TULL/Jethro Tull - 2002  Living With The Past/cover.jpg[2002  Living With The Past,200,200,role="thumb left"]
 
+.Eric Clapton & John Mayall – Lonely Years
+image:Eric Clapton/1988 - The Early Clapton Collection/cover.jpg[The Early Clapton Collection,200,200,role="thumb left"]
+
+.Yardbirds – I'm A Man
+image:Eric Clapton/1992 - The Yardbirds (With Jeff Beck)/cover.jpg[The Yardbirds (With Jeff Beck),200,200,role="thumb left"]
+
 [%hardbreaks]
 John Mayall & The Bluesbreakers & Eric Clapton – Steppin' Out
 Alexis Korner's Blues Incorporated – Gotta Move
-Eric Clapton & John Mayall – Lonely Years
-Yardbirds – I'm A Man
 Animals – Boom Boom
 Donovan – Bert's Blues
 Rolling Stones – Little Red Rooster
@@ -94,6 +98,9 @@ Crickets – Don't Ever Change
 
 === Новые Песни Октября, 4 октября 2020
 
+.Kate Rusby – Everglow
+image:KATE RUSBY/2020 - Hand Me Down/folder.jpg[Hand Me Down,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tom Petty – Confusion Wheel
 Tom Petty – There Goes Angela (Dream Away)
@@ -103,7 +110,6 @@ Marilyn Manson – Don't Chase The Dead
 Kelsea Ballerini – Club
 Idles – Ne Touche Pas Moi
 Brian Eno – Ship In A Bottle
-Kate Rusby – Everglow
 Robert Plant feat. Patty Griffin – Too Much Alike
 Oneohtrix Point Never – Auto & Allo
 
