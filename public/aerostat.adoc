@@ -157,9 +157,11 @@ image:JETHRO TULL/1982  Broadsword & The Beast/cover.jpg[1982  Broadsword & The 
 .New Vaudeville Band – Sadie Moonshine
 image:New Vaudeville Band - Winchester Cathedral/cover.jpg[Winchester Cathedral,200,200,role="thumb left"]
 
+.Mahavishnu Orchestra – A Lotus On Irish Streams
+image:Mahavishnu Orchestra - Inner Mounting Flame/Folder.jpg[Inner Mounting Flame,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jan Garbarek – De Spineto Nata Rosa
-Mahavishnu Orchestra – A Lotus On Irish Streams
 Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_coulter_s_candy[Coulter's Candy]
 Hong Ting – Ah-Do-Qing-Ah-Si-Er
 Derek Bell – Mrs. Poer Or Carolan's Concerto
