@@ -49,6 +49,24 @@ code {
 
 == 32.
 
+=== Tom's Wildflowers, 25 октября 2020
+
+.Tom Petty – Something Could Happen
+image:TOM PETTY/2020 - Wildflowers & All the Rest/cover.jpg[Wildflowers & All the Rest,200,200,role="thumb left"]
+
+[%hardbreaks]
+Tom Petty – Leave Virginia Alone
+Tom Petty – Harry Green
+Tom Petty – California
+Tom Petty – Climb That Hill
+Tom Petty – Somewhere Under Heaven
+Tom Petty –  Hope You Never
+Tom Petty –  Hung Up And Overdue
+Tom Petty – Confusion Wheel (Home Recording)
+
+++++
+<br clear="both">
+++++
 
 === British Blues, 18 октября 2020
 

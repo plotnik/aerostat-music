@@ -327,8 +327,10 @@ Pajaro Sunrise - 086
 
 <https://www.radiorus.ru/brand/57083/episode/2237781>
 
+.The Cure - In Between Days
+image:The Cure - The Head On The Door/cover.jpg[The Head On The Door,200,200,role="thumb left"]
+
 [%hardbreaks]
-The Cure - In Between Days
 The Cure - Pictures Of You
 The Cure - Boys Don't Cry
 The Cure - A Short Term Effect
