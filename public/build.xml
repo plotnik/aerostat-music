@@ -93,7 +93,8 @@
 		</exec>
     </target>
 
-    <target name="gg" depends="aerostat">
+    <target name="gg" depends="aerostat"
+          description="Push changes to Netlify git">
         <echo message="Push changes to Netlify git"/>
 		<exec executable="git" 
 		      dir="../Документы/netlify/aerostat-music/">

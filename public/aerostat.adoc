@@ -49,7 +49,41 @@ code {
 
 == 32.
 
+=== Соуэн - 2020, 1 ноября 2020
+
+<https://aerostatbg.ru/release/807>
+
+.Archie Fisher – Will Ye Gang Love
+image:Archie Fisher 1976 - Will Ye Gang Love/cover.jpg[Will Ye Gang Love,200,200,role="thumb left"]
+
+.Fairport Convention – Fotheringay
+image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
+
+.Steeleye Span – Gamble Gold (Robin Hood)
+image:STEELEYE SPAN/Steeleye Span - All Around My Hat/cover.jpg[All Around My Hat,200,200,role="thumb left"]
+
+.Jethro Tull – Botanic Man
+image:JETHRO TULL/2018 - Heavy Horses (Steven Wilson Remix)/Cover.jpg[Heavy Horses (Steven Wilson Remix),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Pomerium – Heroum Soboles
+Beastie Boys – Sabotage
+Bert Jansch – Black Waterside
+Chieftains – Tristan and Isolde: The Departure
+Kilkennys – Fiddler's Green
+Andy M. Stewart – Where Are You (Tonight I Wonder)
+
+++++
+<br clear="both">
+++++
+
 === Tom's Wildflowers, 25 октября 2020
+
+<https://aerostatbg.ru/release/806>
 
 .Tom Petty – Something Could Happen
 image:TOM PETTY/2020 - Wildflowers & All the Rest/cover.jpg[Wildflowers & All the Rest,200,200,role="thumb left"]
@@ -69,6 +103,8 @@ Tom Petty – Confusion Wheel (Home Recording)
 ++++
 
 === British Blues, 18 октября 2020
+
+<https://aerostatbg.ru/release/805>
 
 .Jethro Tull – Some Day The Sun Won't Shine For You
 image:JETHRO TULL/Jethro Tull - 2002  Living With The Past/cover.jpg[2002  Living With The Past,200,200,role="thumb left"]
@@ -96,6 +132,8 @@ Cream – Four Until Late
 
 === Новые Кленовые Имена, 11 октября 2020
 
+<https://aerostatbg.ru/release/804>
+
 .Roy Ayers – Ayerloom
 image:Roy Ayers - Virgo Vibes/cover.jpg[Virgo Vibes,200,200,role="thumb left"]
 
@@ -118,6 +156,8 @@ Crickets – Don't Ever Change
 
 === Новые Песни Октября, 4 октября 2020
 
+<https://aerostatbg.ru/release/803>
+
 .Kate Rusby – Everglow
 image:KATE RUSBY/2020 - Hand Me Down/folder.jpg[Hand Me Down,200,200,role="thumb left"]
 
@@ -139,6 +179,8 @@ Oneohtrix Point Never – Auto & Allo
 
 === То да Сё №10, 27 сентября 2020
 
+<https://aerostatbg.ru/release/802>
+
 .Charlie Watts & The Danish Radio Big Band – (Satis) Faction
 image:Charlie Watts Meets The Danish Radio Big/cover.jpg[Charlie Watts Meets The Danish Radio Big,200,200,role="thumb left"]
 
@@ -155,6 +197,8 @@ Jessie & The Leonards feat. Hannah Grace Deller – Working On The Frontline
 ++++
 
 === Магия камней, 20 сентября 2020
+
+<https://aerostatbg.ru/release/801>
 
 .Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_fishes_in_love[Fishes In Love]
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
@@ -193,6 +237,8 @@ Magnetic Fields – I Don't Want To Get Over You
 
 === Новые Песни Сентября, 13 сентября 2020
 
+<https://aerostatbg.ru/release/800>
+
 .Sufjan Stevens –  Video Game
 image:SUFJAN STEVENS/The Ascension/cover.png[The Ascension,200,200,role="thumb left"]
 
@@ -213,6 +259,8 @@ Darius Rucker – Beers And Sunshine
 
 === Части Света 2020, 6 сентября 2020
 
+<https://aerostatbg.ru/release/799>
+
 [%hardbreaks]
 Namgar – Medley-Two Yokhors
 Markscheider Kunst – Метание Копьем
@@ -230,6 +278,8 @@ Juna – Yashel Kuzle
 
 === Thick As A Brick, 30 августа 2020
 
+<https://aerostatbg.ru/release/798>
+
 .Jethro Tull - link:JETHRO%20TULL/1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html[Thick As A Brick, Part I] 
 image:JETHRO TULL/1972  Thick As A Brick/cover.jpg[1972  Thick As A Brick,200,200,role="thumb left"]
 
@@ -243,6 +293,8 @@ Jethro Tull – Thick As A Brick, Part II
 ++++
 
 === О Картине Мира, 23 августа 2020
+
+<https://aerostatbg.ru/release/797>
 
 [%hardbreaks]
 Sigur Rós – Rembihnútur
@@ -259,6 +311,8 @@ Paul Simon – Night Game
 ++++
 
 === О Том да Сем, 16 августа 2020
+
+<https://aerostatbg.ru/release/796>
 
 .Fleetwood mac – Albatross
 image:Fleetwood Mac 2002 - The Best Of Peter Greens Fleetwood Mac/FRONT.jpg[The Best Of Peter Greens Fleetwood Mac,200,200,role="thumb left"]
@@ -280,6 +334,8 @@ Bhajan Singers – Ganesh
 
 === Новые песни августа, 9 августа 2020
 
+<https://aerostatbg.ru/release/795>
+
 .Christine Ott – Todeslied
 image:Christine Ott - Chimères/cover.jpg[Chimères,200,200,role="thumb left"]
 
@@ -297,6 +353,8 @@ Jarv Is... – Am I Missing Something?
 ++++
 
 === Лунассад, 2 августа 2020
+
+<https://aerostatbg.ru/release/794>
 
 .Silly Wizard – The Highland Clearances
 image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
@@ -321,6 +379,8 @@ Ossian – 'S Gann Gann Dirich Mi Chaoidh
 
 === Демон Мечты, 26 июля 2020
 
+<https://aerostatbg.ru/release/793>
+
 .Iggy Pop – Cry For Love
 image:Iggy Pop - Blah-Blah-Blah/cover.jpg[Blah-Blah-Blah,200,200,role="thumb left"]
 
@@ -339,6 +399,8 @@ Rolling Stones –  Who's Been Sleeping Here
 ++++
 
 === Новые Имена #29, 19 июля 2020
+
+<https://aerostatbg.ru/release/792>
 
 .Bill Withers – Use Me
 image:Bill Withers - Still Bill/Folder.jpg[Still Bill,200,200,role="thumb left"]
@@ -359,6 +421,8 @@ Green-House – Peperomia Seedling
 ++++
 
 === Вслух о Музыке, 12 июля 2020
+
+<https://aerostatbg.ru/release/791>
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_when_the_ship_comes_in[When The Ship Comes In]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
@@ -383,6 +447,8 @@ Beatles – You Like Me Too Much
 
 === Новые Песни Июля, 5 июля 2020
 
+<https://aerostatbg.ru/release/790>
+
 .Bob Dylan – My Own Version Of You
 image:BOB DYLAN/2020 - Rough And Rowdy Days/cover.jpg[Rough And Rowdy Days,200,200,role="thumb left"]
 
@@ -404,6 +470,8 @@ Shaggy feat. Sting – Angel
 
 === Музыка Ревущих 20-х, 28 июня 2020
 
+<https://aerostatbg.ru/release/789>
+
 [%hardbreaks]
 Fred Rich & His Orchestra – Singing In The Rain
 Nick Lucas – Tip-Toe Thru' The Tulips With Me
@@ -423,6 +491,8 @@ Cliff «Ukulele Ike» Edwards –  Orange Blossom Time
 ++++
 
 === Новый Альбом А, 21 июня 2020
+
+<https://aerostatbg.ru/release/788>
 
 .БГ – Альфа
 image:AQUARIUM/БГ - Знак Огня/cover.jpg[Знак Огня,200,200,role="thumb left"]
@@ -444,6 +514,8 @@ image:AQUARIUM/БГ - Знак Огня/cover.jpg[Знак Огня,200,200,role
 
 === Рок-Звезда, 14 июня 2020
 
+<https://aerostatbg.ru/release/787>
+
 .Ian Anderson – Photo Shop
 image:JETHRO TULL/IA - Rupis Dance (2003)/cover.jpg[Rupis Dance (2003),200,200,role="thumb left"]
 
@@ -463,6 +535,8 @@ Robert Plant – The Only Sound That Matters
 ++++
 
 === Новые Песни Июня, 7 июня 2020
+
+<https://aerostatbg.ru/release/786>
 
 .Bob Dylan – False Prophet
 image:BOB DYLAN/2020 - Rough And Rowdy Days/cover.jpg[Rough And Rowdy Days,200,200,role="thumb left"]
@@ -487,6 +561,8 @@ Phil Cunningham & Aly Bain –  Lightly Swims The Swan
 
 === Последний день Весны, 31 мая 2020
 
+<https://aerostatbg.ru/release/785>
+
 .Maccabees – Toothpaste Kisses
 image:The Maccabees - Colour It In/cover.jpg[Colour It In,200,200,role="thumb left"]
 
@@ -505,6 +581,8 @@ Lei Quing – Night Song
 ++++
 
 === 15 лет Аэростатики, 24 мая 2020
+
+<https://aerostatbg.ru/release/784>
 
 .Jethro Tull – From The Dead Beat To An Old Greaser
 image:JETHRO TULL/1976  Too Old to Rock N Roll/cover.jpg[1976  Too Old to Rock N Roll,200,200,role="thumb left"]
@@ -525,6 +603,8 @@ Beatles – Real Love
 ++++
 
 === Глубокие песни Джорджа, 17 мая 2020
+
+<https://aerostatbg.ru/release/783>
 
 .George Harrison – Isn't It A Pity
 image:GEORGE HARRISON/George Harrison - Live In Japan CD2/cover.jpg[Live In Japan CD2,200,200,role="thumb left"]
@@ -549,6 +629,8 @@ George Harrison – That's What It Takes
 ++++
 
 === То да се #8, 10 мая 2020
+
+<https://aerostatbg.ru/release/782>
 
 .Jethro Tull – Teacher
 image:JETHRO TULL/1976  M.U. - The Best of Jethro Tull/cover.jpg[The Best of Jethro Tull,200,200,role="thumb left"]
@@ -583,6 +665,8 @@ image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200
 ++++
 
 === Новые песни мая, 3 мая 2020
+
+<https://aerostatbg.ru/release/781>
 
 .Ashley McBryde – One Night Standards
 image:Ashley McBryde - Never Will/cover.jpg[Never Will,200,200,role="thumb left"]
