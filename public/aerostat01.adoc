@@ -40,6 +40,10 @@ Dick Gaughan - Both Sides The Tweed
 Pogues - Sally McLennan
 Maire Brennan - Song Of David
 
+++++
+<br clear="both">
+++++
+
 === "Правь, Британия!", 23 октября 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat23.html>
@@ -55,6 +59,10 @@ Oasis - Don't Look Back In Anger
 Blur - Beetlebum
 Ocean Colour Scene - The Circle
 Looper - On The Flipside
+
+++++
+<br clear="both">
+++++
 
 === "Сделай Сам!", 16 октября 2005
 
@@ -113,6 +121,10 @@ John Lennon - Mind Games
 George Harrison - All Those Years Ago
 Beatles - Free As A Bird
 
+++++
+<br clear="both">
+++++
+
 === "Россия - 80-е", 2 октября 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat20.html>
@@ -129,6 +141,10 @@ Beatles - Free As A Bird
 Звуки Му - Досуги-буги
 Секрет - Моя Любовь На Пятом Этаже
 
+++++
+<br clear="both">
+++++
+
 === "Пора сбора урожая", 25 сентября 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat19.html>
@@ -139,6 +155,9 @@ image:SIGUR ROS/Sigur Ros - Takk (V0)/Takk.jpg[Takk (V0),200,200,role="thumb lef
 .Paul McCartney - link:PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Chaos%20And%20Creation%20In%20The%20Backyard/lyrics/backyard.html#_english_tea[English Tea]
 image:PAUL MCCARTNEY/Paul McCartney - Chaos And Creation In The Backyard/cover.jpg[Chaos And Creation In The Backyard,200,200,role="thumb left"]
 
+.Damien Rice - Unplayed Piano
+image:DAMIEN RICE/Damien Rice/cover.jpg[Damien Rice,200,200,role="thumb left"]
+
 [%hardbreaks]
 Rolling Stones - She Saw Me Coming
 Gorillaz - Last Liven Souls
@@ -146,7 +165,10 @@ Feeder - Tumble And Fall
 Richard Thompson - Let It Blow
 Daft Punk - Human After All
 Albert Kuvezin & Yat-Kha - In-A-Gadda-Da-Vida
-Damien Rice - Unplayed Piano
+
+++++
+<br clear="both">
+++++
 
 === Прямой эфир, 18 сентября 2005
 
@@ -160,6 +182,10 @@ Srila Gurudeva - Sri Guru Vandana
 System Of A Down - Radio/Video
 Mary Hopkin - Sparrow
 Red Hot Chili Peppers - Eskimo
+
+++++
+<br clear="both">
+++++
 
 === "Beatles после Beatles", 11 сентября 2005
 
@@ -182,6 +208,10 @@ John Lennon - Watching The Wheels
 George Harrison - Between The Devil And The Deep Blue Sea
 Beatles - Real Love
 
+++++
+<br clear="both">
+++++
+
 === "Синтезатор Galore!", 4 сентября 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat16.html>
@@ -201,6 +231,10 @@ Tricky - Diss Never
 Klutch - Tray Buffet
 Nobukazu Takemura - Wandering
 
+++++
+<br clear="both">
+++++
+
 === "God Save Britania (80s)", 28 августа 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat15.html>
@@ -218,6 +252,9 @@ Bowie/Queen - Under Pressure
 Cure - Friday I'm In Love
 Smiths - There's The Light That Never Goes Out
 
+++++
+<br clear="both">
+++++
 
 === "Альтернатива за океаном или Искусство жить в корпоративном пейзаже", 21 августа 2005
 
@@ -278,6 +315,10 @@ Little Richard - Tutti Frutti
 Bill Haley - Rock Around The Clock
 Elvis Presley - His Latest Flame
 
+++++
+<br clear="both">
+++++
+
 === "Против шерсти", 7 августа 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat12.html>
@@ -297,6 +338,9 @@ Pogues - Sally McLennan
 Prodigy - Firestarter
 System Of A Down - Chop Suey!
 
+++++
+<br clear="both">
+++++
 
 === "Голова Бога Брана", 31 июля 2005
 
@@ -318,6 +362,10 @@ Richard Thompson - I Feel So Good
 Dick Gaughan - Jock Of Hazeldean
 The Pogues - Streams Of Whiskey
 Andy Stewart - Hold Your Tongue Dear Sally
+
+++++
+<br clear="both">
+++++
 
 === "Магия музыки", 24 июля 2005
 
@@ -349,6 +397,10 @@ Idle Race - No More Sad Songs
 Family - No Mule's Fool
 The Who - I Can't Reach You
 
+++++
+<br clear="both">
+++++
+
 === "World music", 17 июля 2005
 
 <http://old.aquarium.ru/misc/aerostat/aerostat09.html>
@@ -379,7 +431,7 @@ Ryuichi Sakamoto - Okinava Song
 image:Don McLean - American Pie/cover.jpg[American Pie,200,200,role="thumb left"]
 
 .Cat Stevens - My Lady D'Arbanville
-image:Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
+image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
 
 [%hardbreaks]
 T.Rex - Raw Ramp (part 1)
@@ -389,6 +441,10 @@ Thin Lizzie - Whiskey In The Jar
 David Bowie - Life On Mars
 Slade - Far Far Away
 T.Rex - Ballrooms Of Mars
+
+++++
+<br clear="both">
+++++
 
 === "Вавилонская филармония", 3 июля 2005
 
@@ -432,6 +488,9 @@ The Small Faces - Itchikoo Park
 Manfred Mann - My Name Is Jack
 Chad & Jeremy - Summer Song
 
+++++
+<br clear="both">
+++++
 
 === "За океаном, или Дайте нам своих Битлов - 2", 19 июня 2005
 
@@ -512,7 +571,7 @@ image:EELS/Eels - Blinking Lights And Other Revelations/Folder.jpg[Blinking Ligh
 image:MUM/Mum - Summer Make Good/cover.jpg[Summer Make Good,200,200,role="thumb left"]
 
 .Damien Rice - Older Chests
-image:Damien Rice - O/Damien_Rice_O_album_cover.jpg[O,200,200,role="thumb left"]
+image:DAMIEN RICE/Damien Rice - O/Damien_Rice_O_album_cover.jpg[O,200,200,role="thumb left"]
 
 [%hardbreaks]
 Beck - Send a Message to Her
@@ -547,6 +606,9 @@ The Hollies - Ye Olde Toffee Shoppe
 New Vaudeville Band - I Was Lord Kitchener's Valet
 Seekers - Georgie Girl
 
+++++
+<br clear="both">
+++++
 
 === "Золотой век музыки" - 1, 22 мая 2005
 
@@ -564,7 +626,9 @@ image:Shirley & Dolly Collins - Anthems in Eden/folder.jpg[Anthems in Eden,200,2
 .T.Rex - Diamond Meadows 
 image:T-REX/T-Rex/cover.jpg[T.Rex,200,200,role="thumb left"]
 
----
+++++
+<br clear="both">
+++++
 
 [%hardbreaks]
 Kinks - Waterloo Sunset
