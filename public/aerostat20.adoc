@@ -20,12 +20,14 @@ h3 {
 
 <http://old.aquarium.ru/misc/aerostat/aerostat484.html>
 
+.Fats Waller – Handful Of Keys
+image:Fats Waller - Complete Victor Piano Solos/cover.jpg[Complete Victor Piano Solos,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fats Waller – Lulu's Back In Town
 Jelly Roll Morton – Dead Man Blues
 Fats Waller – Your Feet's Too Big
 Fats Waller – I'm Gonna Sit Right Down
-Fats Waller – Handful Of Keys
 Fats Waller – All That Meat And No Potato
 Fats Waller – Two Sleepy People
 Fats Waller – Good Man Is Hard To Find
@@ -33,6 +35,10 @@ Fats Waller – The Joint Is Jumping
 Fats Waller – Lenox Avenue Blues
 Fats Waller – I Ain't Got Nobody
 Fats Waller – Squeeze Me
+
+++++
+<br clear="both">
+++++
 
 === Брик-О-Брак (Понемногу О Разном), 17 августа 2014
 
@@ -49,6 +55,10 @@ Cindy Lauper – Time After Time
 Aly Bain-Phil Cunningham – Sarah's Song
 Nick Drake – Saturday Sun
 
+++++
+<br clear="both">
+++++
+
 === Радио Африка, 10 августа 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat482.html>
@@ -64,6 +74,10 @@ Nick Drake – Saturday Sun
 Аквариум – Тибетское Танго
 Аквариум – Время Луны
 Аквариум – Еще Один Упавший Вниз
+
+++++
+<br clear="both">
+++++
 
 === Урожай Августа, 3 августа 2014
 
@@ -94,16 +108,32 @@ Kip Moore – Somethin' Bout The Truck
 
 <http://old.aquarium.ru/misc/aerostat/aerostat480.html>
 
+.Planxty – Johnny Cope
+image:PLANXTY/Planxty 1974 - Cold Blow and the Rainy Night/cover.jpg[Cold Blow and the Rainy Night,200,200,role="thumb left"]
+
+.Planxty – Sweet Thames Flow Softly
+image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
+
+.Planxty – Hewlett
+image:PLANXTY/Planxty 1973 - The Well Below The Valley/cover.jpg[The Well Below The Valley,200,200,role="thumb left"]
+
+.Planxty – The Irish Marche
+image:PLANXTY/Words and Music/cover.jpg[Words and Music,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Planxty – Out On The Ocean/Toicfaidh Tu Abhaile
-Planxty – Johnny Cope
 Planxty – Dennis Murphy's Polka
-Planxty – Sweet Thames Flow Softly
-Planxty – Hewlett
 Planxty – The Jolly Beggar
 Planxty – Bean Phaidin
 Planxty – True Love Knows No Season
-Planxty – The Irish Marche
+
+++++
+<br clear="both">
+++++
 
 === Невоспетые герои, 20 июля 2014
 
@@ -112,10 +142,12 @@ Planxty – The Irish Marche
 .Neil Innes – How Sweet To Be An Idiot
 image:Neil Innes - How Sweet To Be An Idiot/folder.jpg[How Sweet To Be An Idiot,200,200,role="thumb left"]
 
+.Howlin' Wolf – Spoonful
+image:Howlin Wolf - His Best/cover.jpg[His Best,200,200,role="thumb left"]
+
 [%hardbreaks]
 J.S.Bach – English Suite 2.VI
 John Sebastian – Rainbows All Over Yb
-Howlin' Wolf – Spoonful
 J.S.Bach – English Suite 1.V
 Buzzcocks – Ever Fallen In Love?
 Gram Parsons – Brass Buttons
@@ -124,19 +156,31 @@ Nick Mason – Hot River
 Matia Bazar – Vacanze Romane
 J.S.Bach – English Suite 2.VI
 
+++++
+<br clear="both">
+++++
+
 === Мой Led Zeppelin, 13 июля 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat478.html>
 
+.Led Zeppelin - Houses Of The Holy
+image:LED ZEPPELIN/Led Zeppelin - Physical Graffiti/Physical Graffiti.jpg[Physical Graffiti,200,200,role="thumb left"]
+
+.Led Zeppelin – Celebration Day
+image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
+
 [%hardbreaks]
-Led Zeppelin - Houses Of The Holy
-Led Zeppelin – Celebration Day
 Led Zeppelin – Tangerine
 Led Zeppelin – Immigrant
 Led Zeppelin – Dancing Days
 Led Zeppelin – Good Times Bad Times
 Led Zeppelin – Since I've Been Loving You
 Led Zeppelin – In The Light
+
+++++
+<br clear="both">
+++++
 
 === Новые Альбомы Июля, 6 июля 2014
 
@@ -145,10 +189,12 @@ Led Zeppelin – In The Light
 .Tom Petty – U Get Me High
 image:TOM PETTY/2014 - Hypnotic Eye/Folder.jpg[Hypnotic Eye,200,200,role="thumb left"]
 
+.Robert Plant – Rainbow
+image:ROBERT PLANT/2014 - Lullaby and the ceaseless roar/cover.jpg[Lullaby and the ceaseless roar,200,200,role="thumb left"]
+
 [%hardbreaks]
 Arthur Brown – Zim Zam Zim
 Arthur Brown – The Unknown
-Robert Plant – Rainbow
 Jan Rohrweg – Opening: Dreamland Of Love
 R.E.M. – Favourite Writer
 9bach – Pa Le?
@@ -156,12 +202,18 @@ Led Zeppelin – Key To The Highway
 Leisure Society – Colombia
 R.E.M. – Yellow River
 
+++++
+<br clear="both">
+++++
+
 === Время Мифа, 29 июня 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat476.html>
 
+.Cocteau Twins – Watchlar
+image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
+
 [%hardbreaks]
-Cocteau Twins – Watchlar
 Rolling Stones – 2000 Light Years From Home
 Buxtehude – Toccata In G Major
 Beatles – Here There And Everywhere
@@ -171,6 +223,10 @@ Idle Race – The End Of The Road
 Jimi Hendrix – Bold As Love
 Robin Laing – Summer Of '46
 Jethro Tull – Look Into The Sun
+
+++++
+<br clear="both">
+++++
 
 === Новые Имена, 22 июня 2014
 
@@ -186,6 +242,10 @@ Malawi Mouse Boys – Ndiyamika
 Elizabeth Fraser – At Last I'm Free
 Riviere Noir – Bate Longe
 Malawi Mouse Boys – Machimo Anga Ngambir
+
+++++
+<br clear="both">
+++++
 
 === Евгений Клячкин, 15 июня 2014
 
@@ -205,6 +265,10 @@ Malawi Mouse Boys – Machimo Anga Ngambir
 Евгений Клячкин – Прощание
 Евгений Клячкин – Зимний Сон
 
+++++
+<br clear="both">
+++++
+
 === The Specials, 8 июня 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat473.html>
@@ -220,6 +284,10 @@ The Specials – You're Wondering Now
 The Specials – Blank Expression
 The Specials – A Message To You Rudy
 The Specials – Enjoy Yourself
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Июня, 1 июня 2014
 
@@ -237,6 +305,10 @@ Tune-Yards – Water Fountain
 Specials – Friday Night Saturday Morning
 БГ – Поутру В Поле
 
+++++
+<br clear="both">
+++++
+
 === 9 лет Аэростатики, 25 мая 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat471.html>
@@ -252,6 +324,10 @@ Jeff Lynne – Blown Away
 Debussy – Clair De Lune
 Red Hot Chili Peppers – Someone
 Jethro Tull – Reasons For Waiting
+
+++++
+<br clear="both">
+++++
 
 === Истории Марка Эверетта, 18 мая 2014
 
@@ -271,6 +347,10 @@ Eels – Where I'm From
 Eels – Answers
 Eels – Where I'm Going
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни Мая, 11 мая 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat469.html>
@@ -287,6 +367,10 @@ Liars – Mask Maker
 Johnny Cash – Out Among The Stars
 Ziggy Marley – Fly Rasta
 
+++++
+<br clear="both">
+++++
+
 === Lester Young, 4 мая 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat468.html>
@@ -302,6 +386,10 @@ Lester Young – On The Sunny Side Of The Street
 Lester Young – Stardust
 Lester Young – These Foolish Thing
 Lester Young – On The Sunny Side Of The Street
+
+++++
+<br clear="both">
+++++
 
 === Белтайн, 27 апреля 2014
 
@@ -320,6 +408,10 @@ Robin Laing – The Unquiet Grave
 Richard Thompson/Phil Pickett – Short
 Andy M. Stewart – Heart Of The Home
 
+++++
+<br clear="both">
+++++
+
 === Сейчас, 20 апреля 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat466.html>
@@ -336,6 +428,9 @@ J.S. Bach – Piano Concerto #2
 Paul McCartney – This One
 Weepies – All That Beauty 
 
+++++
+<br clear="both">
+++++
 
 === Новые альбомы апреля, 13 апреля 2014
 
@@ -352,6 +447,10 @@ Tyrannosaurus Rex – Oh Baby
 Daltrey/Johnson – Ice On The Motorway
 Stephen Malkmus & The Jicks – Lariat
 
+++++
+<br clear="both">
+++++
+
 === Толубей Толубей, 6 апреля 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat464.html>
@@ -365,6 +464,10 @@ Eels – Mistakes Of My Youth
 Red Hot Chili Peppers – Funny Face
 БГ – Пришел Пить Воду
 George Harrison – Just For Today
+
+++++
+<br clear="both">
+++++
 
 === Вакханалия Любовь, 30 марта 2014
 
@@ -383,6 +486,10 @@ Magnetic Fields – Busby Berkeley Dreams
 Jeff Lynne – She
 Beatles – All My Loving
 
+++++
+<br clear="both">
+++++
+
 === Гобой и иже с ним, 23 марта 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat462.html>
@@ -398,6 +505,10 @@ Oregon – Cane Fields
 БГ Бэнд – Никита Рязанский
 Van Morrison – Got To Go Back
 J.S.Bach – Concerto In A Maj For Oboe
+
+++++
+<br clear="both">
+++++
 
 === Русские Барды и Я, 16 марта 2014
 
@@ -418,6 +529,10 @@ J.S.Bach – Concerto In A Maj For Oboe
 Окуджава – Грузинская Песня
 Клячкин – Мокрый Вальс
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни Марта, 9 марта 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat460.html>
@@ -431,6 +546,10 @@ Catrin Finch/Seckou Keita – Bamba
 Get The Blessing – Viking Death Moped
 Sheryl Crow – Easy
 Krishna Das – 4 Am Hanuman Chalisa
+
+++++
+<br clear="both">
+++++
 
 === Lou Reed, 2 марта 2014
 
