@@ -322,6 +322,9 @@ Jimi Hendrix - Burning Of The Midnight Lamp
 
 <http://old.aquarium.ru/misc/aerostat/aerostat79.html>
 
+.Damien Rice - Grey Room
+image:DAMIEN RICE/Damien Rice - 9/616px-Ninealbumcover.jpg[9,200,200,role="thumb left"]
+
 [%hardbreaks]
 The Rosewood Thieves - Los Angeles
 Sparklehorse - Don't Take My Sunshine Away
@@ -329,7 +332,6 @@ Beck - Cell Phone's Dead
 Sparklehorse - Knives Of Summertime
 The Fratellis - Vince The Loveable Stoner
 Sting - Come Again
-Damien Rice - Grey Room
 Simon & Garfunkel - Feuiiles-O
 The Fratellis - Whistle For The Choir
 

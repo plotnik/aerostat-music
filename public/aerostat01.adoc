@@ -245,10 +245,12 @@ image:TOM PETTY/Tom Petty And The Heartbreakers - Greatest Hits/cover.jpg[Greate
 .Crowded House - Nails In My Feet
 image:CROWDED HOUSE/1993 - Together Alone/front.jpg[Together Alone,200,200,role="thumb left"]
 
+.Tom Petty - link:TOM%20PETTY/Tom%20Petty%201994%20-%20Wildflowers/lyrics/wildflowers.html#_wildflowers[Wildflowers]
+image:TOM PETTY/Tom Petty 1994 - Wildflowers/cover.jpg[Wildflowers,200,200,role="thumb left"]
+
 [%hardbreaks]
 Laurie Anderson - O Superman
 Cars - You Might Think
-Tom Petty - Wildflowers
 
 ++++
 <br clear="both">

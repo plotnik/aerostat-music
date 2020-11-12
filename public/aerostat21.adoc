@@ -325,7 +325,7 @@ Ed Sheeran – I See Fire
 image:RADIOHEAD/Tomorrows Modern Boxes/cover.jpg[Tomorrows Modern Boxes,200,200,role="thumb left"]
 
 .Damien Rice – I Don't Want To Change You
-image:Damien Rice - My Favourite Faded Fantasy/cover.jpg[My Favourite Faded Fantasy,200,200,role="thumb left"]
+image:DAMIEN RICE/Damien Rice - My Favourite Faded Fantasy/cover.jpg[My Favourite Faded Fantasy,200,200,role="thumb left"]
 
 [%hardbreaks]
 Levellers – What A Beautiful Day
