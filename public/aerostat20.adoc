@@ -44,10 +44,12 @@ Fats Waller – Squeeze Me
 
 <http://old.aquarium.ru/misc/aerostat/aerostat483.html>
 
+.Nick Mason – Can't Get My Motor To Start
+image:Nick Mason - Fictitious Sports/cover.jpg[Fictitious Sports,200,200,role="thumb left"]
+
 [%hardbreaks]
 Stevie Wonder – Secret Life Of Plants
 Аквариум – Ты Дерево
-Nick Mason – Can't Get My Motor To Start
 Johnny Winter – Rock'n'Roll Hoochie Koo
 Lou Reed – The Gift
 Damian Marley – There For You
@@ -145,14 +147,22 @@ image:Neil Innes - How Sweet To Be An Idiot/folder.jpg[How Sweet To Be An Idiot,
 .Howlin' Wolf – Spoonful
 image:Howlin Wolf - His Best/cover.jpg[His Best,200,200,role="thumb left"]
 
+.Fats Waller – Ain't Misbehaving
+image:Fats Waller - Complete Victor Piano Solos/cover.jpg[Complete Victor Piano Solos,200,200,role="thumb left"]
+
+.Nick Mason – Hot River
+image:Nick Mason - Fictitious Sports/cover.jpg[Fictitious Sports,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 J.S.Bach – English Suite 2.VI
 John Sebastian – Rainbows All Over Yb
 J.S.Bach – English Suite 1.V
 Buzzcocks – Ever Fallen In Love?
 Gram Parsons – Brass Buttons
-Fats Waller – Ain't Misbehaving
-Nick Mason – Hot River
 Matia Bazar – Vacanze Romane
 J.S.Bach – English Suite 2.VI
 
@@ -170,11 +180,19 @@ image:LED ZEPPELIN/Led Zeppelin - Physical Graffiti/Physical Graffiti.jpg[Physic
 .Led Zeppelin – Celebration Day
 image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
 
+.Led Zeppelin – Dancing Days
+image:LED ZEPPELIN/Led Zeppelin - House Of The Holy/House Of The Holy.jpg[House Of The Holy,200,200,role="thumb left"]
+
+.Led Zeppelin – Good Times Bad Times
+image:LED ZEPPELIN/Led Zeppelin - I/Led Zeppelin.jpg[I,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Led Zeppelin – Tangerine
 Led Zeppelin – Immigrant
-Led Zeppelin – Dancing Days
-Led Zeppelin – Good Times Bad Times
 Led Zeppelin – Since I've Been Loving You
 Led Zeppelin – In The Light
 
@@ -213,12 +231,16 @@ R.E.M. – Yellow River
 .Cocteau Twins – Watchlar
 image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
 
+.Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_acres_wild[Acres Wild]
+image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_here_there_and_everywhere[Here There And Everywhere]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
 [%hardbreaks]
 Rolling Stones – 2000 Light Years From Home
 Buxtehude – Toccata In G Major
-Beatles – Here There And Everywhere
 Paul McCartney – Cafe On The Left Banke
-Jethro Tull – Acres Wild
 Idle Race – The End Of The Road
 Jimi Hendrix – Bold As Love
 Robin Laing – Summer Of '46

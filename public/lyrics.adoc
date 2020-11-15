@@ -86,7 +86,7 @@
 
 === K
 
-- link:./Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html[Keith Richards 2015 - Crosseyed Heart]
+- link:./KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html[KEITH RICHARDS/Crosseyed Heart]
 - link:./King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html[King Creosote/King Creosote 2014 - From Scotland With Love]
 
 

@@ -165,8 +165,8 @@ image:RICHARD THOMPSON/Richard Thompson - Still/cover.jpg[Still,200,200,role="th
 .King Gizzard & The Lizard Wizard - Paper Mache Dream Balloon
 image:KING GIZZARD & THE LIZARD WIZARD/2015 - Paper Mache Dream Balloon/front.jpg[Paper Mache Dream Balloon,200,200,role="thumb left"]
 
-.Keith Richards - link:Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html#_nothing_on_me[Nothing On Me]
-image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
+.Keith Richards - link:KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html#_nothing_on_me[Nothing On Me]
+image:KEITH RICHARDS/Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
 
 .Jeff Lynne's ELO - I'm Leaving You
 image:Electric Light Orchestra/2015 - Alone In The Universe/Front.jpg[Alone In The Universe,200,200,role="thumb left"]
@@ -386,8 +386,8 @@ Faure - Dolly: Tendresse
 
 <http://old.aquarium.ru/misc/aerostat/aerostat544.html>
 
-.Keith Richards - link:Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html#_robbed_blind[Robbed Blind]
-image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
+.Keith Richards - link:KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html#_robbed_blind[Robbed Blind]
+image:KEITH RICHARDS/Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
 
 .Decemberists - What Would I Now? 
 image:THE DECEMBERISTS/The Decemberists - Florasongs/florasongs.png[Florasongs,200,200,role="thumb left"]
@@ -538,8 +538,8 @@ Incredible String Band - Lover Man
 
 <http://old.aquarium.ru/misc/aerostat/aerostat538.html>
 
-.Keith Richards - link:Keith%20Richards%202015%20-%20Crosseyed%20Heart/lyrics/crosseyed.html#_trouble[Trouble]
-image:Keith Richards 2015 - Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
+.Keith Richards - link:KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html#_trouble[Trouble]
+image:KEITH RICHARDS/Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
 
 [%hardbreaks]
 Fratellis - Dogtown
