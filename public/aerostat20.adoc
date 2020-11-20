@@ -295,9 +295,11 @@ Malawi Mouse Boys – Machimo Anga Ngambir
 
 <http://old.aquarium.ru/misc/aerostat/aerostat473.html>
 
+.The Specials - link:Specials%20-%20Encore%20(Deluxe)/lyrics/encore.html#_gangsters[Gangsters]
+image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+
 [%hardbreaks]
 The Specials – (Dawning Of A) New Era
-The Specials – Gangsters
 The Specials – Too Much Too Young
 The Specials – Hey Little Rich Girl
 The Specials – International Jet Set
@@ -315,10 +317,12 @@ The Specials – Enjoy Yourself
 
 <http://old.aquarium.ru/misc/aerostat/aerostat472.html>
 
+.Morrissey – World Peace Is None Of Your Business
+image:MORRISSEY/2014 - World Peace Is None Of Your Business/cover.jpg[World Peace Is None Of Your Business,200,200,role="thumb left"]
+
 [%hardbreaks]
 Anoushka Shankar – River Pulse
 Chrissie Hynde – Dark Sunglasses
-Morrissey – World Peace Is None Of Your Business
 Anoushka Shankar – Fathers
 Eno/Hyde – Daddy's Car
 Carlene Carter – Little Black Train
@@ -335,17 +339,29 @@ Specials – Friday Night Saturday Morning
 
 <http://old.aquarium.ru/misc/aerostat/aerostat471.html>
 
+.Jethro Tull – Reasons For Waiting
+image:JETHRO TULL/Jethro Tull - Stand Up/cover.jpg[Stand Up,200,200,role="thumb left"]
+
+.Mary Hopkin – Sparrow
+image:MARY HOPKIN/Mary Hopkin - Those Were The Days/cover.jpg[Those Were The Days,200,200,role="thumb left"]
+
+.George Harrison – Life Itself
+image:GEORGE HARRISON/George Harrison - Somewhere In England/cover.jpg[Somewhere In England,200,200,role="thumb left"]
+
+.Red Hot Chili Peppers – Someone
+image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Manfred Mann – My Name Is Jack
-Mary Hopkin – Sparrow
 Eric Burdon – Orange And Red Beams
 Van Morrison – Into The Mystic
-George Harrison – Life Itself
 Cure – Friday I'm In Love
 Jeff Lynne – Blown Away
 Debussy – Clair De Lune
-Red Hot Chili Peppers – Someone
-Jethro Tull – Reasons For Waiting
 
 ++++
 <br clear="both">
@@ -559,15 +575,19 @@ J.S.Bach – Concerto In A Maj For Oboe
 
 <http://old.aquarium.ru/misc/aerostat/aerostat460.html>
 
+.Villagers – Occupy Your Mind
+image:VILLAGERS/Villagers/cover.jpg[Villagers,200,200,role="thumb left"]
+
+.Krishna Das – 4 Am Hanuman Chalisa
+image:Krishna Das - Kirtan Wallah/cover.jpg[Kirtan Wallah,200,200,role="thumb left"]
+
 [%hardbreaks]
-Villagers – Occupy Your Mind
 Penguin Cafe – Radio Bemba
 Snowbird – All Wishes Are Ghosts
 Catrin Finch/Seckou Keita – Bamba
 Сплин – Мысль
 Get The Blessing – Viking Death Moped
 Sheryl Crow – Easy
-Krishna Das – 4 Am Hanuman Chalisa
 
 ++++
 <br clear="both">

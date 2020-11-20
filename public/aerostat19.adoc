@@ -20,21 +20,34 @@ h3 {
 
 <http://old.aquarium.ru/misc/aerostat/aerostat458.html>
 
+.Suzanne Vega - link:SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html#_horizon_there_is_a_road[Horizon]
+image:SUZANNE VEGA/2014 - Tales from the Realm of the Queen of Pentacles/cover.jpg[Tales from the Realm of the Queen of Pentacles,200,200,role="thumb left"]
+
+.Beck – Say Goodbye
+image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
+
+.Everything Everything – Kemosabe
+image:Everything Everything - Arc/folder.jpg[Arc,200,200,role="thumb left"]
+
 [%hardbreaks]
-Suzanne Vega – Horizon
 Pixies – Blue Eyed Hexe
 Temples – Keep In The Dark
 Tinariven – Toumast Tincha
 Eels – Agatha Chang
 Damon Albarn – Everyday Robots
-Beck – Say Goodbye
 Grip Weeds – She Don't Care About Time
-Everything Everything – Kemosabe
-Suzanne Vega – Silver Bridge
+Suzanne Vega - link:SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html#_silver_bridge[Silver Bridge]
+
+++++
+<br clear="both">
+++++
 
 === Акустические Воины 60-х, 16 февраля 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat457.html>
+
+.Simon & Garfunkel - link:SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html#_blues_run_the_game[Blues Runs The Game]
+image:SIMON & GARFUNKEL/Simon & Garfunkel - Sounds of Silence/cover.jpg[Sounds of Silence,200,200,role="thumb left"]
 
 [%hardbreaks]
 Ralph McTell – Bright And Beautiful Thing
@@ -45,25 +58,34 @@ Tom Paxton – The Last Thing On My Mind
 Matthews Southern Comfort – Castle Far
 Клячкин – И Вечный Бой
 Ralph McTell – Streets Of London
-Simon & Garfunkel – Blues Runs The Game
 Jackson C. Frank – My Name Is Carnival
 Crosby & Nash – Southbound Train
+
+++++
+<br clear="both">
+++++
 
 === Тело Боли, 9 февраля 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat456.html>
+
+.REM. – Swan Swan H
+image:REM/REM - Lifes Rich Pageant/cover.jpg[Lifes Rich Pageant,200,200,role="thumb left"]
 
 [%hardbreaks]
 Jethro Tull – With You There To Help
 Johnny Cash – Hurt
 Procol Harum – Beyond The Pale
 Nirvana – Heart Shaped Box
-R.E.M. – Swan Swan H
 Peter Gabriel – Apres Moi
 King Crimson – Book Of Saturdays
 Pugwash – Rose In The Garden Of Weeds
 J. S. Bach – Gavotte. Suite #1
 Cat Stevens – Fill My Eyes
+
+++++
+<br clear="both">
+++++
 
 === Химолк, 2 февраля 2014
 
@@ -81,6 +103,10 @@ Pentangle – Light Flight
 Brass Monkey – The Rose Lawn Cadrille
 Boys Of The Lough – Sharon Eubank's Waltz
 
+++++
+<br clear="both">
+++++
+
 === Миры Ашкенази, 26 января 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat454.html>
@@ -97,6 +123,10 @@ Beatles – Sea Of Time
 King Crimson – 21 Century Schizoid Man
 Dead Can Dance – Return Of The She-King
 Paul Simon – Take Me To The Mardi Gras
+
+++++
+<br clear="both">
+++++
 
 === Примечательные альбомы 2013-го, 19 января 2014
 
@@ -116,6 +146,10 @@ Bill Callahan – The Sing
 Beatles – Bad To Me
 Orchestral Manoeuvres In The Dark – Night Cafe 
 
+++++
+<br clear="both">
+++++
+
 === Новые Имена, 12 января 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat452.html>
@@ -131,6 +165,10 @@ Gentle Good – Meddyliau Distaw'r Nos
 Psapp – Leaving In Coffins
 Eric Church – Springsteen
 Аквариум – Новогоднее поздравление 
+
+++++
+<br clear="both">
+++++
 
 === Cнова Притчи, 5 января 2014
 
@@ -173,6 +211,10 @@ Archie Fisher - Joy Of My Heart
 Борис Рубекин - Planxty BG
 Louis Armstrong - Winter Wonderland
 
+++++
+<br clear="both">
+++++
+
 === С Рождеством!, 22 декабря 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat449.html>
@@ -189,6 +231,10 @@ Kate Rusby - Cranbrook
 Albion Christmas Band - Alderbury Wassail
 Bing Crosby - Do You Hear What I Hear
 Bing Crosby - White Christmas 
+
+++++
+<br clear="both">
+++++
 
 === Америка в 50-е, 15 декабря 2013
 
@@ -208,6 +254,10 @@ Four Freshmen - Graduation Day
 Elvis Presley - Blue Suede Shoes
 Michael Holliday - In Love
 
+++++
+<br clear="both">
+++++
+
 === "Аквариум плюс", 8 декабря 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat447.html>
@@ -223,6 +273,10 @@ Michael Holliday - In Love
 Аквариум - Из Хрустального Захолустья
 Аквариум - Песнь Весеннего Восстановления 
 
+++++
+<br clear="both">
+++++
+
 === Бог знает что, 1 декабря 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat446.html>
@@ -235,6 +289,10 @@ Neil Finn - Song Of The Lonely Mountain
 Dechen Shak-Dagsay - Dolma
 Berlioz - Symphonie Fantastique.2. Un Bal
 Beatles - Hey Jude
+
+++++
+<br clear="both">
+++++
 
 === Новая Му Ноября, 24 ноября 2013
 
@@ -250,6 +308,10 @@ David Bowie - Atomica
 Christie Moore - St. Arthur's Day
 Motorhead - Lost Woman Blues
 Clannad - Rhapsody Nagrann
+
+++++
+<br clear="both">
+++++
 
 === Harry Nilsson, 17 ноября 2013
 
@@ -269,6 +331,10 @@ Harry Nilsson - Nobody Cares About The Railroads
 Harry Nilsson - Loop Di Loop
 Harry Nilsson - Mr. Bojangles
 
+++++
+<br clear="both">
+++++
+
 === "New" Paul McCartney, 10 ноября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat443.html>
@@ -286,6 +352,10 @@ Paul McCartney – Struggle
 Paul McCartney – Turned Out
 Paul McCartney – Everybody Out There 
 
+++++
+<br clear="both">
+++++
+
 === Строго Второй Эшелон, 3 ноября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat442.html>
@@ -299,6 +369,10 @@ Johnny Dowd – Easy Money
 Grimes – Genesis
 Mavis Staples – You Are Not Alone 
 
+++++
+<br clear="both">
+++++
+
 === "Ommadawn", 27 октября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat441.html>
@@ -307,6 +381,10 @@ Mavis Staples – You Are Not Alone
 Mike Oldfield – Ommadawn Part 1
 Mike Oldfield – Ommadawn Part 2
 Mike Oldfield – On Horseback
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Октября, 20 октября 2013
 
@@ -324,6 +402,10 @@ Cotton Mather – Animal Show
 Paul McCartney – Alligator
 Fratellis – Seven Days Seven Nights
 
+++++
+<br clear="both">
+++++
+
 === Варвары и греки, 13 октября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat439.html>
@@ -340,6 +422,10 @@ R.E.M. – Exhuming McCarthy
 Rolling Stones – Undercover Of The Night
 Torelli – Sonata A Cinque: Allegro
 Future Cloud & Radar – Green Mountain Clover
+
+++++
+<br clear="both">
+++++
 
 === Little Richard, 6 октября 2013
 
@@ -362,6 +448,10 @@ Little Richard – Ooh! My Soul
 Little Richard – Baby Don't You Tear My Clothes
 Little Richard – Boo Hoo Hoo Hoo
 
+++++
+<br clear="both">
+++++
+
 === Страшная Сила Красоты, 29 сентября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat437.html>
@@ -378,6 +468,10 @@ Leonard Cohen – Crazy To Love You
 Blood Sweat & Tears – And When I Die
 Beatles – I Will
 
+++++
+<br clear="both">
+++++
+
 === Del Amitri, 22 сентября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat436.html>
@@ -393,6 +487,10 @@ Del Amitri – Tell Her This
 Del Amitri – Always The Last To Know
 Del Amitri – Life Is Full
 Del Amitri – Won't Make It Better 
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Сентября, 15 сентября 2013
 
