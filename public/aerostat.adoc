@@ -50,6 +50,44 @@ code {
 
 == 33.
 
+=== The Sparks, 15 ноября 2020
+
+<https://aerostatbg.ru/release/809>
+
+.Sparks – Amateur Hour
+image:SPARKS/1974 - Kimono My House/Folder.jpg[Kimono My House,200,200,role="thumb left"]
+
+.Sparks – Under The Table With Her
+image:SPARKS/1975 - Indiscreet/front.jpg[Indiscreet,200,200,role="thumb left"]
+
+.Sparks – The Number One Song In Heaven
+image:SPARKS/Sparks - No. 1 In Heaven/cover.jpg[No. 1 In Heaven,200,200,role="thumb left"]
+
+.Sparks – This Town Ain't Big Enough For The Both Of Us
+image:SPARKS/1997 - Plagiarism/cover.jpg[Plagiarism,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Sparks – The Rhythm Thief
+image:SPARKS/2002 - Lil Beethoven/cover.jpg[Lil Beethoven,200,200,role="thumb left"]
+
+.Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_the_amazing_mr_repeat[The Amazing Mr. Repeat]
+image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
+
+.Sparks – Onomato Pia
+image:SPARKS/Sparks 2020 - A Steady Drip Drip Drip/cover.jpg[A Steady Drip Drip Drip,200,200,role="thumb left"]
+
+[%hardbreaks]
+Sparks – When Do I Get To Sing 'My Way'
+Sparks – Angst In My Pants
+Sparks – Falling In Love With Myself Again
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Ноября, 8 ноября 2020
 
 <https://aerostatbg.ru/release/808>
@@ -66,6 +104,3 @@ Gratien Midonet – Ven en lévé
 Аквариум – Камчатка
 Loudon Wainwright III – How I Love You (I'm Tellin' the Birds, Tellin' the Bees)
     
-++++
-<br clear="both">
-++++

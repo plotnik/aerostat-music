@@ -49,6 +49,7 @@
 - link:./DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html[DONOVAN/Donovan - HMS Donovan]
 - link:./DONOVAN/links.html[DONOVAN]
 - link:./Doors%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html[Doors - Waiting For The Sun]
+- link:./Dubliners%20-%2020%20Original%20Greatest%20Hits/lyrics/dubliners.html[Dubliners - 20 Original Greatest Hits]
 
 
 === E
