@@ -265,8 +265,8 @@ image:ROBERT PLANT/2017 - Carry Fire/cover.jpg[Carry Fire,200,200,role="thumb le
 .Richard Thompson - Rainbow Over The Hill
 image:RICHARD THOMPSON/Richard Thompson - Acoustic Rarities/cover.jpg[Acoustic Rarities,200,200,role="thumb left"]
 
-.Sparks - link:Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_what_the_hell_is_it_this_time[What The Hell Is It This Time?]
-image:Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
+.Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_what_the_hell_is_it_this_time[What The Hell Is It This Time?]
+image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
 
 ++++
 <br clear="both">
@@ -566,6 +566,9 @@ Laurel Aitken feat. The Skatalites - Bad Minded Woman
 .Morrissey - link:MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html#_spent_the_day_in_bed[Spent The Day In Bed]
 image:MORRISSEY/2017 - Low in High School/cover.jpg[Low in High School,200,200,role="thumb left"]
 
+.Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_when_you_re_a_french_director[When You’re A French Director]
+image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
+
 [%hardbreaks]
 Mary Epworth - Me Swimming
 U2 - You’re The Best Thing About Me
@@ -575,7 +578,6 @@ Van Morrison - Transformation
 Neil Finn - Widow’s Peak
 Pugwash - The Perfect Summer
 Аквариум - Не трать время
-Sparks - When You’re A French Director
 
 === Коммуникация, 1 октября 2017
 

@@ -76,6 +76,10 @@ Krishna Das - By Your Grace/Jai Gurudev
 Frivolous - You Gotta Sing
 Shivkumar Sharma - Shri Gayatri Mahamantra
 
+++++
+<br clear="both">
+++++
+
 === Воображаемые миры, 20 августа 2017
 
 <https://aerostatica.ru/2017/08/20/640-voobrazhaemye-miry/>
@@ -95,6 +99,10 @@ Paul Horn - Siciliano (From Flute Sonata No. II)
 Jan Pieterszoon Sweelinck - Pavana Hispanica
 Beatles - Every Little Thing
 Del Amitri - Nothing Ever Happens
+
+++++
+<br clear="both">
+++++
 
 === Radiohead, 13 августа 2017
 
@@ -123,6 +131,10 @@ Radiohead - Exit Music (For A Film)
 Radiohead - Everything In Its Right Place
 Radiohead - Burn The Witch
 
+++++
+<br clear="both">
+++++
+
 === Новые песни в августе, 6 августа 2017
 
 <http://aerostatica.ru/2017/08/06/638-novye-pesni-v-avguste/>
@@ -141,6 +153,9 @@ Yazz Ahmed - The Space Between The Fish And The Moon
 This Is The Kit - Moonshine Freeze
 Ekoplekz - Denier Daze
 
+++++
+<br clear="both">
+++++
 
 === Лунассад: Фил Каннингэм, 30 июля 2017
 
@@ -157,6 +172,9 @@ Silly Wizard - The Banks Of The Lee
 Aly Bain & Phil Cunningham - Eleanor Of Usan
 Silly Wizard - Mo Nighean Donn, Grádh Mo Chridhe
 
+++++
+<br clear="both">
+++++
 
 === Девять главных, 23 июля 2017
 
@@ -206,6 +224,10 @@ Blondie feat. Robert Fripp - Fade Away And Radiate
 Mark Pritchard feat. Thom Yorke - Beautiful People
 Nitin Sawhney feat. Paul McCartney - My Soul
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни Июля, 9 июля 2017
 
 <http://aerostatica.ru/2017/07/09/634-novye-pesni-iyulya/>
@@ -224,6 +246,9 @@ Kasabian - Comeback Kid
 Hans-Joachim Roedelius & Arnold Kasar - Rolling
 T. Rex - Light Of Love
 
+++++
+<br clear="both">
+++++
 
 === Мастер Тик Ньят Хань, 2 июля 2017
 
@@ -244,6 +269,9 @@ Lama Khenno - Ultimate Guru Sadhana Of Simplicity
 Deepak Khazanchi - Gajavadana Gananatha
 Kathmandu Music Center & Lama Ngodup Jungney - Prayers For Dharma Wangchuk: Lineage, The Founder Of Bamrom Tradition Of Kagyu
 
+++++
+<br clear="both">
+++++
     
 === The Move, 25 июня 2017
 
@@ -264,6 +292,9 @@ Roy Wood - Nancy Sing Me a Song
 Move - No Time
 Move - Message from the Country
 
+++++
+<br clear="both">
+++++
 
 === Творчество, 18 июня 2017
 
@@ -293,6 +324,10 @@ Andy Summers & Robert Fripp - Painting And Dance
 Jimmy Cliff - The Harder They Come
 Jethro Tull - Lick Your Fingers Clean
 
+++++
+<br clear="both">
+++++
+
 === Japan, 11 июня 2017
 
 <http://aerostatica.ru/2017/06/11/630-japan/>
@@ -308,6 +343,10 @@ Japan - Ghosts
 Japan - The Experience Of Swimming
 Rain Tree Crow - Blackwater
 Japan - Quiet Life
+
+++++
+<br clear="both">
+++++
 
 === Новые песни июня, 04 июня 2017
 
@@ -354,6 +393,9 @@ Kinks - Where Have All the Good Times Gone
 Beatles - With a Little Help From My Friends (2017 remix)
 Manfred Mann - Fox on the Run
 
+++++
+<br clear="both">
+++++
 
 === The Clash, 21 мая 2017
 
@@ -373,6 +415,10 @@ Clash - Rock The Casbah
 Clash - Police & Thieves
 Clash - I Fought the Law
 
+++++
+<br clear="both">
+++++
+
 === Арво Пярт, 14 мая 2017
 
 <http://aerostatica.ru/2017/05/14/626-arvo-pyart/>
@@ -387,12 +433,16 @@ Arvo Pärt - Cantus in Memory of Benjamin Britten
 Arvo Pärt - Pari Intervallo
 Arvo Pärt - Spiegel im Spiegel
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни в Мае, 7 мая 2017
 
 <http://aerostatica.ru/2017/05/07/625-novye-pesni-v-mae/>
 
-.Sparks - link:Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_hippopotamus[Hippopotamus]
-image:Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
+.Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_hippopotamus[Hippopotamus]
+image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
 
 .Blondie - Long Time
 image:Blondie 2017 - Pollinator/00-blondie-pollinator_cover.jpg[Pollinator,200,200,role="thumb left"]
@@ -450,6 +500,9 @@ Bob Dylan - Once Upon a Time
 Inna de Yard feat. The Viceroys - Love Is the Key
 Justin Currie - Sydney Harbour Bridge
 
+++++
+<br clear="both">
+++++
 
 === Пасха. Люди о Боге, 16 апреля 2017
 
@@ -466,6 +519,9 @@ George Harrison - Sat Singing
 Yusuf Islam - God Is The Light
 Van Morrison - In The Garden
 
+++++
+<br clear="both">
+++++
 
 === Pugwash, 9 апреля 2017
 
@@ -487,6 +543,9 @@ Pugwash - Here We Go ‘Round Again
 Pugwash - Monorail
 Pugwash - My Genius
 
+++++
+<br clear="both">
+++++
 
 === Разговоры с Коэном, 2 апреля 2017
 
@@ -516,7 +575,6 @@ Leonard Cohen - Hallelujah
 <br clear="both">
 ++++
 
-
 === За пианино – Билл Эванс! 26 марта 2017
 
 <http://aerostatica.ru/2017/03/26/619-za-pianino-bill-evans/>
@@ -533,6 +591,9 @@ Bill Evans - Stella By Starlight
 Bill Evans - If You Could See Me Now
 Bill Evans - Polka Dots And Moonbeams
 
+++++
+<br clear="both">
+++++
 
 === Кто это? 19 марта 2017
 
@@ -549,6 +610,9 @@ Noisia & Phace - Imperial
 Pink Turtle - Video Killed The Radio Star
 Gus Teja - Bali Jalan-Jalan
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Марта, 12 марта 2017
 
@@ -572,6 +636,9 @@ Residents - Train vs Elephant
 Аквариум - Безъядерная Зона
 Felix Mendelssohn - Op. 62: Allegretto Grazioso in A major (Spring Song)
 
+++++
+<br clear="both">
+++++
 
 === Флейта, 5 марта 2017
 
