@@ -31,6 +31,9 @@ Arun Ghosh - Aurora
 Jim Rattigan - Jessica
 Nigel Price Organ Trio - Hit The Road
 
+++++
+<br clear="both">
+++++
 
 === Русские композиторы, 15 февраля 2015
 
@@ -47,6 +50,10 @@ Nigel Price Organ Trio - Hit The Road
 Кюи - Пьеса в Народном Стиле
 Чайковский - Марш из балета "Щелкунчик"
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни. Февраль, 8 февраля 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat508.html>
@@ -54,15 +61,21 @@ Nigel Price Organ Trio - Hit The Road
 .Aphex Twin - Diskhat ALL Prepared1mixed
 image:APHEX TWIN/Aphex Twin - Computer Controlled Acoustic Instruments pt2 EP/cover.jpg[Computer Controlled Acoustic Instruments pt2 EP,200,200,role="thumb left"]
 
+.Mark Knopfler - Beryl
+image:MARK KNOPFLER/2015 - Tracker/cover.jpg[Tracker,200,200,role="thumb left"]
+
 [%hardbreaks]
 Prodigy - Nasty
-Mark Knopfler - Beryl
 Nickelback - Sister Sin
 Panda Bear - Sequentional Circuits
 Marylin Manson - Fated, Faithful, Fatal
 Mini Mansions - Any Emotions
 Paradise Bangcok Molam International Band - Trak
 Infected Mushroom - Bass Nipple
+
+++++
+<br clear="both">
+++++
 
 === Imbolc 2015, 1 февраля 2015
 
@@ -82,6 +95,9 @@ John McSherry - The Wave Sweeper
 Lumiere - My Dearest Dear
 Phil Cunningham/Aly Bain - Sheenagh's Air
 
+++++
+<br clear="both">
+++++
 
 === Пятиугольный Грех, 25 января 2015
 
@@ -99,6 +115,10 @@ Phil Cunningham/Aly Bain - Sheenagh's Air
 Террариум – Китайцы Не Хотят
 Террариум – Креол
 Террариум – Январский Романс
+
+++++
+<br clear="both">
+++++
 
 === Deluxe По Сусекам, 18 января 2015
 
@@ -121,6 +141,9 @@ Led Zeppelin – The Girl I Love She Got Long Black Wavy Hair
 BG – Slide
 Hollies - Do The Best You Can
 
+++++
+<br clear="both">
+++++
 
 === Новая музыка, 11 января 2015
 
@@ -138,6 +161,10 @@ Thompson Family – One Life At A Time
 Grasscut – Catholic Architecture
 Kettel – Fincity
 Paul McCartney – Hope For The Future
+
+++++
+<br clear="both">
+++++
 
 === Притчи, 4 января 2015
 
@@ -159,6 +186,10 @@ Bert Jansch – Black Water Side
 Archie Fisher – Lindsay
 Bob Dylan – You Ain't Going Nowhere
 
+++++
+<br clear="both">
+++++
+
 === К Новому Году!, 28 декабря 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat502.html>
@@ -176,6 +207,10 @@ Albion Christmas Band – Alderbury Wassai
 Cornelius – Chapter 8
 John Chibadura – Zano Rako Mkoma
 Bing Crosby – White Christmas
+
+++++
+<br clear="both">
+++++
 
 === Лучшие Альбомы 2014, 21 декабря 2014
 
@@ -289,6 +324,9 @@ Kevin Ayers – May I?
 Kevin Ayers – Cold Shoulder
 Kevin Ayers – Red Green And You Blue
 
+++++
+<br clear="both">
+++++
 
 === Новые Пляски Динозавров, 23 ноября 2014
 
@@ -304,6 +342,10 @@ Jerry Lee Lewis – Stepchild
 Robin Williamson – Alive Today
 Queen – Love Kills
 
+++++
+<br clear="both">
+++++
+
 === По Вашим Просьбам, 16 ноября 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat496.html>
@@ -316,6 +358,10 @@ Deine Lakaien – Into My Arms
 Max Romeo – War Ina Babylon
 Joao Gilberto – Rosa Moreno
 Ed Sheeran – I See Fire
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни. Ноябрь, 9 ноября 2014
 
@@ -337,7 +383,9 @@ Ariel Pink – Put Your Number in My Phone
 Bob Dylan – 900 Miles from My Home
 Old Crow Medicine Show – Firewater
 
-
+++++
+<br clear="both">
+++++
 
 === "Соль", 2 ноября 2014
 
@@ -353,7 +401,9 @@ Old Crow Medicine Show – Firewater
 БГ – Селфи
 БГ – Stella Maris
 
-
+++++
+<br clear="both">
+++++
 
 === Старики, 26 октября 2014
 
@@ -395,6 +445,10 @@ Dowling Poole – Empires Buildings & Acqui
 OK Go – Before The Earth Was Round
 Lindisfarne – Meet Me On The Corner
 
+++++
+<br clear="both">
+++++
+
 === Слова игумена Евмения, 12 октября 2014
 
 <http://old.aquarium.ru/misc/aerostat/aerostat491.html>
@@ -413,7 +467,9 @@ Led Zeppelin – Down By The Seaside
 Herman's Hermits – Museum
 Fortunes – Here It Comes Again
 
-
+++++
+<br clear="both">
+++++
 
 === Урожай в Октябре, 5 октября 2014
 
@@ -457,7 +513,9 @@ Leonard Cohen – You Got Me Singing
 Чиж – Солдат На Привале
 Петр Лещенко – Стаканчики
 
-
+++++
+<br clear="both">
+++++
 
 === Новые имена, 21 сентября 2014
 
@@ -475,7 +533,9 @@ Status Quo – Paper Plane
 Jack Johnson – Horizon Have Been Defeated
 House Of Love – The Beatles And The Stones
 
-
+++++
+<br clear="both">
+++++
 
 === Урожай Сентября 2014, 14 сентября 2014
 
@@ -528,6 +588,10 @@ J.S. Bach – Italian Concerto F Maj, 1
 J.S. Bach – English Suite #1, Sarabande
 J.S. Bach – Partita #3 in A Minor, II. Allemande
 J.S. Bach – English Suite #1, Sarabande
+
+++++
+<br clear="both">
+++++
 
 === Притчи в конце лета, 31 августа 2014
 

@@ -22,20 +22,31 @@ h3 {
 
 <https://www.radiorus.ru/brand/57083/episode/2212135>
 
+.Joni Mitchell - Just Like This Train
+image:JONI MITCHELL/Court and Spark (remastered)/cover.jpg[Court and Spark (remastered),200,200,role="thumb left"]
+
+.Cat Stevens - Sitting
+image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bhagavad Gita - 13
 Jagjit & Chitra Singh - Sab Se Umchi
 John Lennon - Old Dirt Road
 Dittersdorf - Sinfonia In F. Minuetto
-Cat Stevens - Sitting
 George Harrison - Mo's Song
 Rustavi - Sulta Tana
-Joni Mitchell - Just Like This Train
 Gus Teja - Morning Happiness
+
+++++
+<br clear="both">
+++++
 
 === Новые песни октября, 13 октября 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2210068>
+
+.Pixies - Catfish Kate
+image:Pixies - Beneath the Eyrie/cover.jpg[Beneath the Eyrie,200,200,role="thumb left"]
 
 [%hardbreaks]
 Аквариум - Духовные Люди
@@ -44,19 +55,23 @@ Who - All This Music Will Fade
 Van Morrison - Dark Night Of The Soul
 Manu Delago - Circadian
 Alasdair Roberts - Dancers
-Pixies - Catfish Kate
 Beatles - Goodbye
 Johnny Greenwood - 3 Miniatures. Water#1
 
+++++
+<br clear="both">
+++++
 
 === Super Furry Animals, 6 октября 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2208173>
 
+.Super Furry Animals - Helium Hearts
+image:Super Furry Animails - Dark Days-Light Years/cover.jpg[Dark Days-Light Years,200,200,role="thumb left"]
+
 [%hardbreaks]
 Super Furry Animals - Rings Around The World
 Super Furry Animals - Northern Lites
-Super Furry Animals - Helium Hearts
 Super Furry Animals - Imaelodi A'r Ymylon
 Super Furry Animals - Bing Bong
 Super Furry Animals - Run-Away
@@ -65,6 +80,9 @@ Super Furry Animals - Hello Sunshine
 Super Furry Animals - Piccolo Snare
 Super Furry Animals - Juxtapozed With U
 
+++++
+<br clear="both">
+++++
 
 === Blue Note Records, 29 сентября 2019
 
@@ -82,22 +100,30 @@ Sonny Rollins - Tune Up
 Herbie Hancock - Maiden Voyage
 Jimmy Smith - Back At The Chicken Shack
 
+++++
+<br clear="both">
+++++
+
 === Еще Новые Новые, 22 сентября 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2204188>
+
+.Steeleye Span - Reclaimed
+image:STEELEYE SPAN/1969 - Estd/cover.jpg[Estd,200,200,role="thumb left"]
 
 [%hardbreaks]
 Billie Eilish - All The Good Girls Go To Hell
 Post Malone - Take What You Want
 Martin Simpson - Neo
 Rails - Ball And Chain
-Steeleye Span - Reclaimed
 Stereolab - Freestyle Dumpling
 Faith Mussa - Kwanu Mkwanu
 Jenny Hval - Ashes To Ashes
 Liam Gallagher - Once
 
-
+++++
+<br clear="both">
+++++
 
 === Не Судьба, 15 сентября 2019
 
@@ -148,7 +174,9 @@ Iggy Pop - James Bond
 Big Youth - Gunslinger
 Peter Cat Recording Co - Soulless Friends
 
-
+++++
+<br clear="both">
+++++
 
 === "Части Света 2019", 1 сентября 2019
 
@@ -163,6 +191,10 @@ Dechen Shak-Dagsay - Opa Me
 Karelia
 Varttina - Kelo
 Аквариум - Бог Зимогоров
+
+++++
+<br clear="both">
+++++
 
 === 7 Поколений, 25 августа 2019
 
@@ -180,6 +212,10 @@ Radiohead - Paranoid Android
 Skrillex-Marley - Make It Bum Dem
 Beatles - Across The Universe
 
+++++
+<br clear="both">
+++++
+
 === Новые Имена, 18 августа 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2193606>
@@ -195,7 +231,9 @@ Norma Tanega - Walkin' My Cat Named Dog
 Dylan Leblanc - Part One: The End
 Chordettes - Faraway Star
 
-
+++++
+<br clear="both">
+++++
 
 === Гараж, 11 августа 2019
 
@@ -215,6 +253,10 @@ Electric Prunes - I Had Too Much To Dream
 Iggy/Stooges - Now I Wanna Be Your Dog
 Bobby Fuller Four - I Fought The Law 
 
+++++
+<br clear="both">
+++++
+
 === Новый Август, 4 августа 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2189790>
@@ -230,6 +272,10 @@ Sturgill Simpson - The Dead Don't Die
 Brian Eno - Capsule
 Tinariven - Taqkal Tarha
 Belle&Sebastian - Sister Buddha
+
+++++
+<br clear="both">
+++++
 
 === Lunassad: Поэты и пр., 28 июля 2019
 
@@ -247,6 +293,9 @@ Kate Rusby - Philosophers Poets And Kings
 Kate Rusby - Crazy Man Michael
 Kate Rusby - Halt The Wagons
 
+++++
+<br clear="both">
+++++
 
 === Ronnie Lane, 21 июля 2019
 
@@ -263,6 +312,10 @@ Ronnie Lane - April Fool
 Ronnie Lane's Slim Chance - Chicken Wired
 Ronnie Lane's Slim Chance - Don't Try'n'change My Mind
 Ronnie Lane's Slim Chance - Don't You Cry For Me
+
+++++
+<br clear="both">
+++++
 
 === О том, о сем #3, 14 июля 2019
 
@@ -281,6 +334,9 @@ David Bowie - Moss Garden
 Trashmen - Surfing Bird
 Cornelius - Sensuous
 
+++++
+<br clear="both">
+++++
 
 === Новые песни в июле, 7 июля 2019
 
@@ -324,6 +380,10 @@ John Lee Hooker - link:JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultim
 John Lee Hooker - Women In My Life
 John Lee Hooker - Chill Out
 
+++++
+<br clear="both">
+++++
+
 === То да се #3, 23 июня 2019
 
 <http://www.radiorus.ru/brand/57083/episode/2179513>
@@ -363,6 +423,9 @@ Screaming Trees - Nearly Lost You
 Skip Marley - That's Not True
 Free - Travellin In Style
 
+++++
+<br clear="both">
+++++
 
 === Thelonius Monk, 9 июня 2019
 
@@ -450,6 +513,10 @@ Buxtehude - Canzona In C Maj
 Herbie Mann - If
 Mendelsson - Concertante In G Maj For 2 Flutes. 2
 
+++++
+<br clear="both">
+++++
+
 === О том, о сем, No 2, 19 мая 2019
 
 <http://www.radiorus.ru/brand/57083/episode/2169618>
@@ -468,13 +535,13 @@ Beat/Ranking Roger - A Good Day For Sunshine
 King Crimson - Starless
 Mick Jagger - Evening Gown
 
+++++
+<br clear="both">
+++++
+
 === Новая музыка. Май, 12 мая 2019
 
 <http://www.radiorus.ru/brand/57083/episode/2167507>
-
-////
-<http://old.aquarium.ru/misc/aerostat/aerostat729.html>
-////
 
 [%hardbreaks]
 Black Keys - Eagle Birds
@@ -487,13 +554,13 @@ Kel Assuf - Amghar
 James Yorkston - The Blue Of The Thistle
 Stray Cats - Rock It Off
 
+++++
+<br clear="both">
+++++
+
 === Beltain Flook - 2019, 28 апреля 2019
 
-<https://aerostatica.ru/2019/04/28/728-beltain-flook-2019/>
-
-////
 <http://old.aquarium.ru/misc/aerostat/aerostat728.html>
-////
 
 .Flook - Lalabee/Jig For Simon
 image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
@@ -506,8 +573,3 @@ Flook - Ellie Goes West
 Flook - The Bunting Fund/Ocean Child
 Flook - The Crystal Year/Foxes’ Rock
 Flook - Turquoise Girl/The Tree Climber/Twelve Weeks And A Day/Rounding Malin Head
-
-++++
-<br clear="both">
-++++
-
