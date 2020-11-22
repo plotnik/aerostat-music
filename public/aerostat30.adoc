@@ -48,11 +48,13 @@ Gus Teja - Morning Happiness
 .Pixies - Catfish Kate
 image:Pixies - Beneath the Eyrie/cover.jpg[Beneath the Eyrie,200,200,role="thumb left"]
 
+.Van Morrison - Dark Night Of The Soul
+image:VAN MORRISON/2019 - Three Chords And The Truth/cover.png[Three Chords And The Truth,200,200,role="thumb left"]
+
 [%hardbreaks]
 Аквариум - Духовные Люди
 Jeff Lynne's Elo - From Out Of Nowhere
 Who - All This Music Will Fade
-Van Morrison - Dark Night Of The Soul
 Manu Delago - Circadian
 Alasdair Roberts - Dancers
 Beatles - Goodbye
