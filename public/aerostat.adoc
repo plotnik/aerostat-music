@@ -50,6 +50,26 @@ code {
 
 == 33.
 
+=== То Да Сё №11, 22 ноября 2020
+
+<https://aerostatbg.ru/release/810>
+
+.Tír na nÓg – Dance Of Years
+image:TIR NA NOG/1971 - Tír Na NÓg/Tír Na NÓg - Tír Na NÓg.jpg[Tír Na NÓg,200,200,role="thumb left"]
+
+[%hardbreaks]
+System Of A Down – Protect The Land
+Joni Mitchell – Born To Take The Highway
+Tony Scott – Satori (Enlightenment)
+Grateful Dead – Althea
+Cocteau Twins – Oil Of Angels
+Van Morrison – Snow In San Anselmo
+Hollies – Oriental Sadness
+    
+++++
+<br clear="both">
+++++
+
 === The Sparks, 15 ноября 2020
 
 <https://aerostatbg.ru/release/809>
@@ -70,7 +90,7 @@ image:SPARKS/1997 - Plagiarism/cover.jpg[Plagiarism,200,200,role="thumb left"]
 <br clear="both">
 ++++
 
-.Sparks – The Rhythm Thief
+.Sparks - link:SPARKS/2002%20-%20Lil%20Beethoven/lyrics/lil.html#_the_rhythm_thief[The Rhythm Thief]
 image:SPARKS/2002 - Lil Beethoven/cover.jpg[Lil Beethoven,200,200,role="thumb left"]
 
 .Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_the_amazing_mr_repeat[The Amazing Mr. Repeat]

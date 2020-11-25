@@ -18,6 +18,7 @@ h3 {
 
 <http://old.aquarium.ru/misc/aerostat/index30.html>
 
+
 === Поле и Обитатель Поля, 20 октября 2019
 
 <https://www.radiorus.ru/brand/57083/episode/2212135>
@@ -28,10 +29,12 @@ image:JONI MITCHELL/Court and Spark (remastered)/cover.jpg[Court and Spark (rema
 .Cat Stevens - Sitting
 image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
 
+.John Lennon - Old Dirt Road
+image:THE BEATLES/John Lennon - Walls and Bridges/cover.png[Walls and Bridges,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bhagavad Gita - 13
 Jagjit & Chitra Singh - Sab Se Umchi
-John Lennon - Old Dirt Road
 Dittersdorf - Sinfonia In F. Minuetto
 George Harrison - Mo's Song
 Rustavi - Sulta Tana
@@ -51,9 +54,11 @@ image:Pixies - Beneath the Eyrie/cover.jpg[Beneath the Eyrie,200,200,role="thumb
 .Van Morrison - Dark Night Of The Soul
 image:VAN MORRISON/2019 - Three Chords And The Truth/cover.png[Three Chords And The Truth,200,200,role="thumb left"]
 
+.Jeff Lynne's Elo - From Out Of Nowhere
+image:Electric Light Orchestra/2019 - From Out of Nowhere/cover.png[From Out of Nowhere,200,200,role="thumb left"]
+
 [%hardbreaks]
 Аквариум - Духовные Люди
-Jeff Lynne's Elo - From Out Of Nowhere
 Who - All This Music Will Fade
 Manu Delago - Circadian
 Alasdair Roberts - Dancers
@@ -184,9 +189,11 @@ Peter Cat Recording Co - Soulless Friends
 
 <https://www.radiorus.ru/brand/57083/episode/2198070>
 
+.Steeleye Span - Hard Times
+image:STEELEYE SPAN/Steeleye Span - All Around My Hat/cover.jpg[All Around My Hat,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fanfares Of Prague - Lande.Fanfare
-Steeleye Span - Hard Times
 Soul 47 - Moved Around
 Starostin/Volkov
 Dechen Shak-Dagsay - Opa Me
