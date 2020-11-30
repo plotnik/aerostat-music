@@ -88,9 +88,15 @@ image:JETHRO TULL/1970  Benefit/cover.jpg[1970  Benefit,200,200,role="thumb left
 .Pugwash – Rose In The Garden Of Weeds
 image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
 
+.Procol Harum – Beyond The Pale
+image:PROCOL HARUM/08-Exotic Birds And Fruit (1974)/cover.jpg[Exotic Birds And Fruit (1974),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Johnny Cash – Hurt
-Procol Harum – Beyond The Pale
 Nirvana – Heart Shaped Box
 Peter Gabriel – Apres Moi
 King Crimson – Book Of Saturdays
@@ -105,10 +111,14 @@ Cat Stevens – Fill My Eyes
 
 <http://old.aquarium.ru/misc/aerostat/aerostat455.html>
 
+.Boys Of The Lough – Farewell To Whisky
+image:The Boys of the Lough - The Boys of the Lough/cover.jpg[The Boys of the Lough,200,200,role="thumb left"]
+
+.Gentle Good – Marwnad Chang-Kan
+image:The Gentle Good - Y Bardd Anfarwol/cover.jpg[Y Bardd Anfarwol,200,200,role="thumb left"]
+
 [%hardbreaks]
-Boys Of The Lough – Farewell To Whisky
 Boys Of The Lough – Sweet Rural Shade
-Gentle Good – Marwnad Chang-Kan
 Robin Laing – Loons Is Loons
 Chieftains – Opening Theme (from Treasure Island)
 Sweeney's Men – Willy O'Winsbury
@@ -128,15 +138,27 @@ Boys Of The Lough – Sharon Eubank's Waltz
 .Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_one_brown_mouse[One Brown Mouse]
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
 
+.Paul Simon – Take Me To The Mardi Gras
+image:PAUL SIMON/1973 - There Goes Rhymin Simon/Folder.jpg[There Goes Rhymin Simon,200,200,role="thumb left"]
+
+.Beatles – Magical Mystery Tour
+image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
+
+.Dead Can Dance – Return Of The She-King
+image:DEAD CAN DANCE/2012 - Anastasis/cover.jpg[Anastasis,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.King Crimson – 21 Century Schizoid Man
+image:KING CRIMSON/1969 - In the Court of the Crimson King/cover.jpg[In the Court of the Crimson King,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles – Magical Mystery Tour
 Nobukazu Takemura – White Ship And Small
 Robin Williamson – Soor Plums
 Nobukazu Takemura – Croon
 Beatles – Sea Of Time
-King Crimson – 21 Century Schizoid Man
-Dead Can Dance – Return Of The She-King
-Paul Simon – Take Me To The Mardi Gras
 
 ++++
 <br clear="both">
@@ -168,6 +190,9 @@ Orchestral Manoeuvres In The Dark – Night Cafe
 
 <http://old.aquarium.ru/misc/aerostat/aerostat452.html>
 
+.Gentle Good – Meddyliau Distaw'r Nos
+image:The Gentle Good - Y Bardd Anfarwol/cover.jpg[Y Bardd Anfarwol,200,200,role="thumb left"]
+
 [%hardbreaks]
 Asgeir – Nyfallio Regn
 Asgeir – Lupin Intrigue
@@ -175,7 +200,6 @@ William Fitzsimmons – I Kissed A Girl
 Tigran Hamasyan – Seafarer
 Tape Five – Dixie Bisquits
 Joseph Ruarri – Got My Share
-Gentle Good – Meddyliau Distaw'r Nos
 Psapp – Leaving In Coffins
 Eric Church – Springsteen
 Аквариум – Новогоднее поздравление 
