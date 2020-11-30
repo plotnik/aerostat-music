@@ -320,15 +320,19 @@ The Specials – Enjoy Yourself
 .Morrissey – World Peace Is None Of Your Business
 image:MORRISSEY/2014 - World Peace Is None Of Your Business/cover.jpg[World Peace Is None Of Your Business,200,200,role="thumb left"]
 
+.Specials – Friday Night Saturday Morning
+image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+
+.Anoushka Shankar – River Pulse
+image:Anoushka Shankar - Traces of You/Cover.jpg[Traces of You,200,200,role="thumb left"]
+
 [%hardbreaks]
-Anoushka Shankar – River Pulse
 Chrissie Hynde – Dark Sunglasses
 Anoushka Shankar – Fathers
 Eno/Hyde – Daddy's Car
 Carlene Carter – Little Black Train
 Lee Perry – Copy This And Copy That
 Tune-Yards – Water Fountain
-Specials – Friday Night Saturday Morning
 БГ – Поутру В Поле
 
 ++++

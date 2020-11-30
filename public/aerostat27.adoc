@@ -569,6 +569,9 @@ image:MORRISSEY/2017 - Low in High School/cover.jpg[Low in High School,200,200,r
 .Sparks - link:SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html#_when_you_re_a_french_director[When You’re A French Director]
 image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thumb left"]
 
+.Pugwash - The Perfect Summer
+image:PUGWASH/2017 - Silverlake/Cover.jpg[Silverlake,200,200,role="thumb left"]
+
 [%hardbreaks]
 Mary Epworth - Me Swimming
 U2 - You’re The Best Thing About Me
@@ -576,7 +579,6 @@ Chris Hillman - Here She Comes Again
 Marilyn Manson - We Know Where You Fucking Live
 Van Morrison - Transformation
 Neil Finn - Widow’s Peak
-Pugwash - The Perfect Summer
 Аквариум - Не трать время
 
 === Коммуникация, 1 октября 2017

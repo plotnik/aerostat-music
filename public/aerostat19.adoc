@@ -29,11 +29,21 @@ image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
 .Everything Everything – Kemosabe
 image:Everything Everything - Arc/folder.jpg[Arc,200,200,role="thumb left"]
 
+.Tinariwen – Toumast Tincha
+image:TINARIWEN/Aman Iman _ Water Is Life/cover.jpg[Aman Iman _ Water Is Life,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Eels - link:EELS/Eels%20-%202014%20-%20The%20cautionary%20tales%20of%20Mark%20Oliver%20Everett%20-%20CD%201/lyrics/tales.html#_agatha_chang[Agatha Chang]
+image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cover.jpg[2014 - The cautionary tales of Mark Oliver Everett - CD 1,200,200,role="thumb left"]
+
+.Pixies – Blue Eyed Hexe
+image:PIXIES/Indie Cindy/cover.png[Indie Cindy,200,200,role="thumb left"]
+
 [%hardbreaks]
-Pixies – Blue Eyed Hexe
 Temples – Keep In The Dark
-Tinariven – Toumast Tincha
-Eels – Agatha Chang
 Damon Albarn – Everyday Robots
 Grip Weeds – She Don't Care About Time
 Suzanne Vega - link:SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html#_silver_bridge[Silver Bridge]
@@ -69,17 +79,21 @@ Crosby & Nash – Southbound Train
 
 <http://old.aquarium.ru/misc/aerostat/aerostat456.html>
 
-.REM. – Swan Swan H
+.REM. - link:REM/REM%20-%20Lifes%20Rich%20Pageant/lyrics/lifes.html#_swan_swan_h[Swan Swan H]
 image:REM/REM - Lifes Rich Pageant/cover.jpg[Lifes Rich Pageant,200,200,role="thumb left"]
 
+.Jethro Tull – With You There To Help
+image:JETHRO TULL/1970  Benefit/cover.jpg[1970  Benefit,200,200,role="thumb left"]
+
+.Pugwash – Rose In The Garden Of Weeds
+image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
+
 [%hardbreaks]
-Jethro Tull – With You There To Help
 Johnny Cash – Hurt
 Procol Harum – Beyond The Pale
 Nirvana – Heart Shaped Box
 Peter Gabriel – Apres Moi
 King Crimson – Book Of Saturdays
-Pugwash – Rose In The Garden Of Weeds
 J. S. Bach – Gavotte. Suite #1
 Cat Stevens – Fill My Eyes
 
@@ -111,7 +125,7 @@ Boys Of The Lough – Sharon Eubank's Waltz
 
 <http://old.aquarium.ru/misc/aerostat/aerostat454.html>
 
-.Jethro Tull – One Brown Mouse
+.Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_one_brown_mouse[One Brown Mouse]
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
 
 [%hardbreaks]
@@ -496,10 +510,12 @@ Del Amitri – Won't Make It Better
 
 <http://old.aquarium.ru/misc/aerostat/aerostat435.html>
 
+.Pixies – Andro Queen
+image:PIXIES/Indie Cindy/cover.png[Indie Cindy,200,200,role="thumb left"]
+
 [%hardbreaks]
 Justin Currie – Bend To My Will
 Mum – Toothwheels
-Pixies – Andro Queen
 Caliphone – The Orchids
 Bob Dylan – Railroad Bill
 Pond – Giant Tortoise

@@ -36,6 +36,9 @@ Santana - Samba Pa Ti
 J.S. Bach - English Suite No. 3 in G minor: Gavotte I and II
 George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll)
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Февраля, 19 февраля 2017
 
@@ -52,6 +55,9 @@ Jamiroquai - Automaton
 Magnetic Fields - ‘74: No
 Grandaddy - Way We Won’t
 
+++++
+<br clear="both">
+++++
 
 === Великое Делание, 12 февраля 2017
 
@@ -75,6 +81,9 @@ Cannonball Adderley – Corcovado
 Harold Budd/Brian Eno With Daniel Lanois – Their Memories
 Chieftains – Love Theme (From Tristan And Isolde)
 
+++++
+<br clear="both">
+++++
 
 === Пост-классическая музыка, 5 февраля 2017
 
@@ -95,6 +104,9 @@ Jóhann Jóhannsson – The Drowned World
 Ólafur Arnalds – Words Of Amber
 Nico Muhly - Who Was She?
 
+++++
+<br clear="both">
+++++
 
 === Imbolc 2017, 29 января 2017
 
@@ -135,6 +147,9 @@ Guidewires - Marbh Ban
 Аквариум - Магистраль
 Аквариум - Быстрый Светлый
 
+++++
+<br clear="both">
+++++
 
 === Finnegan’s Choice, 15 января 2017
 
@@ -151,6 +166,9 @@ San Fermin & Sam Amidon - Shiver
 Shee - Lady Grey
 Lotte Kestner - Halo
 
+++++
+<br clear="both">
+++++
 
 === Лучшие Альбомы 2016, 8 января 2017
 
@@ -250,6 +268,10 @@ Kate Rusby - Cranbrook
 Bing Crosby - White Christmas
 John Lennon - Happy Xmas (War Is Over)
 
+++++
+<br clear="both">
+++++
+
 === Новые песни декабря, 18 декабря 2016
 
 <http://aerostatica.ru/2016/12/18/605-new-december-songs/>
@@ -266,6 +288,9 @@ Pink Floyd - Green Is The Colour
 Shins - Dead Alive
 Paul McCartney - In The Blink of an Eye
 
+++++
+<br clear="both">
+++++
 
 === The Divine Comedy, 11 декабря 2016
 
@@ -286,6 +311,10 @@ Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.h
 Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_a_desperate_man[A Desperate Man]
 Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_funny_peculiar[Funny Peculiar]
 
+++++
+<br clear="both">
+++++
+
 === Новые имена, 4 декабря 2016
 
 <http://old.aquarium.ru/misc/aerostat/aerostat603.html>
@@ -301,6 +330,9 @@ Van Der Graaf Generator - Pilgrims
 Rachid Taha - Ya Rayah
 Drive-By Truckers - Surrender Under Protest
 
+++++
+<br clear="both">
+++++
 
 === Азбука, 27 ноября 2016
 
@@ -368,6 +400,10 @@ Leonard Cohen - On the Level
 Leonard Cohen - Leaving the Table
 Leonard Cohen - String Reprise/Treaty
 
+++++
+<br clear="both">
+++++
+
 === Юбилейная, 13 ноября 2016
 
 <http://old.aquarium.ru/misc/aerostat/aerostat600.html>
@@ -409,6 +445,9 @@ Katmandu Music - 25 Pioneers
 Rolling Stones - Ruby Tuesday
 Ustad Shudjaat Khan - Utsav
 
+++++
+<br clear="both">
+++++
 
 === Новые Звуки Ноября, 6 ноября 2016
 
@@ -420,8 +459,8 @@ image:LAMBCHOP/Lambchop 2016 - FLOTUS/folder.jpg[FLOTUS,200,200,role="thumb left
 .Sleaford Mods - TCR
 image:Sleaford Mods - TCR EP/folder.jpg[TCR EP,200,200,role="thumb left"]
 
-.Tinariven - Tenere Taqqai
-image:Tinariwen - Elwan/cover.jpg[Elwan,200,200,role="thumb left"]
+.Tinariwen - Tenere Taqqai
+image:TINARIWEN/Tinariwen - Elwan/cover.jpg[Elwan,200,200,role="thumb left"]
 
 [%hardbreaks]
 Syd Arthur - Sun Rays
@@ -455,6 +494,9 @@ Broadside Band - Greensleeves
 Kate Rusby - I Courted A Sailor
 Ruth Notman - Still I Love Him
 
+++++
+<br clear="both">
+++++
 
 === О Смысле Жизни, 23 октября 2016
 
@@ -504,6 +546,9 @@ Jagwar Ma - Give Me A Reason
 Rolling Stones - Just Your Fool
 Green Day - Revolution Radio
 
+++++
+<br clear="both">
+++++
 
 === John Lennon, 9 октября 2016
 
@@ -558,6 +603,9 @@ Gene Clark - Spanish Guitar
 Gene Clark - Is Yours Is Mine
 Gene Clark - All I Want
 
+++++
+<br clear="both">
+++++
 
 === Новые песни сентября, 25 сентября 2016
 
@@ -600,6 +648,10 @@ Jacques Dutronc - Les Cactus
 Inner Circle - Sweat
 H-Burns - Silent Wars
 
+++++
+<br clear="both">
+++++
+
 === Время Трепанга: Новые альбомы, 11 сентября 2016
 
 <http://old.aquarium.ru/misc/aerostat/aerostat591.html>
@@ -615,6 +667,10 @@ Markscheider Kunst - Майк и Боб
 Dinosaur Jr - Tiny
 Emerson, Lake & Palmer - Unknown Ballad
 Green Day - Bang Bang
+
+++++
+<br clear="both">
+++++
 
 === Cotton Mather & "I Ching", 4 сентября 2016
 
@@ -634,6 +690,10 @@ Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20t
 Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html#_waters_raging[Waters Raging]
 Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html#_the_end_of_dewitt_finley[The End Of Dewitt Finley]
 Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html#_the_book_of_too_late_changes[The Book Of Too Late Changes]
+
+++++
+<br clear="both">
+++++
 
 === The Small Faces, 28 августа 2016
 

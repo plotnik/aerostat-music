@@ -28,6 +28,10 @@ Maurice Ravel – Bolero
 Maurice Ravel – Daphnis & Chloe
 Maurice Ravel – Daphnis & Chloe
 
+++++
+<br clear="both">
+++++
+
 === Песни Товарища М., 1 сентября 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat433.html>
@@ -43,13 +47,19 @@ Eleven – Time For Miracles
 Habrera Hativeet – Etzlenu
 Keb Mo – Life Is Beautiful 
 
+++++
+<br clear="both">
+++++
+
 === Борода, 25 августа 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat432.html>
 
+.Pugwash – It's Nice To Be Nice
+image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
+
 [%hardbreaks]
 Аквариум – Расти Борода Расти
-Pugwash – It's Nice To Be Nice
 Jethro Tull – Back To The Family
 William Elliot Whitmore – The Day The End Finally Came
 ZZ Top – Chartreuse
@@ -58,6 +68,10 @@ Eels – In My Dreams
 Grateful Dead – Friend Of The Devil
 Richard Thompson – How Can I Ever Be Simple Again
 Robert Wyatt – Free Will And Testament
+
+++++
+<br clear="both">
+++++
 
 === Голоса братьев Эверли, 18 августа 2013
 
@@ -80,6 +94,10 @@ Robert Plant – Stick With Me Baby
 The Everly Brothers – Like Strangers
 The Everly Brothers – Memories Are Made Of This
 
+++++
+<br clear="both">
+++++
+
 === Энергия Ци, 11 августа 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat430.html>
@@ -97,6 +115,10 @@ Ming Flute Ensemble – Maidens Of Tea Mou
 Hong Ting – The Hang Down Curtain
 Donovan – The Sun Is A Very Magic Fellow
 
+++++
+<br clear="both">
+++++
+
 === Урожай августа, 4 августа 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat429.html>
@@ -111,6 +133,10 @@ Jagwar Ma – Uncertainty
 Cotton Mather – California
 Bell X1 – Drive By Summer
 Leisure Society – Fight For Everyone 
+
+++++
+<br clear="both">
+++++
 
 === Деньги, 28 июля 2013
 
@@ -129,6 +155,10 @@ Fratellis – Milk And Money
 Glenn Miller – I Haven't Got Time To Be Millionaire
 David Bowie – The Man Who Sold The World
 
+++++
+<br clear="both">
+++++
+
 === 60-e Снова На Коне, 21 июля 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat427.html>
@@ -146,6 +176,10 @@ Peter Paul & Mary – Puff The Magic Dragon
 Pearls Before Swine – Guardian Angels
 Foundations – Build Me Up Buttercup 
 
+++++
+<br clear="both">
+++++
+
 === 23 Принципа, 14 июля 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat426.html>
@@ -161,6 +195,10 @@ Ustad Shujaat Khan – Ranjha
 Leonard Cohen – Sisters Of Mercy
 Johnny Marvin – Happy Days Are Here Again 
 
+++++
+<br clear="both">
+++++
+
 === Вразброд, 7 июля 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat425.html>
@@ -174,6 +212,10 @@ Stewart J. Sharp – Angeli Symphony
 Monochrome Set – He's Frank
 Arctic Monkeys – Do I Wanna Know?
 Котов-Старостин – Когда Уйду
+
+++++
+<br clear="both">
+++++
 
 === "Innervisions", 30 июня 2013
 
@@ -189,6 +231,10 @@ Stevie Wonder – Higher Ground
 Stevie Wonder – Don't You Worry Bout A Thing
 Stevie Wonder – He's A Misstra Know It All
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни Июня, 23 июня 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat423.html>
@@ -201,6 +247,10 @@ Active Child – Hanging On
 Daft Punk – Instant Crush
 Zorge – Тайна
 Shpongle – Brain In A Fishtank
+
+++++
+<br clear="both">
+++++
 
 === Скрытая Земля Р. Палмера, 16 июня 2013
 
@@ -219,6 +269,10 @@ Robert Palmer – Chance
 Robert Palmer – Not A Word
 Robert Palmer – I'll Be Your Baby Tonight
 
+++++
+<br clear="both">
+++++
+
 === New Names, 9 июня 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat421.html>
@@ -232,6 +286,10 @@ Jacco Gardner – The Ballad Of Little Jane
 Anouar Brahem – Stopover At Djibouti
 Kit Downes Trio – Golden
 Milk Carton Kids – The Ash And Clay 
+
+++++
+<br clear="both">
+++++
 
 === Аккордеон, 2 июня 2013
 
@@ -251,6 +309,9 @@ Regis Gizavo – Brazil
 Аквариум – Ласточка
 Paul Simon – That Was Your Mother
 
+++++
+<br clear="both">
+++++
 
 === "Сын Галереи Злодеев", 26 мая 2013
 
@@ -267,6 +328,10 @@ Marc Almond – Ship In Distress
 Dr. John – In Lure Of The Tropics
 Tom Waits & Keith Richards – Shenandoah 
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни Мая, 19 мая 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat418.html>
@@ -280,6 +345,10 @@ Thee Oh Sees – Toe Cutter
 Tricky – I Could Black Sabbath – God Is Dead?
 Jeff Lynne – Forecast
 Orchestral Manoeuvres in the Dark – Stay With Me
+
+++++
+<br clear="both">
+++++
 
 === The Animals, 12 мая 2013
 
@@ -297,6 +366,10 @@ Animals – Boom Boom
 Animals – Paint It Black
 Animals – San Franciscan Nights 
 
+++++
+<br clear="both">
+++++
+
 === Пасха, 5 мая 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat416.html>
@@ -311,6 +384,10 @@ George Harrison – Your Love Is Forever
 Messiaen – La Nativite De Seigneur. VI
 Traffic – Smiling Phases
 Weepies – The World Spins Madly On
+
+++++
+<br clear="both">
+++++
 
 === Beltane, 28 апреля 2013
 
@@ -328,6 +405,10 @@ Damien O'Kane – Castlerock
 Cormac De Bara – Tabhair Dom Do Lahm
 Andy Stewart – Ferry Me Over 
 
+++++
+<br clear="both">
+++++
+
 === Путешествие на Восток, 21 апреля 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat414.html>
@@ -342,6 +423,10 @@ Yu Zhou – The Song Of The Heart
 Ravi Shankar – Vedic Chanting
 Ustad Shujaat Khan – Utpatti (Creation)
 Herman's Hermits – East West
+
+++++
+<br clear="both">
+++++
 
 === "We're Only In It For Money", 14 апреля 2013
 
@@ -366,6 +451,10 @@ The Mothers of Invention – Mother People
 The Mothers of Invention – Take Your Clothes Off When You Dance
 The Mothers of Invention – What's The Ugliest Part Of Your Body (Rep)
 
+++++
+<br clear="both">
+++++
+
 === Авангард, 7 апреля 2013
 
 <http://old.aquarium.ru/misc/aerostat/aerostat412.html>
@@ -384,6 +473,10 @@ David Sylvian – Late Night Shopping
 Radiohead – Packt Like Sardines In A Tin
 Beatles – Mellotron Music #4
 Beatles – Only A Northern Song
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Весны No.2, 31 марта 2013
 

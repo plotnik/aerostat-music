@@ -158,10 +158,12 @@ Elvis Presley - Finders Keepers, Losers Weepers
 
 <http://old.aquarium.ru/misc/aerostat/aerostat105.html>
 
+.Tinariwen - Imidiwan Winakalin
+image:TINARIWEN/Aman Iman _ Water Is Life/cover.jpg[Aman Iman _ Water Is Life,200,200,role="thumb left"]
+
 [%hardbreaks]
 Ryou Kunihiko - William's Love
 Air - Napalm Love
-Tinariwen - Imidiwan Winakalin
 Cocorosie - Werewolf
 Glow - Lamp Post
 Gonzales - Manifesto

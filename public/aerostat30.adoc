@@ -49,7 +49,7 @@ Gus Teja - Morning Happiness
 <https://www.radiorus.ru/brand/57083/episode/2210068>
 
 .Pixies - Catfish Kate
-image:Pixies - Beneath the Eyrie/cover.jpg[Beneath the Eyrie,200,200,role="thumb left"]
+image:PIXIES/Beneath the Eyrie/cover.jpg[Beneath the Eyrie,200,200,role="thumb left"]
 
 .Van Morrison - Dark Night Of The Soul
 image:VAN MORRISON/2019 - Three Chords And The Truth/cover.png[Three Chords And The Truth,200,200,role="thumb left"]
@@ -209,6 +209,9 @@ Varttina - Kelo
 
 <https://www.radiorus.ru/brand/57083/episode/2195585>
 
+.Radiohead - link:RADIOHEAD/1997%20-%20OK%20Computer/lyrics/ok.html#_paranoid_android[Paranoid Android]
+image:RADIOHEAD/1997 - OK Computer/Folder.jpg[OK Computer,200,200,role="thumb left"]
+
 [%hardbreaks]
 Dechen
 Dechen
@@ -217,7 +220,6 @@ Kay Kyser - The Umbrella Man
 Frank Sinatra - One For My Baby (And One For The Road)
 Beatles - We Can Work It Out
 Dechen
-Radiohead - Paranoid Android
 Skrillex-Marley - Make It Bum Dem
 Beatles - Across The Universe
 
@@ -270,6 +272,12 @@ Bobby Fuller Four - I Fought The Law
 
 <https://www.radiorus.ru/brand/57083/episode/2189790>
 
+.Brian Eno - Capsule
+image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition CD1/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition CD1,200,200,role="thumb left"]
+
+.Tinariwen - Taqkal Tarha
+image:TINARIWEN/Tinariwen - Amadjar/cover.jpg[Amadjar,200,200,role="thumb left"]
+
 [%hardbreaks]
 East Pointers - Wintergreen
 Jesca Hoop - Red White And Black
@@ -278,8 +286,6 @@ Bon Iver - Jelmore
 75 Dollar Bill - C. Or T. Verso
 Hu - Shoog Shoog
 Sturgill Simpson - The Dead Don't Die
-Brian Eno - Capsule
-Tinariven - Taqkal Tarha
 Belle&Sebastian - Sister Buddha
 
 ++++

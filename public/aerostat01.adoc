@@ -28,13 +28,21 @@ image:STEELEYE SPAN/Steeleye Span - Commoners Crown/cover.jpg[Commoners Crown,20
 .Donovan - Lord Of the Dance
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
 
+.Fairport Convention - Farewell, Farewell
+image:FAIRPORT CONVENTION/Fairport Convention-Liege & Lief-2002 Remaster/Fairport Convention - Liege & Lief.jpg[Liege & Lief-2002 Remaster,200,200,role="thumb left"]
+
+.Fairport Convention - Now Be Thankful
+image:FAIRPORT CONVENTION/Fairport Convention-Full House-1970/Fairport Convention - Full House - front.jpg[Full House-1970,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Chieftains - Bonaparte's Retreat (part 1)
 Derek Bell - Fanny Poer
 Albion Country Band - I was A Young Man
-Fairport Convention - Farewell, Farewell
 Shirley & Dolly Collins - Just As The Tide
-Fairport Convention - Now Be Thankful
 Amazing Blondel - St.Crispin's Day
 Dick Gaughan - Both Sides The Tweed
 Pogues - Sally McLennan
@@ -177,11 +185,13 @@ Albert Kuvezin & Yat-Kha - In-A-Gadda-Da-Vida
 .Tom Petty - link:TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html#_accused_of_love[Accused Of Love]
 image:TOM PETTY/Tom Petty - Echo/cover.jpg[Echo,200,200,role="thumb left"]
 
+.Red Hot Chili Peppers - Eskimo
+image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
+
 [%hardbreaks]
 Srila Gurudeva - Sri Guru Vandana
 System Of A Down - Radio/Video
 Mary Hopkin - Sparrow
-Red Hot Chili Peppers - Eskimo
 
 ++++
 <br clear="both">
@@ -197,13 +207,15 @@ image:GEORGE HARRISON/George Harrison - Live In Japan CD2/cover.jpg[Live In Japa
 .Paul McCartney - Junk
 image:PAUL MCCARTNEY/Paul McCartney 1970 - McCartney/cover.jpg[McCartney,200,200,role="thumb left"]
 
+.Paul McCartney - link:PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Pipes%20Of%20Peace/lyrics/peace.html#_pipes_of_peace[Pipes Of Peace]
+image:PAUL MCCARTNEY/Paul McCartney - Pipes Of Peace/image086.jpg[Pipes Of Peace,200,200,role="thumb left"]
+
 [%hardbreaks]
 John Lennon - Hold On
 Ringo Starr - Weight Of The World
 George Harrison - Life Itself
 Paul McCartney - I'm Carrying
 John Lennon - Surprise, Surprise
-Paul McCartney - Pipes Of Peace
 John Lennon - Watching The Wheels
 George Harrison - Between The Devil And The Deep Blue Sea
 Beatles - Real Love
@@ -242,9 +254,11 @@ Nobukazu Takemura - Wandering
 .Cocteau Twins - Iceblink Luck
 image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
 
+.Orchestral Manoeuvres in the Dark - Enola Gay
+image:Orchestral Manoeuvres in the Dark - Organisation/cover.jpg[Organisation,200,200,role="thumb left"]
+
 [%hardbreaks]
 Human League - Fashination
-Orchestral Manoeuvres in the Dark - Enola Gay
 Associates - Breakfast
 Soft Cell - Tainted Love
 Ultravox - Reap The Wild Wind
@@ -573,8 +587,14 @@ image:MUM/Mum - Summer Make Good/cover.jpg[Summer Make Good,200,200,role="thumb 
 .Damien Rice - Older Chests
 image:DAMIEN RICE/Damien Rice - O/Damien_Rice_O_album_cover.jpg[O,200,200,role="thumb left"]
 
+.Beck - Send a Message to Her
+image:BECK/Guero/cover.jpg[Guero,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Beck - Send a Message to Her
 Beats for Beginners - Kill All DJs
 Максим Леонидов - Основы фен-шуя
 Mouse on Mars - Mine Is in Yours
@@ -597,13 +617,19 @@ image:MARY HOPKIN/Mary Hopkin - Post Card/cover.jpg[Post Card,200,200,role="thum
 .Incredible String Band - Water Song
 image:Incredible String Band/Incredible String Band - The Hangmans Beautiful Daughter/cover.jpg[The Hangmans Beautiful Daughter,200,200,role="thumb left"]
 
+.New Vaudeville Band - I Was Lord Kitchener's Valet
+image:New Vaudeville Band - Winchester Cathedral/cover.jpg[Winchester Cathedral,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 The Who - Happy Jack
 Traffic - Berkshire Poppies
 Artur Brown - Child Of My Kingdom
 Rolling Stones - Back Street Girl
 The Hollies - Ye Olde Toffee Shoppe
-New Vaudeville Band - I Was Lord Kitchener's Valet
 Seekers - Georgie Girl
 
 ++++

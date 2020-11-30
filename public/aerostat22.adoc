@@ -31,6 +31,10 @@ Dave Brubeck - Take Five
 Dave Brubeck - Everybody's Jumping
 Dave Brubeck - Pick Up Sticks
 
+++++
+<br clear="both">
+++++
+
 === Море чайной ложкой, 16 августа 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat535.html>
@@ -46,8 +50,11 @@ Charles Ives - Set Of 3 Short Pieces
 FSS - So Desu Ne
 Dion & The Belmonts - Runaround Sue
 
-=== Урожай августа, 9 августа 2015
+++++
+<br clear="both">
+++++
 
+=== Урожай августа, 9 августа 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat534.html>
 
@@ -64,6 +71,10 @@ Wilco - Taste The Ceiling
 Public Image Ltd - Double Trouble
 Аквариум - Палёное Виски И Толчёный Мел
 Magic - Rude
+
+++++
+<br clear="both">
+++++
 
 === Друиды, 2 августа 2015
 
@@ -83,6 +94,10 @@ David Munrow - Crumhorn: Padouana
 Alain Genty - Kan Bale
 Lumier - Wind That Shakes The Barley
 
+++++
+<br clear="both">
+++++
+
 === Майк, 26 июля 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat532.html>
@@ -100,7 +115,9 @@ Lumier - Wind That Shakes The Barley
 Зоопарк - Ода Ванной Комнате
 Зоопарк - Прощай, Детка
 
-
+++++
+<br clear="both">
+++++
 
 === Мир и Наши Мысли, 19 июля 2015
 
@@ -142,7 +159,9 @@ Manfredini - Concerto Grosso F, Presto
 Зорге - Валентин
 Зоопарк - Лето
 
-
+++++
+<br clear="both">
+++++
 
 === Новые Имена, 5 июля 2015
 
@@ -159,6 +178,10 @@ Hindi Zahra - Beautiful Tango
 8x8 - Laws Of Attraction
 Steely Dan - Aja
 
+++++
+<br clear="both">
+++++
+
 === Время Перемен, 28 июня 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat528.html>
@@ -169,15 +192,20 @@ image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wi
 .Elliot Smith – Everything Means Nothing To Me
 image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
 
+.Pixies – Indie Cindy
+image:PIXIES/Indie Cindy/cover.png[Indie Cindy,200,200,role="thumb left"]
+
 [%hardbreaks]
 Paul Simon – Song About The Moon
 Стравинский – Pastorale:Chant Sans Paroles
 Beck – Dreams
 Malcolm Arnold - Inn Of 6th Happiness 2
-Pixies – Indie Cindy
 Terry Riley – Derveshum Carnivalis
 Gandalf – Love Is The Answer
 
+++++
+<br clear="both">
+++++
 
 === Еще Новые Песни, 21 июня 2015
 
@@ -197,6 +225,9 @@ Yo La Tengo – Deeper Into Movies
 Motorhead – Thunder & Lightning
 Third Eye Blind – Everything Is Easy
 
+++++
+<br clear="both">
+++++
 
 === Канадская Музыка, 14 июня 2015
 
@@ -215,7 +246,9 @@ Nickelback – Rockstar
 Venetian Snares – Ever Apparent All Being
 Barenaked Ladies – If I Had A 1000000$
 
-
+++++
+<br clear="both">
+++++
 
 === Система Трех Ф, 7 июня 2015
 
@@ -232,7 +265,9 @@ William Elliott Whitmore – Can't Go Back
 Matthew E. White – Rock&Roll Is Cold
 Death & Vanilla – California Owls
 
-
+++++
+<br clear="both">
+++++
 
 === Eric's Winds Of Change, 31 мая 2015
 
@@ -248,6 +283,10 @@ Eric Burdon & The Animals – Man/Woman
 Eric Burdon & The Animals – Hotel Hell
 Eric Burdon & The Animals – Orange And Red Beams
 Eric Burdon & The Animals – Anything
+
+++++
+<br clear="both">
+++++
 
 === 10 Лет Аэростату, 24 мая 2015
 
@@ -307,6 +346,9 @@ Beatles – P.S. I Love You
 БГ – Time
 БГ – Mother
 
+++++
+<br clear="both">
+++++
 
 === Новые Альбомы Мая, 10 мая 2015
 
@@ -349,12 +391,16 @@ Sam Lee – The Jew's Garden
 Fisherman's Friends – Sweet Maids Of Madeira
 Fairport Convention – Fylde Mountain
 
+++++
+<br clear="both">
+++++
+
 === Ритуал, 26 апреля 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat519.html>
 
 .Pugwash – Answers On A Postcard
-image:Pugwash 2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
+image:PUGWASH/2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
 
 [%hardbreaks]
 Eminem – Kill You
@@ -366,7 +412,9 @@ Roger Mcguinn – King Of The Hill
 Telemann – Concerto In G:Allegro
 Bhajans – Shirdi Sai
 
-
+++++
+<br clear="both">
+++++
 
 === Новые альбомы, апрель, 19 апреля 2015
 
@@ -384,6 +432,10 @@ Prodigy – Ibiza
 Ghostpoet – X Marks The Spot
 Johnny Dowd – White Dolemite
 Van Morrison – Get On With The Show
+
+++++
+<br clear="both">
+++++
 
 === Пасха: Делать и Быть, 12 апреля 2015
 
@@ -448,6 +500,9 @@ Archie Fisher – The Winter It Is Past
 Sam Cooke – Wonderful World
 Valerie Kimani – Sirudi Tena
 
+++++
+<br clear="both">
+++++
 
 === Новые Песни Марта, 22 марта 2015
 
@@ -466,7 +521,9 @@ Mark Almond – When The Comet Comes
 Terrarium – Conduktor
 Seasick Steve – Bring It On
 
-
+++++
+<br clear="both">
+++++
 
 === Коктейли и Жизнь, 15 марта 2015
 
@@ -484,6 +541,10 @@ Harry Nilsson – Mucho Mungo
 Ink Spots – Do I Worry
 Vera Lynn – We'll Meet Again
 
+++++
+<br clear="both">
+++++
+
 === Песни 8 марта, 8 марта 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat512.html>
@@ -499,6 +560,10 @@ Roy Orbison – Pretty One
 Lambchop – Is A Woman
 Robert Palmer – Between Us
 Paul Simon – Was A Sunny Da
+
+++++
+<br clear="both">
+++++
 
 === Новые имена, 1 марта 2015
 

@@ -531,12 +531,20 @@ Van Morrison - In The Garden
 image:The Duckworth Lewis Method 2009/cover.jpg[The Duckworth Lewis Method 2009,200,200,role="thumb left"]
 
 .Pugwash - There You Are
-image:Pugwash 2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
+image:PUGWASH/2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
+
+.Pugwash - Just So You Know
+image:PUGWASH/2015 - Play This Intimately/f.jpg[Play This Intimately,200,200,role="thumb left"]
+
+.Pugwash - The Season Of Flowers And Leaves
+image:PUGWASH/2009 - Giddy/cover.jpg[Giddy,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
 
 [%hardbreaks]
 Pugwash - To The Warmth Of You
-Pugwash - Just So You Know
-Pugwash - The Season Of Flowers And Leaves
 Pugwash - Apples
 Pugwash - Anyone Who Asks
 Pugwash - Here We Go ‘Round Again
