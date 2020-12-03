@@ -395,8 +395,8 @@ image:THE DECEMBERISTS/The Decemberists - Florasongs/florasongs.png[Florasongs,2
 .Jeff Lynne's Elo - When I Was A Boy
 image:Electric Light Orchestra/2015 - Alone In The Universe/Front.jpg[Alone In The Universe,200,200,role="thumb left"]
 
-.John Grant - Disappointing
-image:John Grant - Grey Tickles Black Pressure/cover.png[Grey Tickles Black Pressure,200,200,role="thumb left"]
+.John Grant - link:JOHN%20GRANT/John%20Grant%20-%20Grey%20Tickles%20Black%20Pressure/lyrics/tickles.html#_disappointing_feat_tracey_thorn[Disappointing]
+image:JOHN GRANT/John Grant - Grey Tickles Black Pressure/cover.png[Grey Tickles Black Pressure,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

@@ -121,7 +121,7 @@ image:Idles - Joy as an Act of Resistance/folder.jpg[Joy as an Act of Resistance
 image:Orbital - Monsters Exist/cover.jpg[Monsters Exist,200,200,role="thumb left"]
 
 .John Grant - Love Is Magic
-image:John Grant - Love Is Magic/cover.jpg[Love Is Magic,200,200,role="thumb left"]
+image:JOHN GRANT/John Grant - Love Is Magic/cover.jpg[Love Is Magic,200,200,role="thumb left"]
 
 .Richard Thompson - link:RICHARD%20THOMPSON/2018%20-%2013%20Rivers/lyrics/13_rivers.html#_bones_of_gilead[Bones Of Gilead]
 image:RICHARD THOMPSON/2018 - 13 Rivers/cover.jpg[13 Rivers,200,200,role="thumb left"]

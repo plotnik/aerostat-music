@@ -668,6 +668,9 @@ Beck - Dear Life
 .Steven Wilson - To The Bone
 image:Steven Wilson - To the Bone/Cover.jpg[To the Bone,200,200,role="thumb left"]
 
+.Orchestral Manoeuvres in the Dark - The View From Here
+image:Orchestral Manoeuvres in the Dark/2017 - The Punishment of Luxury/cover.png[The Punishment of Luxury,200,200,role="thumb left"]
+
 [%hardbreaks]
 Iron & Wine - Thomas County Law
 Kabaka Pyramid - Nuh Hype
@@ -676,4 +679,3 @@ Mogwai - aka 47
 LCD Soundsystem - American Dream
 Nick Heyward - The Stars
 National - The System Only Dreams In Total Darkness
-Orchestral Manoeuvres in the Dark - The View From Here

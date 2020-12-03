@@ -255,7 +255,7 @@ Nobukazu Takemura - Wandering
 image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
 
 .Orchestral Manoeuvres in the Dark - Enola Gay
-image:Orchestral Manoeuvres in the Dark - Organisation/cover.jpg[Organisation,200,200,role="thumb left"]
+image:Orchestral Manoeuvres in the Dark/1980 - Organisation/cover.jpg[Organisation,200,200,role="thumb left"]
 
 [%hardbreaks]
 Human League - Fashination

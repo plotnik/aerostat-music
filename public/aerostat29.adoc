@@ -306,7 +306,7 @@ Paul McCartney - Get Enough
 <https://aerostatica.ru/2019/01/13/713-luchshie-albomy-2018/>
 
 .John Grant - Touch And Go
-image:John Grant - Love Is Magic/cover.jpg[Love Is Magic,200,200,role="thumb left"]
+image:JOHN GRANT/John Grant - Love Is Magic/cover.jpg[Love Is Magic,200,200,role="thumb left"]
 
 .Buddy Guy - Ooh Daddy
 image:BUDDY GUY/Buddy Guy - The Blues Is Alive And Well/cover.jpg[The Blues Is Alive And Well,200,200,role="thumb left"]

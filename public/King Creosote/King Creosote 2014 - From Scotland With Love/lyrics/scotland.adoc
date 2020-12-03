@@ -5,9 +5,9 @@ King Creosote
 
 image:../cover.jpg[From Scotland with Love,200,200]
 
-From http://lyrics.wikia.com/wiki/King_Creosote:From_Scotland_With_Love_(2014)
-
-See http://www.kingcreosote.com/music/from-scotland-with-love/
+From::
+https://genius.com/artists/King-creosote +
+http://www.kingcreosote.com/music/from-scotland-with-love/
 
 == Something To Believe
 

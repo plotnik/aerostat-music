@@ -171,16 +171,26 @@ Beatles – Sea Of Time
 .Eels – I'm Your Brave Little Soldier
 image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cover.jpg[2014 - The cautionary tales of Mark Oliver Everett - CD 1,200,200,role="thumb left"]
 
+.Orchestral Manoeuvres In The Dark – Night Cafe 
+image:Orchestral Manoeuvres in the Dark/2013 - English Electric/cover.png[English Electric,200,200,role="thumb left"]
+
+.Mum – Eternity Is The Between Breaths
+image:MUM/2013 - Smilewound/Cover.jpg[Smilewound,200,200,role="thumb left"]
+
+.David Bowie – Valentine's Day
+image:DAVID BOWIE/2013 - The Next Day/cover.jpg[The Next Day,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Arctic Monkeys – Why'd You Only Call Me
-David Bowie – Valentine's Day
-Mum – Eternity Is The Between Breaths
 John Grant – It Does Not Matter To Him
 Adama Koita – Fantainfalla Toyo Bolo
 John Vanderslice – How The West Was Won
 Bill Callahan – The Sing
 Beatles – Bad To Me
-Orchestral Manoeuvres In The Dark – Night Cafe 
 
 ++++
 <br clear="both">

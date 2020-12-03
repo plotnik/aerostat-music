@@ -81,7 +81,7 @@
 - link:./JETHRO%20TULL/1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html[JETHRO TULL/1972  Thick As A Brick]
 - link:./JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html[JETHRO TULL/Jethro Tull - Heavy Horses]
 - link:./JETHRO%20TULL/links.html[JETHRO TULL]
-- link:./John%20Grant%20-%20Grey%20Tickles%20Black%20Pressure/lyrics/tickles.html[John Grant - Grey Tickles Black Pressure]
+- link:./JOHN%20GRANT/John%20Grant%20-%20Grey%20Tickles%20Black%20Pressure/lyrics/tickles.html[JOHN GRANT/John Grant - Grey Tickles Black Pressure]
 - link:./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%201)/lyrics/hooker1.html[JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 1)]
 - link:./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%202)/lyrics/hooker2.html[JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 2)]
 
@@ -90,6 +90,7 @@
 
 - link:./KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html[KEITH RICHARDS/Crosseyed Heart]
 - link:./King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html[King Creosote/King Creosote 2014 - From Scotland With Love]
+- link:./King%20Creosote/King%20Creosote%202016%20-%20Astronaut%20Meets%20Appleman/lyrics/astronaut.html[King Creosote/King Creosote 2016 - Astronaut Meets Appleman]
 
 
 === L
@@ -109,6 +110,7 @@
 === P
 
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Chaos%20And%20Creation%20In%20The%20Backyard/lyrics/backyard.html[PAUL MCCARTNEY/Paul McCartney - Chaos And Creation In The Backyard]
+- link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Driving%20Rain/lyrics/rain.html[PAUL MCCARTNEY/Paul McCartney - Driving Rain]
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Kisses%20On%20The%20Bottom/lyrics/kisses.html[PAUL MCCARTNEY/Paul McCartney - Kisses On The Bottom]
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Pipes%20Of%20Peace/lyrics/peace.html[PAUL MCCARTNEY/Paul McCartney - Pipes Of Peace]
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Tug%20Of%20War/lyrics/war.html[PAUL MCCARTNEY/Paul McCartney - Tug Of War]
