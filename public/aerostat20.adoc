@@ -359,11 +359,13 @@ image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg
 <br clear="both">
 ++++
 
+.Cure – Friday I'm In Love
+image:THE CURE/1992 - Wish/cover.jpg[Wish,200,200,role="thumb left"]
+
 [%hardbreaks]
 Manfred Mann – My Name Is Jack
 Eric Burdon – Orange And Red Beams
 Van Morrison – Into The Mystic
-Cure – Friday I'm In Love
 Jeff Lynne – Blown Away
 Debussy – Clair De Lune
 

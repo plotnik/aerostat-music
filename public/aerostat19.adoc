@@ -329,8 +329,10 @@ Michael Holliday - In Love
 
 <http://old.aquarium.ru/misc/aerostat/aerostat446.html>
 
+.Procol Harum - Luskus Delph
+image:PROCOL HARUM/Procol Harum - Broken Barricades/images.jpg[Broken Barricades,200,200,role="thumb left"]
+
 [%hardbreaks]
-Procol Harum - Luskus Delph
 Neil Finn - Song Of The Lonely Mountain
 БГ - Праздник Урожая Во Дворце Труда
 БГ - Не Было Такой И Не Будет

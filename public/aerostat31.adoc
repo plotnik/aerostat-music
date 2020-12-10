@@ -328,11 +328,13 @@ Pajaro Sunrise - 086
 <https://www.radiorus.ru/brand/57083/episode/2237781>
 
 .The Cure - In Between Days
-image:The Cure - The Head On The Door/cover.jpg[The Head On The Door,200,200,role="thumb left"]
+image:THE CURE/The Head On The Door/cover.jpg[The Head On The Door,200,200,role="thumb left"]
+
+.The Cure - Boys Don't Cry
+image:THE CURE/1980 - Boys Dont Cry (US release)/folder.jpg[Boys Dont Cry (US release),200,200,role="thumb left"]
 
 [%hardbreaks]
 The Cure - Pictures Of You
-The Cure - Boys Don't Cry
 The Cure - A Short Term Effect
 The Cure - Let's Go To Bed
 The Cure - Just Like Heaven

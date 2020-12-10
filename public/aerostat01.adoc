@@ -257,13 +257,15 @@ image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Ic
 .Orchestral Manoeuvres in the Dark - Enola Gay
 image:Orchestral Manoeuvres in the Dark/1980 - Organisation/cover.jpg[Organisation,200,200,role="thumb left"]
 
+.Cure - Friday I'm In Love
+image:THE CURE/1992 - Wish/cover.jpg[Wish,200,200,role="thumb left"]
+
 [%hardbreaks]
 Human League - Fashination
 Associates - Breakfast
 Soft Cell - Tainted Love
 Ultravox - Reap The Wild Wind
 Bowie/Queen - Under Pressure
-Cure - Friday I'm In Love
 Smiths - There's The Light That Never Goes Out
 
 ++++

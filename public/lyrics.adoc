@@ -14,6 +14,7 @@
 
 === B
 
+- link:./BECK/Beck%20Hansens%20Song%20Reader/lyrics/songs.html[BECK/Beck Hansens Song Reader]
 - link:./Blondie%20-%20Greatest%20Hits/lyrics/blondie.html[Blondie - Greatest Hits]
 - link:./BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html[BOB DYLAN/2006 - Modern Times]
 - link:./BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html[BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind]

@@ -642,7 +642,7 @@ Skatalites - Guns Of Navarone
 .Beck - Cold Brains
 image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]
 
-.Beck - Heaven’s Ladder
+.Beck - link:BECK/Beck%20Hansens%20Song%20Reader/lyrics/songs.html#_heaven_s_ladder[Heaven’s Ladder]
 image:BECK/Beck Hansens Song Reader/cover.jpg[Beck Hansens Song Reader,200,200,role="thumb left"]
 
 .Beck - Send a Message to Her
