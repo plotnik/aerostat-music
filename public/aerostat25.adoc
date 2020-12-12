@@ -112,8 +112,8 @@ Nico Muhly - Who Was She?
 
 <http://aerostatica.ru/2017/01/29/611-imbolc-2017/>
 
-.Mr. Fox - Elvira Madigan
-image:Mr Fox - The Gypsy/Folder.jpg[The Gypsy,200,200,role="thumb left"]
+.Mr. Fox - link:MR%20FOX/1971%20-%20The%20Gypsy/lyrics/gypsy.html[Elvira Madigan]
+image:MR FOX/1971 - The Gypsy/Folder.jpg[The Gypsy,200,200,role="thumb left"]
 
 .Silly Wizard - Bridget O’Malley
 image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
