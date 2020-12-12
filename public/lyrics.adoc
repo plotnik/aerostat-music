@@ -106,7 +106,7 @@
 - link:./MORRISSEY/2006%20-%20Ringleader%20of%20the%20Tormentors/lyrics/ringleader.html[MORRISSEY/2006 - Ringleader of the Tormentors]
 - link:./MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html[MORRISSEY/2017 - Low in High School]
 - link:./MORRISSEY/links.html[MORRISSEY]
-- link:./Mr%20Fox%20-%20The%20Gypsy/lyrics/gypsy.html[Mr Fox - The Gypsy]
+- link:./MR%20FOX/1971%20-%20The%20Gypsy/lyrics/gypsy.html[MR FOX/1971 - The Gypsy]
 
 
 === P
