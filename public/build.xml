@@ -48,7 +48,14 @@
 		  <arg line="lyrics.groovy"/>
 		</exec>
     </target>
-
+    
+    <target name="lla"
+            description="Пересоздать html-файл из adoc">
+		<exec executable="asciidoctor" >
+		  <arg line="lyrics.adoc"/>
+		</exec>
+    </target>
+    
 	<target name="aerostat">
 	    <echo message="Copy changed files to Netlify folder"/>    
         <copy todir="${destNetlify}">
