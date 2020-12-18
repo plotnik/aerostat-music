@@ -51,6 +51,58 @@ code {
 
 == 33.
 
+=== О духовности, 13 декабря 2020
+
+<https://aerostatbg.ru/release/813>
+
+.REM. – Sing For The Submarine
+image:REM/REM - Accelerate/cover.jpg[Accelerate,200,200,role="thumb left"]
+
+.Simon & Garfunkel – Bridge Over Troubled Water
+image:SIMON & GARFUNKEL/Simon & Garfunkel - Bridge Over Troubled Water/cover.jpg[Bridge Over Troubled Water,200,200,role="thumb left"]
+
+.Ravi Shankar & George Harrison – Asato Maa
+image:RAVI SHANKAR/2010 - Chants Of India/cover.jpg[Chants Of India,200,200,role="thumb left"]
+
+.Sigur Rós – Bláþráður
+image:SIGUR ROS/2013 - Kveikur/folder.jpg[Kveikur,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Аквариум – Духовные люди
+Incredible String Band – Here Till Here Is There
+Nick Drake – Voices
+Jimi Hendrix – Castles Made Of Sand
+Sun Ra – Tiny Pyramids
+Ravi Shankar & George Harrison – Prabhujee
+
+++++
+<br clear="both">
+++++
+   
+=== Предрождественская, 6 декабря 2020
+
+<https://aerostatbg.ru/release/812>
+
+[%hardbreaks]
+DeeWunn & Don Elektron – Bubble And Bunx
+Albion Christmas Band – Hark! The Herald Angel Sing
+Annie Lennox – Lullay Lullay (The Coventry Carol)
+Jane Birkin & Manu Chao – Te souviens-tu ?
+Sinéad O'Connor – I Believe In You
+Ringo Starr – Dear Santa
+Lucksmiths – The Cassingle Revival
+Arlo Guthrie – Hobo's Lullaby
+Rod Stewart – Auld Lang Syne
+Bing Crosby – White Christmas
+
+++++
+<br clear="both">
+++++
+    
 === Новые Песни Декабря, 29 ноября 2020
 
 <https://aerostatbg.ru/release/811>
@@ -79,11 +131,13 @@ Sturgill Simpson – Turtles All The Way Down
 .Tír na nÓg – Dance Of Years
 image:TIR NA NOG/1971 - Tír Na NÓg/Tír Na NÓg - Tír Na NÓg.jpg[Tír Na NÓg,200,200,role="thumb left"]
 
+.Grateful Dead – Althea
+image:GRATEFUL DEAD/2017 - Long Strange Trip/cover.jpg[Long Strange Trip,200,200,role="thumb left"]
+
 [%hardbreaks]
 System Of A Down – Protect The Land
 Joni Mitchell – Born To Take The Highway
 Tony Scott – Satori (Enlightenment)
-Grateful Dead – Althea
 Cocteau Twins – Oil Of Angels
 Van Morrison – Snow In San Anselmo
 Hollies – Oriental Sadness
