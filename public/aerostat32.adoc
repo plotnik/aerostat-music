@@ -82,8 +82,14 @@ image:Eric Clapton/1988 - The Early Clapton Collection/cover.jpg[The Early Clapt
 .Yardbirds – I'm A Man
 image:Eric Clapton/1992 - The Yardbirds (With Jeff Beck)/cover.jpg[The Yardbirds (With Jeff Beck),200,200,role="thumb left"]
 
+.John Mayall & The Bluesbreakers & Eric Clapton – Steppin' Out
+image:Eric Clapton/1966 - Bluesbreakers With Eric Clapton/Folder.jpg[Bluesbreakers With Eric Clapton,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-John Mayall & The Bluesbreakers & Eric Clapton – Steppin' Out
 Alexis Korner's Blues Incorporated – Gotta Move
 Animals – Boom Boom
 Donovan – Bert's Blues
@@ -128,16 +134,26 @@ Crickets – Don't Ever Change
 .Kate Rusby – Everglow
 image:KATE RUSBY/2020 - Hand Me Down/folder.jpg[Hand Me Down,200,200,role="thumb left"]
 
+.Tom Petty – Confusion Wheel
+image:TOM PETTY/2020 - Wildflowers & All the Rest/cover.jpg[Wildflowers & All the Rest,200,200,role="thumb left"]
+
+.Brian Eno – Ship In A Bottle
+image:BRIAN ENO/2020 - Film Music/cover.jpg[Film Music,200,200,role="thumb left"]
+
+.Robert Plant feat. Patty Griffin – Too Much Alike
+image:ROBERT PLANT/2020 - Digging Deep Subterranea/cover.jpg[Digging Deep Subterranea,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Tom Petty – Confusion Wheel
 Tom Petty – There Goes Angela (Dream Away)
 Songhoy Blues – Barre
 Lucrecia Dalt – Disuelta
 Marilyn Manson – Don't Chase The Dead
 Kelsea Ballerini – Club
 Idles – Ne Touche Pas Moi
-Brian Eno – Ship In A Bottle
-Robert Plant feat. Patty Griffin – Too Much Alike
 Oneohtrix Point Never – Auto & Allo
 
 ++++

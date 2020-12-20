@@ -55,7 +55,7 @@ code {
 
 <https://aerostatbg.ru/release/813>
 
-.REM. – Sing For The Submarine
+.REM – Sing For The Submarine
 image:REM/REM - Accelerate/cover.jpg[Accelerate,200,200,role="thumb left"]
 
 .Simon & Garfunkel – Bridge Over Troubled Water
