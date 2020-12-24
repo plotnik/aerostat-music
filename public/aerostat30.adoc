@@ -358,7 +358,7 @@ Cornelius - Sensuous
 <http://www.radiorus.ru/brand/57083/episode/2183247>
 
 .Bruce Springsteen - The Wayfarer
-image:Bruce Springsteen - Western Stars/cover.jpg[Western Stars,200,200,role="thumb left"]
+image:Bruce Springsteen/2019 - Western Stars/cover.jpg[Western Stars,200,200,role="thumb left"]
 
 .Kate Rusby - Until Morning
 image:KATE RUSBY/2019 - Philosophers Poets and Kings/cover.jpg[Philosophers Poets and Kings,200,200,role="thumb left"]

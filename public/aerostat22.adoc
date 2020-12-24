@@ -490,13 +490,15 @@ Herman's Hermits – It's Nice To Be Out
 .Paul McCartney – No More Lonely Nights
 image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
 
+.Archie Fisher – The Winter It Is Past
+image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
+
 [%hardbreaks]
 Catrin Finch/Seckou Keita – Ceffylau
 Cat Stevens – Another Saturday Night
 Robin Williamson – Woodcutter's Song
 Kathmandu Music – Prayers For Tara
 Utsava & Friends – Asar Age Dibo Tomai
-Archie Fisher – The Winter It Is Past
 Sam Cooke – Wonderful World
 Valerie Kimani – Sirudi Tena
 

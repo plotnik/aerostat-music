@@ -58,11 +58,13 @@ Antonee First Class feat. U-Roy - Gimme Di Ska
 
 <https://aerostatica.ru/2018/03/25/671-zabytaya-klassika/>
 
+.Bruce Springsteen - Dancing In The Dark
+image:Bruce Springsteen/1984 - Born in the USA/cover.jpeg[Born in the USA,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sublime - What I Got
 Richard Hell & The Voidoids ‎– Blank Generation
 Public Enemy - Don’t Believe The Hype
-Bruce Springsteen - Dancing In The Dark
 Butthole Surfers - Pepper
 Primitive Radio Gods - Standing Outside A Broken Phone Booth With Money In My Hand
 Five Finger Death Punch - House Of The Rising Sun
@@ -80,12 +82,14 @@ image:PAUL MCCARTNEY/Paul McCartney - Give My Regards To Broad Street/cover.jpg[
 .Robin Williamson - The Woodcutter’s Song
 image:Robin Williamson - A Glint At The Kindling/folder.jpg[A Glint At The Kindling,200,200,role="thumb left"]
 
+.Archie Fisher & Garnet Rogers - The Winter It Is Past
+image:ARCHIE FISHER/1986 - Off The Map - With Garnet Rogers/off_the_map.jpg[Off The Map - With Garnet Rogers,200,200,role="thumb left"]
+
 [%hardbreaks]
 Catrin Finch & Seckou Keita - Ceffylau
 Cat Stevens - Another Saturday Night
 Kathmandu Music Center & Lama Ngodup Jungney - Prayers For Tara: Protecting Begins From The Eight Fears
 Utsava & Friends - Asar Age Dibo Tomai
-Archie Fisher & Garnet Rogers - The Winter It Is Past
 Sam Cooke - Wonderful World
 Valerie Kimani - Sirudi Tena
 
@@ -296,7 +300,7 @@ image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,ro
 image:Lovin Spoonful - Hums of the Lovin' Spoonful/cover.jpg[Hums of the Lovin' Spoonful,200,200,role="thumb left"]
 
 .Archie Fisher - The Flower Of France And England, O
-image:Archie Fisher 1976 - Will Ye Gang Love/cover.jpg[Will Ye Gang Love,200,200,role="thumb left"]
+image:ARCHIE FISHER/1976 - Will Ye Gang Love/cover.jpg[Will Ye Gang Love,200,200,role="thumb left"]
 
 [%hardbreaks]
 Barleyjuice - Whiskey Maid

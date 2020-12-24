@@ -176,6 +176,9 @@ image:BOB DYLAN/Bob Dylan 1967 - John Wesley Harding/cover.jpg[John Wesley Hardi
 .Don McLean – Falling Through Time
 image:Don McLean 1972 - Don McLean/cover.png[Don McLean,200,200,role="thumb left"]
 
+.Archie Fisher – Lindsay
+image:ARCHIE FISHER/1976 - Will Ye Gang Love/cover.jpg[Will Ye Gang Love,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chris Wood – The Cottager's Reply
 Nic Jones – The Flandyke Shore
@@ -183,7 +186,6 @@ John Martyn – Sweet Little Mystery
 Dick Gaughan – Bonnie Jeannie O'Betheln
 Eliza Carthy/Norma Waterson – 5
 Bert Jansch – Black Water Side
-Archie Fisher – Lindsay
 Bob Dylan – You Ain't Going Nowhere
 
 ++++

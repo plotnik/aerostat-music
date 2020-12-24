@@ -441,7 +441,7 @@ image:TOM PETTY/Tom Petty 1991 - Into the Great Wide Open/Folder.jpg[Into the Gr
 .Led Zeppelin - No Quarter
 image:LED ZEPPELIN/Led Zeppelin - House Of The Holy/House Of The Holy.jpg[House Of The Holy,200,200,role="thumb left"]
 
-.Beatles - Eleanor Rigby
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_eleanor_rigby[Eleanor Rigby]
 image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
 
 .Beatles - Martha My Dear
@@ -539,9 +539,11 @@ Loretta Lynn - Everybody Wants To Go To Heaven
 
 <http://old.aquarium.ru/misc/aerostat/aerostat565.html>
 
+.Giles Giles & Fripp - Little Children
+image:KING CRIMSON/1968 - The Cheerful Insanity Of/Folder.jpg[The Cheerful Insanity Of,200,200,role="thumb left"]
+
 [%hardbreaks]
 Harmony Grass - Summer Dreaming
-Giles Giles & Fripp - Little Children
 Iron Butterfly - In The Time Of Our Lives
 Nirvana - In The Courtyard Of Stars
 Scott Fagan - In My Head

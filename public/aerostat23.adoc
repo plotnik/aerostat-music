@@ -203,11 +203,15 @@ image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]
 <br clear="both">
 ++++
 
+.Archie Fisher - Waltz Into Winter
+image:ARCHIE FISHER/2015 - A Silent Song/cover.jpg[A Silent Song,200,200,role="thumb left"]
+
+.Bruce Springsteen - Tougher Than The Rest
+image:Bruce Springsteen/1987 - Tunnel Of Love/cover.jpg[Tunnel Of Love,200,200,role="thumb left"]
+
 [%hardbreaks]
 Boys Of The Lough - Stella's Trip
 The Ink Spots - I Don't Want to Set the World on Fire
-Bruce Springsteen - Tougher Than The Rest
-Archie Fisher - Waltz Into Winter
 Rod Stewart - Love And Be Loved
 
 ++++
@@ -345,10 +349,12 @@ image:Battlefield Band - Beg & Borrow/cover.jpg[Beg & Borrow,200,200,role="thumb
 .Andy M. Stewart - Parish Of Dunkeld 
 image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
 
+.Archie Fisher - Lord Of the May 
+image:ARCHIE FISHER/2015 - A Silent Song/cover.jpg[A Silent Song,200,200,role="thumb left"]
+
 [%hardbreaks]
 Whistlebinkies - Ceilidh Lines 
 Lunasa - The Walrus 
-Archie Fisher - Lord Of the May 
 Seamus Begley - Taimse Im Chodladh 
 De Danann - My Baby Need A Shepherd 
 Shooglenifty - Fitzroy Crossing 

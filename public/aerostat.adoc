@@ -17,8 +17,8 @@
 - link:aerostat21.html[`Глава XXI.    31.08.2014 - 22.02.2015`]
 - link:aerostat20.html[`Глава XX.      2.03.2014 - 24.08.2014`]
 - link:aerostat19.html[`Глава XIX.    15.09.2013 - 23.02.2014`]
-- link:aerostat18.html[`Глава XIIIV.  31.03.2013 -  8.09.2013`]
-- link:aerostat17.html[`Глава XIIV.   14.10.2012 - 24.03.2013`]
+- link:aerostat18.html[`Глава XVIII.  31.03.2013 -  8.09.2013`]
+- link:aerostat17.html[`Глава XVII.   14.10.2012 - 24.03.2013`]
 
 ...
 
@@ -51,6 +51,25 @@ code {
 
 == 33.
 
+=== McCartney III, 20 декабря 2020
+
+<https://aerostatbg.ru/release/814>
+
+[%hardbreaks]
+Paul McCartney – Find My Way
+Paul McCartney – The Kiss Of Venus
+Paul McCartney – Lavatory Lil
+Paul McCartney – Women And Wives
+Paul McCartney – Deep Deep Feeling
+Paul McCartney – Slidin'
+Paul McCartney – Deep Down
+Paul McCartney – Winter Bird / When Winter Comes
+Paul McCartney – Seize The Day
+
+++++
+<br clear="both">
+++++
+       
 === О духовности, 13 декабря 2020
 
 <https://aerostatbg.ru/release/813>

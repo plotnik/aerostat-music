@@ -36,6 +36,10 @@ Electric Light Orchestra - Moments Of Paradise
 Jeff Lynne - September Song
 Jeff Lynne - Every Little Thing
 
+++++
+<br clear="both">
+++++
+
 === Ирландское Рагу No.3 (и ремиксы), 24 сентября 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat71.html>
@@ -53,9 +57,16 @@ Family - Mellowing Grey
 The Hollies - Rain On My Window
 Сornelius - GariGari Kun
 
+++++
+<br clear="both">
+++++
+
 === Кот Да Винчи, 17 сентября 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat70.html>
+
+.Archie Fisher - Helen Of Kirkconell Lee 
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
 
 [%hardbreaks]
 Hot Chip - Ass Attack
@@ -68,7 +79,10 @@ Mac-Talla - Griogal Cridhe
 Queens Of The Stone Age - The Lost Art Of Keeping A Secret
 Monastic Choir of Solesmes - In Pace & Psalm 4
 Mary Hopkin - Prince en Avignon
-Archie Fisher - Helen Of Kirkconell Lee 
+
+++++
+<br clear="both">
+++++
 
 === Новые альбомы, 10 сентября 2006
 
@@ -89,6 +103,10 @@ Micah P. Hinson - The Dreams You Left Behind
 Robert Harrison - Build Havana
 Pink Floyd - Scarecrow
 Bob Dylan - Beyond The Horizon
+
+++++
+<br clear="both">
+++++
 
 === Общие принципы употребления алкогольных напитков, 3 сентября 2006
 
@@ -111,6 +129,10 @@ Pogues - If I Should Fall From Grace With God
 Paul McCartney - Drink To Me
 Robin Laing - Tak a Drum
 
+++++
+<br clear="both">
+++++
+
 === Слово Растаману, 27 августа 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat67.html>
@@ -127,6 +149,10 @@ UB 40 - Kingston Town
 Sizzla - Jah Is Love
 Beanie Man - Selassie
 Bob Marley - Redemption Song
+
+++++
+<br clear="both">
+++++
 
 === Ирландское Рагу 2, 20 августа 2006
 
@@ -147,6 +173,10 @@ The Buggles - Video Killed A Radio Star
 Kate Rusby - The Daughter Of Megan
 The Crimea - Lottery Winners On Acid
 
+++++
+<br clear="both">
+++++
+
 === Мосты Между Небом и Землей, 13 августа 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat65.html>
@@ -162,6 +192,10 @@ Srila Gurudeva - Sri Guru Vandanam
 George Harrison - Dream Scene
 Krishna Das - Kashi Vishvanath Gange
 Jagjit Singh - Om Shivay Hari Om Shivay
+
+++++
+<br clear="both">
+++++
 
 === Дорогая Мария Васильевна!, 6 августа 2006
 
@@ -179,6 +213,10 @@ Elvis Presley - The Girl Of My Best Friend
 Jeff Lynne - Don't Say Goodbye
 Ima Sumak - Chuncho
 
+++++
+<br clear="both">
+++++
+
 === Лунассад, 30 июля 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat63.html>
@@ -193,6 +231,10 @@ Albion Band - Along The Pilgrim's Way
 Kate Rusby - Bonnie House Of Airlie
 5 Hand Reel - The Knight & Shepherd's Daughter
 Silly Wizard - Golden Golden
+
+++++
+<br clear="both">
+++++
 
 === Слово О Мистиках, 23 июля 2006
 
@@ -209,6 +251,10 @@ Herman's Hermits - Silhuettes
 Shri Chinmoy - Tamase Rate (Bengali Songs 2)
 Grateful Dead - Stella Blue
 Jeff Lynne - Lift Me Up
+
+++++
+<br clear="both">
+++++
 
 === Ирландское рагу, 16 июля 2006
 
@@ -229,6 +275,10 @@ Wilson Pickett - Land Of 1000 Dances
 Sandy Denny - White Dress
 Simon & Garfunkel - Flowers Never Bend
 
+++++
+<br clear="both">
+++++
+
 === Джаз!, 9 июля 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat60.html>
@@ -244,6 +294,10 @@ John Coltrane - My Favourite Things
 Thelonius Monk - Monk's Dream
 Donovan - The Observation
 Dave Brubeck - Take Five 
+
+++++
+<br clear="both">
+++++
 
 === КСП USA, 2 июля 2006
 
@@ -272,6 +326,10 @@ James Taylor - Sweet Baby James
 Crosby, Stills & Nash - Suite: Judy Blue Eyes
 Neil Young - Heart Of Gold
 Arlo Guthrie - City Of New Orleans
+
+++++
+<br clear="both">
+++++
 
 === Вечнозеленый Бомж, 25 июня 2006
 
@@ -330,6 +388,9 @@ Beatles - Martha My Dear
 Beatles - For No One
 Beatles - Golden Slumbers
 
+++++
+<br clear="both">
+++++
 
 === Новая Волна, 11 июня 2006
 
@@ -346,6 +407,10 @@ Talking Heads - Once in a Lifetime
 Eurythmics - Sweet Dreams
 Roxy Music - Do The Strand
 Elvis Costello - Oliver's Army
+
+++++
+<br clear="both">
+++++
 
 === The Kinks, 4 июня 2006
 
@@ -365,6 +430,10 @@ The Kinks - See My Friends
 The Kinks - Days
 The Kinks - Waterloo Sunset 
 
+++++
+<br clear="both">
+++++
+
 === Медитация, 28 мая 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat54.html>
@@ -380,6 +449,10 @@ Beach Boys - Surf's Up
 Richard Clayderman & Rahul Sharma - The Confluence
 Krishna Das - Om Namah Shivaya
 Shri Chinmoy's Play
+
+++++
+<br clear="both">
+++++
 
 === Песни и Как Их Писать, 21 мая 2006
 
@@ -442,6 +515,9 @@ System Of A Down - Attack
 Margot & The Nuclear So's & So's - Paper Kitten Nightmare
 Paul Simon - Surprise
 
+++++
+<br clear="both">
+++++
 
 === Traveling Wilburys, 7 мая 2006
 
@@ -463,6 +539,9 @@ Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1
 Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_congratulations[Congratulations]
 Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_inside_out[Inside Out]
 
+++++
+<br clear="both">
+++++
 
 === Белтайн, 30 апреля 2006
 
@@ -472,8 +551,10 @@ image:SILLY WIZARD/Silly Wizard - Kiss The Tears Away/cover.jpg[Kiss The Tears A
 .Silly Wizard - Bridget O-Malley
 image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
 
+.Archie Fisher - Twa Bonnie Maidens
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
+
 [%hardbreaks]
-Archie Fisher - Twa Bonnie Maidens
 Jean Ives Le Pape - Down In Sally Gardens
 Planxty - Si Bheag, Si Mhor
 Robin Dransfield - Spencer The Rover
@@ -482,6 +563,9 @@ Robin Laing - Summer Of '46
 5 Hand Reel - Carrickfergus
 Sandy Denny - Winter Winds
 
+++++
+<br clear="both">
+++++
 
 === "Пока Несут Сакэ!", 23 апреля 2006
 

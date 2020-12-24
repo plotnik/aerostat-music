@@ -259,6 +259,9 @@ Howlin’ Wolf - The Sun Is Rising
 .Fairport Convention - She Moves Through The Fair
 image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
 
+.Archie Fisher & Garnet Rogers - Ettrick
+image:ARCHIE FISHER/1986 - Off The Map - With Garnet Rogers/off_the_map.jpg[Off The Map - With Garnet Rogers,200,200,role="thumb left"]
+
 [%hardbreaks]
 Ímar - White Strand
 Lumiere - Samhradh
@@ -268,7 +271,6 @@ Clutha - Among The Blue Flowers And The Yellow
 Ian Campbell Folk Group - Twa Recruiting Sergeants
 Andy M. Stewart - Patrick Sheehan
 Dransfield - What Will We Tell Them?
-Archie Fisher & Garnet Rogers - Ettrick
 
 === «Лилит», 27 января 2019
 

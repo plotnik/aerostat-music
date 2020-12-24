@@ -33,6 +33,10 @@ The Grateful Dead - Slipknot
 The Grateful Dead - Franklin's Tower
 The Grateful Dead - Ship Of Fools
 
+++++
+<br clear="both">
+++++
+
 === Квасса-Квасса или Этно-3, 11 марта 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat95.html>
@@ -47,6 +51,10 @@ R. L. Burnside - Hard Time Killing Floor
 Мамонов - Золушка
 Le Mystere Des Voix Bulgares - Kaval Sviri
 Juluka - Akanaki Nobunaga
+
+++++
+<br clear="both">
+++++
 
 === О любви, 4 марта 2007
 
@@ -66,6 +74,10 @@ Kate Rusby - Sweet Bride
 Beatles - It's Only Love
 Paul Simon - Love
 
+++++
+<br clear="both">
+++++
+
 === Музыка Индии, 25 февраля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat93.html>
@@ -81,6 +93,10 @@ Vidyadhar Vyas - Raga Bhairavi
 Jagjit & Chitra Singh - Hare Krishna
 Sri Chinmoy - Dheyani Nehari
 George Harrison - Mystical One
+
+++++
+<br clear="both">
+++++
 
 === Искатель Бога Cat Stevens, он же - Юсуф Ислам, 18 февраля 2007
 
@@ -99,6 +115,10 @@ Yusuf Islam - If You Ask Me
 Yusuf Islam - Don't Let Me Be Misunderstood
 Yusuf Islam - Midday
 
+++++
+<br clear="both">
+++++
+
 === Cocteau Twins, 11 февраля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat91.html>
@@ -114,6 +134,10 @@ Cocteau Twins - Cherry Coloured Funk
 Cocteau Twins - Carolyn's Fingers
 Cocteau Twins - Blue Bell Knoll
 Cocteau Twins - Donimo 
+
+++++
+<br clear="both">
+++++
 
 === Traffic, 4 февраля 2007
 
@@ -131,6 +155,10 @@ Traffic - Don't Be Sad
 Traffic - 40 000 Headmen
 Traffic - Vagabond Virgin
 
+++++
+<br clear="both">
+++++
+
 === Памятка Паломнику по Европе, 28 января 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat89.html>
@@ -145,6 +173,10 @@ Boards Of Canada - Peacock Tail
 Palestrina - O Bone Jesu A6
 Robin Williamson - Verses in the Stewart St.
 Battlefield Band - Happy Daze
+
+++++
+<br clear="both">
+++++
 
 === Tom Petty, 21 января 2007
 
@@ -175,6 +207,10 @@ Tom Petty - Girl On LSD
 Tom Petty - Don't Treat Me like A Stranger
 Tom Petty - Time To Move On
 
+++++
+<br clear="both">
+++++
+
 === Содержимое Моей Головы, 14 января 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat87.html>
@@ -194,6 +230,10 @@ Twilight Electric - Table Tennis Breeze
 Chemical Brothers - Let Forever Be
 Donovan - Aye My Love
 
+++++
+<br clear="both">
+++++
+
 === 10 лучших групп за последние 2006 лет, 7 января 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat86.html>
@@ -211,6 +251,10 @@ Doors - Shaman's Blues
 Cocteau Twins - Aikea Guinea
 Red Hot Chili Peppers - Otherside
 Beatles - She Said She Said
+
+++++
+<br clear="both">
+++++
 
 === С Наступающим!, 31 декабря 2006
 
@@ -230,6 +274,10 @@ Human League - One Man In My Heart
 Corelli - Concerto Grosso 12 (F maj), #1
 The Beatles - Octopus' Garden
 
+++++
+<br clear="both">
+++++
+
 === Christmas time Again!, 24 декабря 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat84.html>
@@ -248,6 +296,10 @@ The Holly And The Ivy
 Bowie/Crosby - Little Drummer Boy
 We Wish You A Merry Christmas!
 
+++++
+<br clear="both">
+++++
+
 === Happy Birthday, Keith!, 17 декабря 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat83.html>
@@ -264,6 +316,10 @@ Rolling Stones - Jumping Jack Flash
 Rolling Stones - This Place Is Empty
 Rolling Stones - The Worst
 Rolling Stones - Dandelion
+
+++++
+<br clear="both">
+++++
 
 === Tom Waits: Сироты и все-все-все, 10 декабря 2006
 
@@ -283,6 +339,10 @@ Tom Waits - Long Way Home
 Tom Waits - Never Let Go
 Tom Waits - Widow's Grove
 
+++++
+<br clear="both">
+++++
+
 === George Frideric Handel, 3 декабря 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat81.html>
@@ -301,6 +361,10 @@ Sarabande
 Gloria In Excelsis Deo
 Royal Fireworks - La rejouissance: Allegro
 
+++++
+<br clear="both">
+++++
+
 === Психоделия, 26 ноября 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat80.html>
@@ -317,6 +381,10 @@ The Small Faces - Here Comes The Nice
 Tyrannosaurus Rex - King Of The Rumbling Spires
 Procol Harum - She Wandered Through The Garden Fence
 Jimi Hendrix - Burning Of The Midnight Lamp
+
+++++
+<br clear="both">
+++++
 
 === Новые песни, старые песни, 19 ноября 2006
 
@@ -335,6 +403,10 @@ Sting - Come Again
 Simon & Garfunkel - Feuiiles-O
 The Fratellis - Whistle For The Choir
 
+++++
+<br clear="both">
+++++
+
 === Песни южных морей, 12 ноября 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat78.html>
@@ -352,6 +424,9 @@ Loudon Wainwright - Good Ship Venus
 Maddy Prior - Grey Funnel Line
 The Fratellis - Cigarello
 
+++++
+<br clear="both">
+++++
 
 === Снова 70-е, 5 ноября 2006
 
@@ -371,9 +446,16 @@ Elton John - Your Song
 Slade - Gudbye T'Jane
 Cat Stevens - Moonshadow
 
+++++
+<br clear="both">
+++++
+
 === Samhain, 29 октября 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat76.html>
+
+.Archie Fisher - Joy Of My Heart
+image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
 
 [%hardbreaks]
 Sandy Denny - Fotheringay
@@ -384,7 +466,10 @@ Espers - Flowery Noontide
 Henry Purcell - Trumpet Voluntary
 Silly Wizard - The Valley Of Strathmore
 Kate Rusby - The Maid Of Llanwellyn
-Archie Fisher - Joy Of My Heart
+
+++++
+<br clear="both">
+++++
 
 === Митьки и Дэвид Боуи, 22 октября 2006
 
@@ -401,6 +486,9 @@ David Bowie - Prettiest Star
 David Bowie - Move On
 David Bowie - Word On A Wing
 
+++++
+<br clear="both">
+++++
 
 === Краткая Суть Буддизма, 15 октября 2006
 

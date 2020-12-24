@@ -1,4 +1,4 @@
-= Радио Аэростат. Глава XIIIV
+= Радио Аэростат. Глава XVIII
 :toc: left
 
 > link:aerostat.html[Главная страница]
@@ -184,12 +184,14 @@ Foundations – Build Me Up Buttercup
 
 <http://old.aquarium.ru/misc/aerostat/aerostat426.html>
 
+.Archie Fisher – Every Man's Heart
+image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
+
 [%hardbreaks]
 Kinks – Too Much On My Mind
 Penguin Cafe Orchestra – Music For Found
 Paul Simon – Rene And Georgette Magritte With Their Dog After the War
 Tommy Sands – Misty Mourne Shore
-Archie Fisher – Every Man's Heart
 George Harrison – Gone Troppo
 Ustad Shujaat Khan – Ranjha
 Leonard Cohen – Sisters Of Mercy

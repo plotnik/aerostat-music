@@ -1,4 +1,4 @@
-= Радио Аэростат. Глава XIIV
+= Радио Аэростат. Глава XVII
 :toc: left
 
 > link:aerostat.html[Главная страница]
@@ -159,7 +159,7 @@ Foxygen - San Francisco
 <http://old.aquarium.ru/misc/aerostat/aerostat404.html>
 
 [%hardbreaks]
-O. Children - Death Disco Dancer
+O.Children - Death Disco Dancer
 Alt-J - Breezeblocks
 Skrillex/Damien Marley - Make It Bum Dem
 Grizzly Bear - Gun-Shy
@@ -283,6 +283,9 @@ Flanagan & Allen - Miss You
 
 <http://old.aquarium.ru/misc/aerostat/aerostat398.html>
 
+.Archie Fisher - Dark Eyed Molly
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tom Waits - New Year's Eve
 David Bowie - Up The Hill Backwards
@@ -292,7 +295,6 @@ Darin Murphy - Masterpiece
 Father John Misty - Hollywood Forever
 Pretenders - 2000 Miles
 Paul McCartney - Calico Skies
-Archie Fisher - Dark Eyed Molly
 Аквариум - Новогоднее Поздравление 2013
 
 ++++

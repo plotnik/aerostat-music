@@ -35,6 +35,10 @@ Yusuf Islam - The Beloved
 Beatles - Sun King
 Jacques Arcadelt
 
+++++
+<br clear="both">
+++++
+
 === ОБЭРИУ, 1 апреля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat98.html>
@@ -51,12 +55,19 @@ David Behrman - On The Other Ocean
 Albinoni - Adagio G moll
 Nobukazu Takemura - Astral Beads
 
+++++
+<br clear="both">
+++++
+
 === Апология Америки, 8 апреля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat99.html>
 
 .Simon & Garfunkel - America
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Bookends/Bookends.jpg[Bookends,200,200,role="thumb left"]
+
+.Bruce Springsteen - Thunder Road
+image:Bruce Springsteen/1975 - Born to Run/cover.jpg[Born to Run,200,200,role="thumb left"]
 
 [%hardbreaks]
 Frank Zappa - Concentration Moon
@@ -65,9 +76,12 @@ Glenn Miller - On a Little Street In Singapore
 Little Richard - Bala Lama Bama Loo
 Elvis Presley - Anyway You Want Me
 James Brown - I Feel Good
-Bruce Springsteen - Thunder Road
 Johnny Cash - Four Strong Winds
 Billy Joel - Matter Of Trust 
+
+++++
+<br clear="both">
+++++
 
 === 1000 лет музыки, 15 апреля 2007
 
@@ -87,6 +101,10 @@ Ultravox - We Came to Dance
 Prodigy - Smack My Bitch Up
 Ranjana Singers
 
+++++
+<br clear="both">
+++++
+
 === Richard Thompson, 22 апреля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat101.html>
@@ -101,9 +119,16 @@ Richard Thompson - How Do You Like The New Me
 Richard Thompson - Dark Hand Over My Heart
 Richard Thompson - Walking The Long Miles Home
 
+++++
+<br clear="both">
+++++
+
 === Дверь Лета (Beltane Eve), 29 апреля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat102.html>
+
+.Archie Fisher - Welcome Royal Charlie
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
 
 [%hardbreaks]
 Andy M. Stewart - Take Her In Your Arms
@@ -113,10 +138,13 @@ Mary Hopkin - Let My Name Be Sorrow
 Robin Laing - Willy Brew'd A Peck O'Maut
 Jethro Tull - Fire At Midnight
 Incredible String Band - Banks Of Sweet Italie
-Archie Fisher - Welcome Royal Charlie
 Lunasa - Inion Ni Scannlain
 Paul McCartney - Mull Of Kintyre
 T.Rex - Beltane Walk
+
+++++
+<br clear="both">
+++++
 
 === Памяти Ильи Кормильцева, 6 мая 2007
 
@@ -132,6 +160,10 @@ Nautilus Pompilius - Дыхание
 Nautilus Pompilius - Человек на Луне
 Albinoni - Trumpet Concert in D min.1
 Nautilus Pompilius - Титаник
+
+++++
+<br clear="both">
+++++
 
 === Elvis Presley'56, 13 мая 2007
 
@@ -154,6 +186,10 @@ Elvis Presley - Return To Sender
 Elvis Presley - Anyway You Want Me
 Elvis Presley - Finders Keepers, Losers Weepers 
 
+++++
+<br clear="both">
+++++
+
 === Новая Коломна, 20 мая 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat105.html>
@@ -173,6 +209,10 @@ Gjallarhorn - Suvetar
 Toumani Diabate - Boulevard De L'independence
 Sean Lennon - On Again Off Again
 
+++++
+<br clear="both">
+++++
+
 === Иоганн Себастьян Бах, 27 мая 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat106.html>
@@ -190,6 +230,10 @@ Three-Part Invention #14 BWV800
 Allemande (A. Isoir)
 Suite #3 D maj - Gigue
 Suite #1 C maj - No6. Bouree 1 & 2 
+
+++++
+<br clear="both">
+++++
 
 === Frank Zappa, 3 июня 2007
 
@@ -213,6 +257,10 @@ Frank Zappa - For Calvin
 Frank Zappa - Bobby Brown
 Frank Zappa - Take Your Clothes Off When You Dance
 
+++++
+<br clear="both">
+++++
+
 === Новые песни, 10 июня 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat108.html>
@@ -229,6 +277,10 @@ Wilco - Sky Blue Sky
 Metric - The Twist
 Dan Bern - Suicide Room 
 
+++++
+<br clear="both">
+++++
+
 === Серьезная Музыка, 17 июня 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat109.html>
@@ -238,6 +290,10 @@ Brahms - Symphonie #3, part 2
 Terry Riley - 10 Voices Of 2 Prophets
 Terry Riley - Poppy Nogood
 Terry Riley - Rainbow In Curved Air 
+
+++++
+<br clear="both">
+++++
 
 === Несерьезная Музыка, 24 июня 2007
 
@@ -257,6 +313,10 @@ The New Vaudeville Band - Nighttingale Sang In Berkeley Square
 Paul McCartney - You Gave Me The Answer
 Jack Hylton - By The Waterfall 
 
+++++
+<br clear="both">
+++++
+
 === Sgt. Pepper's Lonely Hearts Club Band, 1 июля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat111.html>
@@ -275,6 +335,10 @@ Beatles - A Day In The Life
 Beatles - Good Morning Good Morning
 Beatles - She's Leaving Home
 Beatles - All You Need Is Love 
+
+++++
+<br clear="both">
+++++
 
 === R.E.M., 8 июля 2007
 
@@ -330,6 +394,10 @@ George Harrison - All Things Must Pass
 Boys And Flowers
 Donovan - Old Fashioned Picture Book 
 
+++++
+<br clear="both">
+++++
+
 === Восток и Запад, 22 июля 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat114.html>
@@ -343,6 +411,10 @@ Smiths - Girlfriend In A Coma
 Eminem - Ass Like That
 Bryan Ferry - These Foolish Things
 Bhajan Singers - Jhili Mili
+
+++++
+<br clear="both">
+++++
 
 === Silly Wizard, 29 июля 2007
 
@@ -358,6 +430,10 @@ Silly Wizard - If I Was A Blackbird
 Silly Wizard - The Blackbird Of Sweet Avondale
 Silly Wizard - The Chill Eastern Winds
 
+++++
+<br clear="both">
+++++
+
 === Археология - Canterbury And Others, 5 августа 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat116.html>
@@ -372,6 +448,10 @@ Caravan - I Don't Know Its Name
 Peter Hammill - Autumn
 Pink Floyd - What Uh The Deal
 Matching Mole - O Caroline
+
+++++
+<br clear="both">
+++++
 
 === Алиса в Зазеркалье, 12 августа 2007
 
@@ -391,6 +471,9 @@ Incredible String Band - Minotaur's Song
 Nick Drake - I Was Made To Love Magic
 Idle Race - Sea Of Dreams
 
+++++
+<br clear="both">
+++++
 
 === Сно-видение, 19 августа 2007
 
@@ -407,6 +490,10 @@ Beatles - Nus Gnik
 Brian Eno - Everything Merges With The Night
 Sigur Ros - Hoppipolla
 Beatles - Good Night
+
+++++
+<br clear="both">
+++++
 
 === The Byrds, 26 августа 2007
 
@@ -427,6 +514,10 @@ Byrds - Wasn t Born To Follow
 Byrds - John Riley
 Byrds - Get To You
 
+++++
+<br clear="both">
+++++
+
 === Новые Песни В Сентябре, 2 сентября 2007
 
 <http://old.aquarium.ru/misc/aerostat/aerostat120.html>
@@ -442,6 +533,10 @@ Glenn Miller - Careless
 Madness - Shame & Scandal
 Page & Plant - When The World Was Young
 Paul McCartney - Too Much Rain 
+
+++++
+<br clear="both">
+++++
 
 === Paul Simon, 9 сентября 2007
 
@@ -466,6 +561,10 @@ Paul Simon - Under African Skies
 Paul Simon - I Do It For Your Love
 Paul Simon - 50 Ways To Leave Your Lover
 Paul Simon - 59th Bridge Street Song
+
+++++
+<br clear="both">
+++++
 
 === Jimi: Are You Experienced?, 16 сентября 2007
 
