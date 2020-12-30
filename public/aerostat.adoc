@@ -51,6 +51,36 @@ code {
 
 == 33.
 
+=== Cвобода, поэзия..., 27 декабря 2020
+
+<https://aerostatbg.ru/release/815>
+
+.Robert Wyatt – Sight Of The Wind
+image:ROBERT WYATT/Dondestan/Folder.jpg[Dondestan,200,200,role="thumb left"]
+
+.Dead Can Dance – The Host Of Seraphim
+image:DEAD CAN DANCE/Dead Can Dance - Passage In Time/photo7.jpg[Passage In Time,200,200,role="thumb left"]
+
+.Beatles – All You Need Is Love
+image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
+
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_boogie_street[Boogie Street]
+image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Robert Fripp – Pastorale
+Doors – Riders On The Storm
+Charles Aznavour – La bohème
+Who – Cousin Kevin
+
+++++
+<br clear="both">
+++++
+
 === McCartney III, 20 декабря 2020
 
 <https://aerostatbg.ru/release/814>

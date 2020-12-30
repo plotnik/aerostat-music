@@ -35,6 +35,9 @@ Dead Brothers - I Am All I Got
 George Jones - If Drinking Don't Kill Me
 Runrig - Loch Lomond
 
+++++
+<br clear="both">
+++++
 
 === Pet Sounds, 14 февраля 2016
 
@@ -56,6 +59,9 @@ Beach Boys - Here Today
 Beach Boys - I Just Wasn't Made For These Times
 Beach Boys - Caroline No
 
+++++
+<br clear="both">
+++++
 
 === New February Music, 7 февраля 2016
 
@@ -72,6 +78,9 @@ John Cale - Thoughtless Kind
 High Llamas - Here Come The Rattlin
 Iggy Pop - Gardenia
 
+++++
+<br clear="both">
+++++
 
 === Памяти Энди М. Стюарта, 31 января 2016
 
@@ -109,6 +118,9 @@ David Bowie - Wild Is The Wind
 Queen&David Bowie - Under Pressure
 David Bowie - All The Madmen
 
+++++
+<br clear="both">
+++++
 
 === История "Акустики", 17 января 2016
 
@@ -130,6 +142,9 @@ David Bowie - All The Madmen
 Аквариум - С Той Стороны Зеркального Стекла
 Аквариум - 25 к 10
 
+++++
+<br clear="both">
+++++
 
 === Песни Протеста, 10 января 2016
 
@@ -154,6 +169,9 @@ Jefferson Airplane - Crown Of Creation
 Byrds - Turn Turn Turn
 Creedence Clearwater Revival - Who'll Stop The Rain
 
+++++
+<br clear="both">
+++++
 
 === Best of 2015, 3 января 2016
 
@@ -182,6 +200,10 @@ Jonny Greenwood Etc - Junun
 Леонид Федоров - В траве
 Brian Wilson - Whatever Happened
 Billy Gibbons - Treat Her Right
+
+++++
+<br clear="both">
+++++
 
 === Предновогодние Притчи, 27 декабря 2015
 
@@ -222,6 +244,9 @@ Rod Stewart - Love And Be Loved
 
 <http://old.aquarium.ru/misc/aerostat/aerostat553.html>
 
+.Leon Redbone - Home For Holidays 
+image:LEON REDBONE/2001 - Christmas Island/folder.jpg[Christmas Island,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bing Crosby - Christmas Is Here To Stay 
 Frank Sinatra - Christmas Dreaming 
@@ -229,11 +254,14 @@ Albion Christmas Band - On Christmas Night All Christians Sing
 Praetorius - In Dulce Jubilo 
 Annie Lennox - God Rest You Merry Gentlemen 
 Harry Connick - When My Heart Find Christmas 
-Leon Redbone - Home For Holidays 
 Ella Fitzgerald - Santa Claus Got Stuck In My Chimney 
 Bing Crosby - O Fir Tree Dark 
 Аквариум - Рождественская Ночь 
 Bing Crosby - White Christmas
+
+++++
+<br clear="both">
+++++
 
 === Buena Vista Social Club, 13 декабря 2015
 
@@ -247,6 +275,10 @@ Buena Vista Social Club - Veinte Anos
 Buena Vista Social Club - Candela
 Buena Vista Social Club - Guajira En F
 Ibrahim Ferrer - Cienfuegos Tiene
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Декабря, 6 декабря 2015
 
@@ -290,6 +322,10 @@ Jeff Lynne's ELO - Alone In The Universe
 Jeff Lynne's ELO - Fault Line
 Jeff Lynne's ELO - Blue
 
+++++
+<br clear="both">
+++++
+
 === 3 = 8, 22 ноября 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat549.html>
@@ -305,6 +341,10 @@ Jeff Lynne's ELO - Blue
 Террариум - Это Было
 Террариум - Гарфункель
 Террариум - Кондуктор
+
+++++
+<br clear="both">
+++++
 
 === Новые Песни Ноября, 15 ноября 2015
 
@@ -323,6 +363,10 @@ Elvis Costello - I Want You
 Kurt Cobain - Sappy 
 Rod Stewart - Hold The Line
 
+++++
+<br clear="both">
+++++
+
 === Памяти Бориса Рубекина, 8 ноября 2015
 
 <http://old.aquarium.ru/misc/aerostat/aerostat547.html>
@@ -338,6 +382,10 @@ Rod Stewart - Hold The Line
 Азимут Р - Легче Воздуха
 7 Из Под Камней - С Камня Безоар
 7 Из Под Камней - Секрет Зимнего Дня
+
+++++
+<br clear="both">
+++++
 
 === Соуэн, 1 ноября 2015
 
@@ -408,12 +456,18 @@ image:JOHN GRANT/John Grant - Grey Tickles Black Pressure/cover.png[Grey Tickles
 <br clear="both">
 ++++
 
+.Buddy Guy - Whiskey, Beer & Wine
+image:BUDDY GUY/2015 - Born to Play Guitar/cover.jpg[Born to Play Guitar,200,200,role="thumb left"]
+
 [%hardbreaks]
 London Souls - Someday
-Buddy Guy - Whiskey, Beer & Wine
 Billy Gibbons - Got Love If You Want It
 Gurrumul - Marwurrunburr
 Faces - You Can Make Me Dance
+
+++++
+<br clear="both">
+++++
 
 === Велосипедист и эгрегор, 11 октября 2015
 
@@ -556,6 +610,10 @@ Squeeze - Happy Days
 Low - What Part Of Me
 New Order - Restless
 Black - Good Liar
+
+++++
+<br clear="both">
+++++
 
 === Новости О Том и Сем, 30 августа 2015
 
