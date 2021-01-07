@@ -51,6 +51,24 @@ code {
 
 == 33.
 
+=== «ТОР», 1 января 2021
+
+<https://aerostatbg.ru/release/816>
+
+[%hardbreaks]
+Аквариум – Палёное виски и толчёный мел
+Аквариум – Бой-баба
+Аквариум – Для тех, кто влюблён
+Аквариум – Bernie And Ciaran
+Аквариум – Месть королевы Анны
+Аквариум – Весть с Елисейских полей
+Аквариум – Фавн
+Аквариум – Не трать время
+
+++++
+<br clear="both">
+++++
+
 === Cвобода, поэзия..., 27 декабря 2020
 
 <https://aerostatbg.ru/release/815>
@@ -71,8 +89,10 @@ image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,20
 <br clear="both">
 ++++
 
+.Robert Fripp – Pastorale
+image:KING CRIMSON/2008 - Theo Travis and Robert Fripp - Thread/folder.jpg[Theo Travis and Robert Fripp - Thread,200,200,role="thumb left"]
+
 [%hardbreaks]
-Robert Fripp – Pastorale
 Doors – Riders On The Storm
 Charles Aznavour – La bohème
 Who – Cousin Kevin

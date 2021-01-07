@@ -186,7 +186,7 @@ Steely Dan - Aja
 
 <http://old.aquarium.ru/misc/aerostat/aerostat528.html>
 
-.Bob Dylan – Queen Jane Approximately
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_queen_jane_approximately[Queen Jane Approximately]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
 
 .Elliot Smith – Everything Means Nothing To Me
@@ -195,10 +195,18 @@ image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,ro
 .Pixies – Indie Cindy
 image:PIXIES/Indie Cindy/cover.png[Indie Cindy,200,200,role="thumb left"]
 
+.Paul Simon – Song About The Moon
+image:PAUL SIMON/1983 - Hearts and Bones/cover.jpg[Hearts and Bones,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Beck – Dreams
+image:BECK/1994 - One Foot In The Grave/Folder.jpg[One Foot In The Grave,200,200,role="thumb left"]
+
 [%hardbreaks]
-Paul Simon – Song About The Moon
 Стравинский – Pastorale:Chant Sans Paroles
-Beck – Dreams
 Malcolm Arnold - Inn Of 6th Happiness 2
 Terry Riley – Derveshum Carnivalis
 Gandalf – Love Is The Answer

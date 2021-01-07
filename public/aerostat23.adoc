@@ -479,7 +479,7 @@ image:BECK/Guero/cover.jpg[Guero,200,200,role="thumb left"]
 .Andy M. Stewart - They Wounded Old Ireland
 image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,role="thumb left"]
 
-.Jethro Tull - Weathercock
+.Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_weathercock[Weathercock]
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
 
 .Procol Harum - Nothing That I Didn't Know
