@@ -517,13 +517,19 @@ image:Brian Wilson - No Pier Pressure (Deluxe Edition)/cover.jpg[No Pier Pressur
 .Beatles - And I Love Her
 image:THE BEATLES/1964a - A Hard Days Night/cover.jpg[A Hard Days Night,200,200,role="thumb left"]
 
+.Djivan Gasparian - Chiarescuroed
+image:Djivan Gasparian/2008 - Penumbra/penumbra.jpg[Penumbra,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Calliope Music - Smiles
 Cannonball Adderley - Corcovado 
 Cat Stevens - Sun/C79
 Cocteau Twins - Fluffy Tuffs
 Teleman - Recorder Sonata C Maj
-Djivan Gasparian - Chiarescuroed
 Bhajan Singers - Nam Dhare 
 
 ++++

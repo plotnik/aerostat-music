@@ -262,9 +262,11 @@ Barenaked Ladies – If I Had A 1000000$
 
 <http://old.aquarium.ru/misc/aerostat/aerostat525.html>
 
+.Sweet Billy Pilgrim – Coloma Blues
+image:Sweet Billy Pilgrim - Motorcade Amnesiacs/cover.jpg[Motorcade Amnesiacs,200,200,role="thumb left"]
+
 [%hardbreaks]
 Hot Chip – Huarache Lights
-Sweet Billy Pilgrim – Coloma Blues
 Tony Allen – Tiger's Skip
 Cathal Smyth – She's Got The Light
 Robin Guthrie & Mark Gardener – Amnesia
@@ -410,12 +412,16 @@ Fairport Convention – Fylde Mountain
 .Pugwash – Answers On A Postcard
 image:PUGWASH/2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
 
+.Red Hot Chili Peppers – Snow (Hey Oh)
+image:RED HOT CHILI PEPPERS/Red Hot Chili Peppers - Stadium Arcadium (Disc 1)/cover.jpg[Stadium Arcadium (Disc 1),200,200,role="thumb left"]
+
+.Emerson Lake & Palmer – C'est La Vie
+image:Emerson Lake Palmer/The Best Of/cover.jpg[The Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
 Eminem – Kill You
 Elliot Smith – Morning After
-Emerson Lake & Palmer – C'est La Vie
 Rolling Stones – Love Is Strong
-Red Hot Chili Peppers – Snow (Hey Oh)
 Roger Mcguinn – King Of The Hill
 Telemann – Concerto In G:Allegro
 Bhajans – Shirdi Sai
