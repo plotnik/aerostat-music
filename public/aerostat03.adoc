@@ -474,7 +474,7 @@ image:Velvet Undeground/1973 - Berlin/Folder.jpg[Berlin,200,200,role="thumb left
 <br clear="both">
 ++++
 
-.Leonard Cohen - In My Secret Life
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_in_my_secret_life[In My Secret Life]
 image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
 
 .Donovan - Skip Along Sam

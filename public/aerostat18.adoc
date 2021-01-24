@@ -187,6 +187,9 @@ Foundations – Build Me Up Buttercup
 .Archie Fisher – Every Man's Heart
 image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
 
+.Leonard Cohen – Sisters Of Mercy
+image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
+
 [%hardbreaks]
 Kinks – Too Much On My Mind
 Penguin Cafe Orchestra – Music For Found
@@ -194,7 +197,6 @@ Paul Simon – Rene And Georgette Magritte With Their Dog After the War
 Tommy Sands – Misty Mourne Shore
 George Harrison – Gone Troppo
 Ustad Shujaat Khan – Ranjha
-Leonard Cohen – Sisters Of Mercy
 Johnny Marvin – Happy Days Are Here Again 
 
 ++++

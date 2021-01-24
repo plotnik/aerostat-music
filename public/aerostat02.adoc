@@ -40,6 +40,9 @@ The Fourmost - I'm In Love
 Beatles - Devil In Her Heart
 Billy J. Kramer & The Dakotas - I'll Keep You Satisfied
 
+++++
+<br clear="both">
+++++
 
 === "Божественная Музыка", 9 апреля 2006
 
@@ -57,6 +60,9 @@ Emerson, Lake & Palmer - Jerusalem
 Jethro Tull - Look Into The Sun
 Beatles - Across The Universe
 
+++++
+<br clear="both">
+++++
 
 === "Беспечный Русский Бродяга", 2 апреля 2006
 
@@ -72,6 +78,10 @@ Beatles - Across The Universe
 Аквариум - О Смысле Всего Сущего
 Аквариум - Афанасий Никитин Буги
 Аквариум - Дело За Мной
+
+++++
+<br clear="both">
+++++
 
 === "Donovan", 26 марта 2006
 
@@ -139,7 +149,9 @@ Serge Gainsburg - Je T'aime
 Zombies - Time Of The Season
 Tremeloes - Silence Is Golden
 
-
+++++
+<br clear="both">
+++++
 
 === "Марк Болан", 12 марта 2006
 
@@ -162,6 +174,9 @@ Tyrannosaurus Rex - Girl
 Tyrannosaurus Rex - Metal Guru
 Tyrannosaurus Rex - A Day Laye
 
+++++
+<br clear="both">
+++++
 
 === "Слово о Великой Богине", 5 марта 2006
 
@@ -219,6 +234,9 @@ George Harrison - True Love
 George Harrison - It Is He (Jai Sri Krsna!)
 George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html#_blow_away[Blow Away]
 
+++++
+<br clear="both">
+++++
 
 === "Есенин и Электроника", 19 февраля 2006
 
@@ -235,6 +253,9 @@ Hot Chip - Playboy
 Depeche Mode - Barrel Of The Gun
 Shpongle - Dorset Perception
 
+++++
+<br clear="both">
+++++
 
 === "Звук Другого Барабана", 12 февраля 2006
 
@@ -258,6 +279,9 @@ Peter Gabriel/Robert Fripp - Here Comes The Flood
 Laurie Anderson/Gabriel - Excellent Birds
 Mike Oldfield - Sheba
 
+++++
+<br clear="both">
+++++
 
 === "American Cousins", 5 февраля 2006
 
@@ -276,6 +300,10 @@ Association - Never My Love
 Byrds - She Has A Way
 Grateful Dead - Ripples
 
+++++
+<br clear="both">
+++++
+
 === "Imbolk - Celts Galore!", 29 января 2006
 
 <http://old.aquarium.ru/misc/aerostat/aerostat37.html>
@@ -293,6 +321,9 @@ Pogues - Sick Bed Of Cuchulain
 Sting/Chieftains - Mo Ghile Mear
 Silly Wizard - The Loch Tay Boat Song
 
+++++
+<br clear="both">
+++++
 
 === "Гитары гандхарвов", 22 января 2006
 
@@ -313,7 +344,9 @@ Jimi Hendrix - Still Raining, Still Dreaming
 King Crimson - Starless
 George Harrison - That's The Way It Goes
 
-
+++++
+<br clear="both">
+++++
 
 === "70-е - 2", 15 января 2006
 
@@ -344,6 +377,9 @@ Mott The Hoople - Original Mixed-Up Kid
 Free - Stealer
 Splinter - Elly May 
 
+++++
+<br clear="both">
+++++
 
 === "Мудрость пустыни", 8 января 2006
 
@@ -358,8 +394,14 @@ image:JETHRO TULL/1989  Rock Island/cover.jpg[Rock Island,200,200,role="thumb le
 .Steeleye Span - Gaudete
 image:STEELEYE SPAN/Steeleye Span - Below the Salt/Folder.jpg[Below the Salt,200,200,role="thumb left"]
 
+.Leonard Cohen - Go No More A-Roving
+image:LEONARD COHEN/2004 - Dear Heather/cover.jpg[Dear Heather,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Leonard Cohen - Go No More A-Roving
 Emerson, Lake and Palmer - The Only Way
 Iron Butterfly - Flowers And Beads
 Jimi Hendrix - May This Be Love (Waterfall)
@@ -367,6 +409,9 @@ George Harrison - Here Comes The Moon
 Melanie - What Wondrous Love
 Electric Light Orchestra - One Summer Dream
 
+++++
+<br clear="both">
+++++
 
 === "Свет и сладость", 1 января 2006
 
@@ -388,6 +433,9 @@ Mary Hopkin - The Cherry Tree Carol
 Cat Stevens - The Wind
 The Beatles - I'll Be On My Way
 
+++++
+<br clear="both">
+++++
 
 === "Рождественские песни", 25 декабря 2005
 
@@ -411,6 +459,9 @@ Paul McCartney - Wonderful Christmas Time
 Elvis Presley - Blue Christmas
 John Lennon - Happy Christmas (War Is Over)
 
+++++
+<br clear="both">
+++++
 
 === "Позитивные Вибрации С Солнечного Острова или Чему Джа Растафари научил своих детей", 18 декабря 2005
 
@@ -428,7 +479,9 @@ English Beat - Ranking Full Stop
 Black Uhuru - Youth Of Eglington
 Bob Marley - Three Little Birds
 
-
+++++
+<br clear="both">
+++++
 
 === "Музыка Безмятежной Неги", 11 декабря 2005
 
@@ -447,6 +500,9 @@ Bing Crosby - White Christmas
 Jack Buchanan - Goodnight Vienna
 Glenn Miller - Say "Si Si"
 
+++++
+<br clear="both">
+++++
 
 === "Этно Снова На Коне", 4 декабря 2005
 
@@ -463,6 +519,9 @@ Harry Belafonte - Day O
 George Brassens - Copain D'Abord
 Beatles - The Inner Light
 
+++++
+<br clear="both">
+++++
 
 === День Рождения, 27 ноября 2005
 
@@ -484,6 +543,9 @@ Eurythmics - When Tomorrow Comes
 Don McLean - Crossroads
 Bach - "Air" from Orchestra Suite No. 3
 
+++++
+<br clear="both">
+++++
 
 === "Голоса Гандхарвов", 20 ноября 2005
 
@@ -506,6 +568,9 @@ John Lennon - Mind Games
 Beach Boys - God Only Knows
 Beatles - All You Need Is Love
 
+++++
+<br clear="both">
+++++
 
 === "Поучительная История Б. Дилана", 13 ноября 2005
 

@@ -5,6 +5,8 @@ Leonard Cohen
 
 image:../cover.jpg[A Souvenir of the Grand Tour,200,200]
 
+From http://www.azlyrics.com/c/cohen.html
+
 == Field Commander Cohen
 
 // https://www.google.com/search?q=Leonard+Cohen+lyrics+Field+Commander+Cohen

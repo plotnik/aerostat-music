@@ -434,8 +434,11 @@ Bhajans – Shirdi Sai
 
 <http://old.aquarium.ru/misc/aerostat/aerostat518.html>
 
-.Leonard Cohen – Never Gave Nobody Trouble
+.Leonard Cohen - link:LEONARD%20COHEN/Cant%20Forget%20-%20A%20Souvenir%20of%20the%20Grand%20Tour/lyrics/souvenir.html#_never_gave_nobody_trouble[Never Gave Nobody Trouble]
 image:LEONARD COHEN/Cant Forget - A Souvenir of the Grand Tour/cover.jpg[A Souvenir of the Grand Tour,200,200,role="thumb left"]
+
+.Van Morrison – Get On With The Show
+image:VAN MORRISON/Duets - Re-Working the Catalogue/Folder.jpg[Re-Working the Catalogue,200,200,role="thumb left"]
 
 [%hardbreaks]
 Jon Spencer Blues Explosion – Do The Get Down
@@ -445,7 +448,6 @@ Prodigy – Ibiza
 БГ/Wyatt – Stella Maris
 Ghostpoet – X Marks The Spot
 Johnny Dowd – White Dolemite
-Van Morrison – Get On With The Show
 
 ++++
 <br clear="both">
@@ -565,6 +567,12 @@ Vera Lynn – We'll Meet Again
 
 <http://old.aquarium.ru/misc/aerostat/aerostat512.html>
 
+.Paul Simon – Was A Sunny Day
+image:PAUL SIMON/1973 - There Goes Rhymin Simon/Folder.jpg[There Goes Rhymin Simon,200,200,role="thumb left"]
+
+.Lambchop – Is A Woman
+image:LAMBCHOP/2002 - Is A Woman/Folder.jpg[Is A Woman,200,200,role="thumb left"]
+
 [%hardbreaks]
 Beatles – Words Of Love
 Aквариум – День В Доме Дождя
@@ -573,9 +581,7 @@ Paul McCartney – Distractions
 Robert Palmer – Spellbound
 Charles Aznavour – Isabelle
 Roy Orbison – Pretty One
-Lambchop – Is A Woman
 Robert Palmer – Between Us
-Paul Simon – Was A Sunny Da
 
 ++++
 <br clear="both">

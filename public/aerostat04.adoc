@@ -63,12 +63,14 @@ Juluka - Akanaki Nobunaga
 .Crowded House - link:CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html#_into_temptation[Into Temptation]
 image:CROWDED HOUSE/1996 - The Very Best Of Crowded House/folder.jpg[The Very Best Of Crowded House,200,200,role="thumb left"]
 
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_a_thousand_kisses_deep[A Thousand Kisses Deep]
+image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
+
 [%hardbreaks]
 Glen Weston - What Is A Youth?
 Robert Palmer - Know By Now
 David Bowie - Wild as The Wind
 Mary Hopkin - The Fields Of St. Etienne
-Leonard Cohen - A Thousand Kisses Deep
 Аквариум - Услышь Меня, Хорошая
 Kate Rusby - Sweet Bride
 Beatles - It's Only Love
