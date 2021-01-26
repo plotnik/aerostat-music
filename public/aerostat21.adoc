@@ -130,10 +130,12 @@ image:JETHRO TULL/1976  M.U. - The Best of Jethro Tull/cover.jpg[The Best of Jet
 .Jethro Tull – Elegy
 image:JETHRO TULL/1979  Stormwatch/cover.jpg[1979  Stormwatch,200,200,role="thumb left"]
 
+.Emerson Lake & Palmer – Oh My Father
+image:Emerson Lake Palmer/A Time And A Place/folder.jpg[A Time And A Place,200,200,role="thumb left"]
+
 [%hardbreaks]
 Electric Light Orchestra – Everyone's Born To Die
 Pink Floyd – Wine Glasses
-Emerson Lake & Palmer – Oh My Father
 Simon & Garfunkel – Star Carol
 Tom Petty – Around The Roses
 Rolling Stones – Claudine
@@ -152,9 +154,11 @@ Hollies - Do The Best You Can
 .Decemberists – The Wrong Year
 image:THE DECEMBERISTS/2015 What a terrible world what a beautiful world/cover.png[2015 What a terrible world what a beautiful world,200,200,role="thumb left"]
 
+.Kate Rusby – The Youthful Boy
+image:KATE RUSBY/2014 - Ghost/cover.jpg[Ghost,200,200,role="thumb left"]
+
 [%hardbreaks]
 Junipers – Oh Gilbert
-Kate Rusby – The Youthful Boy
 Gong – When God Shakes Hands With Devil
 Damian Marley – Is It Worth It
 Thompson Family – One Life At A Time
