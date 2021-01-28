@@ -231,12 +231,22 @@ image:ROBERT PLANT/2014 - Lullaby and the ceaseless roar/cover.jpg[Lullaby and t
 .Lana Del Rey – West Coast
 image:Lana Del Rey - Ultraviolence/folder.jpg[Ultraviolence,200,200,role="thumb left"]
 
+.Leonard Cohen – My Oh My
+image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Eels - link:EELS/Eels%20-%202014%20-%20The%20cautionary%20tales%20of%20Mark%20Oliver%20Everett%20-%20CD%201/lyrics/tales.html#_lonely_lockdown_hurricane[Lonely Lockdown Hurricane]
+image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cover.jpg[2014 - The cautionary tales of Mark Oliver Everett - CD 1,200,200,role="thumb left"]
+
+.War On Drugs – Red Eyes
+image:War On Drugs - Lost In the Dream/cover.jpg[Lost In the Dream,200,200,role="thumb left"]
+
 [%hardbreaks]
-War On Drugs – Red Eyes
-Eels – Lonely Lockdown Hurricane
 FKA Twigs – Two Weeks
 Hiss Golden Messenger – Lucia
-Leonard Cohen – My Oh My
 Future Islands – Seasons (Waiting On You)
 
 ++++
@@ -269,11 +279,13 @@ image:PROCOL HARUM/Procol Harum - A Salty Dog/images.jpg[A Salty Dog,200,200,rol
 .King Crimson – Cadence & Cascade
 image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
 
+.John Lennon – Bless You
+image:THE BEATLES/John Lennon - Walls and Bridges/cover.png[Walls and Bridges,200,200,role="thumb left"]
+
 [%hardbreaks]
 Manfredini – Concerto Grosso In D, 1
 Tony Scott – Za Zen (Meditation)
 George Harrison – Let It Be Me
-John Lennon – Bless You
 
 ++++
 <br clear="both">
