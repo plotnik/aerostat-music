@@ -244,10 +244,13 @@ image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cove
 .War On Drugs – Red Eyes
 image:War On Drugs - Lost In the Dream/cover.jpg[Lost In the Dream,200,200,role="thumb left"]
 
+.Future Islands – Seasons (Waiting On You)
+image:Future Islands/2014 - Singles/cover.jpg[Singles,200,200,role="thumb left"]
+
 [%hardbreaks]
 FKA Twigs – Two Weeks
 Hiss Golden Messenger – Lucia
-Future Islands – Seasons (Waiting On You)
+
 
 ++++
 <br clear="both">
@@ -330,8 +333,10 @@ Bhajan Singers – Ganesh
 
 <http://old.aquarium.ru/misc/aerostat/aerostat498.html>
 
+.Kevin Ayers – Town Feeling
+image:Kevin Ayers 1969 - Joy of a Toy/kevin.jpg[Joy of a Toy,200,200,role="thumb left"]
+
 [%hardbreaks]
-Kevin Ayers – Town Feeling
 Kevin Ayers – Oh! Wot A Dream
 Kevin Ayers – Caribbean Moon
 Kevin Ayers – Stranger In Blue Suede Shoes
@@ -427,7 +432,7 @@ Old Crow Medicine Show – Firewater
 
 <http://old.aquarium.ru/misc/aerostat/aerostat493.html>
 
-.Leonard Cohen – Slow
+.Leonard Cohen - link:LEONARD%20COHEN/2014%20-%20Popular%20Problems/lyrics/popular.html#_slow[Slow]
 image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,role="thumb left"]
 
 .Robert Plant – Somebody There

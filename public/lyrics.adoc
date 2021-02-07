@@ -98,6 +98,7 @@
 
 - link:./LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html[LEONARD COHEN/09-The Future (1992)]
 - link:./LEONARD%20COHEN/2004%20-%20Dear%20Heather/lyrics/heather.html[LEONARD COHEN/2004 - Dear Heather]
+- link:./LEONARD%20COHEN/2014%20-%20Popular%20Problems/lyrics/popular.html[LEONARD COHEN/2014 - Popular Problems]
 - link:./LEONARD%20COHEN/Cant%20Forget%20-%20A%20Souvenir%20of%20the%20Grand%20Tour/lyrics/souvenir.html[LEONARD COHEN/Cant Forget - A Souvenir of the Grand Tour]
 - link:./LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html[LEONARD COHEN/Leonard Cohen - Ten New Songs]
 
