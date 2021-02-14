@@ -3,25 +3,28 @@
 .link:Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html[1963 - Blowing In The Wind]
 image:Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
 
+.link:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/lyrics/highway.html[1965 - Highway 61 Revisited]
+image:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/cover.jpg[Highway 61 Revisited,200,200,role="thumb left"]
+
 .link:Bob%20Dylan%201966%20-%20Blonde%20On%20Blonde/lyrics/blonde.html[1966 - Blonde On Blonde]
 image:Bob Dylan 1966 - Blonde On Blonde/cover.jpg[Blonde On Blonde,200,200,role="thumb left"]
 
 .link:Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html[1993 - World Gone Wrong]
 image:Bob Dylan 1993 - World Gone Wrong/cover.jpg[World Gone Wrong,200,200,role="thumb left"]
 
-.link:Bob%20Dylan%202001%20-%20Love%20And%20Theft/lyrics/love.html[Love And Theft]
-image:Bob%20Dylan%202001%20-%20Love%20And%20Theft/cover.jpg[Love And Theft,200,200,role="thumb left"]
-
 ++++
 <br clear="both">
 ++++
 
-.link:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/lyrics/highway.html[1965 - Highway 61 Revisited]
-image:Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/cover.jpg[Highway 61 Revisited,200,200,role="thumb left"]
+.link:Bob%20Dylan%202001%20-%20Love%20And%20Theft/lyrics/love.html[2001 - Love And Theft]
+image:Bob%20Dylan%202001%20-%20Love%20And%20Theft/cover.jpg[Love And Theft,200,200,role="thumb left"]
 
 .link:2006%20-%20Modern%20Times/lyrics/modern.html[2006 - Modern Times]
 image:2006%20-%20Modern%20Times/cover.jpg[Modern Times,200,200,role="thumb left"]
 
+.link:2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html[2020 - Rough And Rowdy Ways]
+image:2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,200,role="thumb left"
+]
 ++++
 <br clear="both">
 ++++

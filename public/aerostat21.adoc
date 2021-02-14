@@ -479,6 +479,9 @@ Lindisfarne – Meet Me On The Corner
 .Donovan – To Susan On The West Coast
 image:DONOVAN/Donovan - Barabajagal/cover.jpg[Barabajagal,200,200,role="thumb left"]
 
+.Led Zeppelin – Down By The Seaside
+image:LED ZEPPELIN/Led Zeppelin - Physical Graffiti/Physical Graffiti.jpg[Physical Graffiti,200,200,role="thumb left"]
+
 [%hardbreaks]
 New Vaudeville Band – Lily Marlene
 Family – From Past Archives
@@ -486,7 +489,6 @@ Who – So Sad About Us
 Free – Be My Friend
 George Harrison – Beware Of Darkness
 Idle Race – I'm Going Home
-Led Zeppelin – Down By The Seaside
 Herman's Hermits – Museum
 Fortunes – Here It Comes Again
 

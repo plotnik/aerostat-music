@@ -17,6 +17,7 @@
 - link:./BECK/Beck%20Hansens%20Song%20Reader/lyrics/songs.html[BECK/Beck Hansens Song Reader]
 - link:./Blondie%20-%20Greatest%20Hits/lyrics/blondie.html[Blondie - Greatest Hits]
 - link:./BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html[BOB DYLAN/2006 - Modern Times]
+- link:./BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html[BOB DYLAN/2020 - Rough And Rowdy Ways]
 - link:./BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html[BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind]
 - link:./BOB%20DYLAN/Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/lyrics/highway.html[BOB DYLAN/Bob Dylan 1965 - Highway 61 Revisited]
 - link:./BOB%20DYLAN/Bob%20Dylan%201966%20-%20Blonde%20On%20Blonde/lyrics/blonde.html[BOB DYLAN/Bob Dylan 1966 - Blonde On Blonde]

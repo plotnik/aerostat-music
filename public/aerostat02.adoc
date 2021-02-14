@@ -385,7 +385,7 @@ Splinter - Elly May
 
 <http://old.aquarium.ru/misc/aerostat/aerostat34.html>
 
-.Bob Dylan - Lone Pilgrim
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html#_lone_pilgrim[Lone Pilgrim]
 image:BOB DYLAN/Bob Dylan 1993 - World Gone Wrong/cover.jpg[World Gone Wrong,200,200,role="thumb left"]
 
 .Jethro Tull - Another Christmas Song
