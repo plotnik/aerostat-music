@@ -157,8 +157,10 @@ image:Nick Mason - Fictitious Sports/cover.jpg[Fictitious Sports,200,200,role="t
 <br clear="both">
 ++++
 
+.J.S.Bach – English Suite 2.VI
+image:BACH/Bach English Suites Leonardt/cover.jpg[Bach English Suites Leonardt,200,200,role="thumb left"]
+
 [%hardbreaks]
-J.S.Bach – English Suite 2.VI
 John Sebastian – Rainbows All Over Yb
 J.S.Bach – English Suite 1.V
 Buzzcocks – Ever Fallen In Love?
