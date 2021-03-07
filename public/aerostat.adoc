@@ -19,6 +19,7 @@
 - link:aerostat19.html[`Глава XIX.    15.09.2013 - 23.02.2014`]
 - link:aerostat18.html[`Глава XVIII.  31.03.2013 -  8.09.2013`]
 - link:aerostat17.html[`Глава XVII.   14.10.2012 - 24.03.2013`]
+- link:aerostat16.html[`Глава XVI.    29.04.2012 -  7.10.2012`]
 
 ...
 
@@ -51,6 +52,48 @@ code {
 
 == 33.
 
+=== Эгрегор или Душа Группы, 28 февраля 2021
+
+<https://aerostatbg.ru/release/824>
+
+.Grateful Dead – Candyman
+image:GRATEFUL DEAD/1970 - American Beauty/Folder.jpg[American Beauty,200,200,role="thumb left"]
+
+.King Crimson – In The Wake Of Poseidon
+image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
+
+[%hardbreaks]
+Franz Joseph Haydn – Symphony No. 14 in A: III. Menuetto & Trio, Allegretto
+Beatles – All Together Now
+Black Sabbath – Snowblind
+Gryphon – The Unquiet Grave
+Laraaji – Enthusiasm
+
+++++
+<br clear="both">
+++++
+
+=== Прогрессивный рок – 2021, 21 февраля 2021
+
+<https://aerostatbg.ru/release/823>
+
+.Gryphon – Rhubarb Crumhorn
+image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+
+[%hardbreaks]
+Jethro Tull – Mayhem Maybe
+Liquid Tension Experiment – The Passage of Time
+Wardruna – Skugge
+Teramaze – Lake 401
+Sukekiyo – Waizatsu
+Esthesis – No Soul To Sell
+Foi – Indigo Moon
+Big Big Train – Theodora In Green And Gold
+
+++++
+<br clear="both">
+++++
+
 === То Да Сё..., 14 февраля 2021
 
 <https://aerostatbg.ru/release/822>
@@ -58,13 +101,17 @@ code {
 .Pugwash - link:PUGWASH/2011%20-%20The%20Olympus%20Sound/lyrics/olympus.html#_be_my_friend_awhile[Be My Friend Awhile]
 image:PUGWASH/2011 - The Olympus Sound/cover.jpg[The Olympus Sound,200,200,role="thumb left"]
 
+.Roger Eno – The Last Day Of May
+image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
+
+.Djivan Gasparyan – Delacroix
+image:Djivan Gasparian/2008 - Penumbra/penumbra.jpg[Penumbra,200,200,role="thumb left"]
+
 [%hardbreaks]
 Buffalo Springfield – A Child's Claim To Fame
 Langhorne Slim – Mighty Soul
-Roger Eno – The Last Day Of May
 Bryan Ferry – Shakespeare's Sonnet 18
 Valravn – Kelling
-Djivan Gasparyan – Delacroix
 Monkees – Saturday's Child
 Jónsi feat. Elizabeth Fraser – Cannibal
 Johann Sebastian Bach – Suite No. 3 in D major: Air

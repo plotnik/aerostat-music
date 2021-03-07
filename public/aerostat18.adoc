@@ -5,6 +5,8 @@
 
 == 31 марта 2013 - 8 сентября 2013
 
+<http://old.aquarium.ru/misc/aerostat/index18.html>
+
 ++++
 <style>
 h2 {
@@ -123,6 +125,9 @@ Donovan – The Sun Is A Very Magic Fellow
 
 <http://old.aquarium.ru/misc/aerostat/aerostat429.html>
 
+.Leisure Society – Fight For Everyone 
+image:Leisure Society/Alone Aboard The Ark/folder.jpg[Alone Aboard The Ark,200,200,role="thumb left"]
+
 [%hardbreaks]
 Duckworth Lewis Method – It's Not Cricket
 Duckworth Lewis Method – The Umpire
@@ -132,7 +137,6 @@ John Grant – GMF
 Jagwar Ma – Uncertainty
 Cotton Mather – California
 Bell X1 – Drive By Summer
-Leisure Society – Fight For Everyone 
 
 ++++
 <br clear="both">
