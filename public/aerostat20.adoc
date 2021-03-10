@@ -443,10 +443,12 @@ Lester Young – On The Sunny Side Of The Street
 
 <http://old.aquarium.ru/misc/aerostat/aerostat467.html>
 
+.Steeleye Span – Weary Cutters
+image:STEELEYE SPAN/Steeleye Span - Commoners Crown/cover.jpg[Commoners Crown,200,200,role="thumb left"]
+
 [%hardbreaks]
 Barleyjuice – Fiddlers Green
 David Munroe/Early Music – Faerie Round
-Steeleye Span – Weary Cutters
 Martyn Bennett – The Magic Flute
 Hedningarna – Tappmarschen
 Joemy Wilson – The Ash Grove
@@ -464,16 +466,22 @@ Andy M. Stewart – Heart Of The Home
 
 <http://old.aquarium.ru/misc/aerostat/aerostat466.html>
 
+.REM. – Make It All Okay
+image:REM/REM - Around the Sun/cover.jpg[Around the Sun,200,200,role="thumb left"]
+
+.Donovan - link:DONOVAN/Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/lyrics/gift.html#_oh_gosh[Oh Gosh]
+image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
+
+.Paul McCartney – This One
+image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
+
 [%hardbreaks]
 Charpantier – Te Deum
-Donovan – Oh Gosh
-R.E.M. – Make It All Okay
 Paisible – Sonata In D. Allegro
 Radik Tyulush – Solchur Suurum
 David Bowie – Time
 John Martyn – Sweet Little Mystery
 J.S. Bach – Piano Concerto #2
-Paul McCartney – This One
 Weepies – All That Beauty 
 
 ++++
