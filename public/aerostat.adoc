@@ -59,16 +59,30 @@ code {
 .Donovan – Teas
 image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="thumb left"]
 
+.Gryphon – A Futuristic Auntyquarian
+image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+
+.Billy Connolly & Gerry Rafferty – Rick Rack
+image:Billy Connolly & Gerry Rafferty - Best Of The Humblebums/cover.jpg[Best Of The Humblebums,200,200,role="thumb left"]
+
+.Kinks – Afternoon Tea
+image:Kinks/1967 - Something Else/Folder.jpg[Something Else,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Ming Flute Ensemble – The Maidens Of The Tea Mountain
+image:Ming Flute Ensemble - 2009 - Chinese Flutes/cover.jpg[2009 - Chinese Flutes,200,200,role="thumb left"]
+
+.Leon Redbone – If You Knew How I Love You
+image:LEON REDBONE/2001 - Any Time/cover.jpg[Any Time,200,200,role="thumb left"]
+
 [%hardbreaks]
-Gryphon – A Futuristic Auntyquarian
-Ming Flute Ensemble – The Maidens Of The Tea Mountain
 Gus Teja – Unify
 Mills Brothers – Chinatown, My Chinatown
 Yamato Ensemble – Futatsu no Den-en-shi: No. 1
-Billy Connolly & Gerry Rafferty – Rick Rack
-Leon Redbone – If You Knew How I Love You
 Giuseppe Cambini – Wind Quintet No. 2 in D minor: II. Larghetto sostenuto ma con moto
-Kinks – Afternoon Tea
 Loudon Wainwright III – Where The Blue Of The Night (Meets The Gold Of The Day)
 
 ++++
