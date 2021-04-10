@@ -52,6 +52,25 @@ code {
 
 == 33.
 
+=== Новые Песни Апреля, 4 апреля 2021
+
+<https://aerostatbg.ru/release/829>
+
+[%hardbreaks]
+St. Vincent – Pay Your Way In Pain
+Stevie Wonder feat. Gary Clark Jr. – Where Is Our Love Song
+Gary Numan – Intruder
+Field Music – Orion From The Street
+Greta Van Fleet – Heat Above
+Peggy Seeger – The Invisible Woman
+Nick Cave & Warren Ellis – Albuquerque
+Edward II – Cordelia Brown
+Van Morrison – Only A Song
+    
+++++
+<br clear="both">
+++++
+
 === То Да Сё №13, 28 марта 2021
 
 <https://aerostatbg.ru/release/828>
@@ -59,11 +78,13 @@ code {
 .Tom Waits – Back In The Crowd
 image:TOM WAITS/2011 - Bad As Me/Folder.jpg[Bad As Me,200,200,role="thumb left"]
 
+.David Sylvian – Orpheus
+image:David Sylvian/1987 - Secrets Of The Beehive/Folder.jpg[Secrets Of The Beehive,200,200,role="thumb left"]
+
 [%hardbreaks]
 Joe Brown – Tickle My Heart
 Igorrr – Downgrade Desert
 Herman's Hermits – Mrs. Brown, You've Got a Lovely Daughter
-David Sylvian – Orpheus
 Al Bowlly & Roy Fox Band – Lullaby Of The Leaves
 Rita Lee – Lucy In The Sky With Diamonds
 Rolling Stones – Blinded By Love
