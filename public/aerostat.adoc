@@ -52,9 +52,34 @@ code {
 
 == 33.
 
+=== Бинг Кросби, 11 апреля 2021
+
+<https://aerostatbg.ru/release/829>
+
+[%hardbreaks]
+Bing Crosby – Embraceable You
+Bing Crosby – With Every Breath I Take
+Bing Crosby – Swinging On A Star
+Bing Crosby – Where The Blue Of The Night (Meets The Gold Of The Day)
+Bing Crosby – Be Careful, It's My Heart
+Bing Crosby – You Keep Coming Back Like A Song
+Bing Crosby – I've Got My Captain Working For Me Now
+Bing Crosby & Andrews Sisters – Don't Fence Me In
+Bing Crosby & Louis Armstrong And His Band – Rocky Mountain Moon
+Bing Crosby – White Christmas
+Bing Crosby & Grace Kelly – True Love
+Bing Crosby – I Whistle A Happy Tune
+    
+++++
+<br clear="both">
+++++
+
 === Новые Песни Апреля, 4 апреля 2021
 
 <https://aerostatbg.ru/release/829>
+
+.Nick Cave & Warren Ellis – Albuquerque
+image:NICK CAVE/2021 - Carnage/cover.jpg[Carnage,200,200,role="thumb left"]
 
 [%hardbreaks]
 St. Vincent – Pay Your Way In Pain
@@ -63,7 +88,6 @@ Gary Numan – Intruder
 Field Music – Orion From The Street
 Greta Van Fleet – Heat Above
 Peggy Seeger – The Invisible Woman
-Nick Cave & Warren Ellis – Albuquerque
 Edward II – Cordelia Brown
 Van Morrison – Only A Song
     
