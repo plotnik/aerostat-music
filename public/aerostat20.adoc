@@ -511,15 +511,19 @@ Stephen Malkmus & The Jicks – Lariat
 
 <http://old.aquarium.ru/misc/aerostat/aerostat464.html>
 
+Eels - link:EELS/Eels%20-%202014%20-%20The%20cautionary%20tales%20of%20Mark%20Oliver%20Everett%20-%20CD%201/lyrics/tales.html#_mistakes_of_my_youth[Mistakes Of My Youth]
+image:EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1/cover.jpg[2014 - The cautionary tales of Mark Oliver Everett - CD 1,200,200,role="thumb left"]
+
+.George Harrison – Just For Today
+image:GEORGE HARRISON/George Harrison - Cloud Nine/cover.jpg[Cloud Nine,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jackson Browne – Take It Easy
 Skrillex – All Is Fair In Love And Brostep
 Frank Zappa – Zombie Woof
 Johnny Winter – Rock Me Baby
-Eels – Mistakes Of My Youth
 Red Hot Chili Peppers – Funny Face
 БГ – Пришел Пить Воду
-George Harrison – Just For Today
 
 ++++
 <br clear="both">
@@ -529,14 +533,26 @@ George Harrison – Just For Today
 
 <http://old.aquarium.ru/misc/aerostat/aerostat463.html>
 
+.Paul Simon – Something So Right
+image:PAUL SIMON/1973 - There Goes Rhymin Simon/Folder.jpg[There Goes Rhymin Simon,200,200,role="thumb left"]
+
+.Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_you_took_my_breath_away[You Took My Breath Away]
+image:Traveling Wilburys - Volume 3/cover.jpg[Volume 3,200,200,role="thumb left"]
+
+.Cardigans – Beautiful One
+image:The Cardigans - Life/cover.jpg[Life,200,200,role="thumb left"]
+
+.Procol Harum – The Rum Tale
+image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Bryan Ferry – Sweet And Lovely
-Traveling Wilburys – You Took My Breath Away
-Cardigans – Beautiful One
 Elvis Presley – It's Now Or Never
 Rolling Stones – Parachute Woman
-Procol Harum – The Rum Tale
-Paul Simon – Something So Right
 John Renbourne – Bunyan's Hymn
 Magnetic Fields – Busby Berkeley Dreams
 Jeff Lynne – She
