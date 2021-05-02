@@ -549,6 +549,9 @@ image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,rol
 <br clear="both">
 ++++
 
+.Beatles – All My Loving
+image:THE BEATLES/Live at the BBC/cover.jpg[Live at the BBC,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bryan Ferry – Sweet And Lovely
 Elvis Presley – It's Now Or Never
@@ -556,7 +559,6 @@ Rolling Stones – Parachute Woman
 John Renbourne – Bunyan's Hymn
 Magnetic Fields – Busby Berkeley Dreams
 Jeff Lynne – She
-Beatles – All My Loving
 
 ++++
 <br clear="both">
@@ -615,12 +617,14 @@ image:VILLAGERS/Villagers/cover.jpg[Villagers,200,200,role="thumb left"]
 .Krishna Das – 4 Am Hanuman Chalisa
 image:Krishna Das - Kirtan Wallah/cover.jpg[Kirtan Wallah,200,200,role="thumb left"]
 
+.Get The Blessing – Viking Death Moped
+image:Get The Blessing - Lope and Antilope/Lope and Antilope.jpg[Lope and Antilope,200,200,role="thumb left"]
+
 [%hardbreaks]
 Penguin Cafe – Radio Bemba
 Snowbird – All Wishes Are Ghosts
 Catrin Finch/Seckou Keita – Bamba
 Сплин – Мысль
-Get The Blessing – Viking Death Moped
 Sheryl Crow – Easy
 
 ++++

@@ -61,9 +61,11 @@ Suzanne Vega - link:SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20
 .Simon & Garfunkel - link:SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html#_blues_run_the_game[Blues Runs The Game]
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Sounds of Silence/cover.jpg[Sounds of Silence,200,200,role="thumb left"]
 
+.Gerry Rafferty – Her Father Didn't Like Me Anyway
+image:Billy Connolly & Gerry Rafferty - Best Of The Humblebums/cover.jpg[Best Of The Humblebums,200,200,role="thumb left"]
+
 [%hardbreaks]
 Ralph McTell – Bright And Beautiful Thing
-Gerry Rafferty – Your Father Didn't Like
 Gerry Rafferty – Keep It To Yourself
 Ewan MacColl – Dirty Old Town
 Tom Paxton – The Last Thing On My Mind
