@@ -272,7 +272,7 @@ image:UB40 - Promises and Lies/folder.jpg[Promises and Lies,200,200,role="thumb 
 image:PAUL MCCARTNEY/The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
 
 .Mike Oldfield - Wonderful Land
-image:Mike Oldfield - Essential Collection - 2019/front.jpg[Essential Collection - 2019,200,200,role="thumb left"]
+image:Mike Oldfield/2019 - Essential Collection/front.jpg[Essential Collection,200,200,role="thumb left"]
 
 [%hardbreaks]
 Alap Desai - Dhooni Re Dhakhavi
