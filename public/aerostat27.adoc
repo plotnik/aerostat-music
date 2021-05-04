@@ -26,7 +26,7 @@ h3 {
 image:THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl/cover.jpg[I_ll Be Your Girl,200,200,role="thumb left"]
 
 .Low Anthem - Give My Body Back
-image:Low Anthem - The Salt Doll Went To Measure The Depth Of The Sea/cover.jpg[The Salt Doll Went To Measure The Depth Of The Sea,200,200,role="thumb left"]
+image:Low Anthem/The Salt Doll Went To Measure The Depth Of The Sea/cover.jpg[The Salt Doll Went To Measure The Depth Of The Sea,200,200,role="thumb left"]
 
 .Wailin’ Jennys - Old Churchyard
 image:Wailin Jennys - Fifteen/cover.jpg[Fifteen,200,200,role="thumb left"]
