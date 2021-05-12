@@ -52,18 +52,61 @@ code {
 
 == 33.
 
+=== Новые Песни Мая, 9 мая 2021
+
+<https://aerostatbg.ru/release/834>
+
+[%hardbreaks]
+Fratellis – Lay Your Body Down
+Tom Morello Feat. Serj Tankian & Gang of Four – Natural's Not in It
+Del Amitri – Close Your Eyes And Think of England
+Grasscut – Return Of The Sun
+Nils Frahm – Because This Must Be
+Chemical Brothers – Darkness That You Fear
+Denez Prigent – C’hwervoni
+Billie Eilish – Therefore I Am
+Pino Palladino & Blake Mills – Notes With Attachments
+The Who – Inside Outside
+Paul McCartney – When Winter Comes (Anderson .Paak Remix)
+    
+++++
+<br clear="both">
+++++
+
+=== Праздник Весны, 2 мая 2021
+
+<https://aerostatbg.ru/release/833>
+
+[%hardbreaks]
+Claude Debussy – Clair de Lune
+Gus Teja – Jepun Putih
+Electric Light Orchestra – Big Wheels
+Van Morrison – Beautiful Vision
+Hamish Napier – The Pioneer
+Silly Wizard – Hame, Hame, Hame / Tha Mi Sgìth
+Pauline Scanlon – The Old Churchyard
+Johann Sebastian Bach – Orchestral Suite No.1 in C major: 1.Ouverture
+
+++++
+<br clear="both">
+++++
+
 === То Да Сё №14, 25 апреля 2021
 
 <https://aerostatbg.ru/release/832>
+
+.Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_wynken_blynken_and_nod[Wynken, Blynken And Nod]
+image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
+
+.Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html#_american_tune[American Tune]
+image:PAUL SIMON/Paul Simon - Songwriter/cover.jpg[Songwriter,200,200,role="thumb left"]
 
 [%hardbreaks]
 Franz Schubert – Octet in F major, D. 803: II. Adagio
 Mick Jagger feat. Dave Grohl – Easy Sleazy
 Robert Harrison – Watching The Kid Come Back
-Donovan – Wynken, Blynken And Nod
 Frank Sinatra & Tommy Dorsey – Trade Winds
 Beatles – Not A Second Time
-Paul Simon – American Tune
 Robert Palmer – Keep In Touch
 Robert Fripp – Music For Quiet Moments 47 - Evocation
 Sparks – Reinforcements
