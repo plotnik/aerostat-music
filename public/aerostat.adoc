@@ -472,10 +472,14 @@ image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,20
 .Robert Fripp – Pastorale
 image:KING CRIMSON/2008 - Theo Travis and Robert Fripp - Thread/folder.jpg[Theo Travis and Robert Fripp - Thread,200,200,role="thumb left"]
 
+.Doors – Riders On The Storm
+image:Doors - LA Woman/front.png[LA Woman,200,200,role="thumb left"]
+
+.Who – Cousin Kevin
+image:The Who - Tommy/cover.jpg[Tommy,200,200,role="thumb left"]
+
 [%hardbreaks]
-Doors – Riders On The Storm
 Charles Aznavour – La bohème
-Who – Cousin Kevin
 
 ++++
 <br clear="both">
@@ -485,8 +489,10 @@ Who – Cousin Kevin
 
 <https://aerostatbg.ru/release/814>
 
+.Paul McCartney – Find My Way
+image:PAUL MCCARTNEY/2020 - McCartney III/cover.jpg[McCartney III,200,200,role="thumb left"]
+
 [%hardbreaks]
-Paul McCartney – Find My Way
 Paul McCartney – The Kiss Of Venus
 Paul McCartney – Lavatory Lil
 Paul McCartney – Women And Wives
