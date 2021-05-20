@@ -52,6 +52,42 @@ code {
 
 == 33.
 
+=== То да Сё: медитация, 16 мая 2021
+
+<https://aerostatbg.ru/release/835>
+
+.George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html#_looking_for_my_life[Looking For My Life]
+image:GEORGE HARRISON/George Harrison - Brainwashed/cover.jpg[Brainwashed,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_i_want_to_tell_you[I Want To Tell You]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
+.Pugwash – Poles Together
+image:PUGWASH/2005 - Jollity/cover.jpg[Jollity,200,200,role="thumb left"]
+
+.Planxty – Kellswater
+image:PLANXTY/1980 - The Woman I Loved So Well/cover.jpg[The Woman I Loved So Well,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Roger Eno – Silk
+image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
+
+.Loudon Wainwright III – My Blue Heaven
+image:Loudon Wainwright III/2020 - I_d Rather Lead A Band/cover.jpg[I_d Rather Lead A Band,200,200,role="thumb left"]
+
+[%hardbreaks]
+Stackridge – Percy The Penguin
+Marvin Gaye – Mercy, Mercy Me (The Ecology)
+Rakesh Chaurasia – Asatyo Mahethi
+Pink Floyd – If
+    
+++++
+<br clear="both">
+++++
+
 === Новые Песни Мая, 9 мая 2021
 
 <https://aerostatbg.ru/release/834>
