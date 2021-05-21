@@ -450,9 +450,13 @@ Calexico – Peace Of Mind
 
 <https://aerostatbg.ru/release/818>
 
+.Loudon Wainwright III – Heart And Soul
+image:Loudon Wainwright III/2020 - I_d Rather Lead A Band/cover.jpg[I_d Rather Lead A Band,200,200,role="thumb left"]
+
+.Loudon Wainwright III – Daughter
+image:Loudon Wainwright III/2007 - Strange Weirdos/cover.jpg[Strange Weirdos,200,200,role="thumb left"]
+
 [%hardbreaks]
-Loudon Wainwright III – Heart And Soul
-Loudon Wainwright III – Daughter
 Loudon Wainwright III – Depression Blues
 Loudon Wainwright III – You Can't Fail Me Now
 Loudon Wainwright III – I'll Be Killing You This Christmas
