@@ -97,6 +97,7 @@
 
 === L
 
+- link:./Leisure%20Society/2013%20-%20Alone%20Aboard%20The%20Ark/lyrics/ark.html[Leisure Society/2013 - Alone Aboard The Ark]
 - link:./Leisure%20Society/2015%20-%20The%20Fine%20Art%20of%20Hanging%20On/lyrics/fine_art.html[Leisure Society/2015 - The Fine Art of Hanging On]
 - link:./LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html[LEONARD COHEN/09-The Future (1992)]
 - link:./LEONARD%20COHEN/2004%20-%20Dear%20Heather/lyrics/heather.html[LEONARD COHEN/2004 - Dear Heather]
