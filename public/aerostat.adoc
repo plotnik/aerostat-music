@@ -56,12 +56,18 @@ code {
 
 <https://aerostatbg.ru/release/837>
 
+.Leonard Cohen – Darkness
+image:LEONARD COHEN/Leonard Cohen 2012 - Old Ideas/Old ideas Cover.jpg[Old Ideas,200,200,role="thumb left"]
+
+.Richard Thompson – Walking On A Wire
+image:RICHARD THOMPSON/1968_2009 - Walking on a Wire/cover.png[Walking on a Wire,200,200,role="thumb left"]
+
+.Jethro Tull – Silver River Turning
+image:JETHRO TULL/1993  Nightcap (Your Round) - Unrele/cover.jpg[Unrele,200,200,role="thumb left"]
+
 [%hardbreaks]
-Richard Thompson – Walking On A Wire
 Olivier Messiaen – Les Corps Glorieux: 6. Joie et clarté des Corps Glorieux
 El Lebrijano – Que Hermoso Pelo Tiene
-Leonard Cohen – Darkness
-Jethro Tull – Silver River Turning
 Rié Yanagisawa & Clive Bell – Esashi Oiwake
 Free – Rain (Alternative Version)
 Johnny Cash – I'm Free From The Chain Gang Now
