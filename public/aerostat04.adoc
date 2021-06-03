@@ -395,9 +395,11 @@ Jimi Hendrix - Burning Of The Midnight Lamp
 .Damien Rice - Grey Room
 image:DAMIEN RICE/Damien Rice - 9/616px-Ninealbumcover.jpg[9,200,200,role="thumb left"]
 
+.Sparklehorse - Don't Take My Sunshine Away
+image:Sparklehorse/2006 - Dreamt For Light Years In The Belly Of A Mountain/front.jpg[Dreamt For Light Years In The Belly Of A Mountain,200,200,role="thumb left"]
+
 [%hardbreaks]
 The Rosewood Thieves - Los Angeles
-Sparklehorse - Don't Take My Sunshine Away
 Beck - Cell Phone's Dead
 Sparklehorse - Knives Of Summertime
 The Fratellis - Vince The Loveable Stoner
