@@ -77,10 +77,12 @@ Paul McCartney – When Winter Comes (Anderson .Paak Remix)
 
 <https://aerostatbg.ru/release/833>
 
+.Electric Light Orchestra – Big Wheels
+image:Electric Light Orchestra/10_Out Of The Blue (1977)/cover.jpg[10_Out Of The Blue (1977),200,200,role="thumb left"]
+
 [%hardbreaks]
 Claude Debussy – Clair de Lune
 Gus Teja – Jepun Putih
-Electric Light Orchestra – Big Wheels
 Van Morrison – Beautiful Vision
 Hamish Napier – The Pioneer
 Silly Wizard – Hame, Hame, Hame / Tha Mi Sgìth
