@@ -242,12 +242,16 @@ image:CAT STEVENS/Catch Bull At Four/front.jpg[Catch Bull At Four,200,200,role="
 <br clear="both">
 ++++
 
+.Cat Stevens – Where Do The Children Play
+image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
+
+.5 Hand Reel – Ae Fond Kiss
+image:5 Hand Reel/For A That/cover.jpg[For A That,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tommy Sands – Road To Aughnacloy
 Frank Harte/Donal Lunny – Henry Joy
 Tim Buckley – Morning Glory
-5 Hand Reel – Ae Fond Kiss
-Cat Stevens – Where Do The Children Play
 
 ++++
 <br clear="both">
