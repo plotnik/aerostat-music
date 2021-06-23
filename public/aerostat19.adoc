@@ -235,10 +235,16 @@ image:TOM PETTY/Tom Petty - Echo/cover.jpg[Echo,200,200,role="thumb left"]
 .Tom Waits – Jersey Girl
 image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
 
+.Cat Stevens – Silent Sunlight
+image:CAT STEVENS/Catch Bull At Four/front.jpg[Catch Bull At Four,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Tommy Sands – Road To Aughnacloy
 Frank Harte/Donal Lunny – Henry Joy
-Cat Stevens – Silent Sunlight
 Tim Buckley – Morning Glory
 5 Hand Reel – Ae Fond Kiss
 Cat Stevens – Where Do The Children Play
