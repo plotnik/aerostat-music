@@ -264,11 +264,13 @@ Tim Buckley – Morning Glory
 .Archie Fisher - Joy Of My Heart
 image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
 
+.Kate Rusby - The Holly And The Ivy
+image:KATE RUSBY/2008 - Sweet Bells/cover.jpg[Sweet Bells,200,200,role="thumb left"]
+
 [%hardbreaks]
 5 Hand Reel - Freedom Come-All-Ye
 Beatles - I Want To Tell You
 Van Morrison - Brand New Day
-Kate Rusby - The Holly And The Ivy
 Beatles? - Now And Then
 Сплин - Мороз по коже
 Семеро Из Под Камней - Андромеда
