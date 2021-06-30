@@ -556,9 +556,13 @@ Beatles – I Will
 
 <http://old.aquarium.ru/misc/aerostat/aerostat436.html>
 
+.Del Amitri – Not Where It's At
+image:Del Amitri/1997 - Some Other Suckers Parade/Folder.jpg[Some Other Suckers Parade,200,200,role="thumb left"]
+
+.Del Amitri – Roll To Me
+image:Del Amitri/Hatful of Rain - The Best of Del Amitri/cover.jpg[The Best of Del Amitri,200,200,role="thumb left"]
+
 [%hardbreaks]
-Del Amitri – Not Where It's At
-Del Amitri – Roll To Me
 Del Amitri – Cry To Be Found
 Del Amitri – Some Other Sucker's Parade
 Del Amitri – Be My Downfall
@@ -579,12 +583,14 @@ Del Amitri – Won't Make It Better
 .Pixies – Andro Queen
 image:PIXIES/Indie Cindy/cover.png[Indie Cindy,200,200,role="thumb left"]
 
+.Pond – Giant Tortoise
+image:Pond - Hobo Rocket/cover.jpg[Hobo Rocket,200,200,role="thumb left"]
+
 [%hardbreaks]
 Justin Currie – Bend To My Will
 Mum – Toothwheels
 Caliphone – The Orchids
 Bob Dylan – Railroad Bill
-Pond – Giant Tortoise
 Polyphonic Spree – You're Golden
 Paul McCartney – New
 БГ – Губернатор
