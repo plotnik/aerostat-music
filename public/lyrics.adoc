@@ -53,6 +53,7 @@
 - link:./DONOVAN/links.html[DONOVAN]
 - link:./Doors%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html[Doors - Waiting For The Sun]
 - link:./Dubliners%20-%2020%20Original%20Greatest%20Hits/lyrics/dubliners.html[Dubliners - 20 Original Greatest Hits]
+- link:./Duckworth%20Lewis%20Method/2009%20-%20The%20Duckworth%20Lewis%20Method/lyrics/duckworth.html[Duckworth Lewis Method/2009 - The Duckworth Lewis Method]
 
 
 === E
@@ -174,7 +175,6 @@
 - link:./THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html[THE BEATLES/1966 - Revolver]
 - link:./THE%20BEATLES/1969b%20-%20Abbey%20Road/lyrics/abbey.html[THE BEATLES/1969b - Abbey Road]
 - link:./THE%20DECEMBERISTS/The%20Decemberists%20-%20I_ll%20Be%20Your%20Girl/lyrics/dec_girl.html[THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl]
-- link:./The%20Duckworth%20Lewis%20Method%202009/lyrics/duckworth.html[The Duckworth Lewis Method 2009]
 - link:./TOM%20PETTY/links.html[TOM PETTY]
 - link:./TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html[TOM PETTY/Tom Petty - Echo]
 - link:./TOM%20PETTY/Tom%20Petty%20-%20Highway%20Companion/lyrics/highway.html[TOM PETTY/Tom Petty - Highway Companion]

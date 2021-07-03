@@ -60,16 +60,32 @@ Keb Mo – Life Is Beautiful
 .Pugwash – It's Nice To Be Nice
 image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
 
+.Jethro Tull – Back To The Family
+image:JETHRO TULL/Jethro Tull - Stand Up/cover.jpg[Stand Up,200,200,role="thumb left"]
+
+.Cat Stevens – My Lady D'Arbanville
+image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,200,role="thumb left"]
+
+.Eels – In My Dreams
+image:EELS/2009 - Hombre Lobo - 12 Songs of Desire/Hombre Lobo.jpg[Hombre Lobo - 12 Songs of Desire,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Grateful Dead – Friend Of The Devil
+image:GRATEFUL DEAD/1970 - American Beauty/Folder.jpg[American Beauty,200,200,role="thumb left"]
+
+.Richard Thompson – How Can I Ever Be Simple Again
+image:RICHARD THOMPSON/Daring Adventures/cover.jpg[Daring Adventures,200,200,role="thumb left"]
+
+.Robert Wyatt – Free Will And Testament
+image:ROBERT WYATT/Shleep/cover.png[Shleep,200,200,role="thumb left"]
+
 [%hardbreaks]
 Аквариум – Расти Борода Расти
-Jethro Tull – Back To The Family
 William Elliot Whitmore – The Day The End Finally Came
 ZZ Top – Chartreuse
-Cat Stevens – My Lady D'Arbanville
-Eels – In My Dreams
-Grateful Dead – Friend Of The Devil
-Richard Thompson – How Can I Ever Be Simple Again
-Robert Wyatt – Free Will And Testament
 
 ++++
 <br clear="both">
@@ -79,8 +95,16 @@ Robert Wyatt – Free Will And Testament
 
 <http://old.aquarium.ru/misc/aerostat/aerostat431.html>
 
+.The Everly Brothers – All I Have To Do Is Dream
+image:Everly Brothers - The Best Of/Folder.jpg[The Best Of,200,200,role="thumb left"]
+
+.Robert Plant – Stick With Me Baby
+image:ROBERT PLANT/Robert Plant & Alison Krauss - Raising Sand/cover.png[Raising Sand,200,200,role="thumb left"]
+
+.Jeff Lynne – So Sad
+image:Electric Light Orchestra/2012 - Long Wave/cover.jpg[Long Wave,200,200,role="thumb left"]
+
 [%hardbreaks]
-The Everly Brothers – All I Have To Do Is Dream
 The Everly Brothers – So Sad (To Watch Good Love Go Bad)
 The Everly Brothers – Claudette
 The Everly Brothers – Bye Bye Love
@@ -91,8 +115,6 @@ The Everly Brothers – Let It Be Me
 The Everly Brothers – Stick With Me Baby
 The Everly Brothers – I Wonder If I Care As Much
 The Everly Brothers – On The Wings Of A Nightingale
-Jeff Lynne – So Sad
-Robert Plant – Stick With Me Baby
 The Everly Brothers – Like Strangers
 The Everly Brothers – Memories Are Made Of This
 
@@ -104,8 +126,13 @@ The Everly Brothers – Memories Are Made Of This
 
 <http://old.aquarium.ru/misc/aerostat/aerostat430.html>
 
+.Donovan – The Sun Is A Very Magic Fellow
+image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="thumb left"]
+
+.Beatles – Yes It Is
+image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles – Yes It Is
 Anna Guo – Pearls Dropping Into Jade Plate
 Amiina – Hilli
 Lei Qiang – The Hill Looks Like A Bottle
@@ -115,7 +142,6 @@ Esper Erikson Trio – Fall
 Albinoni – Concerto G Major. Allegro
 Ming Flute Ensemble – Maidens Of Tea Mou
 Hong Ting – The Hang Down Curtain
-Donovan – The Sun Is A Very Magic Fellow
 
 ++++
 <br clear="both">
@@ -125,11 +151,13 @@ Donovan – The Sun Is A Very Magic Fellow
 
 <http://old.aquarium.ru/misc/aerostat/aerostat429.html>
 
-.Leisure Society – Fight For Everyone 
-image:Leisure Society/Alone Aboard The Ark/folder.jpg[Alone Aboard The Ark,200,200,role="thumb left"]
+.Leisure Society - link:Leisure%20Society/2013%20-%20Alone%20Aboard%20The%20Ark/lyrics/ark.html#_fight_for_everyone[Fight For Everyone]
+image:Leisure Society/2013 - Alone Aboard The Ark/folder.jpg[Alone Aboard The Ark,200,200,role="thumb left"]
+
+.Duckworth Lewis Method – It's Not Cricket
+image:Duckworth Lewis Method/2013 - Sticky Wickets/cover.jpg[Sticky Wickets,200,200,role="thumb left"]
 
 [%hardbreaks]
-Duckworth Lewis Method – It's Not Cricket
 Duckworth Lewis Method – The Umpire
 Temples – Colours To Life
 Beck – I Won't Be Long
