@@ -132,6 +132,16 @@ image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="
 .Beatles – Yes It Is
 image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
 
+.Ming Flute Ensemble – Maidens Of Tea Mou
+image:Ming Flute Ensemble - 2009 - Chinese Flutes/cover.jpg[2009 - Chinese Flutes,200,200,role="thumb left"]
+
+.Albinoni – Concerto G Major. Allegro
+image:Albinoni/cover.jpg[Albinoni,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Anna Guo – Pearls Dropping Into Jade Plate
 Amiina – Hilli
@@ -139,8 +149,6 @@ Lei Qiang – The Hill Looks Like A Bottle
 Air – Venus
 Lei Qiang – Butterfly Lovers
 Esper Erikson Trio – Fall
-Albinoni – Concerto G Major. Allegro
-Ming Flute Ensemble – Maidens Of Tea Mou
 Hong Ting – The Hang Down Curtain
 
 ++++
@@ -157,13 +165,15 @@ image:Leisure Society/2013 - Alone Aboard The Ark/folder.jpg[Alone Aboard The Ar
 .Duckworth Lewis Method – It's Not Cricket
 image:Duckworth Lewis Method/2013 - Sticky Wickets/cover.jpg[Sticky Wickets,200,200,role="thumb left"]
 
+.Cotton Mather – California
+image:COTTON MATHER/2017 - Thrown from a horse/cover.jpg[Thrown from a horse,200,200,role="thumb left"]
+
 [%hardbreaks]
 Duckworth Lewis Method – The Umpire
 Temples – Colours To Life
 Beck – I Won't Be Long
 John Grant – GMF
 Jagwar Ma – Uncertainty
-Cotton Mather – California
 Bell X1 – Drive By Summer
 
 ++++
@@ -174,6 +184,9 @@ Bell X1 – Drive By Summer
 
 <http://old.aquarium.ru/misc/aerostat/aerostat428.html>
 
+.Tom Waits – Til The Money Runs Out
+image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
+
 [%hardbreaks]
 ABBA – Money Money Money
 Elvis Presley – Money Honey
@@ -181,7 +194,6 @@ Beatles – You Never Give Me Your Money
 Mills Brothers – Money In My Pockets
 Who – Man With The Money
 Nine Horses – Money For All
-Tom Waits – Til The Money Runs Out
 Rolling Stones – Luxury
 Fratellis – Milk And Money
 Glenn Miller – I Haven't Got Time To Be Millionaire

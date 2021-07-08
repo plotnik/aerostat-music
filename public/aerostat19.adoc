@@ -468,8 +468,10 @@ image:PAUL MCCARTNEY/2013 - New (deluxe edition)/cover.jpg[New (deluxe edition),
 .Cotton Mather – Animal Show
 image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
 
+.Fratellis – We Need Medicine
+image:Fratellis/2013 - We Need Medicine/cover.png[We Need Medicine,200,200,role="thumb left"]
+
 [%hardbreaks]
-Fratellis – We Need Medicine
 Peter Gabriel & S. Merritt – Not One Of Us
 Kelley Stoltz – Marcy
 Gary Numan – I Am Dust

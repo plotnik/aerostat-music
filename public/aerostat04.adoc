@@ -398,11 +398,13 @@ image:DAMIEN RICE/Damien Rice - 9/616px-Ninealbumcover.jpg[9,200,200,role="thumb
 .Sparklehorse - Don't Take My Sunshine Away
 image:Sparklehorse/2006 - Dreamt For Light Years In The Belly Of A Mountain/front.jpg[Dreamt For Light Years In The Belly Of A Mountain,200,200,role="thumb left"]
 
+.The Fratellis - Vince The Loveable Stoner
+image:Fratellis/2006 - Costello Music/cover.jpg[Costello Music,200,200,role="thumb left"]
+
 [%hardbreaks]
 The Rosewood Thieves - Los Angeles
 Beck - Cell Phone's Dead
 Sparklehorse - Knives Of Summertime
-The Fratellis - Vince The Loveable Stoner
 Sting - Come Again
 Simon & Garfunkel - Feuiiles-O
 The Fratellis - Whistle For The Choir

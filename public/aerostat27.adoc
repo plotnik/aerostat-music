@@ -244,8 +244,10 @@ image:Jonny Greenwood 2018 - Phantom Thread OST/cover.jpg[Phantom Thread OST,200
 .Roger Eno - Riddle
 image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
 
+.Fratellis - Stand Up Tragedy
+image:Fratellis/2018 - In Your Own Sweet Time/cover.png[In Your Own Sweet Time,200,200,role="thumb left"]
+
 [%hardbreaks]
-Fratellis - Stand Up Tragedy
 Grant-Lee Phillips - Totally You Gunslinger
 Johnny Dowd - Twinkle, Twinkle, Little Star
 Stick In The Wheel - Over Again

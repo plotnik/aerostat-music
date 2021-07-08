@@ -607,8 +607,10 @@ Incredible String Band - Lover Man
 .Keith Richards - link:KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html#_trouble[Trouble]
 image:KEITH RICHARDS/Crosseyed Heart/cover.png[Crosseyed Heart,200,200,role="thumb left"]
 
+.Fratellis - Dogtown
+image:Fratellis/2015 - Eyes Wide Tongue Tied/Cover.jpg[Eyes Wide Tongue Tied,200,200,role="thumb left"]
+
 [%hardbreaks]
-Fratellis - Dogtown
 Asian Dub Foundation - Signal And Noise
 Richard Hawley - Which Way
 Chvrches - Leave A Trace
