@@ -187,6 +187,9 @@ Bell X1 – Drive By Summer
 .Tom Waits – Til The Money Runs Out
 image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
 
+.Fratellis – Milk And Money
+image:Fratellis/2008 - Here We Stand/front.png[Here We Stand,200,200,role="thumb left"]
+
 [%hardbreaks]
 ABBA – Money Money Money
 Elvis Presley – Money Honey
@@ -195,7 +198,6 @@ Mills Brothers – Money In My Pockets
 Who – Man With The Money
 Nine Horses – Money For All
 Rolling Stones – Luxury
-Fratellis – Milk And Money
 Glenn Miller – I Haven't Got Time To Be Millionaire
 David Bowie – The Man Who Sold The World
 
