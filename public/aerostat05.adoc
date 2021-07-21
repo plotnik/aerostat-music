@@ -69,10 +69,12 @@ image:SIMON & GARFUNKEL/Simon & Garfunkel - Bookends/Bookends.jpg[Bookends,200,2
 .Bruce Springsteen - Thunder Road
 image:Bruce Springsteen/1975 - Born to Run/cover.jpg[Born to Run,200,200,role="thumb left"]
 
+.Glenn Miller - On a Little Street In Singapore
+image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
+
 [%hardbreaks]
 Frank Zappa - Concentration Moon
 Byrds - Lay Down Your Weary Tune
-Glenn Miller - On a Little Street In Singapore
 Little Richard - Bala Lama Bama Loo
 Elvis Presley - Anyway You Want Me
 James Brown - I Feel Good
@@ -522,6 +524,9 @@ Byrds - Get To You
 
 <http://old.aquarium.ru/misc/aerostat/aerostat120.html>
 
+.Glenn Miller - Careless
+image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gallows - In The Belly Of A Shark
 Tori Amos - Bouncing Off Clouds
@@ -529,7 +534,6 @@ Bell X1 - I'll See Your Heart
 Matthew Dear - Fleece On Brain
 Mum - Moon Pulls
 The Stands - Back To You
-Glenn Miller - Careless
 Madness - Shame & Scandal
 Page & Plant - When The World Was Young
 Paul McCartney - Too Much Rain 

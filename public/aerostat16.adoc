@@ -310,6 +310,9 @@ George Shearing - It Could Happen To You
 
 <http://old.aquarium.ru/misc/aerostat/aerostat371.html>
 
+.Glenn Miller - Indian Summer
+image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
+
 [%hardbreaks]
 Beach Boys - California Girls
 Beach Boys - You Still Believe In Me
@@ -318,7 +321,6 @@ Elvis Presley - Summer Kisses Winter Tears
 Bob Dylan - Summer Days
 Jethro Tull - Summerday Sands
 Hermans Hermits - Sunshine Girl
-Glenn Miller - Indian Summer
 Bruce Springsteen - Girls In Their Summer
 Battlefield Band - Happy Days
 Beach Boys - I Get Around

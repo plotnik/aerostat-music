@@ -283,13 +283,15 @@ Simon & Garfunkel - Flowers Never Bend
 
 <http://old.aquarium.ru/misc/aerostat/aerostat60.html>
 
+.Glenn Miller - Melancholy Baby
+image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
+
 [%hardbreaks]
 George Shearing - Making Whoopee
 Charlie Parker - Bird Gets The Worm
 Miles Davis - Nuit Sur Les Champ-Elysees (take 2)
 Art Blakey - Moanin'
 Louis Armstrong - It Don't Mean A Thing
-Glenn Miller - Melancholy Baby
 John Coltrane - My Favourite Things
 Thelonius Monk - Monk's Dream
 Donovan - The Observation

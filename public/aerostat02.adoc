@@ -487,9 +487,11 @@ Bob Marley - Three Little Birds
 
 <http://old.aquarium.ru/misc/aerostat/aerostat30.html>
 
+.Glenn Miller - When You Wish Upon A Star
+image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
+
 [%hardbreaks]
 Beatles - Honey Pie
-Glenn Miller - When You Wish Upon A Star
 Glenn Miller - My Melancholy Baby
 Al Bowlly - Love Is The Sweetest Thing
 Marlene Dietrich - Falling In Love Again
