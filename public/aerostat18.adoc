@@ -244,12 +244,24 @@ image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="t
 .Leonard Cohen – Sisters Of Mercy
 image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
 
+.Kinks – Too Much On My Mind
+image:Kinks/1966 - Face to Face/cover.jpg[Face to Face,200,200,role="thumb left"]
+
+.Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html#_ren%C3%A9_and_georgette_magritte_with_their_dog_after_the_war[Rene And Georgette Magritte With Their Dog After the War]
+image:PAUL SIMON/Paul Simon - Songwriter/cover.jpg[Songwriter,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tommy Sands – Misty Mourne Shore
+image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200,role="thumb left"]
+
+.George Harrison – Gone Troppo
+image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
+
 [%hardbreaks]
-Kinks – Too Much On My Mind
 Penguin Cafe Orchestra – Music For Found
-Paul Simon – Rene And Georgette Magritte With Their Dog After the War
-Tommy Sands – Misty Mourne Shore
-George Harrison – Gone Troppo
 Ustad Shujaat Khan – Ranjha
 Johnny Marvin – Happy Days Are Here Again 
 
