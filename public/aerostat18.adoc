@@ -260,8 +260,10 @@ image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200
 .George Harrison – Gone Troppo
 image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
 
+.Penguin Cafe Orchestra – Music For Found
+image:Penguin Cafe Orchestra/1996 - Preludes Airs and Yodels/cover.png[Preludes Airs and Yodels,200,200,role="thumb left"]
+
 [%hardbreaks]
-Penguin Cafe Orchestra – Music For Found
 Ustad Shujaat Khan – Ranjha
 Johnny Marvin – Happy Days Are Here Again 
 

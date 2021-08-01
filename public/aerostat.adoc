@@ -53,12 +53,41 @@ code {
 
 == 34.
 
+=== Событие Чёрный Лебедь, 25 июля 2021
+
+<https://aerostatbg.ru/release/845>
+
+.Pugwash – Anyone Who Asks
+image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
+
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_blowin_in_the_wind[Blowing In The Wind]
+image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_she_said_she_said[She Said, She Said]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
+[%hardbreaks]
+Tally Hall – Hidden In The Sand
+Dobet Gnahoré – Telo de
+Tally Hall – Ruler Of Everything
+Kraftwerk – It's More Fun To Compute
+Rolling Stones – Ride On Baby
+Irish Rovers – No Nay Never
+Ustad Nishat Khan & Ensemble Gilles Binchois – Introit - Statuit ei Dominus
+Byrds – My Back Pages
+    
+++++
+<br clear="both">
+++++
+
 === Дживан Гаспарян, 18 июля 2021
 
 <https://aerostatbg.ru/release/844>
 
+.Дживан Гаспарян – Menag Jamport Em
+image:Djivan Gasparian/1999 - Heavenly Duduk/folder.jpg[Heavenly Duduk,200,200,role="thumb left"]
+
 [%hardbreaks]
-Дживан Гаспарян – Menag Jamport Em
 Дживан Гаспарян – Lovely Spring
 Дживан Гаспарян – Pepo’s Song
 Дживан Гаспарян – Fallen Star
@@ -81,6 +110,9 @@ image:CROWDED HOUSE/2021 - Dreamers Are Waiting/cover.png[Dreamers Are Waiting,2
 .King Gizzard & The Lizard Wizard – Shanghai
 image:KING GIZZARD & THE LIZARD WIZARD/2021 - Butterfly 3000/cover.jpg[Butterfly 3000,200,200,role="thumb left"]
 
+.Easy Life – Ocean View
+image:Easy Life - Lifes A Beach/cover.jpg[Lifes A Beach,200,200,role="thumb left"]
+
 [%hardbreaks]
 UB40 feat. Inner Circle – Rebel Love
 Duran Duran – Invisible
@@ -88,7 +120,6 @@ Arooj Aftab – Inayaat
 Roger Chapman – Dark Side Of The Stairs
 John Grant – Billy
 Tom Petty & The Heartbreakers – One Of Life's Little Mysteries
-Easy Life – Ocean View
 
 ++++
 <br clear="both">
