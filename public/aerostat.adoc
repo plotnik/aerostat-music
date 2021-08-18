@@ -53,9 +53,32 @@ code {
 
 == 34.
 
+=== Flyte, 15 августа 2021
+
+<https://aerostatbg.ru/release/848>
+
+.Flyte – Losing You
+image:Flyte/2021 - This Is Really Going To Hurt/cover.jpg[This Is Really Going To Hurt,200,200,role="thumb left"]
+
+[%hardbreaks]
+Flyte – Easy Tiger
+Flyte – Never Get To Heaven
+Flyte – Mistress America
+Flyte – Love Is An Accident
+Flyte – Spiral
+Flyte – Trying To Break Your Heart
+Flyte – I've Got A Girl
+Flyte – Everyone's A Winner
+Flyte – Under The Skin
+Flyte – Little White Lies
+    
+++++
+<br clear="both">
+++++
+
 === Новые песни августа, 8 августа 2021
 
-<https://aerostatbg.ru/release/846>
+<https://aerostatbg.ru/release/847>
 
 .Black Keys – Louise
 image:Black Keys - Delta Kream/cover.png[Delta Kream,200,200,role="thumb left"]
