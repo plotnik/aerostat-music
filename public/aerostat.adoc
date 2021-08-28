@@ -49,9 +49,27 @@ code {
 </style>
 ++++
 
-<<<
 
 == 34.
+
+=== Дети, 22 августа 2021
+
+<https://aerostatbg.ru/release/849>
+
+[%hardbreaks]
+Inhaler – It Won't Always Be Like This
+Harper Simon – Berkeley Girl
+Damian Marley – R.O.A.R.
+Claypool Lennon Delirium – Blood And Rockets
+James McCartney – Butterfly
+Adam Cohen – We Go Home
+Norah Jones – A Song With No Name
+Jakob Dylan – Something Good This Way Comes
+Ky-Mani Marley – All The Way
+        
+++++
+<br clear="both">
+++++
 
 === Flyte, 15 августа 2021
 
