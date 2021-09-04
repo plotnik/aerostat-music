@@ -311,12 +311,14 @@ Stevie Wonder – He's A Misstra Know It All
 
 <http://old.aquarium.ru/misc/aerostat/aerostat423.html>
 
+.Daft Punk – Instant Crush
+image:Daft Punk/Random Access Memories/front.jpg[Random Access Memories,200,200,role="thumb left"]
+
 [%hardbreaks]
 Queens Of Stone Age – I Sat By The Ocean
 Cocorosie – After The Afterlife
 Sigur Ros – Hrafntinna
 Active Child – Hanging On
-Daft Punk – Instant Crush
 Zorge – Тайна
 Shpongle – Brain In A Fishtank
 
