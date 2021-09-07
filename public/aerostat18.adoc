@@ -275,8 +275,10 @@ Johnny Marvin – Happy Days Are Here Again
 
 <http://old.aquarium.ru/misc/aerostat/aerostat425.html>
 
+.Procol Harum – Pandora's Box
+image:PROCOL HARUM/1975 - Procols Ninth/cover.jpg[Procols Ninth,200,200,role="thumb left"]
+
 [%hardbreaks]
-Procol Harum – Pandora's Box
 Messiaen – La Nativite. VI.Les Anges
 Cotton Mather – I'll Be Gone
 Moody Blues – Candle Of Life
@@ -314,10 +316,12 @@ Stevie Wonder – He's A Misstra Know It All
 .Daft Punk – Instant Crush
 image:Daft Punk/Random Access Memories/front.jpg[Random Access Memories,200,200,role="thumb left"]
 
+.Sigur Ros – Hrafntinna
+image:SIGUR ROS/2013 - Kveikur/folder.jpg[Kveikur,200,200,role="thumb left"]
+
 [%hardbreaks]
 Queens Of Stone Age – I Sat By The Ocean
 Cocorosie – After The Afterlife
-Sigur Ros – Hrafntinna
 Active Child – Hanging On
 Zorge – Тайна
 Shpongle – Brain In A Fishtank
@@ -330,8 +334,10 @@ Shpongle – Brain In A Fishtank
 
 <http://old.aquarium.ru/misc/aerostat/aerostat422.html>
 
+.Robert Palmer – Some Guys Have All The Luck
+image:Robert Palmer/2013 - Icon/cover.jpg[Icon,200,200,role="thumb left"]
+
 [%hardbreaks]
-Robert Palmer – Some Guys Have All The Luck
 Robert Palmer – What's It Take
 Robert Palmer – I Dream Of Wires
 Robert Palmer – Not A Second Time

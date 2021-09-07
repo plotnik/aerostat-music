@@ -199,7 +199,7 @@ image:THE BEATLES/The Beatles - White Album CD 1/cover.jpg[White Album CD 1,200,
 ++++
 
 .Robert Palmer - You Blow Me Away
-image:Robert Palmer 1994 - Honey/cover.jpg[Honey,200,200,role="thumb left"]
+image:Robert Palmer/1994 - Honey/cover.jpg[Honey,200,200,role="thumb left"]
 
 [%hardbreaks]
 Robert Palmer - Spellbound

@@ -52,6 +52,26 @@ code {
 
 == 34.
 
+=== Новые Песни Сентября, 5 сентября 2021
+
+<https://aerostatbg.ru/release/851>
+
+[%hardbreaks]
+Fanfárový orchestr Hradní stráže – Johann Christoph Pezel: Intrada II
+Robert Plant & Alison Krauss – Can't Let Go
+Specials – Everybody Knows
+Gorillaz feat. AJ Tracey – Jimmy Jimmy
+Jimmy Cliff – Human Touch
+Big Red Machine feat Taylor Swift – Renegade
+Сплин – Я был влюблён в Вас
+Bug feat. Irah – Demon
+Nathan Salsburg – Psalm 147
+Nick Brodeur & Ky-Mani Marley – She's So Crazy
+
+++++
+<br clear="both">
+++++
+
 === Философы, 29 августа 2021
 
 <https://aerostatbg.ru/release/850>
@@ -88,6 +108,9 @@ Pomerium – Timor et tremor
 
 <https://aerostatbg.ru/release/849>
 
+.Norah Jones – A Song With No Name
+image:Norah Jones/2019 - Begin Again/cover.jpg[Begin Again,200,200,role="thumb left"]
+
 [%hardbreaks]
 Inhaler – It Won't Always Be Like This
 Harper Simon – Berkeley Girl
@@ -95,7 +118,6 @@ Damian Marley – R.O.A.R.
 Claypool Lennon Delirium – Blood And Rockets
 James McCartney – Butterfly
 Adam Cohen – We Go Home
-Norah Jones – A Song With No Name
 Jakob Dylan – Something Good This Way Comes
 Ky-Mani Marley – All The Way
         
