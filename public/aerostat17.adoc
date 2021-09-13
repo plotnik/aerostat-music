@@ -104,9 +104,11 @@ Beatles - Got To Get You Into My Life
 
 <http://old.aquarium.ru/misc/aerostat/aerostat406.html>
 
+.Chet Baker - Stella By Starlight
+image:Chet Baker/1995 - The Best Of Chet Baker Plays/0221.jpg[The Best Of Chet Baker Plays,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chet Baker - I Can't Get Started
-Chet Baker - Stella By Starlight
 Chet Baker - Aren't You Glad You're You
 Chet Baker - Sweet Lorraine
 Chet Baker - On Green Dolphin Street
@@ -144,12 +146,18 @@ Foxygen - San Francisco
 
 <http://old.aquarium.ru/misc/aerostat/aerostat404.html>
 
+.Alt-J - Breezeblocks
+image:Alt-J - The Best/cover.jpg[J - The Best,200,200,role="thumb left"]
+
+.Grizzly Bear - Gun-Shy
+image:Grizzly Bear - Shields/cover.jpg[Shields,200,200,role="thumb left"]
+
+.Jack White - Love Interruption
+image:Jack White - Blunderbuss/cover.jpg[Blunderbuss,200,200,role="thumb left"]
+
 [%hardbreaks]
 O.Children - Death Disco Dancer
-Alt-J - Breezeblocks
 Skrillex/Damien Marley - Make It Bum Dem
-Grizzly Bear - Gun-Shy
-Jack White - Love Interruption
 Die Antwoord - Hey Sexy
 Bats For Lashes - All Your Gold
 Marc Lanegan Band - Leviathan

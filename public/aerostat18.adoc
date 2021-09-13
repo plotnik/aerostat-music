@@ -357,6 +357,9 @@ Robert Palmer – I'll Be Your Baby Tonight
 
 <http://old.aquarium.ru/misc/aerostat/aerostat421.html>
 
+.Milk Carton Kids – The Ash And Clay 
+image:MILK CARTON KIDS/2013 - The Ash And Clay/cover.jpg[The Ash And Clay,200,200,role="thumb left"]
+
 [%hardbreaks]
 Temples – Shelter Song
 Foals – Olympic Airways
@@ -365,7 +368,6 @@ Thomas Feiner & Anywhen – Siren Songs
 Jacco Gardner – The Ballad Of Little Jane
 Anouar Brahem – Stopover At Djibouti
 Kit Downes Trio – Golden
-Milk Carton Kids – The Ash And Clay 
 
 ++++
 <br clear="both">
