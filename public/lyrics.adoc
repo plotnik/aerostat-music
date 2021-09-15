@@ -194,3 +194,8 @@
 
 - link:./Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html[Velvet Undeground/Velvet Underground - The Best of the Velvet Underground]
 - link:./VILLAGERS/Villagers%20-%20The%20Art%20of%20Pretending%20to%20Swim/lyrics/swim.html[VILLAGERS/Villagers - The Art of Pretending to Swim]
+
+
+=== Щ
+
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Балаган%202/lyrics/balagan2.html[ЩЕРБАКОВ МИХАИЛ/Балаган 2]
