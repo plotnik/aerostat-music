@@ -509,7 +509,7 @@ image:LEONARD COHEN/2014 - Popular Problems/cover.jpg[Popular Problems,200,200,r
 image:ANNIE LENNOX/Annie Lennox - Nostalgia 2014/cover.jpg[Nostalgia 2014,200,200,role="thumb left"]
 
 .U2 – Iris
-image:U2 - Songs Of Innocence/folder.jpg[Songs Of Innocence,200,200,role="thumb left"]
+image:U2/2014 - Songs Of Innocence/folder.jpg[Songs Of Innocence,200,200,role="thumb left"]
 
 [%hardbreaks]
 Courteneers – White Horses

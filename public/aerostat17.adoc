@@ -171,6 +171,9 @@ Of Monsters And Men - Mountain Sound
 
 <http://old.aquarium.ru/misc/aerostat/aerostat403.html>
 
+.U2 - New Year's Day
+image:U2/18 Singles/18 Singles.jpg[18 Singles,200,200,role="thumb left"]
+
 [%hardbreaks]
 Handel - Water Music D - #2 Allegro
 Carly Simon - You're So Vain
@@ -180,7 +183,6 @@ J.S.Bach - Capricchio "On The Departure"
 Кино - Весна
 Eminem - The Real Slim Shady
 Soul Asylum - Runaway Train
-U2 - New Year's Day
 Herman's Hermits - Years May Come, Years 
 
 ++++

@@ -133,13 +133,11 @@
 		</exec>
     </target>
 	
-	<target name="bb"
-	        description="Backup to Toshiba">
-        <copy todir="/media/egor/TOSHIBA EXT/music">
+	<target name="backup"
+	        description="Backup to movable disk">
+        <copy todir="/media/egor/DIRECTOR/music">
             <fileset dir=".">
-                 
-            </fileset>
-            
+            </fileset>            
         </copy>
     </target>
     	

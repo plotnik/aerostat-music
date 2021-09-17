@@ -578,14 +578,24 @@ image:SPARKS/Sparks 2017 - Hippopotamus/cover.jpg[Hippopotamus,200,200,role="thu
 .Pugwash - The Perfect Summer
 image:PUGWASH/2017 - Silverlake/Cover.jpg[Silverlake,200,200,role="thumb left"]
 
+.U2 - You’re The Best Thing About Me
+image:U2/2017 - Songs of Experience/Folder.jpg[Songs of Experience,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++	
+
 [%hardbreaks]
 Mary Epworth - Me Swimming
-U2 - You’re The Best Thing About Me
 Chris Hillman - Here She Comes Again
 Marilyn Manson - We Know Where You Fucking Live
 Van Morrison - Transformation
 Neil Finn - Widow’s Peak
 Аквариум - Не трать время
+
+++++
+<br clear="both">
+++++	
 
 === Коммуникация, 1 октября 2017
 
