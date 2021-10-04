@@ -1,8 +1,9 @@
 <project name="Music" default="gg" basedir=".">
 	
-	<!--property name="dest" value="/media/egor/UUI/aerostat"/-->
+	<property name="destNetlify" value="../Netlify/aerostat-music/public"/>
+
 	<property name="destHeroku" value="../Документы/heroku/owl-stories/public/music"/>
-	<property name="destNetlify" value="../Документы/netlify/aerostat-music/public"/>
+	
 	<property name="cowonHome" value="../prog/cowon"/>
 
 
@@ -100,19 +101,21 @@
 		</exec>
     </target>
 
-    <target name="gg" depends="aerostat"
-          description="Push changes to Netlify git">
+    <target name="gg" 
+            depends="aerostat"
+            description="Push changes to Netlify git">
+            
         <echo message="Push changes to Netlify git"/>
-		<exec executable="git" 
-		      dir="../Документы/netlify/aerostat-music/">
+        <exec executable="git" 
+		      dir="${destNetlify}">
 		  <arg line="add ."/>
 		</exec>
 		<exec executable="git" 
-		      dir="../Документы/netlify/aerostat-music/">
+		      dir="${destNetlify}">
 		  <arg line="commit -m aerostat"/>
 		</exec>
 		<exec executable="git" 
-		      dir="../Документы/netlify/aerostat-music/">
+		      dir="${destNetlify}">
 		  <arg line="push origin master"/>
 		</exec>
     </target>
