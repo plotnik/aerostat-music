@@ -215,8 +215,10 @@ Dropkick Murphys - The Season's Upon Us
 
 <http://old.aquarium.ru/misc/aerostat/aerostat401.html>
 
+.T-Rex - Organ Blues
+image:T-REX/T-Rex - A Beard Of Stars/cover.jpg[Rex - A Beard Of Stars,200,200,role="thumb left"]
+
 [%hardbreaks]
-T.Rex - Organ Blues
 T.Rex - Blessed Wild Apple Girl
 T.Rex - Fist Heart Mighty Dawn Dart
 T.Rex - By The Light Of The Magical Moon
@@ -238,18 +240,24 @@ T.Rex - Lofty Skies
 
 <http://old.aquarium.ru/misc/aerostat/aerostat400.html>
 
+.Jethro Tull - Singing All Day
+image:JETHRO TULL/1972  Living In The Past/cover.jpg[1972  Living In The Past,200,200,role="thumb left"]
+
+.REM. - link:REM/REM%20-%20Document/lyrics/document.html#_strange[Strange]
+image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
+
+.Cocteau Twins - Fifty-Fifty Clown
+image:Cocteau Twins/Cocteau Twins - Mourning Star/cover.jpg[Mourning Star,200,200,role="thumb left"]
+
 [%hardbreaks]
-Jethro Tull - Singing All Day
 Arthur Brown - Spontaneous Apple Creation
 Майк - Пригородный блюз
 Incredible String Band - Waltz Of A New Moon
 Moulouji - Mon Pot' Le Gitane
-R.E.M. - Strange
 Family - Burlesque
 Mr. Untel - Manouche Dream
 Django Reinhardt - Minor Swing
 Richard Thompson - Sweetheart On The Barricade
-Cocteau Twins - Fifty-Fifty Clown
 
 ++++
 <br clear="both">
@@ -259,10 +267,14 @@ Cocteau Twins - Fifty-Fifty Clown
 
 <http://old.aquarium.ru/misc/aerostat/aerostat399.html>
 
+.Tommy Sands - Misty Mourne Shore
+image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200,role="thumb left"]
+
+.Bob Dylan - link:BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html#_when_the_deal_goes_down[When The Deal Goes Down]
+image:BOB DYLAN/2006 - Modern Times/cover.jpg[Modern Times,200,200,role="thumb left"]
+
 [%hardbreaks]
 Eels - Royal Pain
-Tommy Sands - Misty Mourne Shore
-Bob Dylan - When The Deal Goes Down
 Sinead O'Connor - No Man's Woman
 Famous Cantonese Music - Clouds Chasing Moo
 Byrds - Satisfied Mind
