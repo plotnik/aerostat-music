@@ -23,8 +23,10 @@ h3 {
 
 <http://old.aquarium.ru/misc/aerostat/aerostat410.html>
 
+.The Mamas & The Papas - Sing For Your Supper
+image:THE MAMAS AND THE PAPAS/The Mamas & The Papas - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
+
 [%hardbreaks]
-The Mamas & The Papas - Sing For Your Supper
 The Mamas & The Papas - California Dreamin'
 The Mamas & The Papas - Dedicated To The One I Love
 The Mamas & The Papas - Twist And Shout
@@ -64,8 +66,10 @@ Family - Children
 
 <http://old.aquarium.ru/misc/aerostat/aerostat408.html>
 
+.Tom Waits - Chicago
+image:TOM WAITS/2011 - Bad As Me/Folder.jpg[Bad As Me,200,200,role="thumb left"]
+
 [%hardbreaks]
-Tom Waits - Chicago
 Tom Waits - Pay Me
 Tom Waits - Hell Broke Luce
 Tom Waits - New Year's Eve
@@ -378,8 +382,10 @@ Mary Hopkin - How Come The Sun
 
 <http://old.aquarium.ru/misc/aerostat/aerostat394.html>
 
+.Beatles - Magical Mystery Tour
+image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles - Magical Mystery Tour
 Beatles - Fool On The Hill
 Beatles - Flying
 Beatles - Blue Jay Way
@@ -484,6 +490,9 @@ J.S.Bach - Ach, Was Soll Ich Sonder
 
 <http://old.aquarium.ru/misc/aerostat/aerostat389.html>
 
+.Planxty - Planxty Irwin
+image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chieftains - Planxty George Brabazon
 Orla Fallon - Eleanor Plunkett
@@ -496,7 +505,6 @@ Derek Bell - Carolan's Receipt
 Rob Brereton - Bridget Cruis
 Joemy Wilson - Hewlett
 Mirian Keogh - John O'Connor
-Planxty - Planxty Irwin
 
 ++++
 <br clear="both">
