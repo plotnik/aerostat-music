@@ -592,8 +592,10 @@ Beatles - She Said She Said
 
 <http://old.aquarium.ru/misc/aerostat/aerostat594.html>
 
+.Gene Clark - Fair And Tender Ladies
+image:Gene Clark - So Rebellious A Lover/cover.jpg[So Rebellious A Lover,200,200,role="thumb left"]
+
 [%hardbreaks]
-Gene Clark - Fair And Tender Ladies
 Byrds - 8 Miles High
 Byrds - Here Without You
 Gene Clark - One In A Hundred
