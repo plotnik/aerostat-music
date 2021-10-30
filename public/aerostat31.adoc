@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXXI
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 27 октября 2019 - 26 апреля 2020
 
@@ -636,20 +638,7 @@ Gilbert Becaud - Natalie
 Rakesh Chaurasia - Mane To Manavi Lejo
 Supergrass - Alright
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 

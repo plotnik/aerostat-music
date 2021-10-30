@@ -1,6 +1,10 @@
 = Радио Аэростат. Глава XXX
 :toc: left
 
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
+
 ++++
 <style>
 h2 {
@@ -11,8 +15,6 @@ h3 {
 }
 </style>
 ++++
-
-> link:aerostat.html[Главная страница]
 
 == 28 апреля 2019 - 20 октября 2019
 
@@ -588,3 +590,7 @@ Flook - Ellie Goes West
 Flook - The Bunting Fund/Ocean Child
 Flook - The Crystal Year/Foxes’ Rock
 Flook - Turquoise Girl/The Tree Climber/Twelve Weeks And A Day/Rounding Malin Head
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

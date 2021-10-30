@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXVII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 10 сентября 2017 - 1 апреля 2018
 
@@ -695,3 +697,7 @@ Mogwai - aka 47
 LCD Soundsystem - American Dream
 Nick Heyward - The Stars
 National - The System Only Dreams In Total Darkness
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

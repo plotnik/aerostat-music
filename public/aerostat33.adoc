@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXXIII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 8 ноября 2020 - 16 мая 2021
 
@@ -663,3 +665,6 @@ Gratien Midonet – Ven en lévé
 Аквариум – Камчатка
 Loudon Wainwright III – How I Love You (I'm Tellin' the Birds, Tellin' the Bees)
     
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XVIII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 31 марта 2013 - 8 сентября 2013
 
@@ -577,3 +579,7 @@ Lord Huron – Time To Run
 Аквариум – Хавай Меня Хавай
 Karl Bartos – Atomium
 Cody Canada/The Departed – Cold Hard Fact
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

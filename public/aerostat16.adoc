@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XVI
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 29 апреля 2012 - 7 октября 2012
 
@@ -481,3 +483,7 @@ Battlefield Band - Mo Ghleannan Taobh
 Kan - Coriolis
 Jim Reid - Wild Geese
 Breabach - Lochaber No More
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

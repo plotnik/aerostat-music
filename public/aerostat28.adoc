@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXVIII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 8 апреля 2018 - 7 октября 2018
 
@@ -637,4 +639,7 @@ Beatles - Norwegian Wood (This Bird Has Flown)
 Beatles - Taxman
 Beatles - Ticket To Ride
 
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 

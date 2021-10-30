@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXVI
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 5 марта 2017 - 3 сентября 2017
 
@@ -667,3 +669,7 @@ Kohachiro Miyata - Honshirabe
 R. Carlos Nakai - Inward Journey
 Paul Horn - Mumtaz Mahal
 Hariprasad Chaurasia & Shivkumar Sharma - Love (Alap)
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

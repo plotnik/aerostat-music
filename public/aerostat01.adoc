@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава I
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 22 мая 2005 - 30 октября 2005
 
@@ -422,7 +424,7 @@ The Who - I Can't Reach You
 <http://old.aquarium.ru/misc/aerostat/aerostat09.html>
 
 .Krishna Das - Hara Hara Mahadev
-image:Krishna Das - The Greatest Hits of the Kali Yuga/cover.jpg[The Greatest Hits of the Kali Yuga,200,200,role="thumb left"]
+image:KRISHNA DAS/The Greatest Hits of the Kali Yuga/cover.jpg[The Greatest Hits of the Kali Yuga,200,200,role="thumb left"]
 
 .Juluka - Wasa Friday
 image:Juluka - Ubuhle Bemvelo/cover.png[Ubuhle Bemvelo,200,200,role="thumb left"]
@@ -665,4 +667,6 @@ Eric Burdon & The Animals - Orange & Red Beams
 Family - Drowned In Wine
 Peter & Gordon - Lady Godiva
 
-
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

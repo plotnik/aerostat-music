@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXIV
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 28 февраля 2016 - 21 августа 2016
 
@@ -589,3 +591,7 @@ Queen - Bohemian Rhapsody
 Queen - Love Of My Life
 Queen - Another One Bites The Dust
 Queen - These Are The Days Of Our Lives
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

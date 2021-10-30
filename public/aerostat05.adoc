@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава V
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 25 марта 2007 - 9 сентября 2007
 
@@ -585,3 +587,7 @@ Jimi Hendrix Experience - Fire
 Jimi Hendrix Experience - Third Stone From The Sun
 Jimi Hendrix Experience - Foxey Lady
 Jimi Hendrix Experience - Are You Experienced? 
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава III
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 23 апреля 2006 - 1 октября 2006
 
@@ -587,3 +589,7 @@ Shooglenifty - Bjorks's Chauffeur
 Minders - Light
 Nobukazu Takemura - Croon
 Magnetic Fields - I Don't Believe You
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 1 марта 2015 - 23 августа 2015
 
@@ -604,3 +606,7 @@ Harold Budd/Brian Eno – A Stream With Bright Fish
 Dennis Brown – Money In My Pocket
 Aluminum Group – Two Bit Faux Construction Song
 Wings – Walking In The Park With Elois
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

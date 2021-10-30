@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXIII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 30 августа 2015 - 21 февраля 2016
 
@@ -640,3 +642,6 @@ Red Hot Chili Peppers - Love Of Your Life
 Sandy Denny - Until The Real Thing Come
 Rolling Stones - Something Happened To Me Yesterday
 
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

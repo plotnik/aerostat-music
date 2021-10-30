@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXIX
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 14 октября 2018 - 21 апреля 2019
 
@@ -626,3 +628,7 @@ Gilbert O’Sullivan - Alone Again (Naturally)
 Peter Сase - On The Way Downtown
 Paul McCartney - Do It Now
 Tom Petty - Keeping Me Alive
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

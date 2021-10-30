@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XX
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 2 марта 2014 - 24 августа 2014
 
@@ -615,7 +617,7 @@ J.S.Bach – Concerto In A Maj For Oboe
 image:VILLAGERS/Villagers/cover.jpg[Villagers,200,200,role="thumb left"]
 
 .Krishna Das – 4 Am Hanuman Chalisa
-image:Krishna Das - Kirtan Wallah/cover.jpg[Kirtan Wallah,200,200,role="thumb left"]
+image:KRISHNA DAS/Kirtan Wallah/cover.jpg[Kirtan Wallah,200,200,role="thumb left"]
 
 .Get The Blessing – Viking Death Moped
 image:Get The Blessing - Lope and Antilope/Lope and Antilope.jpg[Lope and Antilope,200,200,role="thumb left"]
@@ -646,3 +648,7 @@ Lou Reed – How Do You Think It Feels?
 Lou Reed – Dirty Blvd
 Lou Reed – Caroline Says
 Lou Reed – Goodnight Ladies
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXI
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 31 августа 2014 - 22 февраля 2015
 
@@ -648,3 +650,6 @@ Coope, Boyes & Sipson – Now Is The Cool Of The Day
 Cake – Palm Of Your Hand
 Rolling Stones – Love In Vain
 
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

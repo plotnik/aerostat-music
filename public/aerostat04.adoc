@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава IV
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 8 октября 2006 - 18 марта 2007
 
@@ -553,3 +555,6 @@ Gene Vincent - Be Bop A Lula
 John Lennon - Stand By Me
 Sam Cooke - Unchained
 
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XIX
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 15 сентября 2013 - 23 февраля 2014
 
@@ -599,3 +601,7 @@ Polyphonic Spree – You're Golden
 Paul McCartney – New
 БГ – Губернатор
 Justin Currie – Priscilla 
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

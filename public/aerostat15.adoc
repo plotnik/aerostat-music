@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XV
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 13 ноября 2011 - 29 апреля 2012
 
@@ -518,3 +520,11 @@ Dave Van Ronk - Duncan And Brady
 Brad Mehldau - When It Rains
 Cream - What A Bringdown
 Richard Thompson - Miss Patsy
+
+++++
+<br clear="both">
+++++
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

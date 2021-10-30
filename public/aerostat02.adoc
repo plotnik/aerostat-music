@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава II
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 6 ноября 2005 - 16 апреля 2006
 
@@ -628,4 +630,6 @@ George Harrison - Singing Om
 David Bowie - African Night Flight
 Tyrannosaurus Rex - Wind Quartets
 
-
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXXII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 3 мая 2020 - 1 ноября 2020
 
@@ -671,3 +673,8 @@ Steve Earle & The Dukes – John Henry Was A Steel Drivin' Man
 Airborne Toxic Event – Come On Out
 Richard Thompson – Light Bob's Lassie
 Jimmy Buffett – Down At The La Dee Dah
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
+

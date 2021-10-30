@@ -1,7 +1,7 @@
 = Lyrics
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>] link:toc.html[<Contents>]
 
 
 
@@ -199,3 +199,6 @@
 === Щ
 
 - link:./ЩЕРБАКОВ%20МИХАИЛ/Балаган%202/lyrics/balagan2.html[ЩЕРБАКОВ МИХАИЛ/Балаган 2]
+
+> link:aerostat.html[<Home>] link:toc.html[<Contents>]
+

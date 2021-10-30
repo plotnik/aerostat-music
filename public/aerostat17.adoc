@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XVII
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 14 октября 2012 - 24 марта 2013
 
@@ -545,3 +547,7 @@ Jeff Lynne - At Last
 Jeff Lynne - Love Is A Many Splendored Thing
 Jeff Lynne - If I Loved You
 Jeff Lynne - She
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]

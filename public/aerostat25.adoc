@@ -1,7 +1,9 @@
 = Радио Аэростат. Глава XXV
 :toc: left
 
-> link:aerostat.html[Главная страница]
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
 
 == 28 августа 2016 - 26 февраля 2017
 
@@ -714,3 +716,7 @@ Small Faces - Song Of A Baker
 Small Faces - Happiness Stan
 Small Faces - Green Circles
 Small Faces - Afterglow Of Your Love
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
