@@ -66,6 +66,7 @@
 === F
 
 - link:./FAIRPORT%20CONVENTION/Fairport%20Convention-Full%20House-1970/lyrics/full_house.html[FAIRPORT CONVENTION/Fairport Convention-Full House-1970]
+- link:./FAIRPORT%20CONVENTION/Fairport%20Convention-What%20We%20Did%20On%20Our%20Holidays-1969/lyrics/holidays.html[FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969]
 
 
 === G
