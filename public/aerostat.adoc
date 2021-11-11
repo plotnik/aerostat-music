@@ -21,7 +21,27 @@ code {
 
 == 34.
 
-=== Соуэн 2021, 21 октября 2021
+=== Новые Песни Ноября, 7 ноября 2021
+
+<https://aerostatbg.ru/release/860>
+
+[%hardbreaks]
+Guided By Voices – My (Limited) Engagement
+Ed Sheeran – Shivers
+Tori Amos – Speaking With Trees
+Ólafur Arnalds – The Invisible Front
+Infected Mushroom – Leftovers
+Sturgill Simpson feat. Willie Nelson – Juanita
+Lonely Guest feat. Paul Smith – Christmas Trees
+Offspring – Behind Your Walls
+Thumbscrew – Heartdrop
+Bryan Adams – So Happy It Hurts
+
+++++
+<br clear="both">
+++++
+
+=== Соуэн 2021, 31 октября 2021
 
 <https://aerostatbg.ru/release/859>
 
@@ -155,11 +175,17 @@ image:ROBERT PLANT/2014 - Lullaby and the ceaseless roar/cover.jpg[Lullaby and t
 .Krishna Das – The Goddess Suite: Mother Song
 image:KRISHNA DAS/1998 - Pilgrim Heart/cover.jpg[Pilgrim Heart,200,200,role="thumb left"]
 
+.Sinéad O'Connor - link:SINEAD%20OCONNOR/Faith%20And%20Courage/lyrics/faith.html#__til_i_whisper_u_something['Til I Whisper U Someting]
+image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Byrds – Have You Seen Her Face
 Anne Briggs – The Recruited Collier
 Melanie – Peace Will Come (According To Plan)
-Sinéad O'Connor – 'Til I Whisper U Someting
 Robert Palmer – You're My Thrill
 Cocteau Twins – Primitive Heart
 
