@@ -21,6 +21,26 @@ code {
 
 == 34.
 
+=== Антонио Карлос Жобим, 14 ноября 2021
+
+<https://aerostatbg.ru/release/861>
+
+[%hardbreaks]
+Stan Getz & João Gilberto feat. Antônio Carlos Jobim – Só danço samba
+Antônio Carlos Jobim – Samba de uma nota só
+Stan Getz & João Gilberto feat. Antônio Carlos Jobim – Desafinado
+Stan Getz & João Gilberto feat. Antônio Carlos Jobim – Corcovado
+Antônio Carlos Jobim – Chega de saudade
+Astrud Gilberto – Garota de Ipanema
+Herbie Mann – Amor em paz
+Astrud Gilberto – Meditation
+Stan Getz & João Gilberto feat. Antônio Carlos Jobim – Para machucar meu coração
+Antônio Carlos Jobim – Insensatez
+
+++++
+<br clear="both">
+++++
+    
 === Новые Песни Ноября, 7 ноября 2021
 
 <https://aerostatbg.ru/release/860>
@@ -96,6 +116,9 @@ Atoms For Peace – Ingenue
 
 <https://aerostatbg.ru/release/857>
 
+.Robert Plant & Alison Krauss – High And Lonesome
+image:ROBERT PLANT/Robert Plant & Alison Krauss - 2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz)/Cover.jpg[2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz),200,200,role="thumb left"]
+
 [%hardbreaks]
 Black Dice – Bad Bet
 Little Simz feat. Obongjayar – Point And Kill
@@ -106,7 +129,6 @@ Sam Gendel – Alto Voices
 Glass Animals – Heat Waves
 Speedway – S.O.F.
 Hovvdy – Around Again
-Robert Plant & Alison Krauss – High And Lonesome
 
 ++++
 <br clear="both">
@@ -182,10 +204,12 @@ image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role=
 <br clear="both">
 ++++
 
+.Melanie – Peace Will Come (According To Plan)
+image:Melanie/2020 - What have they done to my song/cover.png[What have they done to my song,200,200,role="thumb left"]
+
 [%hardbreaks]
 Byrds – Have You Seen Her Face
 Anne Briggs – The Recruited Collier
-Melanie – Peace Will Come (According To Plan)
 Robert Palmer – You're My Thrill
 Cocteau Twins – Primitive Heart
 
