@@ -21,6 +21,29 @@ code {
 
 == 34.
 
+=== Истории Друга Горацио, 21 ноября 2021
+
+<https://aerostatbg.ru/release/862>
+
+.Beatles – Don't Pass Me By
+image:THE BEATLES/The Beatles - White Album CD 1/cover.jpg[White Album CD 1,200,200,role="thumb left"]
+
+.Radiohead – Follow Me Around
+image:RADIOHEAD/Kid A Mnesia/cover.jpg[Kid A Mnesia,200,200,role="thumb left"]
+
+[%hardbreaks]
+Solas – I Wandered By A Brookside
+Rolling Stones – It's A Lie
+Phil Lynott – Dear Miss Lonely Hearts
+Bryan Ferry – He'll Have To Go
+Ed Sheeran – The Joker And The Queen
+Imarhan – Achinkad
+Aly Bain & Phil Cunningham – Loch Katrine's Lady
+    
+++++
+<br clear="both">
+++++
+
 === Антонио Карлос Жобим, 14 ноября 2021
 
 <https://aerostatbg.ru/release/861>
