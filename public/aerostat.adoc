@@ -21,6 +21,63 @@ code {
 
 == 34.
 
+=== 8 Наблюдений, 12 декабря 2021
+
+<https://aerostatbg.ru/release/865>
+
+.Doors – Crawling King Snake
+image:Doors - LA Woman/front.png[LA Woman,200,200,role="thumb left"]
+
+.Beatles – Julia
+image:THE BEATLES/The Beatles - White Album CD 1/cover.jpg[White Album CD 1,200,200,role="thumb left"]
+
+.George Harrison – Wake Up My Love
+image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
+
+.Simon & Garfunkel - link:SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html#_the_59th_street_bridge_song_feelin_groovy[The 59th Street Bridge (Feelin' Groovy)]
+image:SIMON & GARFUNKEL/Simon & Garfunkel - Parsley, Sage, Rosemary and Thyme/cover.jpg[Parsley  Sage  Rosemary and Thyme,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Elliott Smith – Easy Way Out
+image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
+
+[%hardbreaks]
+Donovan – Legend Of A Young Girl Child Linda
+Primal Scream – Country Girl
+Nobukazu Takemura – Lost Treasure (4th Version)
+Michael Chapman – Naked Ladies And Electric Ragtime
+Moody Blues – Are You Sitting Comfortable?
+
+++++
+<br clear="both">
+++++
+
+=== New December Songs, 5 декабря 2021
+
+<https://aerostatbg.ru/release/864>
+
+.Jonsi – Obsidian
+image:Jonsi - Obsidian/cover.jpg[Obsidian,200,200,role="thumb left"]
+
+.Taylor Swift feat. Phoebe Bridgers – Nothing New
+image:Taylor Swift - Red/cover.jpg[Red,200,200,role="thumb left"]
+
+[%hardbreaks]
+Deerhoof – Be Unbarred, O Ye Gates Of Hell
+Jethro Tull – Shoshana Sleeping
+Monoswezi – Hwiri Hwiri Hwiri
+Spiers & Boden – Bluey Brink
+Houeida Hedfi feat. Planningtorock – Namami Gange
+Arca – Lost Woman Found
+Brian Eno & Roger Eno – Wanting To Belie (Oh Holy Night)
+
+++++
+<br clear="both">
+++++
+        
 === Birthday Songs, 28 ноября 2021
 
 <https://aerostatbg.ru/release/863>
@@ -28,13 +85,23 @@ code {
 .Silly Wizard – Wi' My Dog And Gun
 image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
 
+.Joni Mitchell – California
+image:JONI MITCHELL/1971 - Blue/Folder.jpg[Blue,200,200,role="thumb left"]
+
+.Brian Eno – By This River
+image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Science,200,200,role="thumb left"]
+
+.Led Zeppelin – Since I've Been Loving You
+image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Donovan – Grace
 Peter Gabriel – Indigo
 T. Rex – Rock On
-Brian Eno – By This River
-Joni Mitchell – California
-Led Zeppelin – Since I've Been Loving You
 Beatles – I'll Be Back
 Johann Sebastian Bach – French Suite No. 5 in G major: II. Courante
 Family – My Friend The Sun

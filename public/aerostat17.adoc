@@ -161,11 +161,17 @@ image:Grizzly Bear - Shields/cover.jpg[Shields,200,200,role="thumb left"]
 .Jack White - Love Interruption
 image:Jack White - Blunderbuss/cover.jpg[Blunderbuss,200,200,role="thumb left"]
 
+.Bats For Lashes - All Your Gold
+image:Bat for Lashes - Haunted Man/cover.png[Haunted Man,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 O.Children - Death Disco Dancer
 Skrillex/Damien Marley - Make It Bum Dem
 Die Antwoord - Hey Sexy
-Bats For Lashes - All Your Gold
 Marc Lanegan Band - Leviathan
 Of Monsters And Men - Mountain Sound
 
@@ -469,6 +475,12 @@ The Smiths - The Light That Never Goes Out
 
 <http://old.aquarium.ru/misc/aerostat/aerostat390.html>
 
+.Procol Harum - Repent Walpurgis
+image:PROCOL HARUM/04-Procol Harum-Conquistador (1991)/cover.jpg[Procol Harum-Conquistador (1991),200,200,role="thumb left"]
+
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_positively_4th_street[link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_positively_4th_street[Positively 4th Street]]
+image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sweelinck - Malle Sijmen
 J.S. Bach - 2. Allemande
@@ -479,8 +491,6 @@ J.S.Bach - Little Fugue In G Min
 Dupre - Jesus Est Condamne A Mort
 Calliope Music - In The Good Old Summer Time
 Jimmy Smith - The Cat
-Bob Dylan - Positively 4th Street
-Procol Harum - Repent Valpurgis
 Hemanta Kumar - Mone Ki Dwidha
 J.S.Bach - Ach, Was Soll Ich Sonder 
 
@@ -534,8 +544,10 @@ Slade - Look At Last Nite
 
 <http://old.aquarium.ru/misc/aerostat/aerostat387.html>
 
+.Jeff Lynne - So Sad
+image:Electric Light Orchestra/2012 - Long Wave/cover.jpg[Long Wave,200,200,role="thumb left"]
+
 [%hardbreaks]
-Jeff Lynne - So Sad
 Jeff Lynne - Don't Let Go
 Jeff Lynne - Stormy Weather
 Jeff Lynne - Mercy Mercy
