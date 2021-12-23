@@ -261,6 +261,16 @@ image:REM/REM - Document/cover.jpg[Document,200,200,role="thumb left"]
 .Cocteau Twins - Fifty-Fifty Clown
 image:Cocteau Twins/Cocteau Twins - Mourning Star/cover.jpg[Mourning Star,200,200,role="thumb left"]
 
+.Richard Thompson - Sweetheart On The Barricade
+image:RICHARD THOMPSON/1997 - Industry/folder.jpg[Industry,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Django Reinhardt - Minor Swing
+image:Django Reinhardt - Best Recordings/Folder.jpg[Best Recordings,200,200,role="thumb left"]
+
 [%hardbreaks]
 Arthur Brown - Spontaneous Apple Creation
 Майк - Пригородный блюз
@@ -268,8 +278,6 @@ Incredible String Band - Waltz Of A New Moon
 Moulouji - Mon Pot' Le Gitane
 Family - Burlesque
 Mr. Untel - Manouche Dream
-Django Reinhardt - Minor Swing
-Richard Thompson - Sweetheart On The Barricade
 
 ++++
 <br clear="both">
