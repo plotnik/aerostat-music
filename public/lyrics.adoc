@@ -146,6 +146,7 @@
 - link:./RICHARD%20THOMPSON/2018%20-%2013%20Rivers/lyrics/13_rivers.html[RICHARD THOMPSON/2018 - 13 Rivers]
 - link:./RICHARD%20THOMPSON/Richard%20Thompson%20-%20Still/lyrics/still.html[RICHARD THOMPSON/Richard Thompson - Still]
 - link:./ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html[ROBERT PLANT/2017 - Carry Fire]
+- link:./ROBERT%20PLANT/Robert%20Plant%20&%20Alison%20Krauss%20-%202021%20-%20Raise%20The%20Roof%20(Deluxe%20Edition)%20(24bit-96kHz)/lyrics/roof.html[ROBERT PLANT/Robert Plant & Alison Krauss - 2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz)]
 - link:./ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html[ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)]
 
 
