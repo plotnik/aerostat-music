@@ -357,8 +357,8 @@ Andy Williams - Can't Get Used To Losing You
 
 <http://old.aquarium.ru/misc/aerostat/aerostat572.html>
 
-.Christy Moore - link:Christy%20Moore%20-%20Ordinary%20Man/lyrics/ordinary.html#_st_brendan_s_voyage[St. Brendan’s Voyage]
-image:Christy Moore - Ordinary Man/cover.jpg[Ordinary Man,200,200,role="thumb left"]
+.Christy Moore - link:CHRISTY%20MOORE/1985%20-%20Ordinary%20Man/lyrics/ordinary.html#_st_brendan_s_voyage[St. Brendan’s Voyage]
+image:CHRISTY MOORE/1985 - Ordinary Man/cover.jpg[Ordinary Man,200,200,role="thumb left"]
 
 .Donovan - Lord Of The Dance
 image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]

@@ -222,7 +222,7 @@ Elliott Smith - Stupidity Tries
 <https://aerostatica.ru/2018/01/28/663-imbolc/>
 
 .Christy Moore - The Voyage
-image:Christy Moore - Voyage/cover.jpg[Voyage,200,200,role="thumb left"]
+image:CHRISTY MOORE/1989 - Voyage/cover.jpg[Voyage,200,200,role="thumb left"]
 
 .Richard Thompson – Beeswing
 image:RICHARD THOMPSON/1994 - Mirror Blue/cover.jpg[Mirror Blue,200,200,role="thumb left"]
