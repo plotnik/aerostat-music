@@ -255,11 +255,13 @@ Ustad Shujaat Khan - Samarpan
 
 <http://old.aquarium.ru/misc/aerostat/aerostat374.html>
 
+.Imagined Village - Washing Song
+image:The Imagined Village/2012 - Bending the Dark/cover.jpg[Bending the Dark,200,200,role="thumb left"]
+
 [%hardbreaks]
 Dirty Projectors - Gun Has No Trigger
 Edward Sharpe & M-Zeros - Home
 Dexys - You
-Imagined Village - Washing Song
 Richard Hawley - She Brings The Sun
 Smashing Pumpkins - The Celestials
 Jimmy Cliff - One More
