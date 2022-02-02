@@ -30,7 +30,7 @@
 
 === C
 
-- link:./Christy%20Moore%20-%20Ordinary%20Man/lyrics/ordinary.html[Christy Moore - Ordinary Man]
+- link:./CHRISTY%20MOORE/1985%20-%20Ordinary%20Man/lyrics/ordinary.html[CHRISTY MOORE/1985 - Ordinary Man]
 - link:./COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html[COTTON MATHER/Cotton Mather - Kon Tiki]
 - link:./COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html[COTTON MATHER/Cotton Mather 2016 - Death of the Cool]
 - link:./COTTON%20MATHER/links.html[COTTON MATHER]
@@ -108,6 +108,7 @@
 - link:./LEONARD%20COHEN/2014%20-%20Popular%20Problems/lyrics/popular.html[LEONARD COHEN/2014 - Popular Problems]
 - link:./LEONARD%20COHEN/Cant%20Forget%20-%20A%20Souvenir%20of%20the%20Grand%20Tour/lyrics/souvenir.html[LEONARD COHEN/Cant Forget - A Souvenir of the Grand Tour]
 - link:./LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html[LEONARD COHEN/Leonard Cohen - Ten New Songs]
+- link:./LEONARD%20COHEN/Leonard%20Cohen%202012%20-%20Old%20Ideas/lyrics/old.html[LEONARD COHEN/Leonard Cohen 2012 - Old Ideas]
 
 
 === M

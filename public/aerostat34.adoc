@@ -94,11 +94,17 @@ image:STEELEYE SPAN/Steeleye Span - Parcel Of Rogues/cover.jpg[Parcel Of Rogues,
 .Planxty – The Well Below The Valley
 image:PLANXTY/Planxty 1973 - The Well Below The Valley/cover.jpg[The Well Below The Valley,200,200,role="thumb left"]
 
+.Eliza Carthy & Norma Waterson – Bunch Of Thyme
+image:Norma Waterson Eliza Carthy/2010 - Gift/front.jpg[Gift,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Derek Bell – Rúisg, A Bhean Na Tabhairne / Carolan's Ramble To Cashel
 Enter The Haggis – One Last Drink
 Beoga – Hello Again
-Eliza Carthy & Norma Waterson – Bunch Of Thyme
 Phil Cunningham & Manus Lunny – When The Snow Melts
 Battlefield Band – The Banks Of Red Roses
 

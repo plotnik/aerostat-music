@@ -124,15 +124,23 @@ image:DEAD CAN DANCE/2014 - Twilight Kingdom/Front.jpg[Twilight Kingdom,200,200,
 .Christy Moore – Greenland
 image:CHRISTY MOORE/2021 - Flying Into Mystery/cover.jpg[Flying Into Mystery,200,200,role="thumb left"]
 
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%202012%20-%20Old%20Ideas/lyrics/old.html#_lullaby[Lullaby]
+image:LEONARD COHEN/Leonard Cohen 2012 - Old Ideas/Old ideas Cover.jpg[Old Ideas,200,200,role="thumb left"]
+
+.Richard Thompson & Danny Thompson – Lotteryland
+image:RICHARD THOMPSON/1968_2009 - Walking on a Wire/cover.png[Walking on a Wire,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Louis Armstrong – All Of Me
 Jack Bruce – Folk Song
 Lonnie Johnson – Blue Ghost Blues
 Andy M. Stewart – The Echo Mocks The Corncake
 Archie Fisher – Bogie's Bonny Belle
-Richard Thompson & Danny Thompson – Lotteryland
 Jacco Gardner – Lullaby
-Leonard Cohen – Lullaby
 Fanfare Orchestra Of The Castle Guard – Michael Praetorius: Moderato
     
 ++++
@@ -263,11 +271,15 @@ image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
 <br clear="both">
 ++++
 
+.Beatles – I'll Be Back
+image:THE BEATLES/1964a - A Hard Days Night/cover.jpg[A Hard Days Night,200,200,role="thumb left"]
+
+.T-Rex – Rock On
+image:T-REX/T-Rex - The Slider/cover.jpg[Rex - The Slider,200,200,role="thumb left"]
+
 [%hardbreaks]
 Donovan – Grace
 Peter Gabriel – Indigo
-T. Rex – Rock On
-Beatles – I'll Be Back
 Johann Sebastian Bach – French Suite No. 5 in G major: II. Courante
 Family – My Friend The Sun
 

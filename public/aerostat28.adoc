@@ -334,7 +334,7 @@ Talking Heads - Seen And Not Seen
 image:BUDDY GUY/Buddy Guy - The Blues Is Alive And Well/cover.jpg[The Blues Is Alive And Well,200,200,role="thumb left"]
 
 .Norma Waterson & Eliza Carthy - The Wild Colonial Boy
-image:Norma Waterson Eliza Carthy 2018 - Anchor/cover.jpg[Anchor,200,200,role="thumb left"]
+image:Norma Waterson Eliza Carthy/2018 - Anchor/cover.jpg[Anchor,200,200,role="thumb left"]
 
 .Paul McCartney - Сome On To Me
 image:PAUL MCCARTNEY/2018 - Egypt Station/cover.jpg[Egypt Station,200,200,role="thumb left"]
