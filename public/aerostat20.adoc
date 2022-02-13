@@ -545,7 +545,7 @@ image:Traveling Wilburys - Volume 3/cover.jpg[Volume 3,200,200,role="thumb left"
 image:The Cardigans - Life/cover.jpg[Life,200,200,role="thumb left"]
 
 .Procol Harum – The Rum Tale
-image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+image:PROCOL HARUM/1973 - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

@@ -204,10 +204,15 @@ image:Yes/2021 - The Quest/cover.jpg[The Quest,200,200,role="thumb left"]
 .Richard Thompson – Tinker's Rhapsody
 image:RICHARD THOMPSON/Serpents Tears/cover.jpg[Serpents Tears,200,200,role="thumb left"]
 
+.Eels – Good Night On Earth
+image:EELS/2022 - Extreme Witchcraft/cover.png[Extreme Witchcraft,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Ed Sheeran – Shivers
-Eels – Good Night On Earth
-
 Low – All Night
 Rolling Stones – Living In The Heart Of Love
 Sting – If It's Love

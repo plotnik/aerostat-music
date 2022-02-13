@@ -490,7 +490,7 @@ Kraftwerk - Radioactivity
 <http://old.aquarium.ru/misc/aerostat/aerostat06.html>
 
 .Procol Harum - Magdalene (My Regal Zonophone)
-image:PROCOL HARUM/Procol Harum - Shine On Brightly/cover.jpg[Shine On Brightly,200,200,role="thumb left"]
+image:PROCOL HARUM/1968 - Shine On Brightly/cover.jpg[Shine On Brightly,200,200,role="thumb left"]
 
 .Donovan - link:DONOVAN/Donovan%20-%20Brother%20Sun,%20Sister%20Moon/lyrics/moon.html#_brother_sun_sister_moon[Brother Sun, Sister Moon]
 image:DONOVAN/Donovan - Brother Sun, Sister Moon/Folder.jpg[Brother Sun Sister Moon,200,200,role="thumb left"]

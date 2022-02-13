@@ -305,8 +305,8 @@ Move - Message from the Country
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_subterranean_homesick_blues[Subterranean Homesick Blues]
 image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
 
-.Procol Harum - link:PROCOL%20HARUM/Procol%20Harum%201967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_conquistador[Conquistador]
-image:PROCOL HARUM/Procol Harum 1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
+.Procol Harum - link:PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_conquistador[Conquistador]
+image:PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
 
 .Planxty - Only Our Rivers
 image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
@@ -379,7 +379,7 @@ Charlatans - There Will Be Chances
 <http://aerostatica.ru/2017/05/28/628-12-let-leto-lyubvi-67/>
 
 .Procol Harum - Wish Me Well
-image:PROCOL HARUM/04-Procol Harum-Conquistador (1991)/cover.jpg[Procol Harum-Conquistador (1991),200,200,role="thumb left"]
+image:PROCOL HARUM/1991 - Conquistador/cover.jpg[Conquistador,200,200,role="thumb left"]
 
 .Beatles - If I Needed Someone
 image:THE BEATLES/1965b - Rubber Soul/cover.jpg[Rubber Soul,200,200,role="thumb left"]
@@ -491,10 +491,12 @@ Goitse - Transformed
 .Cotton Mather - Girl with a Blue Guitar
 image:COTTON MATHER/2017 - Thrown from a horse/cover.jpg[Thrown from a horse,200,200,role="thumb left"]
 
+.Procol Harum - Sunday Morning
+image:PROCOL HARUM/2017 - Novum/cover.jpg[Novum,200,200,role="thumb left"]
+
 [%hardbreaks]
 Alt-J - In Cold Blood
 Chuck Berry - Big Boys
-Procol Harum - Sunday Morning
 Mark Lanegan Band - Beehive
 Tamikrest - Mawarniha Tartit
 Dirty Projectors - Little Bubble

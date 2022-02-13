@@ -384,7 +384,7 @@ image:BOB DYLAN/Bob Dylan 1964 - Another Side Of Bob Dylan/cover.jpg[Another Sid
 image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
 
 .Procol Harum - A Rum Tale
-image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+image:PROCOL HARUM/1973 - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

@@ -130,7 +130,7 @@
 - link:./PAUL%20SIMON/links.html[PAUL SIMON]
 - link:./PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html[PAUL SIMON/Paul Simon - Songwriter]
 - link:./PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html[PAUL SIMON/Paul Simon - Stranger To Stranger]
-- link:./PROCOL%20HARUM/Procol%20Harum%201967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html[PROCOL HARUM/Procol Harum 1967 - Procol Harum (With Bonus Tracks)]
+- link:./PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html[PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)]
 - link:./PUGWASH/2011%20-%20The%20Olympus%20Sound/lyrics/olympus.html[PUGWASH/2011 - The Olympus Sound]
 
 

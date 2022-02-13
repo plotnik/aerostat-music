@@ -95,7 +95,7 @@ image:JETHRO TULL/1970  Benefit/cover.jpg[1970  Benefit,200,200,role="thumb left
 image:PUGWASH/2014 - A Rose in a Garden of Weeds/cover.jpg[A Rose in a Garden of Weeds,200,200,role="thumb left"]
 
 .Procol Harum – Beyond The Pale
-image:PROCOL HARUM/08-Exotic Birds And Fruit (1974)/cover.jpg[Exotic Birds And Fruit (1974),200,200,role="thumb left"]
+image:PROCOL HARUM/1974 - Exotic Birds And Fruit/cover.jpg[Exotic Birds And Fruit,200,200,role="thumb left"]
 
 ++++
 <br clear="both">
@@ -350,7 +350,7 @@ Michael Holliday - In Love
 <http://old.aquarium.ru/misc/aerostat/aerostat446.html>
 
 .Procol Harum - Luskus Delph
-image:PROCOL HARUM/Procol Harum - Broken Barricades/images.jpg[Broken Barricades,200,200,role="thumb left"]
+image:PROCOL HARUM/1971 - Broken Barricades/images.jpg[Broken Barricades,200,200,role="thumb left"]
 
 [%hardbreaks]
 Neil Finn - Song Of The Lonely Mountain

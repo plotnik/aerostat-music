@@ -373,6 +373,9 @@ Royal Fireworks - La rejouissance: Allegro
 
 <http://old.aquarium.ru/misc/aerostat/aerostat80.html>
 
+.Procol Harum - link:PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_she_wandered_through_the_garden_fence[She Wandered Through The Garden Fence]
+image:PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
+
 [%hardbreaks]
 Pink Floyd - The Gnome
 Incredible String Band - Koeeoaddi There
@@ -383,7 +386,6 @@ The Who - Our Love Was... Is
 Rolling Stones - She's a Rainbow
 The Small Faces - Here Comes The Nice
 Tyrannosaurus Rex - King Of The Rumbling Spires
-Procol Harum - She Wandered Through The Garden Fence
 Jimi Hendrix - Burning Of The Midnight Lamp
 
 ++++

@@ -461,9 +461,11 @@ Matching Mole - O Caroline
 
 <http://old.aquarium.ru/misc/aerostat/aerostat117.html>
 
+.Procol Harum - link:PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_good_captain_clack[Good Captain Clack]
+image:PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
+
 [%hardbreaks]
 Donovan - Mr.Wind
-Procol Harum - Good Captain Clack
 Tyrannosaurus Rex - Blessed Wild Apple Girl
 Pink Floyd - Julia Dream
 The Who - Silas Stingy

@@ -281,7 +281,7 @@ image:TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/cover.jpg[Orphans Bra
 ++++
 
 .Procol Harum – Boredom
-image:PROCOL HARUM/Procol Harum - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
+image:PROCOL HARUM/1969 - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
 
 .King Crimson – Cadence & Cascade
 image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
@@ -636,7 +636,7 @@ image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard 
 image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
 
 .Procol Harum – Still There'll Be More
-image:PROCOL HARUM/04-Home (1970)/cover.jpg[Home (1970),200,200,role="thumb left"]
+image:PROCOL HARUM/1970 -Home/cover.jpg[Home,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

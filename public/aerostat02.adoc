@@ -355,7 +355,7 @@ George Harrison - That's The Way It Goes
 <http://old.aquarium.ru/misc/aerostat/aerostat35.html>
 
 .Procol Harum - Fires Which Burnt Brightly
-image:PROCOL HARUM/Procol Harum - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+image:PROCOL HARUM/1973 - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
 
 .Led Zeppelin - Friends
 image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]

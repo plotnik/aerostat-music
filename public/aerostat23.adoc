@@ -485,7 +485,7 @@ image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,ro
 image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
 
 .Procol Harum - Nothing That I Didn't Know
-image:PROCOL HARUM/04-Home (1970)/cover.jpg[Home (1970),200,200,role="thumb left"]
+image:PROCOL HARUM/1970 -Home/cover.jpg[Home,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

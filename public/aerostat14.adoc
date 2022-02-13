@@ -205,6 +205,9 @@ Peatbog Faeries - Room 215
 
 <http://old.aquarium.ru/misc/aerostat/aerostat329.html>
 
+.Procol Harum - All This And More
+image:PROCOL HARUM/1969 - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
+
 [%hardbreaks]
 Stackridge - Pinafore Days
 Donovan - Three King Fishers
@@ -212,7 +215,6 @@ Simon & Garfunkel - Blues Run The Game
 Deiseal - Si Beag Si Mor
 Simon & Garfunkel - Leaves That Are Green
 Rolling Stones - No Expectation
-Procol Harum - All This And More
 Burns Unit - Sorrys
 Archie Fisher - Song For Simon
 Strawbs - Ah Me Ah My

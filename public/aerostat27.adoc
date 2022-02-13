@@ -506,7 +506,7 @@ Liam Gallagher - For What It’s Worth
 <https://aerostatica.ru/2017/10/29/650-solnce-i-oblaka/>
 
 .Procol Harum - Whisky Train
-image:PROCOL HARUM/04-Home (1970)/cover.jpg[Home (1970),200,200,role="thumb left"]
+image:PROCOL HARUM/1970 -Home/cover.jpg[Home,200,200,role="thumb left"]
 
 .Paul McCartney - Summer’s Day Song
 image:PAUL MCCARTNEY/Paul McCartney 1980 - McCartney II/Folder.jpg[McCartney II,200,200,role="thumb left"]
@@ -610,7 +610,7 @@ image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb
 image:JETHRO TULL/1976  Too Old to Rock N Roll/cover.jpg[Too Old to Rock N Roll,200,200,role="thumb left"]
 
 .Procol Harum - The Final Thrust
-image:PROCOL HARUM/01-Procol Harum-Procols Ninth (1975)/cover.jpg[Procols Ninth,200,200,role="thumb left"]
+image:PROCOL HARUM/1975 - Procols Ninth/cover.jpg[Procols Ninth,200,200,role="thumb left"]
 
 .Robert Plant - link:ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html#_bones_of_saints[Bones Of Saints]
 image:ROBERT PLANT/2017 - Carry Fire/cover.jpg[Carry Fire,200,200,role="thumb left"]
