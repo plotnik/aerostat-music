@@ -174,7 +174,7 @@ image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,20
 image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
 
 .Gene Clark – Fair And Tender Ladies
-image:Gene Clark - So Rebellious A Lover/cover.jpg[So Rebellious A Lover,200,200,role="thumb left"]
+image:Gene Clark/1987 - So Rebellious A Lover/cover.jpg[So Rebellious A Lover,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

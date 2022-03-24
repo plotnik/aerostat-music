@@ -321,12 +321,14 @@ image:Daft Punk/Random Access Memories/front.jpg[Random Access Memories,200,200,
 .Sigur Ros – Hrafntinna
 image:SIGUR ROS/2013 - Kveikur/folder.jpg[Kveikur,200,200,role="thumb left"]
 
+.Shpongle – Brain In A Fishtank
+image:Shpongle/2013 - Museum Of Consciousness/cover.jpg[Museum Of Consciousness,200,200,role="thumb left"]
+
 [%hardbreaks]
 Queens Of Stone Age – I Sat By The Ocean
 Cocorosie – After The Afterlife
 Active Child – Hanging On
 Zorge – Тайна
-Shpongle – Brain In A Fishtank
 
 ++++
 <br clear="both">

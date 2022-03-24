@@ -486,7 +486,7 @@ Robert Plant - Keep It Hid
 <https://aerostatica.ru/2017/11/05/651-novye-pesni-noyabrya/>
 
 .Shpongle - Herr Gringleflapper’s Secret Stash Box
-image:Shpongle 2017 - Codex VI/folder.jpg[Codex VI,200,200,role="thumb left"]
+image:Shpongle/2017 - Codex VI/folder.jpg[Codex VI,200,200,role="thumb left"]
 
 [%hardbreaks]
 Chris Rea - Happy On The Road

@@ -229,6 +229,9 @@ Lee Scratch Perry - Dreadlocks In Moonlight
 
 <http://old.aquarium.ru/misc/aerostat/aerostat353.html>
 
+.Gene Clark - One In A Hundred
+image:Gene Clark/1973 - Roadmaster/Folder.jpg[Roadmaster,200,200,role="thumb left"]
+
 [%hardbreaks]
 Beck - Everybody Gotta Learn Sometime
 Robert Wyatt - Memories
@@ -238,7 +241,7 @@ Weepies - Hummingbird
 Pete Coe - Wait Till The Clouds Roll By
 King Crimson - Fallen Angel
 Tom Waits - New Year's Eve
-Gene Clark - One In A Hundred
+
 
 ++++
 <br clear="both">
