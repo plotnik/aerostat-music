@@ -21,7 +21,58 @@ code {
 
 == 35.
 
-=== То да Сё №22, 13 марта 2022
+== Новые Песни Апреля, 3 апреля 2022
+
+<https://aerostatbg.ru/release/881>
+
+[%hardbreaks]
+Peter Doherty & Frédéric Lo – You Can't Keep It From Me Forever
+Jenny Hval – Year Of Love
+Gonora Sounds – Go Bhora
+John Mayall feat. Marcus King – Can't Take No More
+Arthur Brown – Long Long Road
+U96 & Wolfgang Flür – Zukunftmusik
+Wet Leg – Chaise Longue
+Roger Eno – Bells
+Jon Spencer & The Hitmakers – Junk Man
+Old Crow Medicine Show – Bombs Away
+
+++++
+<br clear="both">
+++++ 
+
+== Что такое концерт, 27 марта 2022
+
+<https://aerostatbg.ru/release/880>
+
+.Dead Can Dance – Song Of The Sibyl
+image:DEAD CAN DANCE/1990 Aion/cover.jpg[1990 Aion,200,200,role="thumb left"]
+
+.Donovan – Superlungs My Supergirl
+image:DONOVAN/Donovan - Barabajagal/cover.jpg[Barabajagal,200,200,role="thumb left"]
+
+.Tom Petty – A Feeling Of Peace
+image:TOM PETTY/2020 - Wildflowers & All the Rest/cover.jpg[Wildflowers & All the Rest,200,200,role="thumb left"]
+
+.Thelonious Monk – Ruby, My Dear
+image:Thelonius Monk/08-Monks Classic Recordings (1983)/cover.jpg[Monks Classic Recordings (1983),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++ 
+
+[%hardbreaks]
+Van Morrison – Golden Autumn Day
+Fieri Consort & Chelys Consort of Viols – Turn Thy Face From My Wickedness
+Jean-Philippe Rykiel & Lama Gyurme – Hope For Enlightenment
+Jeff Lynne – Save Me Now
+Евгений Клячкин – Ах, Улыбнись...
+
+++++
+<br clear="both">
+++++ 
+
+=== То да Сё №22, 20 марта 2022
 
 <https://aerostatbg.ru/release/879>
 
@@ -92,14 +143,24 @@ Janis Ian – This Long Night (Dancing With The Dark)
 .Shpongle – Juggling Molecules
 image:Shpongle/2013 - Museum Of Consciousness/cover.jpg[Museum Of Consciousness,200,200,role="thumb left"]
 
+.Enya – Afer Ventus
+image:ENYA/enya-02-Shepherd Moons 1991/cover.jpg[02-Shepherd Moons 1991,200,200,role="thumb left"]
+
+.David Sylvian – Silver Moon
+image:David Sylvian/1986 - Gone To Earth/folder.jpg[Gone To Earth,200,200,role="thumb left"]
+
+.Doors – My Wild Love
+image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
+    
+++++
+<br clear="both">
+++++    
+
 [%hardbreaks]
 Gabrieli (Taverner Players) – Canzoni et Sonate: Canzon XVII, a 12 Song
 David Sylvian – River Man
 Grasscut – Halflife
 Shooglenifty – Venus In Tweeds
-Doors – My Wild Love
-Enya – Afer Ventus
-David Sylvian – Silver Moon
     
 ++++
 <br clear="both">
