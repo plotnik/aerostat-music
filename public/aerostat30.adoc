@@ -34,13 +34,19 @@ image:CAT STEVENS/Cat Stevens - The Very Best Of/cover.jpg[The Very Best Of,200,
 .John Lennon - Old Dirt Road
 image:THE BEATLES/John Lennon - Walls and Bridges/cover.png[Walls and Bridges,200,200,role="thumb left"]
 
+.Gus Teja - Morning Happiness
+image:Gus Teja/2010 - Rhythm of Paradise/cover.jpg[Rhythm of Paradise,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Bhagavad Gita - 13
 Jagjit & Chitra Singh - Sab Se Umchi
 Dittersdorf - Sinfonia In F. Minuetto
 George Harrison - Mo's Song
 Rustavi - Sulta Tana
-Gus Teja - Morning Happiness
 
 ++++
 <br clear="both">
