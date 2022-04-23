@@ -21,7 +21,27 @@ code {
 
 == 35.
 
-== Новое То да Сё, 10 апреля 2022
+=== Judy Collins Wildflowers, 17 апреля 2022
+
+<https://aerostatbg.ru/release/883>
+
+[%hardbreaks]
+Judy Collins – Michael From Mountains
+Judy Collins – Someday Soon
+Judy Collins – My Father
+Judy Collins – A Ballata Of Francesco Landini - Lasso! di donna
+Judy Collins – Le chanson de vieux amants
+Judy Collins – Sisters Of Mercy
+Judy Collins – Farewell To Tarwathie
+Judy Collins – When I Was A Girl In Colorado
+Judy Collins – Hey That's No Way To Say Goodbye
+
+++++
+<br clear="both">
+++++ 
+
+=== Новое То да Сё, 10 апреля 2022
+
 <https://aerostatbg.ru/release/882>
 
 [%hardbreaks]
@@ -39,7 +59,7 @@ Bob Dylan – Blowin' In The Wind
 <br clear="both">
 ++++ 
 
-== Новые Песни Апреля, 3 апреля 2022
+=== Новые Песни Апреля, 3 апреля 2022
 
 <https://aerostatbg.ru/release/881>
 
@@ -59,7 +79,7 @@ Old Crow Medicine Show – Bombs Away
 <br clear="both">
 ++++ 
 
-== Что такое концерт, 27 марта 2022
+=== Что такое концерт, 27 марта 2022
 
 <https://aerostatbg.ru/release/880>
 
