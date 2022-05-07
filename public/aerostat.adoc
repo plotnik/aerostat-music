@@ -21,6 +21,47 @@ code {
 
 == 35.
 
+=== Белтайн Ом, 1 мая 2022
+
+<https://aerostatbg.ru/release/885>
+
+[%hardbreaks]
+Clanadonia – Hamsterheid
+Lumiere — The Streets of Derry
+Lúnasa – Sinead Maire’s
+Shirley & Dolly Collins – Fare Thee Well My Dearest Dear
+Ravi Shankar – Hari Om
+George Harrison – Singing Om
+Rura ft. Julie Fowlis – Dh’èirich Mi Moch Madainn Cheòthar
+Dick Gaughan – Lough Erne, First Kiss At Parting
+High Kings – Ar Éireann Ní Neosainn Cé Hí
+
+++++
+<br clear="both">
+++++ 
+
+=== Ответы на Вопросы, 22 апреля 2022
+
+<https://aerostatbg.ru/release/884>
+
+.Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_goodbye_jimmy_reed[Goodbye Jimmy Reed]
+image:BOB DYLAN/2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,200,role="thumb left"]
+
+[%hardbreaks]
+Хор Свято-Троицкой Сергиевой лавры и Московской духовной академии и семинарии – Ирмосы Пасхального канона
+Beach Boys – Then I Kissed Her
+Beatles – Across The Universe
+Lama Khenno – Light Offering Prayers
+Myrkur – Gudernes vilje
+Аквариум – Сюрприз
+Maddy Prior & Tim Hart – Bring Us In Good Ale
+Crazy World Of Arthur Brown – Jungle Fever
+Bryan Ferry – When She Walks In The Room
+
+++++
+<br clear="both">
+++++ 
+
 === Judy Collins Wildflowers, 17 апреля 2022
 
 <https://aerostatbg.ru/release/883>
@@ -44,16 +85,20 @@ Judy Collins – Hey That's No Way To Say Goodbye
 
 <https://aerostatbg.ru/release/882>
 
+.Bob Dylan – A Hard Rain's A-Gonna Fall
+image:BOB DYLAN/Bob Dylan 1963 - The Freewheelin' Bob Dylan/cover.jpg[The Freewheelin' Bob Dylan,200,200,role="thumb left"]
+
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html#_blowin_in_the_wind[Blowin' In The Wind]
+image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wind,200,200,role="thumb left"]
+
 [%hardbreaks]
 George Ezra – Anyone For You (Tiger Lily)
 Mick Jagger – Strange Game
 Aldous Harding – Tick Tock
 Bauhaus – Drink The New Wine
-Bob Dylan – A Hard Rain's A-Gonna Fall
 Oval – Dormant
 Paul McCartney & Wings – I'm Carrying
 Taj Mahal & Ry Cooder – I Shall Not Be Moved
-Bob Dylan – Blowin' In The Wind
 
 ++++
 <br clear="both">
