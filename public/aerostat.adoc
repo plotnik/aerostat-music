@@ -25,11 +25,13 @@ code {
 
 <https://aerostatbg.ru/release/885>
 
+.Shirley & Dolly Collins – Fare Thee Well My Dearest Dear
+image:Shirley & Dolly Collins - Anthems in Eden/folder.jpg[Anthems in Eden,200,200,role="thumb left"]
+
 [%hardbreaks]
 Clanadonia – Hamsterheid
 Lumiere — The Streets of Derry
 Lúnasa – Sinead Maire’s
-Shirley & Dolly Collins – Fare Thee Well My Dearest Dear
 Ravi Shankar – Hari Om
 George Harrison – Singing Om
 Rura ft. Julie Fowlis – Dh’èirich Mi Moch Madainn Cheòthar
@@ -47,10 +49,12 @@ High Kings – Ar Éireann Ní Neosainn Cé Hí
 .Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_goodbye_jimmy_reed[Goodbye Jimmy Reed]
 image:BOB DYLAN/2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,200,role="thumb left"]
 
+.Beatles – Across The Universe
+image:THE BEATLES/1970 - Let It Be/cover.jpg[Let It Be,200,200,role="thumb left"]
+
 [%hardbreaks]
 Хор Свято-Троицкой Сергиевой лавры и Московской духовной академии и семинарии – Ирмосы Пасхального канона
 Beach Boys – Then I Kissed Her
-Beatles – Across The Universe
 Lama Khenno – Light Offering Prayers
 Myrkur – Gudernes vilje
 Аквариум – Сюрприз
@@ -66,8 +70,10 @@ Bryan Ferry – When She Walks In The Room
 
 <https://aerostatbg.ru/release/883>
 
+.Judy Collins – Michael From Mountains
+image:Judy Collins - Wildflowers/folder.jpg[Wildflowers,200,200,role="thumb left"]
+
 [%hardbreaks]
-Judy Collins – Michael From Mountains
 Judy Collins – Someday Soon
 Judy Collins – My Father
 Judy Collins – A Ballata Of Francesco Landini - Lasso! di donna
