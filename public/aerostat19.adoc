@@ -123,14 +123,22 @@ image:The Boys of the Lough - The Boys of the Lough/cover.jpg[The Boys of the Lo
 .Gentle Good – Marwnad Chang-Kan
 image:The Gentle Good - Y Bardd Anfarwol/cover.jpg[Y Bardd Anfarwol,200,200,role="thumb left"]
 
+.Brass Monkey – The Rose Lawn Cadrille
+image:Brass Monkey 1993 - The Complete Brass Monkey/cover.jpg[The Complete Brass Monkey,200,200,role="thumb left"]
+
+.Tim Hart & Maddy Prior – Bring Us In Good Ale
+image:STEELEYE SPAN/Tim Hart and Maddy Prior 1971 - Summer Solstice/Folder.jpg[Summer Solstice,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Boys Of The Lough – Sweet Rural Shade
 Robin Laing – Loons Is Loons
 Chieftains – Opening Theme (from Treasure Island)
 Sweeney's Men – Willy O'Winsbury
-Tim Hart & Maddy Prior – Bring Us In Good Ale
 Pentangle – Light Flight
-Brass Monkey – The Rose Lawn Cadrille
 Boys Of The Lough – Sharon Eubank's Waltz
 
 ++++

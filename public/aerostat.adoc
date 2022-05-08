@@ -52,13 +52,15 @@ image:BOB DYLAN/2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,2
 .Beatles – Across The Universe
 image:THE BEATLES/1970 - Let It Be/cover.jpg[Let It Be,200,200,role="thumb left"]
 
+.Maddy Prior & Tim Hart – Bring Us In Good Ale
+image:STEELEYE SPAN/Tim Hart and Maddy Prior 1971 - Summer Solstice/Folder.jpg[Summer Solstice,200,200,role="thumb left"]
+
 [%hardbreaks]
 Хор Свято-Троицкой Сергиевой лавры и Московской духовной академии и семинарии – Ирмосы Пасхального канона
 Beach Boys – Then I Kissed Her
 Lama Khenno – Light Offering Prayers
 Myrkur – Gudernes vilje
 Аквариум – Сюрприз
-Maddy Prior & Tim Hart – Bring Us In Good Ale
 Crazy World Of Arthur Brown – Jungle Fever
 Bryan Ferry – When She Walks In The Room
 
