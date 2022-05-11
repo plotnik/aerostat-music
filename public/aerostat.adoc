@@ -193,11 +193,13 @@ Aly Bain & Phil Cunningham – Irish Beauty
 .Paul McCartney - link:PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Pipes%20Of%20Peace/lyrics/peace.html#_pipes_of_peace[Pipes Of Peace]
 image:PAUL MCCARTNEY/Paul McCartney - Pipes Of Peace/image086.jpg[Pipes Of Peace,200,200,role="thumb left"]
 
+.Christodoulos Halaris – Hymn To The Muse
+image:Christodoulos Halaris - Music of Ancient Greece/cover.jpg[Music of Ancient Greece,200,200,role="thumb left"]
+
 [%hardbreaks]
 Johann Sebastian Bach – Orchestral Suite No. 3 in D major: II. Air
 Silly Sisters – The Old Miner
 Pomerium – Creator Omnium
-Christodoulos Halaris – Hymn To The Muse
 Lei Qiang – Moonlight Reflected On The Er-Quan Spring
 Native American Music Consort – Native Indians Blessings
 Johann Pachelbel – Canon and Gigue in D major

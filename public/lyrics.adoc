@@ -30,6 +30,7 @@
 
 === C
 
+- link:./Christodoulos%20Halaris%20-%20Music%20of%20Ancient%20Greece/lyrics/halaris.html[Christodoulos Halaris - Music of Ancient Greece]
 - link:./CHRISTY%20MOORE/1985%20-%20Ordinary%20Man/lyrics/ordinary.html[CHRISTY MOORE/1985 - Ordinary Man]
 - link:./COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html[COTTON MATHER/Cotton Mather - Kon Tiki]
 - link:./COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html[COTTON MATHER/Cotton Mather 2016 - Death of the Cool]
