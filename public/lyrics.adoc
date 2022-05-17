@@ -168,6 +168,7 @@
 - link:./STEELEYE%20SPAN/Steeleye%20Span%20-%20Dodgy%20Bastards/lyrics/bastards.html[STEELEYE SPAN/Steeleye Span - Dodgy Bastards]
 - link:./STEELEYE%20SPAN/Steeleye%20Span%20-%20Parcel%20Of%20Rogues/lyrics/rogues.html[STEELEYE SPAN/Steeleye Span - Parcel Of Rogues]
 - link:./STEELEYE%20SPAN/Steeleye%20Span%20-%20Wintersmith/lyrics/wintersmith.html[STEELEYE SPAN/Steeleye Span - Wintersmith]
+- link:./SUFJAN%20STEVENS/Sufjan%20Stevens%202005%20-%20Illinoise/lyrics/illinois.html[SUFJAN STEVENS/Sufjan Stevens 2005 - Illinoise]
 - link:./SUZANNE%20VEGA/1985%20-%20Suzanne%20Vega/lyrics/vega.html[SUZANNE VEGA/1985 - Suzanne Vega]
 - link:./SUZANNE%20VEGA/1987%20-%20Solitude%20Standing/lyrics/solitude.html[SUZANNE VEGA/1987 - Solitude Standing]
 - link:./SUZANNE%20VEGA/1992%20-%2099,9%20F/lyrics/99.html[SUZANNE VEGA/1992 - 99,9 F]
