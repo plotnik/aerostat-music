@@ -208,7 +208,7 @@ image:New Vaudeville Band - Winchester Cathedral/cover.jpg[Winchester Cathedral,
 image:Mahavishnu Orchestra - Inner Mounting Flame/Folder.jpg[Inner Mounting Flame,200,200,role="thumb left"]
 
 .Magnetic Fields – I Don't Want To Get Over You
-image:The Magnetic Fields 1999 - 69 Love Songs/cover.jpg[69 Love Songs,200,200,role="thumb left"]
+image:Magnetic Fields/1999 - 69 Love Songs/cover.jpg[69 Love Songs,200,200,role="thumb left"]
 
 .Simon & Garfunkel – Why Don't You Write Me
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Bridge Over Troubled Water/cover.jpg[Bridge Over Troubled Water,200,200,role="thumb left"]

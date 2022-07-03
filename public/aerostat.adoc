@@ -18,8 +18,28 @@ code {
 </style>
 ++++
 
-
+                                                                          
 == 35.
+
+=== Hoagy and Culture, 18 июня 2022
+
+<https://aerostatbg.ru/release/890>
+
+[%hardbreaks]
+Ray Charles – Georgia On My Mind
+Hoagy Carmichael – Stardust
+Hoagy Carmichael – Ole Buttermilk Sky
+George Harrison – Hong Kong Blues
+Rakesh Chaurasia, Sunil Das, Ulhas Bapat, Zarin Daruwala, Akhlak Hussain, Bhavani Shankar, Ashit Desai – Odhhaji Mara Vaalane
+Jan Pieterszoon Sweelinck – More palatino
+Леонид Фёдоров & Владимир Волков – Таял, ч. 2
+George Frideric Handel – Organ Concerto No. 5 in F major: IV. Presto
+Sun's Signature – Apples
+Jeff Lynne's ELO – Losing You
+
+++++
+<br clear="both">
+++++ 
 
 === Новые песни июня, 12 июня 2022
 
@@ -45,7 +65,7 @@ Ziggy Marley, Stephen Marley & Damian Marley feat. Marley Brothers, Ky-Mani Marl
 <https://aerostatbg.ru/release/888>
 
 .Magnetic Fields – '86: How I Failed Ethics
-image:Magnetic Fields - 50 Song Memoir/cover.jpg[50 Song Memoir,200,200,role="thumb left"]
+image:Magnetic Fields/2017 - 50 Song Memoir/cover.jpg[50 Song Memoir,200,200,role="thumb left"]
 
 .Donovan – Young Girl Blues
 image:DONOVAN/1967 - Mellow Yellow (2005, RE, with bonus tracks)/cover.png[Mellow Yellow (2005  RE  with bonus tracks),200,200,role="thumb left"]
