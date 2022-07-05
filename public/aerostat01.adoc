@@ -524,7 +524,7 @@ image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,20
 image:Velvet Undeground/Velvet Underground - The Best of the Velvet Underground/cover.jpg[The Best of the Velvet Underground,200,200,role="thumb left"]
 
 .Beach Boys - Heroes And Villains
-image:The Beach Boys - Smiley Smile/folder.jpg[Smiley Smile,200,200,role="thumb left"]
+image:The Beach Boys/Smiley Smile/folder.jpg[Smiley Smile,200,200,role="thumb left"]
 
 ++++
 <br clear="both">

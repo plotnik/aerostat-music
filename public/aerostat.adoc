@@ -181,9 +181,15 @@ image:THE BEATLES/1970 - Let It Be/cover.jpg[Let It Be,200,200,role="thumb left"
 .Maddy Prior & Tim Hart – Bring Us In Good Ale
 image:STEELEYE SPAN/Tim Hart and Maddy Prior 1971 - Summer Solstice/Folder.jpg[Summer Solstice,200,200,role="thumb left"]
 
+.Beach Boys – Then I Kissed Her
+image:The Beach Boys/Summer Days And Summer Nights/cover.jpg[Summer Days And Summer Nights,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++ 
+
 [%hardbreaks]
 Хор Свято-Троицкой Сергиевой лавры и Московской духовной академии и семинарии – Ирмосы Пасхального канона
-Beach Boys – Then I Kissed Her
 Lama Khenno – Light Offering Prayers
 Myrkur – Gudernes vilje
 Аквариум – Сюрприз

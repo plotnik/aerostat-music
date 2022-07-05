@@ -317,9 +317,13 @@ George Shearing - It Could Happen To You
 .Glenn Miller - Indian Summer
 image:Glenn Miller/The Complete Glenn Miller/cover.png[The Complete Glenn Miller,200,200,role="thumb left"]
 
+.Beach Boys - California Girls
+image:The Beach Boys/Summer Days And Summer Nights/cover.jpg[Summer Days And Summer Nights,200,200,role="thumb left"]
+
+.Beach Boys - You Still Believe In Me
+image:The Beach Boys/Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beach Boys - California Girls
-Beach Boys - You Still Believe In Me
 Cocteau Twins - Summerhead
 Elvis Presley - Summer Kisses Winter Tears
 Bob Dylan - Summer Days

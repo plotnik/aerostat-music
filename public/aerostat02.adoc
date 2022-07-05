@@ -561,6 +561,9 @@ image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role
 .Donovan - Wear Your Love Like Heaven
 image:DONOVAN/Donovan - A Gift From a Flower to a Garden/cover.jpg[A Gift From a Flower to a Garden,200,200,role="thumb left"]
 
+.Beach Boys - God Only Knows
+image:The Beach Boys/Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sheila Chandra - Om Shiva Namaha
 Robert Plant - If It's Really Got To Be This Way
@@ -569,7 +572,6 @@ Jeff Lynne - Blown Away
 T.Rex - Wind Cheetah
 Cocteau Twins - Kookaburra
 John Lennon - Mind Games
-Beach Boys - God Only Knows
 Beatles - All You Need Is Love
 
 ++++

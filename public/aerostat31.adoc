@@ -191,6 +191,9 @@ image:JETHRO TULL/1972  Living In The Past/cover.jpg[1972  Living In The Past,20
 <br clear="both">
 ++++
 
+.Beach Boys - God Only Knows
+image:The Beach Boys/Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jeff Lynne - Blown Away
 T.Rex - Diamond Meadows
@@ -198,7 +201,6 @@ Bryan Ferry - You Do Something To Me
 Beatles - Its Only Love
 Roy Orbison - Pretty One
 Robert Palmer - You Blow Me Away
-Beach Boys - God Only Knows
 
 ++++
 <br clear="both">

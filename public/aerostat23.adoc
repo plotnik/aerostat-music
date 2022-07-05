@@ -46,7 +46,7 @@ Runrig - Loch Lomond
 <http://old.aquarium.ru/misc/aerostat/aerostat561.html>
 
 .Beach Boys - Wouldn't It Be Nice
-image:The Beach Boys - Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
+image:The Beach Boys/Pet Sounds/cover.jpg[Pet Sounds,200,200,role="thumb left"]
 
 [%hardbreaks]
 Beach Boys - You Still Believe In Me
