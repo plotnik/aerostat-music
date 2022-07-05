@@ -21,6 +21,23 @@ code {
                                                                           
 == 35.
 
+=== Music Of Stevie Mind, 3 июля 2022
+
+<https://aerostatbg.ru/release/890>
+
+[%hardbreaks]
+Stevie Wonder – Love Having You Around
+Stevie Wonder – My Cherie Amour
+Stevie Wonder – Maybe Your Baby
+Stevie Wonder – Superwoman (Where Were You When I Needed You)
+Stevie Wonder – Happier Than The Morning Sun
+Stevie Wonder – Superstition
+Stevie Wonder – You Are The Sunshine Of My Life
+
+++++
+<br clear="both">
+++++ 
+
 === Hoagy and Culture, 18 июня 2022
 
 <https://aerostatbg.ru/release/890>
@@ -112,13 +129,15 @@ Bishwa Nepali & Sujata Upadhyaya – Aaye Ma Ta Parera Chitikai / Kavi Devkota
 
 <https://aerostatbg.ru/release/886>
 
+.Leyla McCalla – Dodinin
+image:Leyla McCalla - Breaking the Thermometer/cover.jpg[Breaking the Thermometer,200,200,role="thumb left"]
+
 [%hardbreaks]
 Liam Gallagher – Better Days
 Michael Stipe & Brian Eno – Future, If Future
 Sun's Signature – Golden Air
 Sean Paul feat. Damian Marley & Nicky Jam – No Fear
 Machine Gun Kelly – 5120
-Leyla McCalla – Dodinin
 Bryan Ferry – I Just Don't Know What To Do With Myself
 Kurt Vile – Fo Sho
 Otyken – Storm
