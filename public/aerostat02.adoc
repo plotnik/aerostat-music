@@ -289,13 +289,17 @@ Mike Oldfield - Sheba
 
 <http://old.aquarium.ru/misc/aerostat/aerostat38.html>
 
+.Janis Joplin - Summertime
+image:Janis Joplin/Pearl Legacy Edition/cover.png[Pearl Legacy Edition,200,200,role="thumb left"]
+
+.Jefferson Airplane - link:Jefferson%20Airplane%20-%20Surrealistic%20Pillow/lyrics/pillow.html#_white_rabbit[White Rabbit]
+image:Jefferson Airplane - Surrealistic Pillow/front.jpg[Surrealistic Pillow,200,200,role="thumb left"]
+
 [%hardbreaks]
 Harry Nilsson - My Old Desk
 Harry Nilsson - Everybody's Talking
 Tommy James - Crimson And Clover
 First Edition - Just Dropped In (My Condition)
-Jefferson Airplane - White Rabbit
-Janis Joplin - Summertime
 Creedence Crearwater Revival - Up Around The Bend
 The Band - The Day They Drove
 Association - Never My Love
@@ -313,9 +317,11 @@ Grateful Dead - Ripples
 .Van Morrison - On Raglan Road
 image:VAN MORRISON/Van Morrison - Irish Heartbeat/cover.jpg[Irish Heartbeat,200,200,role="thumb left"]
 
+.Planxty - Pat Reilly
+image:PLANXTY/Planxty 1973 - The Well Below The Valley/cover.jpg[The Well Below The Valley,200,200,role="thumb left"]
+
 [%hardbreaks]
 5 Hand Reel - Both Sides Of North
-Planxty - Pat Reilly
 Mary Hopkin - Y Blodym Gwyn
 Albion Country Band - Albion Sunrise
 Silly Wizard - Wha'll Be The King
@@ -331,11 +337,13 @@ Silly Wizard - The Loch Tay Boat Song
 
 <http://old.aquarium.ru/misc/aerostat/aerostat36.html>
 
-George Harrison - That's The Way It Goes
+.George Harrison - That's The Way It Goes
 image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
 
+.Beatles - Roll Over Beethoven
+image:THE BEATLES/Live at the BBC/cover.jpg[Live at the BBC,200,200,role="thumb left"]
+
 [%hardbreaks]
-Beatles - Roll Over Beethoven
 Beatles - Till There Was You
 Jimi Hendrix - Voodoo Chile (Slight Return)
 King Crimson - The Night Watch
@@ -344,7 +352,6 @@ Jimi Hendrix - Little Wing
 T.Rex - Root Of Star
 Jimi Hendrix - Still Raining, Still Dreaming
 King Crimson - Starless
-George Harrison - That's The Way It Goes
 
 ++++
 <br clear="both">
