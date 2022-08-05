@@ -3,6 +3,7 @@
 > link:aerostat.html[<Home>]
 > link:lyrics.html[<Lyrics>]
 
+- link:aerostat34.html[`Глава XXXV.   28.11.2021 - 12.06.2022`]
 - link:aerostat34.html[`Глава XXXIV.  23.05.2021 - 21.11.2021`]
 - link:aerostat33.html[`Глава XXXIII.  8.11.2020 - 16.05.2021`]
 - link:aerostat32.html[`Глава XXXII.   3.05.2020 -  1.11.2020`]
