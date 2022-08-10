@@ -21,6 +21,29 @@ code {
                                                                           
 == 36.
 
+=== Новые песни августа, 7 августа 2022
+
+<https://aerostatbg.ru/release/896>
+
+.Junipers – Wobbly Interlude
+image:The Junipers - Cut Your Key/cover.jpg[Cut Your Key,200,200,role="thumb left"]
+
+[%hardbreaks]
+Cass McCombs – Karaoke
+Eric Clapton – Pompous Fool
+Kate Rusby – Fairest Of All Yarrow @30
+Sessa – Gostar do mundo
+Red Hot Chili Peppers – Nerve Flip
+Gabríel Ólafs – Solon Islandus
+Rita Morar & Adrian Sherwood – Meri awaaz suno (Hear My Voice)
+Julia Jacklin – I Was Neon
+Calypso Rose feat. Carlos Santana & The Garifuna Collective – Watina
+Death Cab For Cutie – Here To Forever
+
+++++
+<br clear="both">
+++++ 
+
 === Лунаса, 31 июля 2022
 
 <https://aerostatbg.ru/release/895>
@@ -34,7 +57,11 @@ Plethyn – Si hei lwli mabi
 Davy Spillane – Midnight Walker
 Seán Ó Riada – Women of Ireland (From “Barry Lyndon”)
 Ye Vagabonds – Lowlands Of Holland
-    
+
+++++
+<br clear="both">
+++++ 
+
 === Заслуга. То да Сё № 26, 24 июля 2022
 
 <https://aerostatbg.ru/release/894>
@@ -55,8 +82,10 @@ image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200
 <br clear="both">
 ++++ 
 
+.Crosby, Stills & Nash – Just A Song Before I Go
+image:Crosby Stills Nash/2005 - Greatest Hits/cover.jpg[Greatest Hits,200,200,role="thumb left"]
+
 [%hardbreaks]
-Crosby, Stills & Nash – Just A Song Before I Go
 Sandy Denny – Milk & Honey
 Scott Matthews & Robert Plant – 12 Harps
 Robert Plant & Jimmy Page – Rude World
