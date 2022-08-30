@@ -209,6 +209,9 @@ Taj Mahal & Ry Cooder – I Shall Not Be Moved
 
 <https://aerostatbg.ru/release/881>
 
+.Roger Eno – Bells
+image:ROGER ENO/2022 - The Turning Year/cover.jpg[The Turning Year,200,200,role="thumb left"]
+
 [%hardbreaks]
 Peter Doherty & Frédéric Lo – You Can't Keep It From Me Forever
 Jenny Hval – Year Of Love
@@ -217,7 +220,6 @@ John Mayall feat. Marcus King – Can't Take No More
 Arthur Brown – Long Long Road
 U96 & Wolfgang Flür – Zukunftmusik
 Wet Leg – Chaise Longue
-Roger Eno – Bells
 Jon Spencer & The Hitmakers – Junk Man
 Old Crow Medicine Show – Bombs Away
 
