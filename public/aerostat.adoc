@@ -21,6 +21,40 @@ code {
                                                                           
 == 36.
 
+=== Культура, 4 сентября 2022
+
+<https://aerostatbg.ru/release/900>
+
+.Cotton Mather – Ramon Finds Waterfalls
+image:COTTON MATHER/Cotton Mather - The Big Picture/cover.png[The Big Picture,200,200,role="thumb left"]
+
+.George Harrison – I Really Love You
+image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
+
+.George Harrison – Sue Me, Sue You Blues
+image:GEORGE HARRISON/1995 - Pirate Songs/cover.jpg[Pirate Songs,200,200,role="thumb left"]
+
+.Cocteau Twins – Watchlar
+image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Paul Simon – St. Judy's Comet
+image:PAUL SIMON/1973 - There Goes Rhymin Simon/Folder.jpg[There Goes Rhymin Simon,200,200,role="thumb left"]
+
+[%hardbreaks]
+Hemanta Mukherjee – He kshaniker atithi
+Tsinandali Choir – Zamtari
+A Perfect Circle – Sleeping Beauty
+Thom Yorke – Guess Again!
+Helmut Jost – Trumpet Concerto in E-flat major: II. Adagio (Franz Joseph Haydn)
+
+++++
+<br clear="both">
+++++
+
 === Дом Всех Святых, 28 августа 2022
 
 <https://aerostatbg.ru/release/899>
