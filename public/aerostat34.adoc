@@ -101,12 +101,16 @@ image:Norma Waterson Eliza Carthy/2010 - Gift/front.jpg[Gift,200,200,role="thumb
 <br clear="both">
 ++++
 
+.Battlefield Band – The Banks Of Red Roses
+image:Battlefield Band - Happy Daze/front.jpg[Happy Daze,200,200,role="thumb left"]
+
+.Enter The Haggis – One Last Drink
+image:Enter The Haggis - Soapbox Heroes/folder.jpg[Soapbox Heroes,200,200,role="thumb left"]
+
 [%hardbreaks]
 Derek Bell – Rúisg, A Bhean Na Tabhairne / Carolan's Ramble To Cashel
-Enter The Haggis – One Last Drink
 Beoga – Hello Again
 Phil Cunningham & Manus Lunny – When The Snow Melts
-Battlefield Band – The Banks Of Red Roses
 
 ++++
 <br clear="both">
