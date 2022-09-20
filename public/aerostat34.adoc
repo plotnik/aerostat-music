@@ -249,9 +249,11 @@ image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role=
 .Melanie – Peace Will Come (According To Plan)
 image:Melanie/2020 - What have they done to my song/cover.png[What have they done to my song,200,200,role="thumb left"]
 
+.Anne Briggs – The Recruited Collier
+image:Anne Briggs 1999 - A Collection/o65169.jpg[A Collection,200,200,role="thumb left"]
+
 [%hardbreaks]
 Byrds – Have You Seen Her Face
-Anne Briggs – The Recruited Collier
 Robert Palmer – You're My Thrill
 Cocteau Twins – Primitive Heart
 

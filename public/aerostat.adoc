@@ -21,6 +21,58 @@ code {
                                                                           
 == 36.
 
+=== Nu September Songs, 11 сентября 2022
+
+<https://aerostatbg.ru/release/902>
+
+[%hardbreaks]
+Пётр Чайковский – Спящая красавица, соч. 66: II действие, № 13 Фарандола (сцена)
+Pale Waves – Lies
+Son Parapluie – Je ne finis rien
+Beths – Knees Deep
+Elephant Sessions – Is This A Vibe
+William Orbit – Duende
+Buddy Guy – Gunsmoke Blues
+Mabe Fratti – Cada músculo
+Dr. John – Sleeping Dogs Best Left Alone
+Brian Eno – We Let It In
+Ozzy Osbourne – Nothing Feels Right
+
+++++
+<br clear="both">
+++++
+
+=== The Divine Comedy, 11 сентября 2022
+
+<https://aerostatbg.ru/release/901>
+
+.Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_catherine_the_great[Catherine The Great]
+image:DIVINE COMEDY/2016 - Foreverland/Cover.jpg[Foreverland,200,200,role="thumb left"]
+
+.Divine Comedy – Timewatching
+image:DIVINE COMEDY/1997 - A Short Album About Love/Folder.jpg[A Short Album About Love,200,200,role="thumb left"]
+
+.Divine Comedy – My Imaginary Friend
+image:DIVINE COMEDY/2004 - Absent Friends/cover.jpg[Absent Friends,200,200,role="thumb left"]
+
+.Divine Comedy – Bang Goes The Knighthood
+image:DIVINE COMEDY/2010 - Bang Goes The Knighthood/cover.jpg[Bang Goes The Knighthood,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Divine Comedy – Tonight We Fly
+Divine Comedy – Something For The Weekend
+Divine Comedy – Everybody Knows (Except You)
+Divine Comedy – Eric The Gardener
+Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_the_pact[The Pact]
+
+++++
+<br clear="both">
+++++
+
 === Культура, 4 сентября 2022
 
 <https://aerostatbg.ru/release/900>
@@ -59,8 +111,10 @@ Helmut Jost – Trumpet Concerto in E-flat major: II. Adagio (Franz Joseph Haydn
 
 <https://aerostatbg.ru/release/899>
 
+.Аквариум – Учение свет
+image:AQUARIUM/2022 - Дом Всех Святых/cover.jpg[Дом Всех Святых,200,200,role="thumb left"]
+
 [%hardbreaks]
-Аквариум – Учение свет
 Аквариум – Великий змей
 Аквариум – Вино из песка
 Аквариум – Ворожба
