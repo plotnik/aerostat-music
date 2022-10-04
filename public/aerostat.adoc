@@ -21,7 +21,49 @@ code {
                                                                           
 == 36.
 
-=== Nu September Songs, 11 сентября 2022
+=== New October, 2 октября 2022
+
+<https://aerostatbg.ru/release/904>
+
+[%hardbreaks]
+Luke Sital-Singh – Dressing Like A Stranger
+Afghan Whigs – The Getaway
+Daniel Lanois – Zsa Zsa
+Souad Massi – Une seule étoile
+Lightning Seeds – Emily Smiles
+Will Van Horn – Attwater
+Jesca Hoop – Sudden Light
+Dry Cleaning – Gary Ashby
+Hagop Tchaparian – Raining
+Parekh & Singh – Bedouin
+Mike Adams At His Honest Weight – Open Heart
+
+++++
+<br clear="both">
+++++
+
+=== Культура и Бизнес, 25 сентября 2022
+
+<https://aerostatbg.ru/release/903>
+
+.Mike Oldfield – To France
+image:Mike Oldfield/2019 - Essential Collection/front.jpg[Essential Collection,200,200,role="thumb left"]
+
+.Аквариум – Махамайя
+image:AQUARIUM/2022 - Дом Всех Святых/cover.jpg[Дом Всех Святых,200,200,role="thumb left"]
+
+[%hardbreaks]
+After Class – Farewell to Whiskey
+Mike Oldfield – Foreign Affair
+Kaleidoscope – Dear Nellie Goodrich
+George Harrison – Behind This Locked Door
+David Bowie – China Girl
+
+++++
+<br clear="both">
+++++
+
+=== Nu September Songs, 18 сентября 2022
 
 <https://aerostatbg.ru/release/902>
 
@@ -62,9 +104,11 @@ image:DIVINE COMEDY/2010 - Bang Goes The Knighthood/cover.jpg[Bang Goes The Knig
 <br clear="both">
 ++++
 
+.Divine Comedy – Something For The Weekend
+image:DIVINE COMEDY/2022 - Charmed Life - The Best Of The Divine Comedy/cover.jpg[Charmed Life - The Best Of The Divine Comedy,200,200,role="thumb left"]
+
 [%hardbreaks]
 Divine Comedy – Tonight We Fly
-Divine Comedy – Something For The Weekend
 Divine Comedy – Everybody Knows (Except You)
 Divine Comedy – Eric The Gardener
 Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_the_pact[The Pact]
