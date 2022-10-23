@@ -25,7 +25,7 @@ h3 {
 <http://old.aquarium.ru/misc/aerostat/aerostat510.html>
 
 .John Surman - Whistman's Wood
-image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
+image:John Surman/Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
 
 [%hardbreaks]
 Troyka - Arcades
@@ -649,6 +649,8 @@ Alan Price – My Home Town
 Coope, Boyes & Sipson – Now Is The Cool Of The Day
 Cake – Palm Of Your Hand
 Rolling Stones – Love In Vain
+
+---
 
 > link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]

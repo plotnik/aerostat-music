@@ -85,7 +85,7 @@ Magic - Rude
 <http://old.aquarium.ru/misc/aerostat/aerostat533.html>
 
 .John Surman - Dark Reflections
-image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
+image:John Surman/Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
 
 [%hardbreaks]
 Derek Bell - Untitled Air/Colonel O'Hara
@@ -131,7 +131,7 @@ Lumier - Wind That Shakes The Barley
 image:Stravinsky - Pulcinella (Suite)/cover.jpg[Pulcinella (Suite),200,200,role="thumb left"]
 
 .John Surman - On Staddon Heights
-image:John Surman - Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
+image:John Surman/Saltash Bells/cover.jpg[Saltash Bells,200,200,role="thumb left"]
 
 .Brian Eno - The River
 image:BRIAN ENO/David Byrne,  Brian Eno - Everything That Happens Will Happen Today/folder.jpg[Everything That Happens Will Happen Today,200,200,role="thumb left"]
@@ -606,6 +606,8 @@ Harold Budd/Brian Eno – A Stream With Bright Fish
 Dennis Brown – Money In My Pocket
 Aluminum Group – Two Bit Faux Construction Song
 Wings – Walking In The Park With Elois
+
+---
 
 > link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]

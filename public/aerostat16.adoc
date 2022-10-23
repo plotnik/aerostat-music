@@ -490,6 +490,8 @@ Kan - Coriolis
 Jim Reid - Wild Geese
 Breabach - Lochaber No More
 
+---
+
 > link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]
 > link:lyrics.html[<Lyrics>]

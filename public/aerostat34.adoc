@@ -669,5 +669,8 @@ Mdou Moctar – Tarhatazed
 Al Stewart – Lover Man
 Joe Brown – I Like Bananas
 
+---
+
+> link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]
 > link:lyrics.html[<Lyrics>]

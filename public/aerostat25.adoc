@@ -719,6 +719,8 @@ Small Faces - Happiness Stan
 Small Faces - Green Circles
 Small Faces - Afterglow Of Your Love
 
+---
+
 > link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]
 > link:lyrics.html[<Lyrics>]

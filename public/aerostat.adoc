@@ -1,6 +1,7 @@
 = Радио Аэростат
 :toc: left
 
+> link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]
 > link:lyrics.html[<Lyrics>]
 
@@ -219,11 +220,13 @@ image:AQUARIUM/2022 - Дом Всех Святых/cover.jpg[Дом Всех С�
 .Kate Rusby feat. Sam Kelly – Blooming Heather @30
 image:KATE RUSBY/2022 - 30 - Happy Returns/cover.jpg[30 - Happy Returns,200,200,role="thumb left"]
 
+.John Surman – Druid's Circle
+image:John Surman/1995 - A Biography of the Rev Absalom Dawe/Cover.jpg[A Biography of the Rev Absalom Dawe,200,200,role="thumb left"]
+
 [%hardbreaks]
 Pier  Damiano Peretti – Toccata Prima (Kerll)
 Aggrolites – Love Isn't Love
 Eurythmics – A Little Of You
-John Surman – Druid's Circle
 John Smith – Another Country
 Johann Sebastian Bach – Orchestral Suite No. 1 in C major: 1. Ouverture (The English Concert, Trevor Pinnock)
 Françoise Hardy & Iggy Pop – I'll Be Seeing You
@@ -406,3 +409,9 @@ Sun's Signature – Apples
 ++++
 <br clear="both">
 ++++ 
+
+---
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
