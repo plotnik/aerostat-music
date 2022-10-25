@@ -22,6 +22,38 @@ code {
                                                                           
 == 36.
 
+=== To & Сё № 27, 23 октября 2022
+
+<https://aerostatbg.ru/release/907>
+
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%202012%20-%20Old%20Ideas/lyrics/old.html#_different_sides[Different Sides]
+image:LEONARD COHEN/Leonard Cohen 2012 - Old Ideas/Old ideas Cover.jpg[Old Ideas,200,200,role="thumb left"]
+
+.Procol Harum - link:PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_a_christmas_camel[A Christmas Camel]
+image:PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
+
+.George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html#_here_comes_the_moon[Here Comes The Moon]
+image:GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989/Folder.jpg[Best Of Dark Horse 1976-1989,200,200,role="thumb left"]
+
+.Brian Eno – I'm Hardly Me
+image:BRIAN ENO/2022 - ForeverAndEverNoMore/FOREVERANDEVERNOMORE.jpg[ForeverAndEverNoMore,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Paul McCartney – You Gave Me The Answer
+Nat King Cole – Nature Boy
+Doors – Alabama Song (Whisky Bar)
+Al-Qasar – Benzine
+Beatles – I'll Get You
+Bing Crosby – Getting To Know You
+
+++++
+<br clear="both">
+++++
+
 === New Names, 16 октября 2022
 
 <https://aerostatbg.ru/release/906>
