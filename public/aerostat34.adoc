@@ -184,11 +184,15 @@ image:Gene Clark/1987 - So Rebellious A Lover/cover.jpg[So Rebellious A Lover,20
 <br clear="both">
 ++++
 
+.Animal Collective – My Girls
+image:Animal Collective/2009 - Merriweather Post Pavilion/Folder.jpg[Merriweather Post Pavilion,200,200,role="thumb left"]
+
+.Merrymakers – I'm In... Love!
+image:Merrymakers 1997 - Bubblegun/cover.jpg[Bubblegun,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chas & Dave – Where Am I Gonna Find Ya?
-Merrymakers – I'm In... Love!
 Brain Damage & Big Youth – Good To Talk
-Animal Collective – My Girls
 Pomerium – Missa Hercules dux Ferrariae: IV. Sanctus
 
 ++++
@@ -215,9 +219,11 @@ image:EELS/2022 - Extreme Witchcraft/cover.png[Extreme Witchcraft,200,200,role="
 <br clear="both">
 ++++
 
+.Low – All Night
+image:Low/2021 - Hey What/Cover.jpg[Hey What,200,200,role="thumb left"]
+
 [%hardbreaks]
 Ed Sheeran – Shivers
-Low – All Night
 Rolling Stones – Living In The Heart Of Love
 Sting – If It's Love
 Rod Stewart – One More Time

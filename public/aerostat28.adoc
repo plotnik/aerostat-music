@@ -133,7 +133,7 @@ image:RICHARD THOMPSON/2018 - 13 Rivers/cover.jpg[13 Rivers,200,200,role="thumb 
 ++++
 
 .Low - Disarray
-image:Low - Double Negative/cover.jpg[Double Negative,200,200,role="thumb left"]
+image:Low/2018 - Double Negative/cover.jpg[Double Negative,200,200,role="thumb left"]
 
 .Aphex Twin - t69 Collapse
 image:APHEX TWIN/Collapse EP (2018)/cover.jpg[Collapse EP (2018),200,200,role="thumb left"]

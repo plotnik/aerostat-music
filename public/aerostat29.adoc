@@ -332,7 +332,7 @@ image:Jon Hopkins - Singularity/cover.jpg[Singularity,200,200,role="thumb left"]
 image:RICHARD THOMPSON/2018 - 13 Rivers/cover.jpg[13 Rivers,200,200,role="thumb left"]
 
 .Low - Poor Sucker
-image:Low - Double Negative/cover.jpg[Double Negative,200,200,role="thumb left"]
+image:Low/2018 - Double Negative/cover.jpg[Double Negative,200,200,role="thumb left"]
 
 .David Byrne - link:David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html#_i_dance_like_this[I Dance Like This]
 image:David Byrne - American Utopia/Cover.jpg[American Utopia,200,200,role="thumb left"]
