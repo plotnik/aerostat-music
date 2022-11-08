@@ -53,7 +53,7 @@
 - link:./DONOVAN/Donovan%20-%20Greatest%20Hits/lyrics/greatest.html[DONOVAN/Donovan - Greatest Hits]
 - link:./DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html[DONOVAN/Donovan - HMS Donovan]
 - link:./DONOVAN/links.html[DONOVAN]
-- link:./Doors%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html[Doors - Waiting For The Sun]
+- link:./DOORS/1968%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html[DOORS/1968 - Waiting For The Sun]
 - link:./Dubliners%20-%2020%20Original%20Greatest%20Hits/lyrics/dubliners.html[Dubliners - 20 Original Greatest Hits]
 - link:./Duckworth%20Lewis%20Method/2009%20-%20The%20Duckworth%20Lewis%20Method/lyrics/duckworth.html[Duckworth Lewis Method/2009 - The Duckworth Lewis Method]
 

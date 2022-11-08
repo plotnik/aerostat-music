@@ -512,6 +512,9 @@ image:AQUARIUM/БГ - Знак Огня/cover.jpg[Знак Огня,200,200,role
 .Ian Anderson – Photo Shop
 image:JETHRO TULL/IA - Rupis Dance (2003)/cover.jpg[Rupis Dance (2003),200,200,role="thumb left"]
 
+.Doors – Strange Days
+image:DOORS/1967 - Strange Days/cover.jpg[Strange Days,200,200,role="thumb left"]
+
 [%hardbreaks]
 Rolling Stones – Child Of The Moon
 David Bowie – Sorrow
@@ -519,7 +522,6 @@ Lou Reed – Ride Sally Ride
 Queen – I'm Going Slightly Mad
 Little Richard – I Got It
 Beatles – What You're Doing
-Doors – Strange Days
 Eurythmics – Thorn In My Side
 Robert Plant – The Only Sound That Matters
 

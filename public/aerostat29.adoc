@@ -46,6 +46,10 @@ Drugdealer feat. Weyes Blood - Honey
 Ruth Notman & Sam Kelly - Caw The Yowes
 Sly & Robbie feat. Michael Rose, Mykal Rose, Sidney Mills & Don Camel - This Morning
 
+++++
+<br clear="both">
+++++
+
 === «Stand Up» (словами авторов), 14 апреля 2019
 
 <https://aerostatica.ru/2019/04/14/726-stand-up-slovami-avtorov/>
@@ -63,6 +67,10 @@ Jethro Tull - For A Thousand Mothers
 Jethro Tull - Reasons For Waiting
 Jethro Tull - We Used To Know
 Jethro Tull - Look Into The Sun
+
+++++
+<br clear="both">
+++++
 
 === Krautrock, 7 апреля 2019
 
@@ -82,6 +90,9 @@ Harmonia - Watussi
 Faust - Jennifer
 Kraftwerk - Metropolis
 
+++++
+<br clear="both">
+++++
 
 === Новые имена, 31 марта 2019
 
@@ -97,6 +108,9 @@ Telekinesis - Set A Course
 Neu! - Hallogallo
 The 1975 - Sincerity Is Scary
 
+++++
+<br clear="both">
+++++
 
 === Muddy Waters, 24 марта 2019
 
@@ -116,6 +130,9 @@ Muddy Waters - Young Fashioned Ways
 Muddy Waters - Louisiana Blues
 Muddy Waters - Just Make Love To Me
 
+++++
+<br clear="both">
+++++
 
 === Дэвид Сильвиан, 17 марта 2019
 
@@ -130,6 +147,9 @@ David Sylvian - The Good Son
 David Sylvian & Nine Horses - Money For All
 David Sylvian - The Only Daughter
 
+++++
+<br clear="both">
+++++
 
 === И то, и сё, 10 марта 2019
 
@@ -225,14 +245,19 @@ Bob Marley & The Wailers - Ride Natty Ride
 
 <https://aerostatica.ru/2019/02/17/718-iz-kakogo-sora-2/>
 
+.Doors - Light My Fire
+image:DOORS/1967 - The Doors/Folder.jpg[The Doors,200,200,role="thumb left"]
+
 [%hardbreaks]
 George Frideric Handel - Semele: Where’er You Walk
 Bauhaus - Bela Lugosi’s Dead
 Spirit - Fresh-Garbage
 Public Enemy - Don’t Believe The Hype
 John Martyn - Solid Air
-Doors - Light My Fire
 
+++++
+<br clear="both">
+++++
     
 === Howlin’ Wolf, 10 февраля 2019
 
@@ -253,6 +278,9 @@ Howlin’ Wolf - The Red Rooster
 Howlin’ Wolf - Killing Floor
 Howlin’ Wolf - The Sun Is Rising
 
+++++
+<br clear="both">
+++++
 
 === Химолк, 3 февраля 2019
 
@@ -274,6 +302,10 @@ Ian Campbell Folk Group - Twa Recruiting Sergeants
 Andy M. Stewart - Patrick Sheehan
 Dransfield - What Will We Tell Them?
 
+++++
+<br clear="both">
+++++
+
 === «Лилит», 27 января 2019
 
 <https://aerostatica.ru/2019/01/27/715-lilit/>
@@ -288,6 +320,10 @@ Dransfield - What Will We Tell Them?
 БГ - Капитан Белый Снег
 БГ - По дороге в Дамаск
 БГ - Если бы не ты
+
+++++
+<br clear="both">
+++++
 
 === Новые песни января, 20 января 2019
 
@@ -304,6 +340,9 @@ Beat feat. Ranking Roger - Who’s Dat Looking
 Аквариум - Бабушки
 Paul McCartney - Get Enough
 
+++++
+<br clear="both">
+++++
 
 === Лучшие альбомы 2018, 13 января 2019
 
@@ -376,6 +415,9 @@ Shirley & Dolly Collins - Lord Allenwater
 Eric Andersen - Just A Country Dream
 Tom Paxton - My Lady’s A Wild, Flying Dove
 
+++++
+<br clear="both">
+++++
 
 === С наступающим! 30 декабря 2018
 
@@ -429,6 +471,10 @@ Cocteau Twins - Winter Wonderland
 T. Rex ‎– Christmas Bop
 Bing Crosby - White Christmas
 
+++++
+<br clear="both">
+++++
+
 === Карбонара, 16 декабря 2018
 
 <https://aerostatica.ru/2018/12/16/709-karbonara/>
@@ -444,6 +490,10 @@ Alternative TV - Action Time Vision
 Alternative TV - Vibing Up The Senile Man
 Rolling Stones - I Got The Blues
 Tom Petty - Around The Roses
+
+++++
+<br clear="both">
+++++
 
 === Начало блюза, 9 декабря 2018
 
@@ -464,6 +514,10 @@ Howlin’ Wolf ‎– Smokestack Lightning
 Muddy Waters - I’m Your Hoochie Coochie Man
 Skip James - Hard Times Killing Floor Blues
 
+++++
+<br clear="both">
+++++
+
 === Новые имена, 2 декабря 2018
 
 <https://aerostatica.ru/2018/12/02/707-novye-imena/>
@@ -480,6 +534,9 @@ Pandit Ajay Pohankar - Des Birana’
 Motorama - Heavy Wave
 Matshikos - New South Africa
 
+++++
+<br clear="both">
+++++
 
 === Новые песни декабря, 25 ноября 2018
 
@@ -516,6 +573,10 @@ Alice Coltrane - Radhe-Shyam
 Alice Coltrane - Sita Ram
 Alice Coltrane - Jagadishwar
 
+++++
+<br clear="both">
+++++
+
 === The Band, 11 ноября 2018
 
 <https://aerostatica.ru/2018/11/11/704-the-band/>
@@ -534,6 +595,9 @@ Band - Rag Mama Rag
 Band - The Weight
 Bob Dylan & The Band - You Ain’t Goin’ Nowhere
 
+++++
+<br clear="both">
+++++
 
 === Новые в ноябре, 4 ноября 2018
 
@@ -584,6 +648,9 @@ Mick West & Muldoon’s Picnic - Will Ye Go Tae Flanders
 Malinky - Pad The Road Wi’ Me
 Gráinne Hambly - Tosa Waltz
 
+++++
+<br clear="both">
+++++
     
 === Ultravox, 21 октября 2018
 
@@ -601,6 +668,10 @@ Ultravox - All Fall Down
 Ultravox - We Came To Dance
 Ultravox - Love’s Great Adventure
 
+++++
+<br clear="both">
+++++
+
 === Семисотая, 14 октября 2018
 
 <https://aerostatica.ru/2018/10/14/700-semisotaya/>
@@ -608,8 +679,8 @@ Ultravox - Love’s Great Adventure
 .Tom Petty - I Don’t Belong
 image:TOM PETTY/Tom Petty 2008 - An American Treasure/cover.jpg[An American Treasure,200,200,role="thumb left"]
 
-.Doors - link:Doors%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html#_yes_the_river_knows[Yes, The River Knows]
-image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
+.Doors - link:DOORS/1968%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html#_yes_the_river_knows[Yes, The River Knows]
+image:DOORS/1968 - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
 
 .Steeleye Span - Batchelors Hall
 image:STEELEYE SPAN/Steeleye Span - All Around My Hat/cover.jpg[All Around My Hat,200,200,role="thumb left"]
@@ -628,6 +699,10 @@ Gilbert O’Sullivan - Alone Again (Naturally)
 Peter Сase - On The Way Downtown
 Paul McCartney - Do It Now
 Tom Petty - Keeping Me Alive
+
+++++
+<br clear="both">
+++++
 
 ---
 

@@ -337,9 +337,9 @@ image:ENYA/enya-02-Shepherd Moons 1991/cover.jpg[02-Shepherd Moons 1991,200,200,
 .David Sylvian – Silver Moon
 image:David Sylvian/1986 - Gone To Earth/folder.jpg[Gone To Earth,200,200,role="thumb left"]
 
-.Doors – My Wild Love
-image:Doors - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
-    
+.Doors - link:DOORS/1968%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html#_my_wild_love[My Wild Love]
+image:DOORS/1968 - Waiting For The Sun/Waiting For The Sun.jpg[Waiting For The Sun,200,200,role="thumb left"]
+
 ++++
 <br clear="both">
 ++++    
@@ -598,7 +598,7 @@ Robert Plant & Alison Krauss - link:ROBERT%20PLANT/Robert%20Plant%20&%20Alison%2
 <https://aerostatbg.ru/release/865>
 
 .Doors – Crawling King Snake
-image:Doors - LA Woman/front.png[LA Woman,200,200,role="thumb left"]
+image:DOORS/1971 - LA Woman/front.png[LA Woman,200,200,role="thumb left"]
 
 .Beatles – Julia
 image:THE BEATLES/The Beatles - White Album CD 1/cover.jpg[White Album CD 1,200,200,role="thumb left"]

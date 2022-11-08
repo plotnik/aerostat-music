@@ -22,6 +22,26 @@ code {
                                                                           
 == 36.
 
+=== New November Songs, 6 ноября 2022
+
+<https://aerostatbg.ru/release/909>
+
+[%hardbreaks]
+Taylor Swift – You're On Your Own, Kid
+Björk – Mycelia
+Gorillaz feat. Thundercat – Cracker Island
+Queen – Face It Alone
+Gaye Su Akyol – Sen benim mağaramsın
+Kabaka Pyramid feat. Damian Marley – Red Gold And Green
+Jean-Michel Jarre – Zeitgeist
+Sarathy Korwar feat. Photay – Remember Begum Rokheya
+Al-Qasar feat. Lee Ranaldo – Awal
+Caitlin Rose – Nobody's Sweetheart
+
+++++
+<br clear="both">
+++++
+
 === Samhain: Невидимый Мир, 23 октября 2022
 
 <https://aerostatbg.ru/release/908>
@@ -65,12 +85,18 @@ image:BRIAN ENO/2022 - ForeverAndEverNoMore/FOREVERANDEVERNOMORE.jpg[ForeverAndE
 <br clear="both">
 ++++
 
+.Al-Qasar – Benzine
+image:Al-Qasar 2022 - Who Are We/cover.jpg[Qasar 2022 - Who Are We,200,200,role="thumb left"]
+
+.Beatles – I'll Get You
+image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
+
+.Doors – Alabama Song (Whisky Bar)
+image:DOORS/1967 - The Doors/Folder.jpg[The Doors,200,200,role="thumb left"]
+
 [%hardbreaks]
 Paul McCartney – You Gave Me The Answer
 Nat King Cole – Nature Boy
-Doors – Alabama Song (Whisky Bar)
-Al-Qasar – Benzine
-Beatles – I'll Get You
 Bing Crosby – Getting To Know You
 
 ++++

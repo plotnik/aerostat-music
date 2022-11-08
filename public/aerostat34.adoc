@@ -222,8 +222,10 @@ image:EELS/2022 - Extreme Witchcraft/cover.png[Extreme Witchcraft,200,200,role="
 .Low – All Night
 image:Low/2021 - Hey What/Cover.jpg[Hey What,200,200,role="thumb left"]
 
+.Ed Sheeran – Shivers
+image:Ed Sheeran/2021 - Equals/folder.jpg[Equals,200,200,role="thumb left"]
+
 [%hardbreaks]
-Ed Sheeran – Shivers
 Rolling Stones – Living In The Heart Of Love
 Sting – If It's Love
 Rod Stewart – One More Time
