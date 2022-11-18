@@ -155,8 +155,8 @@ David Sylvian - The Only Daughter
 
 <https://aerostatica.ru/2019/03/10/721-i-to-i-syo/>
 
-.Specials - link:Specials%20-%20Encore%20(Deluxe)/lyrics/encore.html#_the_lunatics[The Lunatics]
-image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+.Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_the_lunatics[The Lunatics]
+image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
 
 .Leonard Cohen - So Long, Marianne
 image:LEONARD COHEN/01-Songs Of Leonard Cohen (1967)/cover.jpg[Songs Of Leonard Cohen (1967),200,200,role="thumb left"]
@@ -183,8 +183,8 @@ Sha Na Na - Witch Doctor
 .Pet Shop Boys - Give Stupidity A Chance
 image:Pet Shop Boys 2019 - Agenda/cover.jpg[Agenda,200,200,role="thumb left"]
 
-.Specials - link:Specials%20-%20Encore%20(Deluxe)/lyrics/encore.html#_breaking_point[Breaking Point]
-image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+.Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_breaking_point[Breaking Point]
+image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
 
 .Lambchop - Everything For You
 image:LAMBCHOP/Lambchop 2019 - This (is what I wanted to tell you)/cover.jpg[This (is what I wanted to tell you),200,200,role="thumb left"]

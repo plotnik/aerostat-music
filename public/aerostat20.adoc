@@ -301,8 +301,8 @@ Malawi Mouse Boys – Machimo Anga Ngambir
 
 <http://old.aquarium.ru/misc/aerostat/aerostat473.html>
 
-.The Specials - link:Specials%20-%20Encore%20(Deluxe)/lyrics/encore.html#_gangsters[Gangsters]
-image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+.The Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_gangsters[Gangsters]
+image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
 
 [%hardbreaks]
 The Specials – (Dawning Of A) New Era
@@ -326,8 +326,8 @@ The Specials – Enjoy Yourself
 .Morrissey – World Peace Is None Of Your Business
 image:MORRISSEY/2014 - World Peace Is None Of Your Business/cover.jpg[World Peace Is None Of Your Business,200,200,role="thumb left"]
 
-.Specials – Friday Night Saturday Morning
-image:Specials - Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+.Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_friday_night_saturday_morning[Friday Night Saturday Morning]
+image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
 
 .Anoushka Shankar – River Pulse
 image:Anoushka Shankar - Traces of You/Cover.jpg[Traces of You,200,200,role="thumb left"]

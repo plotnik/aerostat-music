@@ -319,9 +319,11 @@ Rakesh Chaurasia, Sunil Das, Ulhas Bapat, Zarin Daruwala, Akhlak Hussain, Bhavan
 .Robert Plant & Alison Krauss - link:ROBERT%20PLANT/Robert%20Plant%20&%20Alison%20Krauss%20-%202021%20-%20Raise%20The%20Roof%20(Deluxe%20Edition)%20(24bit-96kHz)/lyrics/roof.html#_cant_let_go[Can't Let Go]
 image:ROBERT PLANT/Robert Plant & Alison Krauss - 2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz)/Cover.jpg[2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz),200,200,role="thumb left"]
 
+.Specials – Everybody Knows
+image:Specials/Protest songs 1924-2012/cover.png[2012,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fanfárový orchestr Hradní stráže – Johann Christoph Pezel: Intrada II
-Specials – Everybody Knows
 Gorillaz feat. AJ Tracey – Jimmy Jimmy
 Jimmy Cliff – Human Touch
 Big Red Machine feat Taylor Swift – Renegade
