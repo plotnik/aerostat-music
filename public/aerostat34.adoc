@@ -356,10 +356,12 @@ image:BOB DYLAN/Bob Dylan 1981 - Shot Of Love/cover.jpg[Shot Of Love,200,200,rol
 <br clear="both">
 ++++
 
+.Hollies – King Midas In Reverse
+image:Hollies - 30th Anniversary Collection/cover.jpg[30th Anniversary Collection,200,200,role="thumb left"]
+
 [%hardbreaks]
 Baltimore Consort – Nuttmigs And Ginger
 Sri Chinmoy – Jedike Phirai
-Hollies – King Midas In Reverse
 Mills Brothers – Ain't Misbehavin'
 Midlake – We Gathered In Spring
 Pomerium – Timor et tremor

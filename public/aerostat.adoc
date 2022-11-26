@@ -22,9 +22,29 @@ code {
                                                                           
 == 36.
 
+=== New Имена, 13 ноября 2022
+
+<https://aerostatbg.ru/release/911>
+
+[%hardbreaks]
+Neneh Cherry – Buffalo Stance
+Ventures – Walk, Don't Run
+Khruangbin – Connaissais de Face
+Shervin Hajipour – Baraye
+Bill Frisell & Petra Haden – Yellow
+Orchestra Baobab feat. Medoune Diallo – El son te llama
+Mickey Jupp – I Thought I Heard Something
+Weyes Blood – Summer
+Big Joanie – How Could You Love Me
+Ramsey Lewis – Summer Samba
+
+++++
+<br clear="both">
+++++
+
 === Британское Рэгге, 13 ноября 2022
 
-<https://aerostatbg.ru/release/909>
+<https://aerostatbg.ru/release/910>
 
 [%hardbreaks]
 UB40 – One In Ten
