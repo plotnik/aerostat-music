@@ -22,7 +22,79 @@ code {
                                                                           
 == 36.
 
-=== New Имена, 13 ноября 2022
+=== Новые Песни Декабря, 11 декабря 2022
+
+<https://aerostatbg.ru/release/914>
+
+[%hardbreaks]
+Dub Pistols & Freestylers feat. Horseman – Nice Up
+David Byrne – The Fat Man's Comin'
+Metallica – Lux Æterna
+Brian Eno & Jean-Michel Jarre – Epica Extension
+Phoenix – Alpha Zulu
+Dermot Kennedy – Any Love
+Plaid – Return To Return
+Леонид Фёдоров – Пчела
+Jockstrap – Glasgow
+Neil Young & Crazy Horse – Love Earth
+Morrissey – Rebels Without Applause
+
+++++
+<br clear="both">
+++++
+
+=== Bob Dylan. Rough and Rowdy Ways, 4 декабря 2022
+
+<https://aerostatbg.ru/release/913>
+
+.Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_mother_of_muses[Mother Of Muses]
+image:BOB DYLAN/2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,200,role="thumb left"]
+
+[%hardbreaks]
+
+Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_goodbye_jimmy_reed[Goodbye Jimmy Reed]
+Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_i_ve_made_up_my_mind_to_give_myself_to_you[I've Made Up My Mind To Give Myself To You]
+Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_black_rider[Black Rider]
+Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_crossing_the_rubicon[Crossing The Rubicon]
+Bob Dylan - link:BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html#_key_west_philosopher_pirate[Key West (Philosopher Pirate)]
+
+++++
+<br clear="both">
+++++
+
+=== То да Сё в День Рождения, 27 ноября 2022
+
+<https://aerostatbg.ru/release/912>
+
+.Beatles – I've Just Seen A Face
+image:THE BEATLES/The Beatles - Help!/front.jpg[Help!,200,200,role="thumb left"]
+
+.Jethro Tull – Back-Door Angels
+image:JETHRO TULL/1974  War Child/cover.jpg[1974  War Child,200,200,role="thumb left"]
+
+.Donovan – Guinevere
+image:DONOVAN/Donovan - In Concert/donovan_livef.jpg[In Concert,200,200,role="thumb left"]
+
+.New Vaudeville Band – Green Street Green
+image:New Vaudeville Band - Winchester Cathedral/cover.jpg[Winchester Cathedral,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Jimi Hendrix – Remember
+George Harrison – Drilling A Home
+Rolling Stones – Saint Of Me
+George Harrison – Soft Touch
+Robert Palmer – History
+Pugwash – Omega Man
+    
+++++
+<br clear="both">
+++++
+
+=== New Имена, 20 ноября 2022
 
 <https://aerostatbg.ru/release/911>
 
