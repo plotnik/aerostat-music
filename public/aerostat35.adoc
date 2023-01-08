@@ -42,7 +42,7 @@ Ziggy Marley, Stephen Marley & Damian Marley feat. Marley Brothers, Ky-Mani Marl
 
 <https://aerostatbg.ru/release/888>
 
-.Magnetic Fields – '86: How I Failed Ethics
+.Magnetic Fields - link:Magnetic%20Fields/2017%20-%2050%20Song%20Memoir/lyrics/50.html#_86_how_i_failed_ethics['86: How I Failed Ethics]
 image:Magnetic Fields/2017 - 50 Song Memoir/cover.jpg[50 Song Memoir,200,200,role="thumb left"]
 
 .Donovan – Young Girl Blues
@@ -58,8 +58,10 @@ image:Ink Spots - The Very Best/Folder.jpg[The Very Best,200,200,role="thumb lef
 <br clear="both">
 ++++ 
 
+.Jimmy Page & Robert Plant – Nobody's Fault But Mine
+image:LED ZEPPELIN/Led Zeppelin - Presence/Presence.jpg[Presence,200,200,role="thumb left"]
+
 [%hardbreaks]
-Jimmy Page & Robert Plant – Nobody's Fault But Mine
 Johann Sebastian Bach – Mass in B minor: Kyrie eleison
 Incredible String Band – My Name Is Death
 Idle Race – Lucky Man
@@ -533,12 +535,16 @@ image:RICHARD THOMPSON/1968_2009 - Walking on a Wire/cover.png[Walking on a Wire
 <br clear="both">
 ++++
 
+.Andy M. Stewart – The Echo Mocks The Corncake
+image:ANDY STEWART/Andy M Stewart - Man In The Moon/cover.jpg[Man In The Moon,200,200,role="thumb left"]
+
+.Archie Fisher – Bogie's Bonny Belle
+d:\Music\ARCHIE FISHER\2008 - Windward Away\cover.jpg
+
 [%hardbreaks]
 Louis Armstrong – All Of Me
 Jack Bruce – Folk Song
 Lonnie Johnson – Blue Ghost Blues
-Andy M. Stewart – The Echo Mocks The Corncake
-Archie Fisher – Bogie's Bonny Belle
 Jacco Gardner – Lullaby
 Fanfare Orchestra Of The Castle Guard – Michael Praetorius: Moderato
     
@@ -616,8 +622,10 @@ image:SIMON & GARFUNKEL/Simon & Garfunkel - Parsley, Sage, Rosemary and Thyme/co
 .Elliott Smith – Easy Way Out
 image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
 
+.Donovan – Legend Of A Young Girl Child Linda
+image:DONOVAN/1967 - Sunshine Superman/cover.jpg[Sunshine Superman,200,200,role="thumb left"]
+
 [%hardbreaks]
-Donovan – Legend Of A Young Girl Child Linda
 Primal Scream – Country Girl
 Nobukazu Takemura – Lost Treasure (4th Version)
 Michael Chapman – Naked Ladies And Electric Ragtime
@@ -637,9 +645,11 @@ image:Jonsi - Obsidian/cover.jpg[Obsidian,200,200,role="thumb left"]
 .Taylor Swift feat. Phoebe Bridgers – Nothing New
 image:Taylor Swift - Red/cover.jpg[Red,200,200,role="thumb left"]
 
+.Jethro Tull – Shoshana Sleeping
+image:JETHRO TULL/2022 - The Zealot Gene/folder.jpg[The Zealot Gene,200,200,role="thumb left"]
+
 [%hardbreaks]
 Deerhoof – Be Unbarred, O Ye Gates Of Hell
-Jethro Tull – Shoshana Sleeping
 Monoswezi – Hwiri Hwiri Hwiri
 Spiers & Boden – Bluey Brink
 Houeida Hedfi feat. Planningtorock – Namami Gange
@@ -676,10 +686,12 @@ image:THE BEATLES/1964a - A Hard Days Night/cover.jpg[A Hard Days Night,200,200,
 .T-Rex – Rock On
 image:T-REX/T-Rex - The Slider/cover.jpg[Rex - The Slider,200,200,role="thumb left"]
 
+.Johann Sebastian Bach – French Suite No. 5 in G major: II. Courante
+image:BACH/Glenn Gould - Bach - French Suites/folder.jpg[Bach - French Suites,200,200,role="thumb left"]
+
 [%hardbreaks]
 Donovan – Grace
 Peter Gabriel – Indigo
-Johann Sebastian Bach – French Suite No. 5 in G major: II. Courante
 Family – My Friend The Sun
 
 ++++
