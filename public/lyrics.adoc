@@ -8,6 +8,7 @@
 === A
 
 - link:./AQUARIUM/1992%20-%20Русский%20альбом/lyrics/rus.html[AQUARIUM/1992 - Русский альбом]
+- link:./AQUARIUM/БГ%20-%20Песни%20Бардов/lyrics/bards.html[AQUARIUM/БГ - Песни Бардов]
 - link:./ARCTIC%20MONKEYS/Arctic%20Monkeys%20-%20Tranquility%20Base%20Hotel%20Casino/lyrics/tranquility.html[ARCTIC MONKEYS/Arctic Monkeys - Tranquility Base Hotel Casino]
 - link:./ARCTIC%20MONKEYS/Beneath%20The%20Boardwalk/lyrics/boardwalk.html[ARCTIC MONKEYS/Beneath The Boardwalk]
 - link:./ARCTIC%20MONKEYS/links.html[ARCTIC MONKEYS]
