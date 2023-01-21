@@ -360,6 +360,9 @@ Shooglenifty – Venus In Tweeds
 
 <https://aerostatbg.ru/release/875>
 
+.Spiritualized – Stop Your Crying
+image:Spiritualized/2001 - Let It Come Down/cover.png[Let It Come Down,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fanfare Orchestra Of The Castle Guard – III. Presto
 Anthony B – Turn Up The Music
@@ -373,7 +376,7 @@ Ben Böhmer & Rob Moose feat. lau.ra – Erase (An Apparition)
 Andy Williams – My Happiness
 Yard Act – Witness (Can I Get A?)
 Jiang Liang – Wa Li Li
-Spiritualized – Stop Your Crying
+
     
 ++++
 <br clear="both">
@@ -389,6 +392,9 @@ image:JETHRO TULL/2022 - The Zealot Gene/folder.jpg[The Zealot Gene,200,200,role
 .Brian Eno – Little Apricot
 image:BRIAN ENO/1991 - My Squelchy Life/cover.jpg[My Squelchy Life,200,200,role="thumb left"]
 
+.Аквариум – Дом всех святых
+image:AQUARIUM/2022 - Дом Всех Святых/cover.jpg[Дом Всех Святых,200,200,role="thumb left"]
+
 [%hardbreaks]
 Fanfare Orchestra Of The Castle Guard – Johannes Eccard: Leggiero II
 Red Hot Chili Peppers – Black Summer
@@ -396,7 +402,6 @@ Collie Buddz & Bounty Killer – Twisted Agenda
 System Of A Down – Hypnotize
 Robin Laing – Black Art
 Martin Bozmarov – Le printemps
-Аквариум – Дом всех святых
 Black-Am-I feat. Kabaka Pyramid – Jah In My Corner
 
 ++++
@@ -429,13 +434,17 @@ Buzzard Buzzard Buzzard – Break Right In
 .Imagined Village – The Lark In The Morning
 image:The Imagined Village/2010 - Empire & Love/cover.jpg[Empire & Love,200,200,role="thumb left"]
 
+.5 Hand Reel – When A Man's In Love
+image:5 Hand Reel/1976 - Five Hand Reel/cover.jpg[Five Hand Reel,200,200,role="thumb left"]
+
+.Chieftains – Mná na h-Éireann
+image:Chieftains/The Very Best/cover.jpg[The Very Best,200,200,role="thumb left"]
+
 [%hardbreaks]
 Dàimh – Òran Bhàgh a' Chàise
-5 Hand Reel – When A Man's In Love
 Hom Bru – Rowin Foula Doon
 Zehetmair Quartett – Schumann: String Quartet No.1 in A minor, Op.41 No.1 - 2. Scherzo (Presto) - Intermezzo
 Frédéric Chopin – Prelude No. 4 in E minor, Op. 28
-Chieftains – Mná na h-Éireann
 Goitse – Siobháinín Seó
 Lumiere feat. Sinéad O' Connor – Who Knows Where The Time Goes
 
@@ -539,7 +548,7 @@ image:RICHARD THOMPSON/1968_2009 - Walking on a Wire/cover.png[Walking on a Wire
 image:ANDY STEWART/Andy M Stewart - Man In The Moon/cover.jpg[Man In The Moon,200,200,role="thumb left"]
 
 .Archie Fisher – Bogie's Bonny Belle
-d:\Music\ARCHIE FISHER\2008 - Windward Away\cover.jpg
+image:ARCHIE FISHER/2008 - Windward Away/cover.jpg[Windward Away,200,200,role="thumb left"]
 
 [%hardbreaks]
 Louis Armstrong – All Of Me
@@ -565,13 +574,19 @@ image:BOB DYLAN/2020 - Rough And Rowdy Ways/cover.jpg[Rough And Rowdy Ways,200,2
 .Leon Redbone – Winter Wonderland
 image:LEON REDBONE/2001 - Christmas Island/folder.jpg[Christmas Island,200,200,role="thumb left"]
 
+.Аквариум – Вино из песка
+image:AQUARIUM/2022 - Дом Всех Святых/cover.jpg[Дом Всех Святых,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Ed Sheeran & Elton John – Merry Christmas
 Empire Brass Quintet & William Kuhlman – Trumpet Voluntary
 Elvis Presley – That's All Right
 Sonny Rollins – Don't Stop The Carnival
 Monkees – Tomorrow's Gonna Be Another Day
-Аквариум – Вино из песка
 Albion Christmas Band – God Bless The Master
 Bing Crosby – White Christmas
 
@@ -625,8 +640,10 @@ image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,ro
 .Donovan – Legend Of A Young Girl Child Linda
 image:DONOVAN/1967 - Sunshine Superman/cover.jpg[Sunshine Superman,200,200,role="thumb left"]
 
+.Primal Scream – Country Girl
+image:Primal Scream/2006 - Riot City Blues/folder.jpg[Riot City Blues,200,200,role="thumb left"]
+
 [%hardbreaks]
-Primal Scream – Country Girl
 Nobukazu Takemura – Lost Treasure (4th Version)
 Michael Chapman – Naked Ladies And Electric Ragtime
 Moody Blues – Are You Sitting Comfortable?
@@ -689,9 +706,15 @@ image:T-REX/T-Rex - The Slider/cover.jpg[Rex - The Slider,200,200,role="thumb le
 .Johann Sebastian Bach – French Suite No. 5 in G major: II. Courante
 image:BACH/Glenn Gould - Bach - French Suites/folder.jpg[Bach - French Suites,200,200,role="thumb left"]
 
+.Peter Gabriel – Indigo
+image:PETER GABRIEL/1978 - Scratch/cover.jpg[Scratch,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Donovan – Grace
-Peter Gabriel – Indigo
 Family – My Friend The Sun
 
 ++++

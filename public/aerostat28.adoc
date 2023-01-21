@@ -368,7 +368,7 @@ image:Shrek Soundtrack/cover.jpg[Shrek Soundtrack,200,200,role="thumb left"]
 image:BUDDY GUY/Buddy Guy 2013 - Rhythm and Blues/cover.jpg[Rhythm and Blues,200,200,role="thumb left"]
 
 .Primal Scream - Rocks
-image:Primal Scream 2001 - Give Out But Dont Give Up/cover.jpg[Give Out But Dont Give Up,200,200,role="thumb left"]
+image:Primal Scream/2001 - Give Out But Dont Give Up/cover.jpg[Give Out But Dont Give Up,200,200,role="thumb left"]
 
 [%hardbreaks]
 Primal Scream - Higher Than The Sun
