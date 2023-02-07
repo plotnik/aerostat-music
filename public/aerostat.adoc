@@ -22,11 +22,58 @@ code {
                                                                           
 == 37.
 
+=== Новые песни Февраля, 5 февраля 2023
+<https://aerostatbg.ru/release/922>
+
+[%hardbreaks]
+Sunny War – No Reason
+Mary Hopkin – Midsummer Dream
+Jethro Tull – Ginnungagap
+Ryuichi Sakamoto – 20211130
+Ryuichi Sakamoto & Hildur Guðnadóttir – World Citizen I Won't Be Disappointed
+Dave Gahan & Kurt Uenala – Chains
+Mary Wallopers – Cod Liver Oil & The Orange Juice
+Amber Arcades – Odd To Even
+Ian Hunter – Bed Of Roses
+    
+++++
+<br clear="both">
+++++
+
+=== Imbolc 2023, 29 января 2023
+<https://aerostatbg.ru/release/921>
+
+.Richard Thompson & Danny Thompson – Drifting Through The Days
+image:RICHARD THOMPSON/1997 - Industry/folder.jpg[Industry,200,200,role="thumb left"]
+
+.Archie Fisher & Garnet Rogers – The Winter It Is Past
+image:ARCHIE FISHER/1986 - Off The Map - With Garnet Rogers/off_the_map.jpg[Off The Map - With Garnet Rogers,200,200,role="thumb left"]
+
+.Battlefield Band – Shepherd Lad
+image:Battlefield Band - Happy Daze/front.jpg[Happy Daze,200,200,role="thumb left"]
+
+[%hardbreaks]
+Albion Band – Jacob's Well
+Karan Casey – Nine Apples Of Gold
+Lumiere – Don oíche úd í mBeithil
+Christy Moore – Where I Come From
+Duncan Chisholm – Black Cuillin
+Lumiere – Ye Jacobites
+Tannahill Weavers – Auld Lang Syne
+    
+++++
+<br clear="both">
+++++
+
+=== Новые песни Февраля
 === То да сё № 28, 22 января 2023
 <https://aerostatbg.ru/release/920>
 
 .David Bowie - link:DAVID%20BOWIE/The%20Rise%20And%20Fall%20Of%20Ziggy%20Stardust%20And%20The%20Spiders%20From%20Mars/lyrics/ziggy.html#_starman[Starman]
 image:DAVID BOWIE/The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/cover.png[The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,200,200,role="thumb left"]
+
+.Gryphon – Tea Wrecks
+image:Gryphon - 1973/front.jpg[1973,200,200,role="thumb left"]
 
 [%hardbreaks]
 George Frideric Handel – Water Piece, Suite in D major (HWV 341): V. March
@@ -34,7 +81,6 @@ Peter Gabriel – Panopticom
 Damian Marley – Looks Are Deceiving
 Gentle Giant – The Moon Is Down
 Serj Tankian feat. Sevak Amroyan – Amber
-Gryphon – Tea Wrecks
 Аквариум – Даже не думай об этом
 Pete Coe – Wait Till The Clouds Roll By
 

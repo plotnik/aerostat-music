@@ -41,6 +41,7 @@
 
 === D
 
+- link:./DAVID%20BOWIE/The%20Rise%20And%20Fall%20Of%20Ziggy%20Stardust%20And%20The%20Spiders%20From%20Mars/lyrics/ziggy.html[DAVID BOWIE/The Rise And Fall Of Ziggy Stardust And The Spiders From Mars]
 - link:./David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html[David Byrne - American Utopia]
 - link:./David%20Byrne%20-%20Grown%20Backwards/lyrics/backwards.html[David Byrne - Grown Backwards]
 - link:./DIVINE%20COMEDY/2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html[DIVINE COMEDY/2010 - Bang Goes The Knighthood]
@@ -213,6 +214,7 @@
 === В
 
 - link:./ВИЗБОР/01%20-%20Якоря%20не%20бросать/lyrics/vizbor01.html[ВИЗБОР/01 - Якоря не бросать]
+- link:./ВИЗБОР/02%20-%20А%20будет%20это%20так/lyrics/vizbor02.html[ВИЗБОР/02 - А будет это так]
 
 
 === Щ

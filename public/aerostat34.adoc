@@ -260,10 +260,12 @@ image:Melanie/2020 - What have they done to my song/cover.png[What have they don
 .Anne Briggs – The Recruited Collier
 image:Anne Briggs 1999 - A Collection/o65169.jpg[A Collection,200,200,role="thumb left"]
 
+.Cocteau Twins – Primitive Heart
+image:Cocteau Twins/2005 - Lullabies to Violaine CD4/cover.jpg[Lullabies to Violaine CD4,200,200,role="thumb left"]
+
 [%hardbreaks]
 Byrds – Have You Seen Her Face
 Robert Palmer – You're My Thrill
-Cocteau Twins – Primitive Heart
 
 ++++
 <br clear="both">
