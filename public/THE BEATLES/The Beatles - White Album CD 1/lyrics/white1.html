@@ -1,0 +1,1438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.18">
+<meta name="author" content="The Beatles">
+<title>White Album</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment the following line when using as a custom stylesheet */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+html{font-family:sans-serif;-webkit-text-size-adjust:100%}
+a{background:none}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+b,strong{font-weight:bold}
+abbr{font-size:.9em}
+abbr[title]{cursor:help;border-bottom:1px dotted #dddddf;text-decoration:none}
+dfn{font-style:italic}
+hr{height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type=checkbox],input[type=radio]{padding:0}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,::before,::after{box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;line-height:1;position:relative;cursor:auto;-moz-tab-size:4;-o-tab-size:4;tab-size:4;word-wrap:anywhere;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:0}
+p{line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:1px solid #dedede;word-wrap:normal}
+table thead,table tfoot{background:#f7f8f7}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt{background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.center{margin-left:auto;margin-right:auto}
+.stretch{width:100%}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre).nobreak{word-wrap:normal}
+:not(pre).nowrap{white-space:nowrap}
+:not(pre).pre-wrap{white-space:pre-wrap}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.2),inset 0 0 0 .1em #fff;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin:0 auto;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+#content{margin-top:1.25em}
+#content::before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border:1px solid #e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:none;background:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:hsla(0,0%,100%,.8);line-height:1.44}
+#content{margin-bottom:.625em}
+.sect1{padding-bottom:.625em}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details{margin-left:1.25rem}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
+details>summary::-webkit-details-marker{display:none}
+details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
+details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
+details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class=paragraph]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans-serif;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;font-size:.85rem;text-align:left;margin-right:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content{margin-bottom:1.25em;word-wrap:anywhere}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all>*>tr>*{border-width:1px}
+table.grid-cols>*>tr>*{border-width:0 1px}
+table.grid-rows>*>tr>*{border-width:1px 0}
+table.frame-all{border-width:1px}
+table.frame-ends{border-width:1px 0}
+table.frame-sides{border-width:0 1px}
+table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-child>*{border-top-width:0}
+table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
+table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
+table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
+table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+li>p:empty:only-child::before{content:"";display:inline-block}
+ul.checklist>li>p:first-child{margin-left:-1em}
+ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
+ul.inline{display:flex;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+td.hdlist2{word-wrap:anywhere}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:4px solid #fff;box-shadow:0 0 0 1px #ddd}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background:#00fafa}
+.black{color:#000}
+.black-background{background:#000}
+.blue{color:#0000bf}
+.blue-background{background:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background:#fa00fa}
+.gray{color:#606060}
+.gray-background{background:#7d7d7d}
+.green{color:#006000}
+.green-background{background:#007d00}
+.lime{color:#00bf00}
+.lime-background{background:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background:#7d0000}
+.navy{color:#000060}
+.navy-background{background:#00007d}
+.olive{color:#606000}
+.olive-background{background:#7d7d00}
+.purple{color:#600060}
+.purple-background{background:#7d007d}
+.red{color:#bf0000}
+.red-background{background:#fa0000}
+.silver{color:#909090}
+.silver-background{background:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background:#fafa00}
+span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);border-radius:50%;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]::after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]{border-bottom:1px dotted}
+abbr[title]::after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#header,#content,#footnotes,#footer{max-width:none}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span::before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+@media amzn-kf8,print{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>White Album</h1>
+<div class="details">
+<span id="author" class="author">The Beatles</span><br>
+<span id="revdate">1968</span>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_side_1">Side 1</a>
+<ul class="sectlevel2">
+<li><a href="#_back_in_the_u_s_s_r">Back in the U.S.S.R.</a></li>
+<li><a href="#_dear_prudence">Dear Prudence</a></li>
+<li><a href="#_glass_onion">Glass Onion</a></li>
+<li><a href="#_ob_la_di_ob_la_da">Ob-La-Di, Ob-La-Da</a></li>
+<li><a href="#_wild_honey_pie">Wild Honey Pie</a></li>
+<li><a href="#_the_continuing_story_of_bungalow_bill">The Continuing Story of Bungalow Bill</a></li>
+<li><a href="#_while_my_guitar_gently_weeps">While My Guitar Gently Weeps</a></li>
+<li><a href="#_happiness_is_a_warm_gun">Happiness is a Warm Gun</a></li>
+</ul>
+</li>
+<li><a href="#_side_2">Side 2</a>
+<ul class="sectlevel2">
+<li><a href="#_martha_my_dear">Martha My Dear</a></li>
+<li><a href="#_im_so_tired">I’m so Tired</a></li>
+<li><a href="#_blackbird">Blackbird</a></li>
+<li><a href="#_piggies">Piggies</a></li>
+<li><a href="#_rocky_raccoon">Rocky Raccoon</a></li>
+<li><a href="#_dont_pass_me_by">Don’t Pass Me By</a></li>
+<li><a href="#_why_dont_we_do_it_in_the_road">Why Don’t We Do It in the Road?</a></li>
+<li><a href="#_i_will">I Will</a></li>
+<li><a href="#_julia">Julia</a></li>
+</ul>
+</li>
+<li><a href="#_side_3">Side 3</a>
+<ul class="sectlevel2">
+<li><a href="#_birthday">Birthday</a></li>
+<li><a href="#_yer_blues">Yer Blues</a></li>
+<li><a href="#_mother_natures_son">Mother Nature’s Son</a></li>
+<li><a href="#_everybodys_got_something_to_hide_except_me_and_my_monkey">Everybody’s Got Something to Hide Except Me and My Monkey</a></li>
+<li><a href="#_sexy_sadie">Sexy Sadie</a></li>
+<li><a href="#_helter_skelter">Helter Skelter</a></li>
+<li><a href="#_long_long_long">Long, Long, Long</a></li>
+</ul>
+</li>
+<li><a href="#_side_4">Side 4</a>
+<ul class="sectlevel2">
+<li><a href="#_revolution_i">Revolution I</a></li>
+<li><a href="#_honey_pie">Honey Pie</a></li>
+<li><a href="#_savoy_truffle">Savoy Truffle</a></li>
+<li><a href="#_cry_baby_cry">Cry Baby Cry</a></li>
+<li><a href="#_revolution_9_instrumental">Revolution 9 (instrumental)</a></li>
+<li><a href="#_good_night">Good Night</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="image"><img src="../cover.jpg" alt="White Album" width="200" height="200"></span></p>
+</div>
+<div class="paragraph">
+<p>From <a href="http://www.beatleslyrics.org" class="bare">http://www.beatleslyrics.org</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_side_1">Side 1</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_back_in_the_u_s_s_r">Back in the U.S.S.R.</h3>
+<div class="verseblock">
+<pre class="content">Flew in from Miami Beach BOAC.
+Didn&#8217;t get to bed last night.
+On the way the paper bag was on my knee.
+Man I had I dreadful flight.
+
+I&#8217;m back in the USSR.
+You don&#8217;t know how lucky you lucky you are boy
+Back in the USSR.
+
+Been away so long I hardly knew the place.
+Gee it&#8217;s good to be back home.
+Leave it till tomorrow to unpack my case.
+Honey disconnect the phone.
+
+I&#8217;m back in the USSR.
+You don&#8217;t know how lucky you are boy
+Back in the US,. Back in the US. Back in the USSR.
+
+Well the Ukraine girls really knock me out.
+They leave the West behind.
+And Moscow girls make me sing and shout
+And Georgia&#8217;s always on my, my, my, my, my, my, my mind.
+
+I&#8217;m back in the USSR.
+You don&#8217;t know how lucky you are boys
+Back in the USSR.
+
+Well the Ukraine girls really knock me out.
+They leave the West behind.
+And Moscow girls make me sing and shout
+And Georgia&#8217;s always on my, my, my, my, my, my, my mind.
+
+Show me round your snow peaked mountains way down south
+Take me to your daddy&#8217;s farm
+Let me hear your balalaikas ringing out
+Come and keep your comrade warm.
+
+I&#8217;m back in the USSR.
+You don&#8217;t know how lucky you are boy
+Back in the USSR.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_dear_prudence">Dear Prudence</h3>
+<div class="verseblock">
+<pre class="content">Dear Prudence, won&#8217;t you come out to play.
+Dear Prudence, greet the brand new day.
+The sun is up, the sky is blue.
+It&#8217;s beautiful and so are you.
+
+Dear Prudence, won&#8217;t you come out to play?
+Dear Prudence open up your eyes.
+Dear Prudence see the sunny skies.
+The wind is low, the birds will sing
+That you are part of everything.
+
+Dear Prudence, won&#8217;t you open up your eyes?
+Look around round
+Look around, round, round
+Look around.
+
+Dear Prudence,  let me see you smile.
+Dear Prudence,  like a little child.
+The clouds will be a daisy chain.
+So let me see you smile again.
+Dear Prudence, won&#8217;t you let me see you smile?
+
+Dear Prudence, won’t you come out to play
+Dear Prudence, greet the brand new day
+The sun is up, the sky is blue
+It’s beautiful and so are you
+Dear Prudence, won’t you come out to play?</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_glass_onion">Glass Onion</h3>
+<div class="verseblock">
+<pre class="content">I told you about strawberry fields.
+You know the place where nothing is real.
+Well here&#8217;s another place you can go
+Where everything flows.
+Looking through the bent backed tulips
+To see how the other half live
+Looking through a glass onion.
+I told you about the walrus and me man.
+You know that we&#8217;re as close as can be  man.
+Well here&#8217;s another clue for you all
+The walrus was Paul.
+Standing on the cast iron shore  yeah.
+Lady Madonna trying to make ends meet yeah.
+Looking through a glass onion.
+Oh yeah, oh yeah, oh yeah
+Looking through a glass onion.
+I told you about the fool on the hill.
+I tell you man he&#8217;s living there still.
+Well here&#8217;s another place you can be.
+Listen to me.
+Fixing a hole in the ocean
+Trying to make a dove-tail joint,  yeah
+Looking through a glass onion.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_ob_la_di_ob_la_da">Ob-La-Di, Ob-La-Da</h3>
+<div class="verseblock">
+<pre class="content">Desmond has a barrow in the market place.
+Molly is a singer in a band.
+Desmond says to Molly,  girl I like your face
+And Molly says this as she takes him by the hand.
+Ob-la-di Ob-la-da,  life goes on bra
+La, la how the life goes on
+Ob-la-di,  Ob-la-da life goes on bra
+La, la how the life goes on
+Desmond takes a trolley to the jewelers' store,
+Buys a twenty carat golden ring.
+Takes it back to Molly waiting at the door
+And as he gives it to her she begins to sing
+
+Ob-la-di,  Ob-la-da,  life goes on bra
+La, la how the life goes on
+
+Ob-la-di,  Ob-la-da,  life goes on bra
+La, la how the life goes on
+In a couple of years they have built
+A home sweet home
+With a couple of kids running in the yard
+Of  Desmond and Molly Jones.
+Happy ever after in the market place
+Desmond lets the children lend a hand.
+Molly stays at home and does her pretty face
+And in the evening she still sings it with the band.
+
+Ob-la-di,  Ob-la-da life goes on bra
+La, la how the life goes on
+Ob-la-di,  Ob-la-da life goes on bra
+La, la how the life goes on
+
+In a couple of years, they have built a home sweet home
+
+With a couple of kids running in the yard of Desmond and Molly Jones.
+Happy ever after in the market place
+Molly lets the children lend a hand.
+Desmond stays at home and does his pretty face
+And in the evening she&#8217;s singer with the band.
+
+Ob-la-di, Ob-la-da, life goes on bra
+La, la how the life goes on
+Ob-la-di, Ob-la-da life goes on, bra
+La, la how the life goes on
+And if you want some fun, sing Ob-la-di bla-da.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wild_honey_pie">Wild Honey Pie</h3>
+<div class="verseblock">
+<pre class="content">Honey pie, Honey pie
+Honey pie, Honey pie
+Honey pie, Honey pie
+Honey pie, Honey pie
+I love you</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_the_continuing_story_of_bungalow_bill">The Continuing Story of Bungalow Bill</h3>
+<div class="verseblock">
+<pre class="content">Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+
+He went out tiger hunting with his elephant and gun
+In case of accidents he always took his mom
+He&#8217;s the all American bullet-headed Saxon mother&#8217;s son
+All the children sing
+
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+
+Deep in the jungle where the mighty tiger lies
+Bill and his elephants were taken by surprise
+So Captain Marval zapped him right between the eyes
+All the children sing
+
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+
+The children asked him if to kill was not a sin
+"Not when he looked so fierce" his mommy butted in
+If looks could kill it would have been us instead of him
+All the children sing
+
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill
+Hey Bungalow Bill
+What did you kill, Bungalow Bill
+Hey, Bungalow Bill
+What did you kill, Bungalow Bill</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_while_my_guitar_gently_weeps">While My Guitar Gently Weeps</h3>
+<div class="verseblock">
+<pre class="content">Look at you all see the love there that&#8217;s sleeping
+While my guitar gently weeps.
+I look at the floor and I see it needs sweeping
+Still my guitar gently weeps.
+
+I don&#8217;t know why nobody told you
+How to unfold your love,
+I don&#8217;t know how someone controlled you
+They bought and sold you.
+
+I look at the world and I notice it&#8217;s turning
+While my guitar gently weeps.
+With every mistake we must surely be learning,
+Still my guitar gently weeps.
+
+I don&#8217;t know how you were diverted
+You were perverted too.
+I don&#8217;t know how you were inverted
+No one alerted you.
+
+I look at you all see the love there that&#8217;s sleeping,
+While my guitar gently weeps.
+Look at you all,
+Still my guitar gently weeps</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_happiness_is_a_warm_gun">Happiness is a Warm Gun</h3>
+<div class="verseblock">
+<pre class="content">She&#8217;s not a girl who misses much.
+Do do do do do do do do
+She&#8217;s well acquainted with the touch of the velvet hand
+Like a lizard on a window pane.
+The man in the crowd with the multicolored mirrors
+On his hobnail boots
+Lying with his eyes while his hands are busy
+Working overtime
+A soap impression of his wife which he ate
+And donated to the National Trust.
+I need a fix 'cause I&#8217;m going down.
+Down to the bits that I left uptown.
+I need a fix 'cause I&#8217;m going down.
+Mother Superior jump the gun
+Mother Superior jump the gun
+Mother Superior jump the gun
+Mother Superior jump the gun.
+Happiness is a warm gun
+Happiness is a warm gun
+When I hold you in my arms
+And I feel my finger on your trigger
+I know nobody can do me no harm
+Because happiness is a warm gun.
+
+Happiness is a warm gun
+Yes it is.
+
+Happiness is a warm, yes it is, gun.
+
+Well, don’t you know that happiness is a warm gun, mama.</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_side_2">Side 2</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_martha_my_dear">Martha My Dear</h3>
+<div class="verseblock">
+<pre class="content">Martha my dear though I spend my days
+In conversation
+Please
+Remember me, Martha my love
+Don&#8217;t forget me, Martha my dear
+
+Hold your head up you silly girl, look what you&#8217;ve done
+When you find yourself in the thick of it
+Help yourself to a bit of what is all around you
+Silly girl.
+
+Take a good look around you
+Take a good look you&#8217;re bound to see
+That you and me were meant to be for each other
+Silly girl.
+
+Hold your hand out you silly girl see what you&#8217;ve done
+When you find yourself in the thick of it
+Help yourself to a bit of what&#8217;s all around you
+Silly girl.
+
+Martha my dear you have always been
+My inspiration
+Please
+Be good to me Martha my love
+Don&#8217;t forget me Martha my dear.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_im_so_tired">I’m so Tired</h3>
+<div class="verseblock">
+<pre class="content">I&#8217;m so tired, I haven&#8217;t slept a wink,
+I&#8217;m so tired, my mind is on the blink.
+I wonder should I get up and fix myself a drink.
+No, no, no.
+I&#8217;m so tired I don&#8217;t know what to do.
+I&#8217;m so tired my mind is set on you.
+I wonder should I call you but I know what you&#8217;d do.
+You&#8217;d say I&#8217;m putting you on.
+But it&#8217;s no joke, it&#8217;s doing me harm.
+You know I can&#8217;t sleep, I can&#8217;t stop my brain
+You know it&#8217;s three weeks, I&#8217;m going insane.
+You know I&#8217;d give you everything I&#8217;ve got
+For a little peace of mind.
+I&#8217;m so tired, I&#8217;m feeling so upset
+Although I&#8217;m so tired,  I&#8217;ll have another cigarette
+And curse Sir Walter Raleigh.
+He was such a stupid get
+
+You&#8217;d say I&#8217;m putting you on.
+But it&#8217;s no joke, it&#8217;s doing me harm.
+You know I can&#8217;t sleep, I can&#8217;t stop my brain
+You know it&#8217;s three weeks, I&#8217;m going insane.
+You know I&#8217;d give you everything I&#8217;ve got
+For a little peace of mind.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_blackbird">Blackbird</h3>
+<div class="verseblock">
+<pre class="content">Blackbird singing in the dead of night
+Take these broken wings and learn to fly.
+All your life
+You were only waiting for this moment to arise.
+
+Blackbird singing in the dead of night
+Take these sunken eyes and learn to see.
+All your life
+You were only waiting for this moment to be free.
+
+Blackbird fly, Blackbird fly
+Into the light of the dark black night.
+Blackbird fly, Blackbird fly
+Into the light of the dark black night.
+
+Blackbird singing in the dead of night
+Take these broken wings and learn to fly.
+All your life
+You were only waiting for this moment to arise
+You were only waiting for this moment to arise
+You were only waiting for this moment to arise</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_piggies">Piggies</h3>
+<div class="verseblock">
+<pre class="content">Have you seen the little piggies crawling in the dirt?
+And for all the little piggies life is getting worse,
+Always having dirt to play around in.
+
+Have you seen the bigger piggies in their starched white shirts?
+You will find the bigger piggies stirring up the dirt,
+Always have clean shirts to play around in.
+
+In their sties with all their backing they don&#8217;t care what goes on around,
+In their eyes there&#8217;s something lacking,
+What they need&#8217;s a damn good whacking.
+
+Everywhere there&#8217;s lots of piggies living piggie lives,
+You can see them out for dinner with their piggie wives,
+Clutching forks and knives to eat their bacon.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_rocky_raccoon">Rocky Raccoon</h3>
+<div class="verseblock">
+<pre class="content">Now somewhere in the black mountain hills of Dakota
+There lived a young boy named Rocky Raccoon.
+And one day his woman ran off with another guy.
+Hit young Rocky in the eye. Rocky didn&#8217;t like that.
+He said I&#8217;m gonna get that boy.
+So one day he walked in to town
+Booked himself a room in the local saloon.
+Rocky Raccoon checked into his room
+Only to find Gideon&#8217;s Bible.
+Rocky had come equipped with a gun
+To shoot off the legs of his rival.
+His rival it seems had broken his dreams
+By stealing the girl of his fancy.
+Her name was Magill and she called herself Lil
+But everyone knew her as Nancy.
+Now she and her man who called himself Dan
+Were in the next room at the hoe down.
+Rocky bust in and grinning a grin.
+He said Danny boy this is a showdown
+But Daniel was hot,  he drew first and shot
+And Rocky collapsed in the corner.
+Now the doctor came in stinking of gin
+And proceeded to lie on the table.
+He said Rocky you met your match.
+And Rocky said, Doc it&#8217;s only a scratch
+And I&#8217;ll be better, I&#8217;ll be better doc as soon as I am able.
+Now Rocky Raccoon he fell back in his room
+Only to find Gideon&#8217;s Bible.
+Gideon checked out and he left in no doubt
+To help with good Rocky&#8217;s revival.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_dont_pass_me_by">Don’t Pass Me By</h3>
+<div class="verseblock">
+<pre class="content">I listen for your footsteps coming up the drive,
+Listen for your footsteps but they don&#8217;t arrive,
+Waiting for your knock dear on my old front door,
+I don&#8217;t hear it,
+Does it mean you don&#8217;t love me anymore?
+
+I hear the clock a-ticking on the mantel shelf,
+See the hands a-moving but I&#8217;m by myself,
+I wonder where you are tonight and why I&#8217;m by myself,
+I don&#8217;t see you.
+Does it mean you don&#8217;t love me anymore?
+
+Don&#8217;t pass me by, don&#8217;t make me cry, don&#8217;t make me blue,
+Cause you know daring I love only you,
+You&#8217;ll never know it hurt me so,
+How I hate to see you go,
+Don&#8217;t pass me by, don&#8217;t make me cry
+
+I’m sorry that I doubted you, I was so unfair,
+You were in a car crash and you lost your hair,
+You said that you would be late, about an hour or two
+I said that&#8217;s all right
+I&#8217;m waiting here, just waiting to hear from you.
+
+Don&#8217;t pass me by, don&#8217;t make me cry, don&#8217;t make me blue,
+Cause you know daring I love only you,
+You&#8217;ll never know it hurt me so,
+How I hate to see you go,
+Don&#8217;t pass me by, don&#8217;t make me cry</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_why_dont_we_do_it_in_the_road">Why Don’t We Do It in the Road?</h3>
+<div class="verseblock">
+<pre class="content">Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+No one will be watching us.
+Why don&#8217;t we do it in the road?
+
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+No one will be watching us.
+Why don&#8217;t we do it in the road?
+
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+Why don&#8217;t we do it in the road?
+No one will be watching us.
+Why don&#8217;t we do it in the road?</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_i_will">I Will</h3>
+<div class="verseblock">
+<pre class="content">Who knows how long I&#8217;ve loved you.
+You know I love you still.
+Will I wait a lonely lifetime
+If you want me to I will.
+
+For if I ever saw you
+I didn&#8217;t catch your name.
+But it never really mattered
+I will always feel the same.
+
+Love you forever and forever.
+Love you with all my heart.
+Love you whenever we&#8217;re together.
+Love you when we&#8217;re apart.
+
+And when at last I find you
+Your song will fill the air
+Sing it loud so I can hear.
+Make it easy to be near you.
+
+For the things you do endear you to me
+You know I will.
+I will.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_julia">Julia</h3>
+<div class="verseblock">
+<pre class="content">Half of what I say is meaningless
+But I say it just to reach you, Julia.
+Julia, Julia, ocean child, calls me
+So I sing a song of love, Julia
+Julia, seashell eyes, windy smile, calls me
+So I sing a song of love, Julia.
+Her hair of floating sky is shimmering,
+Glimmering,
+In the sun.
+Julia, Julia, morning moon, touch me
+So I sing a song of love, Julia.
+When I cannot sing my heart
+I can only speak my mind, Julia.
+Julia, sleeping sand, silent cloud, touch me
+So I sing a song of love, Julia.
+Hm hm hm, calls me
+So I sing a song of love for Julia, Julia, Julia</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_side_3">Side 3</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_birthday">Birthday</h3>
+<div class="verseblock">
+<pre class="content">You say it&#8217;s your birthday.
+It&#8217;s my birthday too  yeah.
+They say it&#8217;s your birthday.
+We&#8217;re gonna have a good time.
+Im glad it&#8217;s your birthday
+Happy birthday to you.
+
+Yes we&#8217;re going to party party
+Yes we&#8217;re going to party party
+Yes we&#8217;re going to party party.
+
+I would like you to dance - Birthday
+Take a cha-cha-cha-chance - Birthday
+I would like you to dance - Birthday - dance
+
+I would like you to dance - Birthday
+Take a cha-cha-cha-chance - Birthday
+I would like you to dance - Birthday - dance
+
+You say it&#8217;s your birthday.
+It&#8217;s my birthday too  yeah.
+You say it&#8217;s your birthday.
+We&#8217;re gonna have a good time.
+I&#8217;m glad it&#8217;s your birthday
+Happy birthday to you.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_yer_blues">Yer Blues</h3>
+<div class="verseblock">
+<pre class="content">Yes I&#8217;m lonely, wanna die.
+If I ain&#8217;t dead already.
+Ooh girl you know the reason why.
+
+In the morning, wanna die.
+In the evening, wanna die.
+If I ain&#8217;t dead already
+Ooh girl you know the reason why.
+
+My mother was of the sky.
+My father was of the earth.
+But I am of the universe
+And you know what it&#8217;s worth.
+I&#8217;m lonely, wanna die.
+If I ain&#8217;t dead already
+Ooh girl you know the reason why.
+
+The eagle picks my eye.
+The worm he licks my bone.
+I feel so suicidal
+Just like Dylan&#8217;s Mr. Jones,
+Lonely. wanna die.
+If I ain&#8217;t dead already
+Ooh girl you know the reason why.
+
+Black cloud crossed my mind.
+Blue mist round my soul.
+Feel so suicidal
+Even hate my rock and roll.
+Wanna die, yeah wanna die.
+If I ain&#8217;t dead already.
+Ooh girl you know the reason why</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_mother_natures_son">Mother Nature’s Son</h3>
+<div class="verseblock">
+<pre class="content">Born a poor young country boy
+Mother Nature&#8217;s son.
+All day long I&#8217;m sitting singing songs for everyone.
+Sit beside a mountain stream,  see her waters rise.
+Listen to the pretty sound of music as she flies.
+Find me in my field of grass
+Mother Nature&#8217;s son.
+Swaying daisies sing a lazy song beneath the sun.
+Mother Nature&#8217;s son.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_everybodys_got_something_to_hide_except_me_and_my_monkey">Everybody’s Got Something to Hide Except Me and My Monkey</h3>
+<div class="verseblock">
+<pre class="content">Come on, come on, come on, come on
+Come on is such a joy
+Come on is such a joy
+Come on and take it easy
+Come on and take it easy.
+Take it easy, take it easy.
+Everybody&#8217;s got something to hide except for me and my monkey.
+The deeper you go, the higher you fly.
+The higher you fly, the deeper you go.
+So come on, come on
+Come on is such a joy
+Come on is such a joy
+Come on and take it easy
+Come on and take it easy.
+Take it easy, take it easy.
+Everybody&#8217;s got something to hide except for me and my monkey.
+Your inside is out and your outside is in.
+Your outside is in and your inside is out.
+So come on, come on
+Come on is such a joy
+Come on is such a joy
+Come on and take it easy
+Come on and take it easy.
+Take it easy, take it easy.
+Everybody&#8217;s got something to hide except for me and my monkey.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_sexy_sadie">Sexy Sadie</h3>
+<div class="verseblock">
+<pre class="content">Sexy Sadie, what have you done.
+You made a fool of everyone.
+You made a fool of everyone.
+Sexy Sadie, oh what have you done.
+Sexy Sadie, you broke the rules.
+You laid it down for all to see.
+You laid it down for all to see.
+Sexy Sadie, oh you broke the rules.
+One sunny day the world was waiting for a lover.
+She came along to turn on everyone.
+Sexy Sadie is the greatest of them all.
+Sexy Sadie, how did you know.
+The world was waiting just for you.
+The world was waiting just for you.
+Sexy Sadie, oh how did you know.
+Sexy Sadie you&#8217;ll get yours’ yet.
+However big you think you are.
+However big you think you are.
+Sexy Sadie, oh you&#8217;ll get yours’ yet.
+We gave her everything we owned just to sit at her table
+Just a smile would lighten everything
+Sexy Sadie ,she&#8217;s the latest and the greatest of them all.
+She made a fool of everyone
+Sexy Sadie
+However big you think you are
+Sexy Sadie.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_helter_skelter">Helter Skelter</h3>
+<div class="verseblock">
+<pre class="content">When I get to the bottom I go back to the top of the slide
+Where I stop and I turn and I go for a ride
+Till I get to the bottom and I see you again.
+Do you, don&#8217;t you want me to love you.
+I&#8217;m coming down fast but I&#8217;m miles above you.
+Tell me, tell me, tell me, come on tell me the answer.
+You may be a lover but you ain&#8217;t no dancer.
+Helter skelter, helter skelter,
+Helter skelter.
+Will you, won&#8217;t you want me to make you.
+I&#8217;m coming down fast but don&#8217;t let me break you.
+Tell me, tell me, tell me the answer.
+You may be a lover but you ain&#8217;t no dancer.
+Look out, helter skelte,r helter skelter
+Helter skelter
+Look out, cause here she comes.
+When I get to the bottom I go back to the top of the slide
+Where I stop and I turn and I go for a ride
+And I get to the bottom and I see you again.
+Well do you, don&#8217;t you want me to make you.
+I&#8217;m coming down fast but don&#8217;t let me break you.
+Tell me, tell me, tell me the answer.
+You may be a lover but you ain&#8217;t no dancer.
+Look out,  helter skelter helter skelter
+Helter skelter
+Look out,  helter skelter
+She&#8217;s coming down fast
+Yes she is,  yes she is.
+
+I got blisters on my fingers!</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_long_long_long">Long, Long, Long</h3>
+<div class="verseblock">
+<pre class="content">It&#8217;s been a long, long, long time,
+How could I ever have lost you,
+When I loved you.
+It took a long, long, long time,
+Now I&#8217;m so happy I found you,
+How I love you.
+So many tears I was searching,
+So many tears I was wasting,
+Oh Oh now I can see you, be you ,
+
+How can I ever misplace you.
+
+How I want you,
+Oh I love you,
+You know that I need you,
+Oh I love you</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_side_4">Side 4</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_revolution_i">Revolution I</h3>
+<div class="verseblock">
+<pre class="content">You say you want a revolution
+Well, you know
+We all want to change the world.
+You tell me that it&#8217;s evolution,
+Well, you know
+We all want to change the world.
+But when you talk about destruction,
+Don&#8217;t you know that you can count me out. In.
+You know it&#8217;s going to be all right,
+all right, all right.
+You say you got a real solution
+Well, you know
+We&#8217;d all love to see the plan.
+You ask me for a contribution,
+Well, you know
+We all doin’ what we can.
+If you want money for people with minds that hate,
+All I can tell you is brother you have to wait.
+Don&#8217;t you know it&#8217;s going to be all right,
+all right, all right, all right.
+You say you&#8217;ll change the constitution
+Well, you know
+We&#8217;d all love to change your head.
+You tell me it&#8217;s the institution,
+Well, you know
+You better free your mind instead.
+But if you go carrying pictures of chairman Mao,
+You ain&#8217;t gonna make it with anyone anyhow.
+Don&#8217;t you know it&#8217;s going to be all right,
+all right, all right</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_honey_pie">Honey Pie</h3>
+<div class="verseblock">
+<pre class="content">She was a working girl, north of  England way
+Now she’s hitting the big time in the USA
+And if she could only hear me,
+This is what I’d say&#8230;&#8203;
+
+Honey Pie, you are making me crazy
+
+I&#8217;m in love but I&#8217;m lazy.
+So won&#8217;t you please come home.
+Oh honey pie, my position is tragic.
+Come and show me the magic of your Hollywood Song.
+You became a legend of the silver screen
+And now the thought of meeting you
+Makes me weak in the knee.
+Oh honey pie, you are driving me frantic.
+Sail across the Atlantic
+To be where you belong.
+
+Honey Pie, come back to me.
+
+I like this kind of hot kind of music, hot kind of music
+
+Play it to me&#8230;&#8203;play it to me, honey with blues
+Will the wind that blew her boat
+Across the sea
+Kindly send her sailing back to me.
+Honey pie you are making me crazy.
+I&#8217;m in love but I&#8217;m lazy.
+So won&#8217;t you please come home.
+
+Come, come back to me Honey Pie</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_savoy_truffle">Savoy Truffle</h3>
+<div class="verseblock">
+<pre class="content">Cream tangerine and montelimar,
+A ginger sling with a pineapple heart,
+A coffee dessert, yes you know it&#8217;s good news,
+But you&#8217;ll have to have them all pulled out after the savoy truffle.
+Cool cherry cream and nice apple tart,
+I feel your taste all the time we&#8217;re apart,
+Coconut fudge really blows down those blues,
+But you&#8217;ll have to have them all pulled out after the savoy truffle.
+You might not feel it now
+But when the pain cuts through you&#8217;re going to know and how.
+The sweat is gonna fill your head,
+When it becomes too much you&#8217;ll shout aloud,
+But you&#8217;ll have to have them all pulled out after the savoy truffle.
+Know that what you eat you are,
+But what is sweet now turns so sour.
+We all know ob-la-di-bla-da,
+But can you show me where you are.
+Cream tangerine and montelimar,
+A ginger sling with a pineapple heart,
+A coffee dessert, yes you know it&#8217;s good news,
+But you&#8217;ll have to have them all pulled out after the savoy truffle.
+Yes you&#8217;ll have to have them all pulled out after the savoy truffle</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_cry_baby_cry">Cry Baby Cry</h3>
+<div class="verseblock">
+<pre class="content">Cry baby cry.
+Make your mother sigh.
+She&#8217;s old enough to know better.
+The king of Marigold was in the kitchen
+Cooking breakfast for the queen.
+The queen was in the parlor
+Playing piano for the children of the king.
+
+Cry baby cry.
+Make your mother sigh.
+She&#8217;s old enough to know better. So cry baby cry.
+The king was in the garden
+Picking flowers for a friend who came to play.
+The queen was in the playroom
+Painting pictures for the children’s holiday.
+
+Cry baby cry.
+Make your mother sigh.
+She&#8217;s old enough to know better. So cry baby cry.
+The duchess of Kirkcaldy always smiling
+And arriving late for tea.
+The duke was having problems
+With a message at the local bird and bee.
+
+Cry baby cry.
+Make your mother sigh.
+She&#8217;s old enough to know better. So cry baby cry.
+At twelve o&#8217;clock a meeting round the table
+For a séance in the dark.
+With voices out of nowhere
+Put on especially by the children for a lark.
+
+Cry baby cry.
+Make your mother sigh.
+She&#8217;s old enough to know better.
+So cry baby cry, cry cry cry baby.
+Make your mother sigh.
+She&#8217;s old enough to know better.
+Cry baby cry, cry cry cry
+Make your mother sigh.
+She&#8217;s old enough to know better.
+So cry baby cry.</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_revolution_9_instrumental">Revolution 9 (instrumental)</h3>
+
+</div>
+<div class="sect2">
+<h3 id="_good_night">Good Night</h3>
+<div class="verseblock">
+<pre class="content">Now it&#8217;s time to say good night
+Good night sleep tight.
+Now the sun turns out his light
+Good night sleep tight.
+Dream sweet dreams for me
+Dream sweet dreams for you.
+Close your eyes and I&#8217;ll close mine
+Good night sleep tight.
+Now the moon begins to shine
+Good night sleep.
+Dream sweet dreams for me
+Dream sweet dreams for you.
+Now it&#8217;s time to say good night
+Good night sleep tight.
+Now the sun turns out his light
+Good night sleep tight.
+Dream sweet dreams for me
+Dream sweet dreams for you.
+Good night good night everybody
+Everybody everywhere.
+Good night.</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2023-02-11 16:21:31 +0300
+</div>
+</div>
+</body>
+</html>

@@ -189,7 +189,9 @@
 === T
 
 - link:./THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html[THE BEATLES/1966 - Revolver]
+- link:./THE%20BEATLES/1967b%20-%20Magical%20Mystery%20Tour/lyrics/tour.html[THE BEATLES/1967b - Magical Mystery Tour]
 - link:./THE%20BEATLES/1969b%20-%20Abbey%20Road/lyrics/abbey.html[THE BEATLES/1969b - Abbey Road]
+- link:./THE%20BEATLES/The%20Beatles%20-%20White%20Album%20CD%201/lyrics/white1.html[THE BEATLES/The Beatles - White Album CD 1]
 - link:./THE%20DECEMBERISTS/The%20Decemberists%20-%20I_ll%20Be%20Your%20Girl/lyrics/dec_girl.html[THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl]
 - link:./TOM%20PETTY/links.html[TOM PETTY]
 - link:./TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html[TOM PETTY/Tom Petty - Echo]
@@ -215,11 +217,15 @@
 
 - link:./ВИЗБОР/01%20-%20Якоря%20не%20бросать/lyrics/vizbor01.html[ВИЗБОР/01 - Якоря не бросать]
 - link:./ВИЗБОР/02%20-%20А%20будет%20это%20так/lyrics/vizbor02.html[ВИЗБОР/02 - А будет это так]
+- link:./ВИЗБОР/10%20-%20Воспоминание%20о%20пехоте/lyrics/vizbor10.html[ВИЗБОР/10 - Воспоминание о пехоте]
 
 
 === Щ
 
 - link:./ЩЕРБАКОВ%20МИХАИЛ/Балаган%202/lyrics/balagan2.html[ЩЕРБАКОВ МИХАИЛ/Балаган 2]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Вишневое%20варенье/lyrics/jam.html[ЩЕРБАКОВ МИХАИЛ/Вишневое варенье]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Ложный%20шаг/lyrics/faux.html[ЩЕРБАКОВ МИХАИЛ/Ложный шаг]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/По%20мотивам/lyrics/motiv.html[ЩЕРБАКОВ МИХАИЛ/По мотивам]
 
 > link:aerostat.html[<Home>] link:toc.html[<Contents>]
 
