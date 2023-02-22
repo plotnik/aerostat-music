@@ -76,6 +76,7 @@
 
 === G
 
+- link:./Gene%20Clark/1987%20-%20So%20Rebellious%20A%20Lover/lyrics/rebel.html[Gene Clark/1987 - So Rebellious A Lover]
 - link:./GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html[GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989]
 - link:./GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html[GEORGE HARRISON/George Harrison - Brainwashed]
 - link:./GORAN%20BREGOVIC/Bregovic%20-%20Arizona%20Dream%20-%20Soundtrack/lyrics/arizona.html[GORAN BREGOVIC/Bregovic - Arizona Dream - Soundtrack]
