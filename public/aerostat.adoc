@@ -22,18 +22,54 @@ code {
                                                                           
 == 37.
 
-=== Terry Hall
+=== То Да Сё №29, 26 февраля 2023
+<https://aerostatbg.ru/release/925>
+
+.Howard Shore – The Shire (Concerning Hobbits)
+image:Lord of the Rings 2005 - The Fellowship of the Ring - The Complete Recordings/albumart.jpg[The Fellowship of the Ring - The Complete Recordings,200,200,role="thumb left"]
+
+.Massive Attack – Risingson
+image:Massive Attack/Mezzanine/Front.jpg[Mezzanine,200,200,role="thumb left"]
+
+.Gus Teja World Music – Morning Happiness
+image:Gus Teja/2010 - Rhythm of Paradise/cover.jpg[Rhythm of Paradise,200,200,role="thumb left"]
+
+.George Harrison – Breath Away From Heaven
+image:GEORGE HARRISON/George Harrison - Cloud Nine/cover.jpg[Cloud Nine,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Dolores Keane – Mouth Music/Eddie Curran's Favourite
+Gandharva – Chinta Jagate
+Boo Radleys – Fairfax Scene
+Skrillex, Fred Again & Flowdan – Rumble
+Tomaso Albinoni – Trumpet Concerto in D minor: III. Adagio
+The Mamas & The Papas – Nothing's Too Good For My Little Girl
+Toots & The Maytals feat. Terry Hall, The Skatalites and U-Roy – Never Grow Old
+
+++++
+<br clear="both">
+++++
+
+=== Terry Hall, 19 февраля 2023
 <https://aerostatbg.ru/release/924>
+
+.Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_gangsters[Gangsters]
+image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
+
+.Specials – My Next Door Neighbor
+image:Specials/Protest songs 1924-2012/cover.png[2012,200,200,role="thumb left"]
 
 [%hardbreaks]
 Fun Boy Three – The Lunatics (Have Taken Over The Asylum)
-Specials – Gangsters
 Specials – Stereotype
 Specials & Fun Boy Three – Our Lips Are Sealed
 Colourfield – Thinking Of You
 Terry Hall & Mushtaq – A Gathering Storm
 Terry Hall – From Dawn To Distraction
-Specials – My Next Door Neighbor
 Terry Hall – Beautiful People
 Specials – Doesn't Make It Alright
     
@@ -41,8 +77,11 @@ Specials – Doesn't Make It Alright
 <br clear="both">
 ++++
 
-=== 30-е годы: эпоха стиля
+=== 30-е годы: эпоха стиля, 12 февраля 2023
 <https://aerostatbg.ru/release/923>
+
+.Ink Spots – Someone's Rocking My Dreamboat
+image:Ink Spots - The Very Best/Folder.jpg[The Very Best,200,200,role="thumb left"]
 
 [%hardbreaks]
 Jack Buchanan – Goodnight Vienna
@@ -53,7 +92,6 @@ Benny Goodman – Liza (All The Clouds'll Roll Away)
 Bing Crosby – Where The Blue Of The Night (Meets The Gold Of The Day)
 Bing Crosby & The Mills Brothers – Dinah
 Al Bowlly – Sweet And Lovely
-Ink Spots – Someone's Rocking My Dreamboat
 Paul Whiteman & His Orchestra – Body And Soul
 Glenn Miller & His Orchestra – Moonlight Serenade
 
