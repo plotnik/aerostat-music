@@ -7,7 +7,7 @@ image:../cover.jpg[Best Of Dark Horse,200,200]
 
 From: https://genius.com/albums/Gene-clark-and-carla-olson/So-rebellious-a-lover
 
-## The Drifter
+== The Drifter
 
 [verse]
 ____
@@ -57,7 +57,7 @@ He's running through the day and the night
 But he's running to nowhere
 ____
 
-## Gypsy Rider
+== Gypsy Rider
 
 [verse]
 ____
@@ -88,9 +88,12 @@ You know there's nothing to explain
 She should have known by now
 You're just a vagabond
 You may never pass this way again
+____
 
-## Every Angel In Heaven
+== Every Angel In Heaven
 
+[verse]
+____
 Garrett Waller pulled out of Memphis
 Can't go back to Tennessee
 Worked the day and I knew I was through
@@ -149,7 +152,7 @@ Help me through this lonely night
 Help me through this lonely night
 ____
 
-## Del Gato
+== Del Gato
 
 [verse]
 ____
@@ -223,7 +226,7 @@ To fall like dry leaves to rot on my topsoil
 And be called by no name except "deportees"?
 ____
 
-## Fair And Tender Ladies
+== Fair And Tender Ladies
 
 [verse]
 ____
@@ -251,7 +254,7 @@ They're like a star on a summer morning
 First they appear then they're gone again
 ____
 
-## Almost Saturday Night
+== Almost Saturday Night
 
 [verse]
 ____
@@ -280,7 +283,7 @@ Cause it's almost Saturday night
 Outside the windows cause it;s almost Saturday night
 ____
 
-## I'm Your Toy (Hot Burrito #1)
+== I'm Your Toy (Hot Burrito #1)
 
 [verse]
 ____
@@ -299,7 +302,7 @@ But I don't want no one but you to love me
 No, I wouldn't lie, you know I'm not that kind of guy
 ____
 
-## Are We Still Making Love
+== Are We Still Making Love
 
 [verse]
 ____
@@ -343,7 +346,7 @@ And though things might be rough
 Maybe it's time to let go
 ____
 
-## Why Did You Leave Me Today
+== Why Did You Leave Me Today
 
 [verse]
 ____
@@ -379,7 +382,7 @@ All I can say why did you leave today
 Why did you leave me today
 ____
 
-## Don't It Make You Want To Go Home
+== Don't It Make You Want To Go Home
 
 [verse]
 ____
@@ -421,7 +424,7 @@ Don't it make you want to go home
 Don't it make you want to go home
 ____
 
-## Number One Is To Survive
+== Number One Is To Survive
 
 [verse]
 ____
@@ -456,7 +459,7 @@ And if you look upon my list
 Number one is to survive
 ____
 
-## Mary Sue
+== Mary Sue
 
 [verse]
 ____

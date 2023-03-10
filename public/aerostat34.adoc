@@ -254,7 +254,7 @@ image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role=
 <br clear="both">
 ++++
 
-.Melanie – Peace Will Come (According To Plan)
+.Melanie - link:Melanie/2020%20-%20What%20have%20they%20done%20to%20my%20song/lyrics/melanie.html#_peace_will_come_according_to_plan[Peace Will Come (According To Plan)]
 image:Melanie/2020 - What have they done to my song/cover.png[What have they done to my song,200,200,role="thumb left"]
 
 .Anne Briggs – The Recruited Collier

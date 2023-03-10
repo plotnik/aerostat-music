@@ -126,6 +126,7 @@
 === M
 
 - link:./Magnetic%20Fields/2017%20-%2050%20Song%20Memoir/lyrics/50.html[Magnetic Fields/2017 - 50 Song Memoir]
+- link:./Melanie/2020%20-%20What%20have%20they%20done%20to%20my%20song/lyrics/melanie.html[Melanie/2020 - What have they done to my song]
 - link:./MILK%20CARTON%20KIDS/2018%20-%20All%20The%20Things%20That%20I%20Did%20And%20All%20The%20Things%20That%20I%20Didnt%20Do/lyrics/things.html[MILK CARTON KIDS/2018 - All The Things That I Did And All The Things That I Didnt Do]
 - link:./MORRISSEY/2006%20-%20Ringleader%20of%20the%20Tormentors/lyrics/ringleader.html[MORRISSEY/2006 - Ringleader of the Tormentors]
 - link:./MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html[MORRISSEY/2017 - Low in High School]
