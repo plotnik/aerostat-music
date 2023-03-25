@@ -126,6 +126,7 @@
 === M
 
 - link:./Magnetic%20Fields/2017%20-%2050%20Song%20Memoir/lyrics/50.html[Magnetic Fields/2017 - 50 Song Memoir]
+- link:./MARK%20KNOPFLER/2004%20-%20Shangri-La/lyrics/shangri-la.html[MARK KNOPFLER/2004 - Shangri-La]
 - link:./Melanie/2020%20-%20What%20have%20they%20done%20to%20my%20song/lyrics/melanie.html[Melanie/2020 - What have they done to my song]
 - link:./MILK%20CARTON%20KIDS/2018%20-%20All%20The%20Things%20That%20I%20Did%20And%20All%20The%20Things%20That%20I%20Didnt%20Do/lyrics/things.html[MILK CARTON KIDS/2018 - All The Things That I Did And All The Things That I Didnt Do]
 - link:./MORRISSEY/2006%20-%20Ringleader%20of%20the%20Tormentors/lyrics/ringleader.html[MORRISSEY/2006 - Ringleader of the Tormentors]
@@ -231,6 +232,9 @@
 - link:./ЩЕРБАКОВ%20МИХАИЛ/Вишневое%20варенье/lyrics/jam.html[ЩЕРБАКОВ МИХАИЛ/Вишневое варенье]
 - link:./ЩЕРБАКОВ%20МИХАИЛ/Ложный%20шаг/lyrics/faux.html[ЩЕРБАКОВ МИХАИЛ/Ложный шаг]
 - link:./ЩЕРБАКОВ%20МИХАИЛ/По%20мотивам/lyrics/motiv.html[ЩЕРБАКОВ МИХАИЛ/По мотивам]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%201/lyrics/music1.html[ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 1]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%202/lyrics/music2.html[ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 2]
+- link:./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%203/lyrics/music3.html[ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 3]
 
 > link:aerostat.html[<Home>] link:toc.html[<Contents>]
 
