@@ -22,6 +22,29 @@ code {
                                                                           
 == 37.
 
+=== Новые Песни Апреля, 26 марта 2023
+<https://aerostatbg.ru/release/929>
+
+.Signe Marie Rustad – Hello It's Me
+image:Signe Marie Rustad 2023 - Particles of Faith/cover.jpg[Particles of Faith,200,200,role="thumb left"]
+
+.Hollow Hand – One Last Summer
+image:Hollow Hand 2023 - Your Own Adventure/cover.jpg[Your Own Adventure,200,200,role="thumb left"]
+
+[%hardbreaks]
+Damned – Beware Of The Clown
+Sleaford Mods feat. Perry Farrell – So Trendy
+Allan Clarke – Buddy's Back
+Orbital feat. The Little Pest – What A Surprise
+Deerhoof – Wedding, March, Flower
+Temples – Afterlife
+John Cale feat. Fat White Family – The Legal Status Of Ice
+Аквариум – Песни вычерпывающих людей
+
+++++
+<br clear="both">
+++++
+
 === Викинги, 19 марта 2023
 <https://aerostatbg.ru/release/928>
 
@@ -31,8 +54,10 @@ image:JETHRO TULL/1982  Broadsword & The Beast/cover.jpg[1982  Broadsword & The 
 .Mari Boine – Vuoi vuoi mu
 image:Mari Boine 2006 - Idjagie­đas/cover.jpg[Idjagie­đas,200,200,role="thumb left"]
 
+.Robert Plant – Monkey
+image:ROBERT PLANT/2010 - Band of Joy/120s8xu.jpg[Band of Joy,200,200,role="thumb left"]
+
 [%hardbreaks]
-Robert Plant – Monkey
 Steppenwolf – Jupiter's Child
 Faun – Hymn To Pan
 Hedningarna – Räven
