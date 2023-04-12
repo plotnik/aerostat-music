@@ -478,14 +478,24 @@ image:BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind/cover.jpg[Blowing In The Wi
 .Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_she_said_she_said[She Said, She Said]
 image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
 
+.Irish Rovers – No Nay Never
+image:Irish Rovers 1996 - Gems/gems.jpg[Gems,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tally Hall – Hidden In The Sand
+image:Tally Hall - Marvins Marvelous Mechanical Museum/cover.png[Marvins Marvelous Mechanical Museum,200,200,role="thumb left"]
+
+.Ustad Nishat Khan & Ensemble Gilles Binchois – Introit - Statuit ei Dominus
+image:Ustad Nishat Khan & Ensemble Gilles Binchois - Meeting of Angels/cover.jpg[Meeting of Angels,200,200,role="thumb left"]
+
 [%hardbreaks]
-Tally Hall – Hidden In The Sand
 Dobet Gnahoré – Telo de
 Tally Hall – Ruler Of Everything
 Kraftwerk – It's More Fun To Compute
 Rolling Stones – Ride On Baby
-Irish Rovers – No Nay Never
-Ustad Nishat Khan & Ensemble Gilles Binchois – Introit - Statuit ei Dominus
 Byrds – My Back Pages
     
 ++++

@@ -22,6 +22,47 @@ code {
                                                                           
 == 37.
 
+=== New Names, 9 апреля 2023
+<https://aerostatbg.ru/release/931>
+
+.Acid Arab feat. Cem Yıldız – Döne Döne
+image:Acid Arab 2023 - 3 Trois/cover.jpg[3 Trois,200,200,role="thumb left"]
+
+[%hardbreaks]
+Cosmo Sheldrake – Nightjar
+LaVern Baker & The Gliders – Jim Dandy
+Baaba Maal – Kalaajo
+Lucrecia Dalt – Dicen
+Cramps – Goo Goo Muck
+Alabaster DePlume – I Want A Red Car
+Roches – Hammond Song
+Selecter – Carry Go Bring Home
+LaVern Baker – Soul On Fire
+    
+++++
+<br clear="both">
+++++   
+
+=== Psychedeliа И Сознание, 2 апреля 2023
+<https://aerostatbg.ru/release/930>
+
+[%hardbreaks]
+Norman Greenbaum – Spirit In The Sky
+Status Quo – Pictures Of Matchstick Men
+Mirage – Is Anybody Home
+Sleepy – Rosie Can't Fly
+Hi-Fi's – You're Haunting Me
+Plastic Penny – Mrs. Grundy
+Kinks – Two Sisters
+Tomorrow – Auntie Mary's Dress Shop
+Apple – Buffalo Billycan
+Pink Floyd – Flaming
+Troggs – Last Summer
+    
+++++
+<br clear="both">
+++++    
+    
 === Новые Песни Апреля, 26 марта 2023
 <https://aerostatbg.ru/release/929>
 
@@ -73,12 +114,14 @@ Wardruna – Raido
 .Brian Eno – Bimini Twist
 image:BRIAN ENO/2010 - Small Craft on a Milk Sea/cover.jpg[Small Craft on a Milk Sea,200,200,role="thumb left"]
 
+.Acid Arab feat. Sofiane Saidi – Leila
+image:Acid Arab 2023 - 3 Trois/cover.jpg[3 Trois,200,200,role="thumb left"]
+
 [%hardbreaks]
 Peter Gabriel – The Court (Dark-Side Mix)
 Shania Twain – Best Friend
 Depeche Mode – Ghosts Again
 Mgzavrebi – Den Den Duri
-Acid Arab feat. Sofiane Saidi – Leila
 Unknown Mortal Orchestra – Nadja
 Bleep Bloop – Fires
 Polobi & The Gwo Ka Masters – Zion
