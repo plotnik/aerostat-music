@@ -22,6 +22,39 @@ code {
                                                                           
 == 37.
 
+=== Венец Творения, 16 апреля 2023
+<https://aerostatbg.ru/release/932>
+
+.Cocteau Twins – Serpentskirt
+image:Cocteau Twins/Milk & Kisses/milkandkisses.jpg[Milk & Kisses,200,200,role="thumb left"]
+
+.Tommy Sands – Don't Call Me Early In The Morning
+image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200,role="thumb left"]
+
+.REM - link:REM/REM%20-%20Up/lyrics/up.html#_falls_to_climb[Falls To Climb]
+image:REM/REM - Up/cover.jpg[Up,200,200,role="thumb left"]
+
+.Jethro Tull - link:JETHRO%20TULL/1972%20%20Living%20In%20The%20Past/lyrics/past.html#_nursie[Nursie]
+image:JETHRO TULL/1972  Living In The Past/cover.jpg[1972  Living In The Past,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++ 
+
+.Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_weathercock[Weathercock]
+image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+[%hardbreaks]
+Pomerium – Penet: Virgo prudentissima
+Weepies – Same Changes
+MycoLyco – Cordyceps Militaris Mushroom Music
+Rakesh Chaurasia, Sunil Das, Ulhas Bapat, Zarin Daruwala, Akhlak Hussain, Bhavani Shankar, Ashit Desai – Odhhaji Mara Vaalane
+High Llamas – Pilgrims
+
+++++
+<br clear="both">
+++++   
+    
 === New Names, 9 апреля 2023
 <https://aerostatbg.ru/release/931>
 
