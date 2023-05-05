@@ -619,14 +619,26 @@ image:Del Amitri/2021 - Fatal Mistakes/Front.jpg[Fatal Mistakes,200,200,role="th
 .Tom Waits – Ruby's Arms
 image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
 
+.Roger Eno – Riddle
+image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
+
+.Krishna Das – Sri Bajrang Baan
+image:KRISHNA DAS/Kirtan Wallah/cover.jpg[Kirtan Wallah,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Beach Boys – Big Sur
+image:The Beach Boys/Holland (2000 Remaster)/cover.jpg[Holland (2000 Remaster),200,200,role="thumb left"]
+
+.Chas & Dave – The Sideboard Song
+image:Chas & Dave - The Greatest Hits/cover.jpg[The Greatest Hits,200,200,role="thumb left"]
+
 [%hardbreaks]
-Chas & Dave – The Sideboard Song
 Ashley Hutchings – Cotswold Tune
-Krishna Das – Sri Bajrang Baan
-Roger Eno – Riddle
 Frank Ifield – She Taught Me How To Yodel
 Liz Phair – Spanish Doors
-Beach Boys – Big Sur
 Eden Kane – We Could Have Had It All
 
     
