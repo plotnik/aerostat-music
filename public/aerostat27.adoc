@@ -21,8 +21,7 @@ h3 {
 ++++
 
 === Новые песни апреля, 1 апреля 2018
-
-<https://aerostatica.ru/2018/04/01/672-novye-pesni-aprelya/>
+<https://aerostatbg.ru/release/672>
 
 .Decemberists - link:THE%20DECEMBERISTS/The%20Decemberists%20-%20I_ll%20Be%20Your%20Girl/lyrics/dec_girl.html#_severed[Severed]
 image:THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl/cover.jpg[I_ll Be Your Girl,200,200,role="thumb left"]
@@ -57,8 +56,7 @@ Antonee First Class feat. U-Roy - Gimme Di Ska
 ++++
 
 === Забытая классика, 25 марта 2018
-
-<https://aerostatica.ru/2018/03/25/671-zabytaya-klassika/>
+<https://aerostatbg.ru/release/671>
 
 .Bruce Springsteen - Dancing In The Dark
 image:Bruce Springsteen/1984 - Born in the USA/cover.jpeg[Born in the USA,200,200,role="thumb left"]
@@ -75,8 +73,7 @@ Fred Astaire - Puttin’ On The Ritz
 
 
 === Позитивная энергия, 18 марта 2018
-
-<https://aerostatica.ru/2018/03/18/670-pozitivnaya-energiya/>
+<https://aerostatbg.ru/release/670>
 
 .Paul McCartney - No More Lonely Nights
 image:PAUL MCCARTNEY/Paul McCartney - Give My Regards To Broad Street/cover.jpg[Give My Regards To Broad Street,200,200,role="thumb left"]
@@ -97,8 +94,7 @@ Valerie Kimani - Sirudi Tena
 
 
 === Страшная сила красоты, 11 марта 2018
-
-<https://aerostatica.ru/2018/03/11/669-strashnaya-sila-krasoty/>
+<https://aerostatbg.ru/release/669>
 
 .Red Hot Chili Peppers - Someone
 image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
@@ -123,8 +119,7 @@ Beatles - I Will
 ++++
 
 === За пианино – Билл Эванс! 4 марта 2018
-
-<https://aerostatica.ru/2018/03/04/668-za-pianino-bill-evans/>
+<https://aerostatbg.ru/release/668>
 
 [%hardbreaks]
 Bill Evans - Nardis
@@ -138,8 +133,7 @@ Bill Evans - Polka Dots And Moonbeams
 
 
 === Время N, 25 февраля 2018
-
-<https://aerostatica.ru/2018/02/25/667-vremya-n/>
+<https://aerostatbg.ru/release/667>
 
 [%hardbreaks]
 БГ - Тёмный как ночь
@@ -153,8 +147,7 @@ Bill Evans - Polka Dots And Moonbeams
 
 
 === Отцы-пустынники, 18 февраля 2018
-
-<https://aerostatica.ru/2018/02/18/666-otcy-pustynniki/>
+<https://aerostatbg.ru/release/666>
 
 .Don McLean - link:Don%20McLean%20-%20American%20Pie/lyrics/mclean.html#_babylon[Babylon]
 image:Don McLean - American Pie/cover.jpg[American Pie,200,200,role="thumb left"]
@@ -173,8 +166,7 @@ Lemon Jelly - A Tune For Jack
 Takagi Masakatsu feat. David Sylvian - Exit/Delete
 
 === Новые песни февраля, 11 февраля 2018
-
-<https://aerostatica.ru/2018/02/11/665-novye-pesni-fevralya/>
+<https://aerostatbg.ru/release/665>
 
 .Joan Baez - Whistle Down The Wind
 image:Joan Baez 2018 - Whistle Down The Wind/cover.jpg[Whistle Down The Wind,200,200,role="thumb left"]
@@ -198,8 +190,7 @@ Soho Rezanejad - December Song
 ++++
 
 === Elliott Smith, 4 февраля 2018
-
-<https://aerostatica.ru/2018/02/04/664-elliott-smith/>
+<https://aerostatbg.ru/release/664>
 
 .Elliott Smith - Baby Britain
 image:ELLIOTT SMITH/Elliott Smith - XO/cover.jpg[XO,200,200,role="thumb left"]
@@ -218,8 +209,7 @@ Elliott Smith - Everything Means Nothing To Me
 Elliott Smith - Stupidity Tries
 
 === Imbolc, 28 января 2018
-
-<https://aerostatica.ru/2018/01/28/663-imbolc/>
+<https://aerostatbg.ru/release/663>
 
 .Christy Moore - The Voyage
 image:CHRISTY MOORE/1989 - Voyage/cover.jpg[Voyage,200,200,role="thumb left"]
@@ -237,8 +227,7 @@ Declan O’Rourke – Poor Boy’s Shoes
 Liam O’Flynn – An Droichead (The Bridge)
 
 === Новые песни января, 21 января 2018
-
-<https://aerostatica.ru/2018/01/21/662-novye-pesni-yanvarya/>
+<https://aerostatbg.ru/release/662>
 
 .Jonny Greenwood - The Tailor Of Fitzrovia
 image:Jonny Greenwood 2018 - Phantom Thread OST/cover.jpg[Phantom Thread OST,200,200,role="thumb left"]
@@ -261,8 +250,7 @@ Skids - One Last Chance
 
 
 === Лучшие альбомы 2017, 14 января 2018
-
-<https://aerostatica.ru/2018/01/14/661-luchshie-albomy-2017/>
+<https://aerostatbg.ru/release/661>
 
 .Morrissey - link:MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html#_jacky_s_only_happy_when_she_s_up_on_the_stage[Jacky’s Only Happy When She’s Up On The Stage]
 image:MORRISSEY/2017 - Low in High School/cover.jpg[Low in High School,200,200,role="thumb left"]
@@ -294,8 +282,7 @@ Snarky Puppy - Tarova
 ++++
 
 === Притчи, 7 января 2018
-
-<https://aerostatica.ru/2018/01/07/660-pritchi/>
+<https://aerostatbg.ru/release/660>
 
 .Elliott Smith - I Better Be Quiet Now
 image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
@@ -317,8 +304,7 @@ Eels - The Good Old Days
 Keith Emerson - It Came Upon A Midnight Clear
 
 === С Новым годом! 31 декабря 2017
-
-<https://aerostatica.ru/2017/12/31/659-s-novym-godom/>
+<https://aerostatbg.ru/release/659>
 
 .Electric Light Orchestra - The Lights Go Down
 image:Electric Light Orchestra/07_Time (1981)/cover.jpg[Time,200,200,role="thumb left"]
@@ -350,8 +336,7 @@ Keith Emerson - Glorietta, Pt.1
 ++++
 
 === С Рождеством! 24 декабря 2017
-
-<https://aerostatica.ru/2017/12/24/658-s-rozhdestvom/>
+<https://aerostatbg.ru/release/658>
 
 [%hardbreaks]
 Frank Sinatra - Have Yourself A Merry Little Christmas
@@ -368,8 +353,7 @@ Bing Crosby - White Christmas
 Keith Emerson - Snowman’s Land
 
 === Суфийская поэзия: Джалал-ад-Дин Руми, 17 декабря 2017
-
-<https://aerostatica.ru/2017/12/17/657-sufiyskaya-poeziya-dzhalal-ad-din-rumi/>
+<https://aerostatbg.ru/release/657>
 
 .King Creosote & Jon Hopkins - Bubble
 image:King Creosote/King Creosote 2011 - Diamond Mine/Front.jpg[Diamond Mine,200,200,role="thumb left"]
@@ -391,8 +375,7 @@ Abida Parveen - Ghazal, Part 2
 ++++
 
 === Музыкальные новости декабря, 10 декабря 2017
-
-<https://aerostatica.ru/2017/12/10/656-muzykalnye-novosti-dekabrya/>
+<https://aerostatbg.ru/release/656>
 
 .Morrissey - link:MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html#_the_girl_from_tel_aviv_who_wouldn_t_kneel[The Girl From Tel-Aviv Who Wouldn’t Kneel]
 image:MORRISSEY/2017 - Low in High School/cover.jpg[Low in High School,200,200,role="thumb left"]
@@ -414,8 +397,7 @@ Kate Rusby - See Amid The Winter Snow
 ++++
 
 === Новые имена, 3 декабря 2017
-
-<https://aerostatica.ru/2017/12/03/655-novye-imena/>
+<https://aerostatbg.ru/release/655>
 
 [%hardbreaks]
 Flyte - Victoria Falls
@@ -429,8 +411,7 @@ Kingston Trio - Tom Dooley
 Hot Tuna - Keep On Truckin’
 
 === Ещё новая музыка, 26 ноября 2017
-
-<https://aerostatica.ru/2017/11/26/654-eshchyo-novaya-muzyka/>
+<https://aerostatbg.ru/release/654>
 
 .George Harrison - Blow Away
 image:GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989/Folder.jpg[Best Of Dark Horse 1976-1989,200,200,role="thumb left"]
@@ -451,8 +432,7 @@ Josh Ritter feat. Bob Weir - When Will I Be Changed
 ++++
 
 === Новые имена, 19 ноября 2017
-
-<https://aerostatica.ru/2017/11/19/653-novye-imena/>
+<https://aerostatbg.ru/release/653>
 
 [%hardbreaks]
 Jet - One Hipster One Bullit
@@ -466,8 +446,7 @@ Leo Abrahams - Into The Wild
 Marc Cohn - Walking In Memphis
 
 === Роберт Плант 2017, 12 ноября 2017
-
-<https://aerostatica.ru/2017/11/12/652-robert-plant-2017/>
+<https://aerostatbg.ru/release/652>
 
 .Robert Plant - link:ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html#_new_world[New World…]
 image:ROBERT PLANT/2017 - Carry Fire/cover.jpg[Carry Fire,200,200,role="thumb left"]
@@ -482,8 +461,7 @@ Robert Plant - Bluebirds Over The Mountain
 Robert Plant - Keep It Hid
 
 === Новые песни ноября, 5 ноября 2017
-
-<https://aerostatica.ru/2017/11/05/651-novye-pesni-noyabrya/>
+<https://aerostatbg.ru/release/651>
 
 .Shpongle - Herr Gringleflapper’s Secret Stash Box
 image:Shpongle/2017 - Codex VI/folder.jpg[Codex VI,200,200,role="thumb left"]
@@ -502,8 +480,7 @@ Liam Gallagher - For What It’s Worth
 ++++
 
 === Солнце и облака, 29 октября 2017
-
-<https://aerostatica.ru/2017/10/29/650-solnce-i-oblaka/>
+<https://aerostatbg.ru/release/650>
 
 .Procol Harum - Whisky Train
 image:PROCOL HARUM/1970 -Home/cover.jpg[Home,200,200,role="thumb left"]
@@ -523,8 +500,7 @@ Pete Coe - Penny For The Ploughboys
 Аквариум - Для Тех, Кто Влюблён
 
 === Tom Petty R.I.P., 22 октября 2017
-
-<https://aerostatica.ru/2017/10/22/649-tom-petty-r-i-p/>
+<https://aerostatbg.ru/release/649>
 
 .Tom Petty And The Heartbreakers - Deliver Me
 image:TOM PETTY/Tom Petty - Long After Dark/Folder.jpg[Long After Dark,200,200,role="thumb left"]
@@ -551,8 +527,7 @@ Tom Petty - I Won’t Back Down
 Tom Petty And The Heartbreakers - Wooden Heart
 
 === Сладости реггей, 15 октября 2017
-
-<https://aerostatica.ru/2017/10/15/648-sladosti-reggey/>
+<https://aerostatbg.ru/release/648>
 
 [%hardbreaks]
 Dave & Ansel Collins - Double Barrel
@@ -568,8 +543,7 @@ Max Romeo & The Upsetters - One Step Forward
 Laurel Aitken feat. The Skatalites - Bad Minded Woman
 
 === Урожай октября, 8 октября 2017
-
-<https://aerostatica.ru/2017/10/08/647-urozhay-oktyabrya/>
+<https://aerostatbg.ru/release/647>
 
 .Morrissey - link:MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html#_spent_the_day_in_bed[Spent The Day In Bed]
 image:MORRISSEY/2017 - Low in High School/cover.jpg[Low in High School,200,200,role="thumb left"]
@@ -600,8 +574,8 @@ Neil Finn - Widow’s Peak
 ++++	
 
 === Коммуникация, 1 октября 2017
+<https://aerostatbg.ru/release/646>
 
-<https://aerostatica.ru/2017/10/01/646-kommunikaciya/>
 
 .Beatles - Paperback Writer
 image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
@@ -636,8 +610,7 @@ Rufus Wainwright - Instant Pleasure
 ++++
     
 === Reissues, 24 сентября 2017
-
-<https://aerostatica.ru/2017/09/24/645-reissues/>
+<https://aerostatbg.ru/release/645>
 
 .Fairport Convention - Time Will Show The Wiser
 image:FAIRPORT CONVENTION/Fairport Convention-Fairport Convention/a. Fairport Convention.jpg[Fairport Convention,200,200,role="thumb left"]
@@ -654,8 +627,7 @@ Cars - Just What I Needed
 Skatalites - Guns Of Navarone
 
 === Beck, 17 сентября 2017
-
-<https://aerostatica.ru/2017/09/17/644-beck/>
+<https://aerostatbg.ru/release/644>
 
 .Beck - Cold Brains
 image:BECK/Beck - Mutations/Folder.jpg[Mutations,200,200,role="thumb left"]
@@ -680,8 +652,7 @@ Beck - Dear Life
 ++++
 
 === Второй урожай сентября,  10 сентября 2017
-
-<https://aerostatica.ru/2017/09/10/643-vtoroy-urozhay-sentyabrya/>
+<https://aerostatbg.ru/release/643>
 
 .Steven Wilson - To The Bone
 image:Steven Wilson - To the Bone/Cover.jpg[To the Bone,200,200,role="thumb left"]

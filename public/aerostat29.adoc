@@ -26,8 +26,7 @@ code {
 <<<
 
 === Новые песни апреля, 21 апреля 2019
-
-<https://aerostatica.ru/2019/04/21/727-novye-pesni-aprelya/>
+<https://aerostatbg.ru/release/727>
 
 .Cranberries - The Pressure
 image:CRANBERRIES/2019 In The End/wm.jpg[2019 In The End,200,200,role="thumb left"]
@@ -51,8 +50,7 @@ Sly & Robbie feat. Michael Rose, Mykal Rose, Sidney Mills & Don Camel - This Mor
 ++++
 
 === «Stand Up» (словами авторов), 14 апреля 2019
-
-<https://aerostatica.ru/2019/04/14/726-stand-up-slovami-avtorov/>
+<https://aerostatbg.ru/release/726>
 
 .Jethro Tull - A New Day Yesterday
 image:JETHRO TULL/Jethro Tull - Stand Up/cover.jpg[Stand Up,200,200,role="thumb left"]
@@ -73,8 +71,7 @@ Jethro Tull - Look Into The Sun
 ++++
 
 === Krautrock, 7 апреля 2019
-
-<https://aerostatica.ru/2019/04/07/725-krautrock/>
+<https://aerostatbg.ru/release/725>
 
 .Can - Moonshake
 image:Can 1973 - Future Days/Folder.jpg[Future Days,200,200,role="thumb left"]
@@ -95,8 +92,7 @@ Kraftwerk - Metropolis
 ++++
 
 === Новые имена, 31 марта 2019
-
-<https://aerostatica.ru/2019/03/31/724-novye-imena/>
+<https://aerostatbg.ru/release/724>
 
 [%hardbreaks]
 Vaudou Game - Chérie Nye
@@ -113,8 +109,7 @@ The 1975 - Sincerity Is Scary
 ++++
 
 === Muddy Waters, 24 марта 2019
-
-<https://aerostatica.ru/2019/03/24/723-muddy-waters/>
+<https://aerostatbg.ru/release/723>
 
 [%hardbreaks]
 Muddy Waters - Mannish Boy
@@ -135,8 +130,7 @@ Muddy Waters - Just Make Love To Me
 ++++
 
 === Дэвид Сильвиан, 17 марта 2019
-
-<https://aerostatica.ru/2019/03/17/722-devid-silvian/>
+<https://aerostatbg.ru/release/722>
 
 [%hardbreaks]
 David Sylvian - The Boy With The Gun
@@ -152,8 +146,7 @@ David Sylvian - The Only Daughter
 ++++
 
 === И то, и сё, 10 марта 2019
-
-<https://aerostatica.ru/2019/03/10/721-i-to-i-syo/>
+<https://aerostatbg.ru/release/721>
 
 .Specials - link:Specials/Encore%20(Deluxe)/lyrics/encore.html#_the_lunatics[The Lunatics]
 image:Specials/Encore (Deluxe)/cover.jpg[Encore (Deluxe),200,200,role="thumb left"]
@@ -177,8 +170,7 @@ Sha Na Na - Witch Doctor
 ++++
 
 === Новые песни марта, 3 марта 2019
-
-<https://aerostatica.ru/2019/03/03/720-novye-pesni-marta/>
+<https://aerostatbg.ru/release/720>
 
 .Pet Shop Boys - Give Stupidity A Chance
 image:Pet Shop Boys 2019 - Agenda/cover.jpg[Agenda,200,200,role="thumb left"]
@@ -210,8 +202,7 @@ Cass McCombs - Absentee
 ++++
 
 === Главные альбомы Боба Марли, 24 февраля 2019
-
-<https://aerostatica.ru/2019/02/24/719-glavnye-albomy-boba-marli/>
+<https://aerostatbg.ru/release/719>
 
 .Bob Marley & The Wailers - Natty Dread
 image:BOB MARLEY/1978 - Natty Dread/cover.jpg[Natty Dread,200,200,role="thumb left"]
@@ -242,8 +233,7 @@ Bob Marley & The Wailers - Ride Natty Ride
 ++++
 
 === Из какого сора №2, 17 февраля 2019
-
-<https://aerostatica.ru/2019/02/17/718-iz-kakogo-sora-2/>
+<https://aerostatbg.ru/release/718>
 
 .Doors - Light My Fire
 image:DOORS/1967 - The Doors/Folder.jpg[The Doors,200,200,role="thumb left"]
@@ -260,8 +250,7 @@ John Martyn - Solid Air
 ++++
     
 === Howlin’ Wolf, 10 февраля 2019
-
-<https://aerostatica.ru/2019/02/10/717-howlin-wolf/>
+<https://aerostatbg.ru/release/717>
 
 .Howlin’ Wolf - Spoonful
 image:Howlin Wolf - His Best/cover.jpg[His Best,200,200,role="thumb left"]
@@ -283,8 +272,7 @@ Howlin’ Wolf - The Sun Is Rising
 ++++
 
 === Химолк, 3 февраля 2019
-
-<https://aerostatica.ru/2019/02/03/716-himolk/>
+<https://aerostatbg.ru/release/716>
 
 .Fairport Convention - She Moves Through The Fair
 image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
@@ -307,8 +295,7 @@ Dransfield - What Will We Tell Them?
 ++++
 
 === «Лилит», 27 января 2019
-
-<https://aerostatica.ru/2019/01/27/715-lilit/>
+<https://aerostatbg.ru/release/715>
 
 [%hardbreaks]
 БГ - Некоторые женятся (А некоторые - так)
@@ -326,8 +313,7 @@ Dransfield - What Will We Tell Them?
 ++++
 
 === Новые песни января, 20 января 2019
-
-<https://aerostatica.ru/2019/01/20/714-novye-pesni-yanvarya/>
+<https://aerostatbg.ru/release/714>
 
 [%hardbreaks]
 Weezer - Zombie Bastards
@@ -345,8 +331,7 @@ Paul McCartney - Get Enough
 ++++
 
 === Лучшие альбомы 2018, 13 января 2019
-
-<https://aerostatica.ru/2019/01/13/713-luchshie-albomy-2018/>
+<https://aerostatbg.ru/release/713>
 
 .John Grant - Touch And Go
 image:JOHN GRANT/John Grant - Love Is Magic/cover.jpg[Love Is Magic,200,200,role="thumb left"]
@@ -388,8 +373,7 @@ image:Ziggy Marley - Rebellion Rises/cover.jpg[Rebellion Rises,200,200,role="thu
 ++++
 
 === Притчи, 6 января 2019
-
-<https://aerostatica.ru/2019/01/06/712-pritchi/>
+<https://aerostatbg.ru/release/712>
 
 .Simon & Garfunkel - Benedictus
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Wednesday Morning/cover.jpg[Wednesday Morning,200,200,role="thumb left"]
@@ -420,8 +404,7 @@ Tom Paxton - My Lady’s A Wild, Flying Dove
 ++++
 
 === С наступающим! 30 декабря 2018
-
-<https://aerostatica.ru/2018/12/30/711-s-nastupayushchim/>
+<https://aerostatbg.ru/release/711>
 
 .George Harrison - I Live For You
 image:GEORGE HARRISON/George Harrison - Through Many Years/cover.jpg[Through Many Years,200,200,role="thumb left"]
@@ -455,8 +438,7 @@ Bing Crosby & Grace Kelly - True Love
 ++++
 
 === Рождество, 23 декабря 2018
-
-<https://aerostatica.ru/2018/12/23/710-rozhdestvo/>
+<https://aerostatbg.ru/release/710>
 
 [%hardbreaks]
 Bing Crosby - That Christmas Feeling
@@ -476,8 +458,7 @@ Bing Crosby - White Christmas
 ++++
 
 === Карбонара, 16 декабря 2018
-
-<https://aerostatica.ru/2018/12/16/709-karbonara/>
+<https://aerostatbg.ru/release/709>
 
 [%hardbreaks]
 Rustavi Choir - Sabodisho (Healing Song)
@@ -496,8 +477,7 @@ Tom Petty - Around The Roses
 ++++
 
 === Начало блюза, 9 декабря 2018
-
-<https://aerostatica.ru/2018/12/09/708-nachalo-blyuza/>
+<https://aerostatbg.ru/release/708>
 
 .John Lee Hooker - link:JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%201)/lyrics/hooker1.html#_dimples[Dimples]
 image:JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 1)/cover.jpg[The Ultimate Collection (CD 1),200,200,role="thumb left"]
@@ -519,8 +499,7 @@ Skip James - Hard Times Killing Floor Blues
 ++++
 
 === Новые имена, 2 декабря 2018
-
-<https://aerostatica.ru/2018/12/02/707-novye-imena/>
+<https://aerostatbg.ru/release/707>
 
 [%hardbreaks]
 Johann Caspar Ferdinand Fischer - Marche I
@@ -539,8 +518,7 @@ Matshikos - New South Africa
 ++++
 
 === Новые песни декабря, 25 ноября 2018
-
-<https://aerostatica.ru/2018/11/25/706-novye-pesni-dekabrya/>
+<https://aerostatbg.ru/release/706>
 
 .Mark Knopfler - Good On You Son
 image:MARK KNOPFLER/2018 - Down The Road Wherever/cover.jpg[Down The Road Wherever,200,200,role="thumb left"]
@@ -562,8 +540,7 @@ John Smith - Hummingbird
 ++++
 
 === Алиса Колтрейн, 18 ноября 2018
-
-<https://aerostatica.ru/2018/11/18/705-alisa-koltreyn/>
+<https://aerostatbg.ru/release/705>
 
 [%hardbreaks]
 Alice Coltrane - Transcendence
@@ -578,8 +555,7 @@ Alice Coltrane - Jagadishwar
 ++++
 
 === The Band, 11 ноября 2018
-
-<https://aerostatica.ru/2018/11/11/704-the-band/>
+<https://aerostatbg.ru/release/704>
 
 .Band - Across The Great Divide
 image:The Band 1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
@@ -600,8 +576,7 @@ Bob Dylan & The Band - You Ain’t Goin’ Nowhere
 ++++
 
 === Новые в ноябре, 4 ноября 2018
-
-<https://aerostatica.ru/2018/11/04/703-novye-v-noyabre/>
+<https://aerostatbg.ru/release/703>
 
 .Gryphon - Rhubarb Crumhorn
 image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
@@ -632,8 +607,7 @@ Beatles - While My Guitar Gently Weeps [Acoustic Version / Take 2]
 ++++
 
 === Samhain-2018, 28 октября 2018
-
-<https://aerostatica.ru/2018/10/28/702-samhain-2018/>
+<https://aerostatbg.ru/release/702>
 
 [%hardbreaks]
 Gráinne Hambly - Eleanor Plunkett
@@ -653,8 +627,7 @@ Gráinne Hambly - Tosa Waltz
 ++++
     
 === Ultravox, 21 октября 2018
-
-<https://aerostatica.ru/2018/10/21/701-ultravox/>
+<https://aerostatbg.ru/release/701>
 
 [%hardbreaks]
 Ultravox - Reap The Wild Wind
@@ -673,8 +646,7 @@ Ultravox - Love’s Great Adventure
 ++++
 
 === Семисотая, 14 октября 2018
-
-<https://aerostatica.ru/2018/10/14/700-semisotaya/>
+<https://aerostatbg.ru/release/700>
 
 .Tom Petty - I Don’t Belong
 image:TOM PETTY/Tom Petty 2008 - An American Treasure/cover.jpg[An American Treasure,200,200,role="thumb left"]

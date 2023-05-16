@@ -21,8 +21,7 @@ h3 {
 ++++
 
 === Заговор Гандхарвов, 26 февраля 2017
-
-<http://aerostatica.ru/2017/02/26/615-zagovor-gandharvov/>
+<https://aerostatbg.ru/release/615>
 
 .Simon & Garfunkel - April Come She Will
 image:SIMON & GARFUNKEL/Simon & Garfunkel - Sounds of Silence/cover.jpg[Sounds of Silence,200,200,role="thumb left"]
@@ -43,8 +42,7 @@ George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll)
 ++++
 
 === Новые Песни Февраля, 19 февраля 2017
-
-<http://aerostatica.ru/2017/02/19/614-novye-pesni-fevralya/>
+<https://aerostatbg.ru/release/614>
 
 [%hardbreaks]
 Iggy Pop - Gold
@@ -62,8 +60,7 @@ Grandaddy - Way We Won’t
 ++++
 
 === Великое Делание, 12 февраля 2017
-
-<http://aerostatica.ru/2017/02/12/613-velikoe-delanie/>
+<https://aerostatbg.ru/release/613>
 
 .George Harrison – Greece
 image:GEORGE HARRISON/George Harrison - Gone Troppo/cover.jpg[Gone Troppo,200,200,role="thumb left"]
@@ -88,8 +85,7 @@ Chieftains – Love Theme (From Tristan And Isolde)
 ++++
 
 === Пост-классическая музыка, 5 февраля 2017
-
-<http://aerostatica.ru/2017/02/05/612-post-klassicheskaya-muzyka/>
+<https://aerostatbg.ru/release/612>
 
 .Yann Tiersen - Porz Goret
 image:YANN TIERSEN/2016 - Eusa/cover.jpg[Eusa,200,200,role="thumb left"]
@@ -111,8 +107,7 @@ Nico Muhly - Who Was She?
 ++++
 
 === Imbolc 2017, 29 января 2017
-
-<http://aerostatica.ru/2017/01/29/611-imbolc-2017/>
+<https://aerostatbg.ru/release/611>
 
 .Mr. Fox - link:MR%20FOX/1971%20-%20The%20Gypsy/lyrics/gypsy.html[Elvira Madigan]
 image:MR FOX/1971 - The Gypsy/Folder.jpg[The Gypsy,200,200,role="thumb left"]
@@ -123,9 +118,17 @@ image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,20
 .Maddy Prior & The Carnival Band - My Dancing Day
 image:STEELEYE SPAN/Maddy Prior & The Carnival Band 1991 - Сarols & Сapers/cover.jpg[Сarols & Сapers,200,200,role="thumb left"]
 
+.Whistlebinkies - Sir John Fenwick
+image:Whistlebinkies/Anniversary/cover.jpg[Anniversary,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tim Hart & Maddy Prior - Dancing At Whitsun
+image:STEELEYE SPAN/Tim Hart and Maddy Prior 1971 - Summer Solstice/Folder.jpg[Summer Solstice,200,200,role="thumb left"]
+
 [%hardbreaks]
-Tim Hart & Maddy Prior - Dancing At Whitsun
-Whistlebinkies - Sir John Fenwick
 Clutha - Binnorie
 5 Hand Reel - Bratach Bana
 Gerry Rafferty - Mary Skeffington
@@ -137,8 +140,7 @@ Guidewires - Marbh Ban
 ++++
 
 === Аквариум. Гиперборея, 22 января 2017
-
-<http://aerostatica.ru/2017/01/22/610-akvarium-giperboreya/>
+<https://aerostatbg.ru/release/610>
 
 [%hardbreaks]
 Аквариум - Hyperborea In Memoriam
@@ -154,8 +156,7 @@ Guidewires - Marbh Ban
 ++++
 
 === Finnegan’s Choice, 15 января 2017
-
-<http://aerostatica.ru/2017/01/15/609-finnegan-s-choice/>
+<https://aerostatbg.ru/release/609>
 
 [%hardbreaks]
 Canzoniere Grecanico Salentino – Nu te fermare
@@ -173,8 +174,7 @@ Lotte Kestner - Halo
 ++++
 
 === Лучшие Альбомы 2016, 8 января 2017
-
-<http://aerostatica.ru/2017/01/08/608-luchshie-albomy-2016/>
+<https://aerostatbg.ru/release/608>
 
 .Red Hot Chili Peppers - Encore
 image:RED HOT CHILI PEPPERS/Red Hot Chili Peppers 2016 - The Getaway/cover.jpg[The Getaway,200,200,role="thumb left"]
@@ -217,8 +217,7 @@ image:PAUL SIMON/Paul Simon - Stranger To Stranger/cover.jpg[Stranger To Strange
 ++++
 
 === Новогодние притчи, 1 января 2017
-
-<http://aerostatica.ru/2017/01/01/607-novogodnie-pritchi/>
+<https://aerostatbg.ru/release/607>
 
 .Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html#_love_henry[Love Henry]
 image:BOB DYLAN/Bob Dylan 1993 - World Gone Wrong/cover.jpg[World Gone Wrong,200,200,role="thumb left"]
@@ -250,8 +249,7 @@ Yusuf Islam - I Look I See
 ++++
 
 === Лучшие Рождественские песни, 25 декабря 2016
-
-<http://aerostatica.ru/2016/12/25/606-best-christmas-songs/>
+<https://aerostatbg.ru/release/606>
 
 .Steeleye Span - Gaudete
 image:STEELEYE SPAN/Steeleye Span - Below the Salt/Folder.jpg[Below the Salt,200,200,role="thumb left"]
@@ -275,8 +273,7 @@ John Lennon - Happy Xmas (War Is Over)
 ++++
 
 === Новые песни декабря, 18 декабря 2016
-
-<http://aerostatica.ru/2016/12/18/605-new-december-songs/>
+<https://aerostatbg.ru/release/605>
 
 [%hardbreaks]
 Junipers ‎– Red Bouquet Fair
@@ -295,8 +292,7 @@ Paul McCartney - In The Blink of an Eye
 ++++
 
 === The Divine Comedy, 11 декабря 2016
-
-<http://aerostatica.ru/2016/12/11/604-the-divine-comedy/>
+<https://aerostatbg.ru/release/604>
 
 .Divine Comedy - link:DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html#_foreverland[Foreverland]
 image:DIVINE COMEDY/2016 - Foreverland/Cover.jpg[Foreverland,200,200,role="thumb left"]

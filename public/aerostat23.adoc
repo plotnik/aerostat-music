@@ -402,8 +402,14 @@ image:ANDY STEWART/Andy M Stewart - By the Hush/Front.jpg[By the Hush,200,200,ro
 .Archie Fisher - Lord Of the May 
 image:ARCHIE FISHER/2015 - A Silent Song/cover.jpg[A Silent Song,200,200,role="thumb left"]
 
+.Whistlebinkies - Ceilidh Lines 
+image:Whistlebinkies/2006 - Albannach/front.jpg[Albannach,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Whistlebinkies - Ceilidh Lines 
 Lunasa - The Walrus 
 Seamus Begley - Taimse Im Chodladh 
 De Danann - My Baby Need A Shepherd 

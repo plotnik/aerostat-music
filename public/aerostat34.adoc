@@ -635,8 +635,11 @@ image:The Beach Boys/Holland (2000 Remaster)/cover.jpg[Holland (2000 Remaster),2
 .Chas & Dave – The Sideboard Song
 image:Chas & Dave - The Greatest Hits/cover.jpg[The Greatest Hits,200,200,role="thumb left"]
 
+.Ashley Hutchings – Cotswold Tune
+image:Ashley Hutchings 1972 - Son Of Morris On/front.jpg[Son Of Morris On,200,200,role="thumb left"]
+
 [%hardbreaks]
-Ashley Hutchings – Cotswold Tune
+
 Frank Ifield – She Taught Me How To Yodel
 Liz Phair – Spanish Doors
 Eden Kane – We Could Have Had It All

@@ -377,6 +377,9 @@ Ossian – 'S Gann Gann Dirich Mi Chaoidh
 .Iggy Pop – Cry For Love
 image:Iggy Pop - Blah-Blah-Blah/cover.jpg[Blah-Blah-Blah,200,200,role="thumb left"]
 
+.The Whistlebinkies – Great Is The Cause Of My Sorrow
+image:Whistlebinkies/Anniversary/cover.jpg[Anniversary,200,200,role="thumb left"]
+
 [%hardbreaks]
 Cambini – Quintet No.1 in B Flat Major - Rondo. Allegretto grazioso 
 Books – None But Shining Hours
@@ -384,7 +387,6 @@ Iron Butterfly – My Mirage
 Doors – Orange County Suite
 Roy Orbison – Careless Heart
 Paul Simon – My Little Town
-The Whistlebinkies – Great Is The Cause Of My Sorrow
 Rolling Stones –  Who's Been Sleeping Here
 
 ++++
@@ -650,7 +652,7 @@ image:GRATEFUL DEAD/1973 - Wake Of The Flood/cover.jpg[Wake Of The Flood,200,200
 image:RADIOHEAD/Thom Yorke - The Eraser/folder.jpg[The Eraser,200,200,role="thumb left"]
 
 .Whistlebinkies – My Bonnie Moor Hen
-image:Whistlebinkies 2006 - Albannach/front.jpg[Albannach,200,200,role="thumb left"]
+image:Whistlebinkies/2006 - Albannach/front.jpg[Albannach,200,200,role="thumb left"]
 
 .Tommy Sands –  Misty Mourne Shore
 image:Tommy Sands - Singing Of The Times/cover1.jpg[Singing Of The Times,200,200,role="thumb left"]
