@@ -22,6 +22,49 @@ code {
                                                                           
 == 37.
 
+=== 7 Псалмов Пола Саймона, 28 мая 2023
+<https://aerostatbg.ru/release/938>
+
+.Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_the_lord[The Lord]
+image:PAUL SIMON/2023 - Seven Psalms/cover.png[Seven Psalms,200,200,role="thumb left"]
+
+.Simon & Garfunkel – Bleecker Street
+image:SIMON & GARFUNKEL/Simon & Garfunkel - Wednesday Morning/cover.jpg[Wednesday Morning,200,200,role="thumb left"]
+
+[%hardbreaks]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_love_is_like_a_braid[Love Is Like A Braid]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_my_professional_opinion[My Professional Opinion]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_your_forgiveness[Your Forgiveness]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_trail_of_volcanoes[Trail Of Volcanoes]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_the_sacred_harp[The Sacred Harp]
+Paul Simon - link:PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html#_wait[Wait]
+
+++++
+<br clear="both">
+++++ 
+
+=== Velvet Underground, 21 мая 2023
+<https://aerostatbg.ru/release/937>
+
+.Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_all_tomorrow_s_parties[All Tomorrow's Parties]
+image:Velvet Undeground/Velvet Underground - The Best of the Velvet Underground/cover.jpg[The Best of the Velvet Underground,200,200,role="thumb left"]
+
+.Velvet Underground – Sunday Morning
+image:Velvet Undeground/VA - I’ll Be Your Mirror/cover.jpg[I’ll Be Your Mirror,200,200,role="thumb left"]
+
+[%hardbreaks]
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_i_ll_be_your_mirror[I'll Be Your Mirror]
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_pale_blue_eyes[Pale Blue Eyes]
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_white_light_white_heat[White Light/White Heat]
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_femme_fatale[Femme Fatale]
+Velvet Underground – Venus In Furs
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_sweet_jane[Sweet Jane]
+Velvet Underground - link:Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html#_i_m_waiting_for_the_man[I'm Waiting For The Man]
+   
+++++
+<br clear="both">
+++++ 
+
 === Новый Мюзик-Холл, 14 мая 2023
 <https://aerostatbg.ru/release/936>
 
