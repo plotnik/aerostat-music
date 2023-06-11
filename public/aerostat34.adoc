@@ -706,6 +706,13 @@ image:RICHARD THOMPSON/Across a Crowded Room/cover.jpg[Across a Crowded Room,200
 .Roger Eno – The Last Days Of May
 image:ROGER ENO/2017 - This Floating World/cover.jpg[This Floating World,200,200,role="thumb left"]
 
+.Who – Cobwebs & Strange
+image:Who - A Quick One (Stereo Mix)/cover.jpg[A Quick One (Stereo Mix),200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Cyril Tawney – Chase The Buffalo
 Archangelo Corelli – Concerto Grosso in F major, Op. 6 No. 12: I. Preludio: Adagio
