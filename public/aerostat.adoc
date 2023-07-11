@@ -22,7 +22,47 @@ code {
                                                                           
 == 37.
 
-== Дань Ушедшим, 25 июня 2023
+=== Court And Spark, 9 июля 2023
+<https://aerostatbg.ru/release/944>
+
+.Joni Mitchell – Help Me
+image:JONI MITCHELL/Court and Spark (remastered)/cover.jpg[Court and Spark (remastered),200,200,role="thumb left"]
+
+[%hardbreaks]
+Joni Mitchell – Raised On Robbery
+Joni Mitchell – Blue
+Joni Mitchell – Court And Spark
+Joni Mitchell – Free Man In Paris
+Joni Mitchell – Car On A Hill
+Joni Mitchell – Down On You
+Joni Mitchell – People's Parties
+Joni Mitchell – Just Like This Train
+Joni Mitchell – Twisted
+Joni Mitchell – The Same Situation
+    
+++++
+<br clear="both">
+++++ 
+
+=== Новые Песни Июля и Философия, 2 июля 2023
+<https://aerostatbg.ru/release/943>
+
+[%hardbreaks]
+Blur – The Narcissist
+Sigur Rós – Skel
+Shaggy (feat. Konshens & Noah Powa) – Buddy Bye
+Smile – Bending Hectic
+Dudu Tassa & Jonny Greenwood (feat. Nour Freteikh) – Taq ou-Dub
+Aphex Twin – Blackbox Life Recorder 21f
+Coral – Wild Bird
+Alexis Ffrench – St Andrews
+Kasabian – Algorithms
+
+++++
+<br clear="both">
+++++ 
+
+=== Дань Ушедшим, 25 июня 2023
 <https://aerostatbg.ru/release/942>
 
 .Astrud Gilberto – The Girl From Ipanema
