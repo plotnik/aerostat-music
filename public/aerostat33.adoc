@@ -224,7 +224,7 @@ Elvis Presley – Sound Advice
 image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="thumb left"]
 
 .Gryphon – A Futuristic Auntyquarian
-image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+image:Gryphon/ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
 
 .Billy Connolly & Gerry Rafferty – Rick Rack
 image:Billy Connolly & Gerry Rafferty - Best Of The Humblebums/cover.jpg[Best Of The Humblebums,200,200,role="thumb left"]
@@ -309,13 +309,19 @@ image:GRATEFUL DEAD/1970 - American Beauty/Folder.jpg[American Beauty,200,200,ro
 image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
 
 .Gryphon – The Unquiet Grave
-image:Gryphon - 1973/front.jpg[1973,200,200,role="thumb left"]
+image:Gryphon/1973/front.jpg[1973,200,200,role="thumb left"]
+
+.Laraaji – Enthusiasm
+image:Laraaji/2017 - Bring on the Sun/cover.jpg[Bring on the Sun,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
 
 [%hardbreaks]
 Franz Joseph Haydn – Symphony No. 14 in A: III. Menuetto & Trio, Allegretto
 Beatles – All Together Now
 Black Sabbath – Snowblind
-Laraaji – Enthusiasm
 
 ++++
 <br clear="both">
@@ -326,7 +332,7 @@ Laraaji – Enthusiasm
 <https://aerostatbg.ru/release/823>
 
 .Gryphon – Rhubarb Crumhorn
-image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+image:Gryphon/ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
 
 [%hardbreaks]
 Jethro Tull – Mayhem Maybe

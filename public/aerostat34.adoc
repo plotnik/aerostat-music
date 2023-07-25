@@ -127,7 +127,7 @@ image:GRATEFUL DEAD/Grateful Dead - Workingman_s Dead/Folder.jpg[Workingman_s De
 image:ARCHIE FISHER/1976 - Will Ye Gang Love/cover.jpg[Will Ye Gang Love,200,200,role="thumb left"]
 
 .Gryphon – Dumbe Dum Chit
-image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+image:Gryphon/ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
 
 [%hardbreaks]
 Robert Harrison – Watching The Kid Come Back

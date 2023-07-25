@@ -579,7 +579,7 @@ Bob Dylan & The Band - You Ain’t Goin’ Nowhere
 <https://aerostatbg.ru/release/703>
 
 .Gryphon - Rhubarb Crumhorn
-image:Gryphon - ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
+image:Gryphon/ReInvention/Cover.jpg[ReInvention,200,200,role="thumb left"]
 
 .Breabach - Birds Of Passage
 image:Breabach - Frenzy Of The Meeting/cover.jpg[Frenzy Of The Meeting,200,200,role="thumb left"]

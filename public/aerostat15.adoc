@@ -251,13 +251,15 @@ Haydn - Symphony #84. 4. Finale
 
 <http://old.aquarium.ru/misc/aerostat/aerostat351.html>
 
+.Gryphon - Tea Wrecks
+image:Gryphon/1973/front.jpg[1973,200,200,role="thumb left"]
+
 [%hardbreaks]
 United States Of America - Cloud Song
 Moody Blues - Tuesday Afternoon
 Schoenberg - Transfigured Night
 Gentle Giant - Isn't It Quiet And Cold?
 Camel - Spirit Of The Water
-Gryphon - Tea Wrecks
 Gryphon - Ploughboy's Dream
 Gryphon - Pastime With Good Company
 Gryphon - Kemp's Jig

@@ -482,8 +482,10 @@ image:STEELEYE SPAN/Steeleye Span - Hark The Village Wait/Folder.jpg[Hark The Vi
 .Richard Thompson - I Still Dream
 image:RICHARD THOMPSON/1988 - Amnesia/cover.jpg[Amnesia,200,200,role="thumb left"]
 
+.Gryphon - Unquiet Grave
+image:Gryphon/1973/front.jpg[1973,200,200,role="thumb left"]
+
 [%hardbreaks]
-Gryphon - Unquiet Grave
 Chris Wood - Hard
 Shirley & Dolly Collins - Just As The Tide Was Flowing
 Martin Carthy - And A Begging I Will

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.17">
+<meta name="generator" content="Asciidoctor 2.0.16">
 <title>Радио Аэростат</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -193,8 +193,7 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
-details>summary::-webkit-details-marker{display:none}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -236,8 +235,9 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -274,7 +274,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -290,11 +290,10 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
-li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -337,6 +336,8 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -436,20 +437,20 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
 </head>
-<body class="article data-line-1">
+<body class="article">
 <div id="header">
 <h1>Радио Аэростат</h1>
 </div>
 <div id="content">
-<div class="quoteblock data-line-3">
+<div class="quoteblock">
 <blockquote>
-<div class="paragraph data-line-1">
-<p><a href="aerostat.html" data-href="aerostat.html">&lt;Home&gt;</a>
-<a href="lyrics.html" data-href="lyrics.html">&lt;Lyrics&gt;</a></p>
+<div class="paragraph">
+<p><a href="aerostat.html">&lt;Home&gt;</a>
+<a href="lyrics.html">&lt;Lyrics&gt;</a></p>
 </div>
 </blockquote>
 </div>
-<table class="tableblock frame-all grid-all stretch data-line-7">
+<table class="tableblock frame-all grid-all stretch">
 <colgroup>
 <col style="width: 33.3333%;">
 <col style="width: 33.3333%;">
@@ -457,126 +458,131 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat36.html" data-href="aerostat36.html">Глава XXXVI</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat36.html">Глава XXXVII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1.01.2023 -  2.07.2023</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">917 - 943</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat36.html">Глава XXXVI</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">18.06.2022 - 15.12.2022</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">890 - 916</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat35.html" data-href="aerostat35.html">Глава XXXV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat35.html">Глава XXXV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">28.11.2021 - 12.06.2022</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">863 - 889</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat34.html" data-href="aerostat34.html">Глава XXXIV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat34.html">Глава XXXIV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">23.05.2021 - 21.11.2021</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">836 - 862</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat33.html" data-href="aerostat33.html">Глава XXXIII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat33.html">Глава XXXIII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">8.11.2020 - 16.05.2021</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">808 - 835</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat32.html" data-href="aerostat32.html">Глава XXXII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat32.html">Глава XXXII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">3.05.2020 -  1.11.2020</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">781 - 807</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat31.html" data-href="aerostat31.html">Глава XXXI</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat31.html">Глава XXXI</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">27.10.2019 - 26.04.2020</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">754 - 780</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat30.html" data-href="aerostat30.html">Глава XXX</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat30.html">Глава XXX</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">28.04.2019 - 20.10.2019</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">728 - 753</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat29.html" data-href="aerostat29.html">Глава XXIX</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat29.html">Глава XXIX</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">14.10.2018 - 21.04.2019</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">700 - 727</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat28.html" data-href="aerostat28.html">Глава XXVIII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat28.html">Глава XXVIII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">8.04.2018 -  7.10.2018</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">673 - 699</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat27.html" data-href="aerostat27.html">Глава XXVII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat27.html">Глава XXVII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">10.09.2017 -  1.04.2018</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">643 - 672</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat26.html" data-href="aerostat26.html">Глава XXVI</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat26.html">Глава XXVI</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">5.03.2017 -  3.09.2017</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">616 - 642</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat25.html" data-href="aerostat25.html">Глава XXV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat25.html">Глава XXV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">28.08.2016 - 26.02.2017</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">589 - 615</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat24.html" data-href="aerostat24.html">Глава XXIV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat24.html">Глава XXIV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">16.02.2016 - 21.08.2016</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">563 - 588</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat23.html" data-href="aerostat23.html">Глава XXIII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat23.html">Глава XXIII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">30.08.2015 - 21.02.2016</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">537 - 562</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat22.html" data-href="aerostat22.html">Глава XXII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat22.html">Глава XXII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">1.03.2015 - 23.08.2015</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">511 - 536</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat21.html" data-href="aerostat21.html">Глава XXI</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat21.html">Глава XXI</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">31.08.2014 - 22.02.2015</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">485 - 510</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat20.html" data-href="aerostat20.html">Глава XX</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat20.html">Глава XX</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">2.03.2014 - 24.08.2014</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">459 - 484</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat19.html" data-href="aerostat19.html">Глава XIX</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat19.html">Глава XIX</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">15.09.2013 - 23.02.2014</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">435 - 458</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat18.html" data-href="aerostat18.html">Глава XVIII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat18.html">Глава XVIII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">31.03.2013 -  8.09.2013</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">411 - 434</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat17.html" data-href="aerostat17.html">Глава XVII</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat17.html">Глава XVII</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">14.10.2012 - 24.03.2013</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">387 - 410</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat16.html" data-href="aerostat16.html">Глава XVI</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat16.html">Глава XVI</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">29.04.2012 -  7.10.2012</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">363 - 386</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat15.html" data-href="aerostat15.html">Глава XV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat15.html">Глава XV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">13.11.2011 - 29.04.2012</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">339 - 362</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat14.html" data-href="aerostat14.html">Глава XIV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat14.html">Глава XIV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">15.05.2011 -  6.11.2011</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">313 - 338</p></td>
 </tr>
 </tbody>
 </table>
-<div class="paragraph data-line-34">
+<div class="paragraph">
 <p>&#8230;&#8203;</p>
 </div>
-<table class="tableblock frame-all grid-all stretch data-line-36">
+<table class="tableblock frame-all grid-all stretch">
 <colgroup>
 <col style="width: 33.3333%;">
 <col style="width: 33.3333%;">
@@ -584,44 +590,44 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat05.html" data-href="aerostat05.html">Глава V</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat05.html">Глава V</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">25.03.2006 -  9.09.2007</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">97 - 122</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat04.html" data-href="aerostat04.html">Глава IV</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat04.html">Глава IV</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">8.10.2006 - 18.03.2007</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">73 - 96</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat03.html" data-href="aerostat03.html">Глава III</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat03.html">Глава III</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">23.04.2006 -  1.10.2006</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">49 - 72</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat02.html" data-href="aerostat02.html">Глава II</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat02.html">Глава II</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">6.11.2005 - 16.04.2006</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">25 - 48</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat01.html" data-href="aerostat01.html">Глава I</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat01.html">Глава I</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">22.05.2005 - 30.10.2005</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">1 - 24</p></td>
 </tr>
 </tbody>
 </table>
-<div class="quoteblock data-line-45">
+<div class="quoteblock">
 <blockquote>
-<div class="paragraph data-line-1">
-<p><a href="aerostat.html" data-href="aerostat.html">&lt;Home&gt;</a>
-<a href="lyrics.html" data-href="lyrics.html">&lt;Lyrics&gt;</a></p>
+<div class="paragraph">
+<p><a href="aerostat.html">&lt;Home&gt;</a>
+<a href="lyrics.html">&lt;Lyrics&gt;</a></p>
 </div>
 </blockquote>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-01-08 19:21:44 +0300
+Last updated 2023-07-25 09:09:30 +0300
 </div>
 </div>
 </body>
