@@ -485,15 +485,15 @@ image:Irish Rovers 1996 - Gems/gems.jpg[Gems,200,200,role="thumb left"]
 <br clear="both">
 ++++
 
-.Tally Hall – Hidden In The Sand
-image:Tally Hall - Marvins Marvelous Mechanical Museum/cover.png[Marvins Marvelous Mechanical Museum,200,200,role="thumb left"]
+.Tally Hall - link:Tally%20Hall/Marvins%20Marvelous%20Mechanical%20Museum/lyrics/museum.html#_hidden_in_the_sand[Hidden In The Sand]
+image:Tally Hall/Marvins Marvelous Mechanical Museum/cover.png[Marvins Marvelous Mechanical Museum,200,200,role="thumb left"]
 
 .Ustad Nishat Khan & Ensemble Gilles Binchois – Introit - Statuit ei Dominus
 image:Ustad Nishat Khan & Ensemble Gilles Binchois - Meeting of Angels/cover.jpg[Meeting of Angels,200,200,role="thumb left"]
 
 [%hardbreaks]
 Dobet Gnahoré – Telo de
-Tally Hall – Ruler Of Everything
+Tally Hall - link:Tally%20Hall/Marvins%20Marvelous%20Mechanical%20Museum/lyrics/museum.html#_ruler_of_everything[Ruler Of Everything]
 Kraftwerk – It's More Fun To Compute
 Rolling Stones – Ride On Baby
 Byrds – My Back Pages

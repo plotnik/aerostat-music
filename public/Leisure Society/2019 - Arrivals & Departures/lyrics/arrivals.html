@@ -4,8 +4,9 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.18">
-<title>Lyrics</title>
+<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="author" content="The Leisure Society">
+<title>Arrivals &amp; Departures</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -84,10 +85,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
-ul.square{list-style-type:square}
-ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -193,8 +194,7 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
-details>summary::-webkit-details-marker{display:none}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -236,8 +236,9 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -274,7 +275,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -290,11 +291,10 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
-li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -337,6 +337,8 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -436,663 +438,557 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
 </head>
-<body class="article toc2 toc-left">
+<body class="article">
 <div id="header">
-<h1>Lyrics</h1>
-<div id="toc" class="toc2">
+<h1>Arrivals &amp; Departures</h1>
+<div class="details">
+<span id="author" class="author">The Leisure Society</span><br>
+<span id="revdate">2019</span>
+</div>
+<div id="toc" class="toc">
 <div id="toctitle">Table of Contents</div>
-<ul class="sectlevel2">
-<li><a href="#_a">A</a></li>
-<li><a href="#_b">B</a></li>
-<li><a href="#_c">C</a></li>
-<li><a href="#_d">D</a></li>
-<li><a href="#_e">E</a></li>
-<li><a href="#_f">F</a></li>
-<li><a href="#_g">G</a></li>
-<li><a href="#_h">H</a></li>
-<li><a href="#_i">I</a></li>
-<li><a href="#_j">J</a></li>
-<li><a href="#_k">K</a></li>
-<li><a href="#_l">L</a></li>
-<li><a href="#_m">M</a></li>
-<li><a href="#_p">P</a></li>
-<li><a href="#_r">R</a></li>
-<li><a href="#_s">S</a></li>
-<li><a href="#_t">T</a></li>
-<li><a href="#_v">V</a></li>
-<li><a href="#_в">В</a></li>
-<li><a href="#_щ">Щ</a></li>
+<ul class="sectlevel1">
+<li><a href="#_arrivals_departures">Arrivals &amp; Departures</a></li>
+<li><a href="#_a_bird_a_bee_humanity">A Bird a Bee Humanity</a></li>
+<li><a href="#_god_has_taken_a_vacation">God Has Taken a Vacation</a></li>
+<li><a href="#_ill_pay_for_it_now">I’ll Pay for It Now</a></li>
+<li><a href="#_overheard">Overheard</a></li>
+<li><a href="#_let_me_bring_you_down">Let Me Bring You Down</a></li>
+<li><a href="#_be_you_wherever">Be You Wherever</a></li>
+<li><a href="#_arundel_tomb">Arundel Tomb</a></li>
+<li><a href="#_dont_want_to_do_it_again">Don’t Want to Do It Again</a></li>
+<li><a href="#_mistakes_on_the_field_pt_i">Mistakes on the Field, Pt. I</a></li>
+<li><a href="#_mistakes_on_the_field_pt_ii">Mistakes on the Field, Pt. II</a></li>
+<li><a href="#_leave_me_to_sleep">Leave Me to Sleep</a></li>
+<li><a href="#_beat_of_a_drum">Beat of a Drum</a></li>
+<li><a href="#_there_are_no_rules_around_here">There Are No Rules Around Here</a></li>
+<li><a href="#_youve_got_the_universe">You’ve Got the Universe</a></li>
+<li><a href="#_ways_to_be_saved">Ways to Be Saved</a></li>
 </ul>
 </div>
 </div>
 <div id="content">
 <div id="preamble">
 <div class="sectionbody">
-<div class="quoteblock">
-<blockquote>
 <div class="paragraph">
-<p><a href="aerostat.html">&lt;Home&gt;</a> <a href="toc.html">&lt;Contents&gt;</a></p>
+<p><span class="image"><img src="../cover.jpg" alt="Arrivals &amp; Departures" width="200" height="200"></span></p>
 </div>
-</blockquote>
-</div>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_a">A</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./AQUARIUM/1992%20-%20Русский%20альбом/lyrics/rus.html">AQUARIUM/1992 - Русский альбом</a></p>
-</li>
-<li>
-<p><a href="./AQUARIUM/БГ%20-%20Песни%20Бардов/lyrics/bards.html">AQUARIUM/БГ - Песни Бардов</a></p>
-</li>
-<li>
-<p><a href="./ARCTIC%20MONKEYS/Arctic%20Monkeys%20-%20Tranquility%20Base%20Hotel%20Casino/lyrics/tranquility.html">ARCTIC MONKEYS/Arctic Monkeys - Tranquility Base Hotel Casino</a></p>
-</li>
-<li>
-<p><a href="./ARCTIC%20MONKEYS/Beneath%20The%20Boardwalk/lyrics/boardwalk.html">ARCTIC MONKEYS/Beneath The Boardwalk</a></p>
-</li>
-<li>
-<p><a href="./ARCTIC%20MONKEYS/links.html">ARCTIC MONKEYS</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_b">B</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./BECK/Beck%20Hansens%20Song%20Reader/lyrics/songs.html">BECK/Beck Hansens Song Reader</a></p>
-</li>
-<li>
-<p><a href="./Billy%20Connolly%20&amp;%20Gerry%20Rafferty%20-%20Best%20Of%20The%20Humblebums/lyrics/rafferty.html">Billy Connolly &amp; Gerry Rafferty - Best Of The Humblebums</a></p>
-</li>
-<li>
-<p><a href="./Blondie%20-%20Greatest%20Hits/lyrics/blondie.html">Blondie - Greatest Hits</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/2006%20-%20Modern%20Times/lyrics/modern.html">BOB DYLAN/2006 - Modern Times</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/2020%20-%20Rough%20And%20Rowdy%20Ways/lyrics/rowdy.html">BOB DYLAN/2020 - Rough And Rowdy Ways</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/Bob%20Dylan%201963%20-%20Blowing%20In%20The%20Wind/lyrics/blowing.html">BOB DYLAN/Bob Dylan 1963 - Blowing In The Wind</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/Bob%20Dylan%201965%20-%20Highway%2061%20Revisited/lyrics/highway.html">BOB DYLAN/Bob Dylan 1965 - Highway 61 Revisited</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/Bob%20Dylan%201966%20-%20Blonde%20On%20Blonde/lyrics/blonde.html">BOB DYLAN/Bob Dylan 1966 - Blonde On Blonde</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/Bob%20Dylan%201993%20-%20World%20Gone%20Wrong/lyrics/world.html">BOB DYLAN/Bob Dylan 1993 - World Gone Wrong</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/Bob%20Dylan%202001%20-%20Love%20And%20Theft/lyrics/love.html">BOB DYLAN/Bob Dylan 2001 - Love And Theft</a></p>
-</li>
-<li>
-<p><a href="./BOB%20DYLAN/links.html">BOB DYLAN</a></p>
-</li>
-<li>
-<p><a href="./BRIAN%20ENO/Brian%20Eno%202016%20-%20The%20Ship/lyrics/ship.html">BRIAN ENO/Brian Eno 2016 - The Ship</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_c">C</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Christodoulos%20Halaris%20-%20Music%20of%20Ancient%20Greece/lyrics/halaris.html">Christodoulos Halaris - Music of Ancient Greece</a></p>
-</li>
-<li>
-<p><a href="./CHRISTY%20MOORE/1985%20-%20Ordinary%20Man/lyrics/ordinary.html">CHRISTY MOORE/1985 - Ordinary Man</a></p>
-</li>
-<li>
-<p><a href="./COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html">COTTON MATHER/Cotton Mather - Kon Tiki</a></p>
-</li>
-<li>
-<p><a href="./COTTON%20MATHER/Cotton%20Mather%202016%20-%20Death%20of%20the%20Cool/lyrics/cool.html">COTTON MATHER/Cotton Mather 2016 - Death of the Cool</a></p>
-</li>
-<li>
-<p><a href="./COTTON%20MATHER/links.html">COTTON MATHER</a></p>
-</li>
-<li>
-<p><a href="./CROWDED%20HOUSE/1996%20-%20The%20Very%20Best%20Of%20Crowded%20House/lyrics/house.html">CROWDED HOUSE/1996 - The Very Best Of Crowded House</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_d">D</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./DAVID%20BOWIE/The%20Rise%20And%20Fall%20Of%20Ziggy%20Stardust%20And%20The%20Spiders%20From%20Mars/lyrics/ziggy.html">DAVID BOWIE/The Rise And Fall Of Ziggy Stardust And The Spiders From Mars</a></p>
-</li>
-<li>
-<p><a href="./David%20Byrne%20-%20American%20Utopia/lyrics/utopia.html">David Byrne - American Utopia</a></p>
-</li>
-<li>
-<p><a href="./David%20Byrne%20-%20Grown%20Backwards/lyrics/backwards.html">David Byrne - Grown Backwards</a></p>
-</li>
-<li>
-<p><a href="./Del%20Amitri/2021%20-%20Fatal%20Mistakes/lyrics/fatal.html">Del Amitri/2021 - Fatal Mistakes</a></p>
-</li>
-<li>
-<p><a href="./DIVINE%20COMEDY/2010%20-%20Bang%20Goes%20The%20Knighthood/lyrics/bang.html">DIVINE COMEDY/2010 - Bang Goes The Knighthood</a></p>
-</li>
-<li>
-<p><a href="./DIVINE%20COMEDY/2016%20-%20Foreverland/lyrics/foreverland.html">DIVINE COMEDY/2016 - Foreverland</a></p>
-</li>
-<li>
-<p><a href="./DIVINE%20COMEDY/2019%20-%20Office%20Politics%20(Deluxe)/lyrics/office.html">DIVINE COMEDY/2019 - Office Politics (Deluxe)</a></p>
-</li>
-<li>
-<p><a href="./DIVINE%20COMEDY/links.html">DIVINE COMEDY</a></p>
-</li>
-<li>
-<p><a href="./Don%20McLean%20-%20American%20Pie/lyrics/mclean.html">Don McLean - American Pie</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/Donovan%20-%20A%20Gift%20From%20a%20Flower%20to%20a%20Garden/lyrics/gift.html">DONOVAN/Donovan - A Gift From a Flower to a Garden</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/Donovan%20-%20Beat%20Cafe/lyrics/beat.html">DONOVAN/Donovan - Beat Cafe</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/Donovan%20-%20Brother%20Sun,%20Sister%20Moon/lyrics/moon.html">DONOVAN/Donovan - Brother Sun, Sister Moon</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/Donovan%20-%20Greatest%20Hits/lyrics/greatest.html">DONOVAN/Donovan - Greatest Hits</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html">DONOVAN/Donovan - HMS Donovan</a></p>
-</li>
-<li>
-<p><a href="./DONOVAN/links.html">DONOVAN</a></p>
-</li>
-<li>
-<p><a href="./DOORS/1968%20-%20Waiting%20For%20The%20Sun/lyrics/waiting.html">DOORS/1968 - Waiting For The Sun</a></p>
-</li>
-<li>
-<p><a href="./Dubliners%20-%2020%20Original%20Greatest%20Hits/lyrics/dubliners.html">Dubliners - 20 Original Greatest Hits</a></p>
-</li>
-<li>
-<p><a href="./Duckworth%20Lewis%20Method/2009%20-%20The%20Duckworth%20Lewis%20Method/lyrics/duckworth.html">Duckworth Lewis Method/2009 - The Duckworth Lewis Method</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_e">E</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./EELS/Eels%20-%202014%20-%20The%20cautionary%20tales%20of%20Mark%20Oliver%20Everett%20-%20CD%201/lyrics/tales.html">EELS/Eels - 2014 - The cautionary tales of Mark Oliver Everett - CD 1</a></p>
-</li>
-<li>
-<p><a href="./EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html">EELS/Eels - Blinking Lights And Other Revelations</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_f">F</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./FAIRPORT%20CONVENTION/Fairport%20Convention-Full%20House-1970/lyrics/full_house.html">FAIRPORT CONVENTION/Fairport Convention-Full House-1970</a></p>
-</li>
-<li>
-<p><a href="./FAIRPORT%20CONVENTION/Fairport%20Convention-What%20We%20Did%20On%20Our%20Holidays-1969/lyrics/holidays.html">FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_g">G</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Gene%20Clark/1987%20-%20So%20Rebellious%20A%20Lover/lyrics/rebel.html">Gene Clark/1987 - So Rebellious A Lover</a></p>
-</li>
-<li>
-<p><a href="./GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html">GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989</a></p>
-</li>
-<li>
-<p><a href="./GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html">GEORGE HARRISON/George Harrison - Brainwashed</a></p>
-</li>
-<li>
-<p><a href="./GORAN%20BREGOVIC/Bregovic%20-%20Arizona%20Dream%20-%20Soundtrack/lyrics/arizona.html">GORAN BREGOVIC/Bregovic - Arizona Dream - Soundtrack</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_h">H</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Howlin%20Wolf%20-%20His%20Best/lyrics/howlin.html">Howlin Wolf - His Best</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_i">I</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./IRON%20AND%20WINE/Our%20Endless%20Numbered%20Days/lyrics/endless.html">IRON AND WINE/Our Endless Numbered Days</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_j">J</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Jefferson%20Airplane%20-%20Surrealistic%20Pillow/lyrics/pillow.html">Jefferson Airplane - Surrealistic Pillow</a></p>
-</li>
-<li>
-<p><a href="./JETHRO%20TULL/1972%20%20Living%20In%20The%20Past/lyrics/past.html">JETHRO TULL/1972  Living In The Past</a></p>
-</li>
-<li>
-<p><a href="./JETHRO%20TULL/1972%20%20Thick%20As%20A%20Brick/lyrics/brick.html">JETHRO TULL/1972  Thick As A Brick</a></p>
-</li>
-<li>
-<p><a href="./JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html">JETHRO TULL/Jethro Tull - Heavy Horses</a></p>
-</li>
-<li>
-<p><a href="./JETHRO%20TULL/links.html">JETHRO TULL</a></p>
-</li>
-<li>
-<p><a href="./JOHN%20GRANT/John%20Grant%20-%20Grey%20Tickles%20Black%20Pressure/lyrics/tickles.html">JOHN GRANT/John Grant - Grey Tickles Black Pressure</a></p>
-</li>
-<li>
-<p><a href="./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%201)/lyrics/hooker1.html">JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 1)</a></p>
-</li>
-<li>
-<p><a href="./JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%202)/lyrics/hooker2.html">JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 2)</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_k">K</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./KEITH%20RICHARDS/Crosseyed%20Heart/lyrics/crosseyed.html">KEITH RICHARDS/Crosseyed Heart</a></p>
-</li>
-<li>
-<p><a href="./King%20Creosote/King%20Creosote%202014%20-%20From%20Scotland%20With%20Love/lyrics/scotland.html">King Creosote/King Creosote 2014 - From Scotland With Love</a></p>
-</li>
-<li>
-<p><a href="./King%20Creosote/King%20Creosote%202016%20-%20Astronaut%20Meets%20Appleman/lyrics/astronaut.html">King Creosote/King Creosote 2016 - Astronaut Meets Appleman</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_l">L</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Leisure%20Society/2013%20-%20Alone%20Aboard%20The%20Ark/lyrics/ark.html">Leisure Society/2013 - Alone Aboard The Ark</a></p>
-</li>
-<li>
-<p><a href="./Leisure%20Society/2015%20-%20The%20Fine%20Art%20of%20Hanging%20On/lyrics/fine_art.html">Leisure Society/2015 - The Fine Art of Hanging On</a></p>
-</li>
-<li>
-<p><a href="./Leisure%20Society/2019%20-%20Arrivals%20&amp;%20Departures/lyrics/arrivals.html">Leisure Society/2019 - Arrivals &amp; Departures</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/09-The%20Future%20(1992)/lyrics/future.html">LEONARD COHEN/09-The Future (1992)</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/2004%20-%20Dear%20Heather/lyrics/heather.html">LEONARD COHEN/2004 - Dear Heather</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/2014%20-%20Popular%20Problems/lyrics/popular.html">LEONARD COHEN/2014 - Popular Problems</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/Cant%20Forget%20-%20A%20Souvenir%20of%20the%20Grand%20Tour/lyrics/souvenir.html">LEONARD COHEN/Cant Forget - A Souvenir of the Grand Tour</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html">LEONARD COHEN/Leonard Cohen - Ten New Songs</a></p>
-</li>
-<li>
-<p><a href="./LEONARD%20COHEN/Leonard%20Cohen%202012%20-%20Old%20Ideas/lyrics/old.html">LEONARD COHEN/Leonard Cohen 2012 - Old Ideas</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_m">M</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Magnetic%20Fields/2017%20-%2050%20Song%20Memoir/lyrics/50.html">Magnetic Fields/2017 - 50 Song Memoir</a></p>
-</li>
-<li>
-<p><a href="./MARK%20KNOPFLER/2004%20-%20Shangri-La/lyrics/shangri-la.html">MARK KNOPFLER/2004 - Shangri-La</a></p>
-</li>
-<li>
-<p><a href="./Melanie/2020%20-%20What%20have%20they%20done%20to%20my%20song/lyrics/melanie.html">Melanie/2020 - What have they done to my song</a></p>
-</li>
-<li>
-<p><a href="./MILK%20CARTON%20KIDS/2018%20-%20All%20The%20Things%20That%20I%20Did%20And%20All%20The%20Things%20That%20I%20Didnt%20Do/lyrics/things.html">MILK CARTON KIDS/2018 - All The Things That I Did And All The Things That I Didnt Do</a></p>
-</li>
-<li>
-<p><a href="./MORRISSEY/2006%20-%20Ringleader%20of%20the%20Tormentors/lyrics/ringleader.html">MORRISSEY/2006 - Ringleader of the Tormentors</a></p>
-</li>
-<li>
-<p><a href="./MORRISSEY/2017%20-%20Low%20in%20High%20School/lyrics/school.html">MORRISSEY/2017 - Low in High School</a></p>
-</li>
-<li>
-<p><a href="./MORRISSEY/links.html">MORRISSEY</a></p>
-</li>
-<li>
-<p><a href="./MR%20FOX/1971%20-%20The%20Gypsy/lyrics/gypsy.html">MR FOX/1971 - The Gypsy</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_p">P</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Chaos%20And%20Creation%20In%20The%20Backyard/lyrics/backyard.html">PAUL MCCARTNEY/Paul McCartney - Chaos And Creation In The Backyard</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Driving%20Rain/lyrics/rain.html">PAUL MCCARTNEY/Paul McCartney - Driving Rain</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Kisses%20On%20The%20Bottom/lyrics/kisses.html">PAUL MCCARTNEY/Paul McCartney - Kisses On The Bottom</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Pipes%20Of%20Peace/lyrics/peace.html">PAUL MCCARTNEY/Paul McCartney - Pipes Of Peace</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Tug%20Of%20War/lyrics/war.html">PAUL MCCARTNEY/Paul McCartney - Tug Of War</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20SIMON/2023%20-%20Seven%20Psalms/lyrics/psalms.html">PAUL SIMON/2023 - Seven Psalms</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20SIMON/links.html">PAUL SIMON</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html">PAUL SIMON/Paul Simon - Songwriter</a></p>
-</li>
-<li>
-<p><a href="./PAUL%20SIMON/Paul%20Simon%20-%20Stranger%20To%20Stranger/lyrics/stranger.html">PAUL SIMON/Paul Simon - Stranger To Stranger</a></p>
-</li>
-<li>
-<p><a href="./PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html">PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)</a></p>
-</li>
-<li>
-<p><a href="./PROCOL%20HARUM/1973%20-%20Grand%20Hotel/lyrics/grand.html">PROCOL HARUM/1973 - Grand Hotel</a></p>
-</li>
-<li>
-<p><a href="./PUGWASH/2011%20-%20The%20Olympus%20Sound/lyrics/olympus.html">PUGWASH/2011 - The Olympus Sound</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_r">R</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./RADIOHEAD/1997%20-%20OK%20Computer/lyrics/ok.html">RADIOHEAD/1997 - OK Computer</a></p>
-</li>
-<li>
-<p><a href="./REM/links.html">REM</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Document/lyrics/document.html">REM/REM - Document</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Eponymous/lyrics/eponymous.html">REM/REM - Eponymous</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Green/lyrics/green.html">REM/REM - Green</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Lifes%20Rich%20Pageant/lyrics/lifes.html">REM/REM - Lifes Rich Pageant</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Reveal/lyrics/reveal.html">REM/REM - Reveal</a></p>
-</li>
-<li>
-<p><a href="./REM/REM%20-%20Up/lyrics/up.html">REM/REM - Up</a></p>
-</li>
-<li>
-<p><a href="./RICHARD%20THOMPSON/2018%20-%2013%20Rivers/lyrics/13_rivers.html">RICHARD THOMPSON/2018 - 13 Rivers</a></p>
-</li>
-<li>
-<p><a href="./RICHARD%20THOMPSON/Richard%20Thompson%20-%20Still/lyrics/still.html">RICHARD THOMPSON/Richard Thompson - Still</a></p>
-</li>
-<li>
-<p><a href="./ROBERT%20PLANT/2017%20-%20Carry%20Fire/lyrics/fire.html">ROBERT PLANT/2017 - Carry Fire</a></p>
-</li>
-<li>
-<p><a href="./ROBERT%20PLANT/Robert%20Plant%20&amp;%20Alison%20Krauss%20-%202021%20-%20Raise%20The%20Roof%20(Deluxe%20Edition)%20(24bit-96kHz)/lyrics/roof.html">ROBERT PLANT/Robert Plant &amp; Alison Krauss - 2021 - Raise The Roof (Deluxe Edition) (24bit-96kHz)</a></p>
-</li>
-<li>
-<p><a href="./ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html">ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_s">S</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./SIMON%20&amp;%20GARFUNKEL/links.html">SIMON &amp; GARFUNKEL</a></p>
-</li>
-<li>
-<p><a href="./SIMON%20&amp;%20GARFUNKEL/Simon%20&amp;%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html">SIMON &amp; GARFUNKEL/Simon &amp; Garfunkel - Parsley, Sage, Rosemary and Thyme</a></p>
-</li>
-<li>
-<p><a href="./SIMON%20&amp;%20GARFUNKEL/Simon%20&amp;%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html">SIMON &amp; GARFUNKEL/Simon &amp; Garfunkel - Sounds of Silence</a></p>
-</li>
-<li>
-<p><a href="./SINEAD%20OCONNOR/Faith%20And%20Courage/lyrics/faith.html">SINEAD OCONNOR/Faith And Courage</a></p>
-</li>
-<li>
-<p><a href="./SPARKS/2002%20-%20Lil%20Beethoven/lyrics/lil.html">SPARKS/2002 - Lil Beethoven</a></p>
-</li>
-<li>
-<p><a href="./SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html">SPARKS/Sparks 2017 - Hippopotamus</a></p>
-</li>
-<li>
-<p><a href="./Specials/Encore%20(Deluxe)/lyrics/encore.html">Specials/Encore (Deluxe)</a></p>
-</li>
-<li>
-<p><a href="./STEELEYE%20SPAN/links.html">STEELEYE SPAN</a></p>
-</li>
-<li>
-<p><a href="./STEELEYE%20SPAN/Steeleye%20Span%20-%20Below%20the%20Salt/lyrics/salt.html">STEELEYE SPAN/Steeleye Span - Below the Salt</a></p>
-</li>
-<li>
-<p><a href="./STEELEYE%20SPAN/Steeleye%20Span%20-%20Dodgy%20Bastards/lyrics/bastards.html">STEELEYE SPAN/Steeleye Span - Dodgy Bastards</a></p>
-</li>
-<li>
-<p><a href="./STEELEYE%20SPAN/Steeleye%20Span%20-%20Parcel%20Of%20Rogues/lyrics/rogues.html">STEELEYE SPAN/Steeleye Span - Parcel Of Rogues</a></p>
-</li>
-<li>
-<p><a href="./STEELEYE%20SPAN/Steeleye%20Span%20-%20Wintersmith/lyrics/wintersmith.html">STEELEYE SPAN/Steeleye Span - Wintersmith</a></p>
-</li>
-<li>
-<p><a href="./SUFJAN%20STEVENS/Sufjan%20Stevens%202005%20-%20Illinoise/lyrics/illinois.html">SUFJAN STEVENS/Sufjan Stevens 2005 - Illinoise</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/1985%20-%20Suzanne%20Vega/lyrics/vega.html">SUZANNE VEGA/1985 - Suzanne Vega</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/1987%20-%20Solitude%20Standing/lyrics/solitude.html">SUZANNE VEGA/1987 - Solitude Standing</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/1992%20-%2099,9%20F/lyrics/99.html">SUZANNE VEGA/1992 - 99,9 F</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/2007%20-%20Beauty%20&amp;%20Crime/lyrics/beauty.html">SUZANNE VEGA/2007 - Beauty &amp; Crime</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/2014%20-%20Tales%20from%20the%20Realm%20of%20the%20Queen%20of%20Pentacles/lyrics/pentacles.html">SUZANNE VEGA/2014 - Tales from the Realm of the Queen of Pentacles</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/2016%20-%20Lover%20Beloved%20Songs%20From%20An%20Evening%20With%20Carson%20McCullers/lyrics/mccallers.html">SUZANNE VEGA/2016 - Lover Beloved Songs From An Evening With Carson McCullers</a></p>
-</li>
-<li>
-<p><a href="./SUZANNE%20VEGA/links.html">SUZANNE VEGA</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_t">T</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Tally%20Hall/Marvins%20Marvelous%20Mechanical%20Museum/lyrics/museum.html">Tally Hall/Marvins Marvelous Mechanical Museum</a></p>
-</li>
-<li>
-<p><a href="./THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html">THE BEATLES/1966 - Revolver</a></p>
-</li>
-<li>
-<p><a href="./THE%20BEATLES/1967b%20-%20Magical%20Mystery%20Tour/lyrics/tour.html">THE BEATLES/1967b - Magical Mystery Tour</a></p>
-</li>
-<li>
-<p><a href="./THE%20BEATLES/1969b%20-%20Abbey%20Road/lyrics/abbey.html">THE BEATLES/1969b - Abbey Road</a></p>
-</li>
-<li>
-<p><a href="./THE%20BEATLES/The%20Beatles%20-%20White%20Album%20CD%201/lyrics/white1.html">THE BEATLES/The Beatles - White Album CD 1</a></p>
-</li>
-<li>
-<p><a href="./THE%20DECEMBERISTS/The%20Decemberists%20-%20I_ll%20Be%20Your%20Girl/lyrics/dec_girl.html">THE DECEMBERISTS/The Decemberists - I_ll Be Your Girl</a></p>
-</li>
-<li>
-<p><a href="./TOM%20PETTY/links.html">TOM PETTY</a></p>
-</li>
-<li>
-<p><a href="./TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html">TOM PETTY/Tom Petty - Echo</a></p>
-</li>
-<li>
-<p><a href="./TOM%20PETTY/Tom%20Petty%20-%20Highway%20Companion/lyrics/highway.html">TOM PETTY/Tom Petty - Highway Companion</a></p>
-</li>
-<li>
-<p><a href="./TOM%20PETTY/Tom%20Petty%201994%20-%20Wildflowers/lyrics/wildflowers.html">TOM PETTY/Tom Petty 1994 - Wildflowers</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD1/lyrics/orphans1.html">TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/CD1</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD2/lyrics/orphans2.html">TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/CD2</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/2006%20-%20Orphans%20Brawlers,%20Bawlers,%20Bastards/CD3/lyrics/orphans3.html">TOM WAITS/2006 - Orphans Brawlers, Bawlers, Bastards/CD3</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/links.html">TOM WAITS</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html">TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1</a></p>
-</li>
-<li>
-<p><a href="./TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html">TOM WAITS/Tom Waits 1987 - Franks Wild Years</a></p>
-</li>
-<li>
-<p><a href="./Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html">Traveling Wilburys - Volume 1</a></p>
-</li>
-<li>
-<p><a href="./Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html">Traveling Wilburys - Volume 3</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_v">V</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./Velvet%20Undeground/Velvet%20Underground%20-%20The%20Best%20of%20the%20Velvet%20Underground/lyrics/velvet.html">Velvet Undeground/Velvet Underground - The Best of the Velvet Underground</a></p>
-</li>
-<li>
-<p><a href="./VILLAGERS/Villagers%20-%20The%20Art%20of%20Pretending%20to%20Swim/lyrics/swim.html">VILLAGERS/Villagers - The Art of Pretending to Swim</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_в">В</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./ВИЗБОР/01%20-%20Якоря%20не%20бросать/lyrics/vizbor01.html">ВИЗБОР/01 - Якоря не бросать</a></p>
-</li>
-<li>
-<p><a href="./ВИЗБОР/02%20-%20А%20будет%20это%20так/lyrics/vizbor02.html">ВИЗБОР/02 - А будет это так</a></p>
-</li>
-<li>
-<p><a href="./ВИЗБОР/10%20-%20Воспоминание%20о%20пехоте/lyrics/vizbor10.html">ВИЗБОР/10 - Воспоминание о пехоте</a></p>
-</li>
-<li>
-<p><a href="./ВЫСОЦКИЙ/11%20-%20В%20поисках%20жанра/lyrics/vv11.html">ВЫСОЦКИЙ/11 - В поисках жанра</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_щ">Щ</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Балаган%202/lyrics/balagan2.html">ЩЕРБАКОВ МИХАИЛ/Балаган 2</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Вишневое%20варенье/lyrics/jam.html">ЩЕРБАКОВ МИХАИЛ/Вишневое варенье</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Ложный%20шаг/lyrics/faux.html">ЩЕРБАКОВ МИХАИЛ/Ложный шаг</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/По%20мотивам/lyrics/motiv.html">ЩЕРБАКОВ МИХАИЛ/По мотивам</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%201/lyrics/music1.html">ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 1</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%202/lyrics/music2.html">ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 2</a></p>
-</li>
-<li>
-<p><a href="./ЩЕРБАКОВ%20МИХАИЛ/Чужая%20музыка%20и%20не%20только.%20Часть%203/lyrics/music3.html">ЩЕРБАКОВ МИХАИЛ/Чужая музыка и не только. Часть 3</a></p>
-</li>
-</ul>
-</div>
-<div class="quoteblock">
-<blockquote>
 <div class="paragraph">
-<p><a href="aerostat.html">&lt;Home&gt;</a> <a href="toc.html">&lt;Contents&gt;</a></p>
+<p>From: <a href="https://genius.com/artists/The-leisure-society" class="bare">https://genius.com/artists/The-leisure-society</a></p>
 </div>
-</blockquote>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_arrivals_departures">Arrivals &amp; Departures</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Arrivals and departures sit united in unconsciousness
+Old friends become acquaintances in lives never better
+We&#8217;re out of luck and out of time
+The mortal coil of modern life has summoned us to start a fire
+Or writhe in the gutter in the rain
+
+I notice you now you’re not here, a silence speaks the saddest end
+Too late to fill, too late to mend, so I sit and weather
+A raging sea without a shore, well maybe I&#8217;m not here at all
+A phantom life dissolved in thoughts of why, where and whether you were true
+
+We&#8217;re out of phase, impossible now
+Bitter the pill swallowed or sucked dry
+Making a maze out of my mind
+Now I put aside every letter I write
+I wait for the cactus to bloom
+I leant away for a minute to save
+A final reminder of you</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_a_bird_a_bee_humanity">A Bird a Bee Humanity</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Cut from the act, a trail in the underpass
+Fall on your feet, feigning morality
+We&#8217;re chained to the heat
+We&#8217;re bound up in ecstasy
+It&#8217;s on then it&#8217;s off
+It starts then it never stops, it&#8217;s never enough
+
+I burn to see the best of me
+A made up fate alive on the breeze
+A bird, a bee, humanity
+Well it ain&#8217;t all that much, it ain&#8217;t all that much
+
+Asleep on the job
+Dreaming the hours lost
+A meaningless feat consuming the whole of me
+I jumped out of sight
+To live for another night
+To feast on the art
+A splint for my crooked heart
+
+I burn to see the best of me
+A made up fate alive on the breeze
+A bird, a bee, humanity
+Well it ain&#8217;t all that much, it ain&#8217;t all that much
+
+We&#8217;re all born crazy, that&#8217;s the way we&#8217;re made to be
+We&#8217;re all born crazy now
+You might also like
+God Has Taken A Vacation
+The Leisure Society
+Arrivals &amp; Departures
+The Leisure Society
+Fight for Everyone
+The Leisure Society
+Cut from the act, a trail in the underpass
+It&#8217;s on then it&#8217;s off
+It starts then it never stops, it&#8217;s never enough</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_god_has_taken_a_vacation">God Has Taken a Vacation</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">[Verse 1]
+
+God has taken a vacation
+Birds are singing out of key
+There are tales of ordinary sorrow
+As the sun dissolves into the sea
+
+[Chorus]
+
+When an eye for an eye is all we try
+What hope is there to be?
+
+[Verse 2]
+
+Rings are forming round the planet
+The void is beckoning us in
+Should I raise imaginary children
+To repeat the same mistakes as me?
+
+[Extended Chorus]
+
+When an eye for an eye is all we try
+What hope is there to be?
+When an eye for an eye is all we try
+What hope is there for me?</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_ill_pay_for_it_now">I’ll Pay for It Now</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;m carving in my arm
+Boy you&#8217;ve really done it now
+You&#8217;ve broken every heart
+That you cared to be etched upon
+
+So stick me in the ground
+I made a fool of everyone who stuck around
+And there&#8217;s no way back for me now
+
+I made a big mistake
+And god knows I&#8217;ll pay for it now
+
+Digging in the dirt
+There&#8217;s a lot that you can learn
+To lead this tainted town
+In an ode to the underground
+
+But I&#8217;m sticking to the floor
+Like an over-bitten core that&#8217;s tossed
+And turning brown
+There&#8217;s a drop but I won&#8217;t look down
+
+I made a big mistake
+And god knows I&#8217;ll pay for it now
+I made a big mistake
+And god knows I&#8217;ll pay for it now</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overheard">Overheard</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Joining the line at five, faithfully waiting
+Fleeing the day&#8217;s endeavor
+Watching the summer die, bursting like rainclouds
+You held it all together
+
+We were fire, we were ice, in the arc of a dive
+There is no better than you, there is no more left to do
+And if it flies, I would let it
+
+Under a blood-red sky, facing our failures
+We know it&#8217;s now or never
+God isn&#8217;t on our side, faith wouldn&#8217;t change it
+Avoiding the light forever
+
+We were fire, we were ice, in the arc of a dive
+There is no better than you, there is no more left to do
+But if you had the time I could stay a while</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_let_me_bring_you_down">Let Me Bring You Down</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">What&#8217;s with the face that follows you around?
+There were bones on your plate and a smile you couldn’t hide
+But the animal in me needs a place to sleep
+Just for a while, let me bring you down
+
+Oh for the days that swallowed us alive
+You were up in the gods, you were perched at the perfect height
+But a love as sure as that, it could never last
+Not long enough, let me bring you up
+
+Lost in the haze, you left me here to lie
+In the bed that we made on that burning summer night
+And we did it all as one, drowned ourselves in song
+Just for a while, you let me bring you down</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_be_you_wherever">Be You Wherever</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Back when the lamplight was lit
+I said I&#8217;ll get used to this
+Defied every reason and risk
+To see you again
+
+Corralled in the comfort of faith
+We slipped through the open gate
+And now we&#8217;re all over the place
+The days pass and blend
+
+Be you wherever
+Be you wherever with whoever
+
+Prized into something grand
+Perfected with trials and then
+The weight of the world in your hands
+You sink through the sand
+
+Be you wherever
+Be you wherever with whoever
+Be you wherever
+Be you wherever with whoever
+
+There&#8217;s a darkness creeps the corners of the room
+There&#8217;s a losing streak that hovers you
+Just like the once famous singers on the road
+Just like the seven billion ringers trying hard just to hold on
+You might also like
+Arundel Tomb
+The Leisure Society
+Let Me Bring You Down
+The Leisure Society
+A Bird, A Bee, Humanity
+The Leisure Society
+Why don&#8217;t you let it go?
+Why aren&#8217;t you made of stone?
+
+The clocks cup the hours in their hands
+Your patience is wearing thin
+I linger as long as I can
+Then make other plans
+
+Be you wherever
+Be you wherever with whoever
+Be you wherever
+Be you wherever with whoever</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_arundel_tomb">Arundel Tomb</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">We were staring at the water through the gravely-written stones
+Sitting out beneath the seasons, every story ever told
+And the gravel keeps piling as the mourners shuffle through
+Our branches were made to break too soon
+
+Had a dream that I was sleeping when you came into the room
+Slipped beside me, barely breathing, silhouetted by the moon
+And we lay there like statues in a cold Arundel tomb
+Our branches were made to break too soon
+
+Is there anybody else in this tree?
+Do the eyes fill the heart with a dream?
+Will time&#8217;s passage erase this memory?
+
+Seven years without a warning, seven summers came and went
+Petered out like any other, pulled the harvest from the beds
+We were changing, mutating, tried to climb for a better view
+Our branches were made to break too soon
+They were made to break too soon
+They were made to break too soon
+
+Is there anybody else in this tree?</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_dont_want_to_do_it_again">Don’t Want to Do It Again</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Back to where we start, to where it all began
+I don&#8217;t want to do it again, I don&#8217;t want to do it again
+The sound it never stops, it permeates my brain
+I don&#8217;t want to do it again, I don&#8217;t want to do it again
+
+I feel like a landslide, so hold tight
+I&#8217;m not ready, I&#8217;m not ready, oh no!
+
+The feelings all unfold, defeated lives are framed
+I don&#8217;t want to do it again, I don&#8217;t want to do it again
+
+I feel like a landslide, so hold tight
+I&#8217;m not ready, I&#8217;m not ready, oh no!
+I&#8217;m not ready, I&#8217;m not ready, oh no!
+
+Back to where we start, to where it all began
+I don&#8217;t want to do it again, I don&#8217;t want to do it again</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mistakes_on_the_field_pt_i">Mistakes on the Field, Pt. I</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Show me tomorrow, I&#8217;ll know how to feel
+I&#8217;ll make my mistakes on the field
+No more excuses, no more appeals
+I&#8217;ll make my mistakes on the field
+
+Show me tomorrow, I&#8217;ll know how to feel
+I&#8217;ll make my mistakes on the field
+No more excuses, no more appeals
+I&#8217;ll make my mistakes on the field
+
+I&#8217;ll make my mistakes on the field
+I&#8217;ll make my mistakes on the field</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mistakes_on_the_field_pt_ii">Mistakes on the Field, Pt. II</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>(Instrumental)</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_leave_me_to_sleep">Leave Me to Sleep</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Caught in the crush again, all this is odd
+Mired in the arms of the beast
+Lacking in acumen, so much for me
+Substitute man for machine
+
+Moonless the night spits the stars from the sky
+We mark off the days of the week
+Leave me to sleep
+Leave me to sleep
+
+Blood on the rocks again, light lifts the east
+Lends me the strength to proceed
+Burrowing on through the lightly-etched streets
+Trailing a life on a leash
+
+Still we survive - and we do it in style
+We mark off the days of the week
+Leave me to sleep
+Leave me to sleep
+Leave me to sleep
+Leave me to sleep
+
+Sing me a song from the pit brow to ease
+Wave after wave of repeat
+It&#8217;s hard to move on when you&#8217;re dead on your feet
+Find me a new life to lease
+Or leave me to sleep
+Leave me to sleep
+Leave me to sleep
+You might also like
+Beat Of A Drum
+The Leisure Society
+Mistakes On The Field (Part 2)
+The Leisure Society
+A Bird, A Bee, Humanity
+The Leisure Society
+(Spoken)
+Come love, when you&#8217;re done in
+When your bones creak and the light sinks
+Tell me, did we dream it
+That dusk when we rushed like birds
+Through the gloaming
+To write the last words
+On the page of the evening&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_beat_of_a_drum">Beat of a Drum</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">A search for a sound
+Billowing in the nowhere of now
+It&#8217;s unheard, on the wire
+And the minute it hits is the minute I&#8217;m unbound
+
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+I never know why, I never know why
+
+The world is unfurled
+It&#8217;s limitless in the weight and the worth
+It survives through the fire
+And rhythm will lift the id and the ire
+
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+I never know why, I never know why, I never know why
+
+The two of us are on the Earth
+For everything and nothing much
+We&#8217;re falling through the black light, blinking
+
+And now we are found
+Shivering in the cold light of doubt
+No more shall we pause
+From the minute we lift to the minute we drop down
+You might also like
+There Are No Rules Around Here
+The Leisure Society
+Leave Me To Sleep
+The Leisure Society
+A Bird, A Bee, Humanity
+The Leisure Society
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+Always on the beat of a drum, and no I never know why
+I never know why, I never know why
+I never know why, I never know why</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_there_are_no_rules_around_here">There Are No Rules Around Here</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Taking in the English air, we were caught together wasting
+Seems the more you get to know, the less you seem to rate it
+Tired voices on the phone, from boy to man we go
+We were lost and left to face the weather
+
+Reason slips there are no bad ideas
+Human nature made a mountain out of fear
+There are no rules around here
+There are no rules around here
+There are no rules around here
+There are no rules around here
+
+Marching on the vortex floor, we were bound together baited
+Seems the more you get to know, well the less you seem to rate it
+We shelter from the cold, collapse our truth and go
+We were lost and left to face the weather
+
+Reason slips there are no bad ideas
+Human nature made a mountain out of fear
+There are no rules around here
+
+Seasons shift there are no bad ideas
+Human nature made a mountain out of fear
+There are no rules around here
+There are no rules around here
+There are no rules around here
+There are no rules around here</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_youve_got_the_universe">You’ve Got the Universe</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;m waking up in a crowded room
+Feel I&#8217;m breaking under the gaze of you
+All those words weren&#8217;t enough
+To describe the things we&#8217;ve lost
+But you&#8217;ve got the Universe
+
+Oh I&#8217;ll make it, somehow I&#8217;ll make it through
+Though I&#8217;m aching, aching before I move
+Every night feeds the dust
+Every morning breaks untouched
+But you&#8217;ve got the Universe
+
+You&#8217;ve got the Universe
+You&#8217;ve got the Universe
+You&#8217;ve got the Universe
+You&#8217;ve got the Universe
+
+Every night feeds the dust
+Every morning breaks untouched
+But you&#8217;ve got the Universe</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_ways_to_be_saved">Ways to Be Saved</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Another one slips through your grip
+Every autumn is saved in song
+Though you&#8217;re a joy to behold I can&#8217;t keep holding on
+We&#8217;re all the same it seems
+The light is seldom off
+No more shall I remain, no more shall you be home
+I&#8217;ve seen an answer
+There are ways to be saved but I don&#8217;t see them lasting
+
+Anxiety rips us to bits
+Underneath, every beast is lost
+My independence streaks between the feet and floor
+Come one, come all, be amazed!
+Every item is syphoned off
+Unlock your artistry, unlock this beating heart
+I&#8217;ve seen an answer
+There are ways to be saved but I don&#8217;t see them lasting
+There are ways to be saved but I don&#8217;t see them lasting
+
+Technology weighs on your day
+There was peace in the great unknown
+Corralled in industry, I watch the world unfold
+You run like a ghost through the prose
+Bleach the page with an aching word
+How high your influence exalts the way we were
+I&#8217;ve seen an answer
+There are ways to be saved but I don&#8217;t see them lasting
+There are ways to be saved but I don&#8217;t see them lasting</pre>
+</div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-08-06 19:55:37 +0300
+Last updated 2023-08-06 19:54:23 +0300
 </div>
 </div>
 </body>

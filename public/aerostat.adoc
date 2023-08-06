@@ -22,11 +22,51 @@ code {
                                                                           
 == 38.
 
+=== Август: Новые Песни, 6 августа 2023
+<https://aerostatbg.ru/release/948>
+
+.Sinéad O'Connor – Dancing Lessons
+image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role="thumb left"]
+
+[%hardbreaks]
+Pregoblin feat. Peter Doherty – These Hands AKA Danny Knife
+Peter Gabriel – So Much (Dark-Side Mix)
+Domenico Lancellotti – Aterrizar
+Blake Mills – Skeleton Is Walking
+Sparklehorse – Evening Star Supercharger
+Protomartyr – For Tomorrow
+African Head Charge – Accra Electronica
+Beck & Phoenix – Odyssey
+    
+++++
+<br clear="both">
+++++     
+
+=== Lunassad 2023, 30 июля 2023
+<https://aerostatbg.ru/release/947>
+
+[%hardbreaks]
+Full English – Awake Awake
+Nuala Kennedy – Ye Lover's All
+Trials Of Cato – Aberdaron
+Me Lost Me – Mirie It Is While Summer I Last
+Belshazzar's Feast – Hills Of The North
+Lankum – The Young People
+Battlefield Band feat. Christine Primrose & Nuala Kennedy – Scots Gaelic Song: An Gille Mear
+Lúnasa – Paddy's Green Shamrock Shore
+Belshazzar's Feast – Museum Hornpipe
+
+++++
+<br clear="both">
+++++ 
+
 === Новые Имена, 23 июля 2023
 <https://aerostatbg.ru/release/946>
 
+.Tally Hall – Turn The Lights Off
+image:Tally Hall/2011 - Good & Evil/tally_hall-good_and_evil-web-2011.jpg[Good & Evil,200,200,role="thumb left"]
+
 [%hardbreaks]
-Tally Hall – Turn The Lights Off
 José Miguel Moreno & Orphénica Lyra – Canarios
 Sister Rosetta Tharpe & Sam Price Trio - When I Move To The Sky
 Ultramarine – Kingdom
@@ -48,9 +88,11 @@ Domenico Lancellotti – Tá brabo
 .Richard Thompson – The Ghost Of You Walks
 image:RICHARD THOMPSON/2001 - Action Packed - The Best of the Capitol Years/cover.jpg[Action Packed - The Best of the Capitol Years,200,200,role="thumb left"]
 
+.Paul Simon – Some Folks' Lives Roll Easy
+image:PAUL SIMON/2018 - In The Blue Light/cover.jpg[In The Blue Light,200,200,role="thumb left"]
+
 [%hardbreaks]
 Chad & Jeremy – A Summer Song
-Paul Simon – Some Folks' Lives Roll Easy
 Lei Qiang – Embroidered Pouch
 Nick Drake – Bryter Later
 Hemant Kumar – Chole Jay Mori Hay Basanter Din
