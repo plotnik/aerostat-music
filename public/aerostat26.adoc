@@ -469,7 +469,7 @@ Goitse - Transformed
 <https://aerostatbg.ru/release/623>
 
 .Cotton Mather - Girl with a Blue Guitar
-image:COTTON MATHER/2017 - Thrown from a horse/cover.jpg[Thrown from a horse,200,200,role="thumb left"]
+image:COTTON MATHER/2017 - Wild Kingdom/cover.jpg[Wild Kingdom,200,200,role="thumb left"]
 
 .Procol Harum - Sunday Morning
 image:PROCOL HARUM/2017 - Novum/cover.jpg[Novum,200,200,role="thumb left"]
