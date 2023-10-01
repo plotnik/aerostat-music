@@ -19,8 +19,7 @@ h3 {
 ++++
 
 === Beltane 2020 - Dubliners, 26 апреля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2264822>
+<https://aerostatbg.ru/release/780>
 
 .Dubliners – Three Sea Captains
 image:Dubliners - 20 Original Greatest Hits/cover.png[20 Original Greatest Hits,200,200,role="thumb left"]
@@ -42,8 +41,7 @@ Dubliners – I'm A Rover
 ++++
 
 === Пасха. Размышление, 19 апреля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2261307>
+<https://aerostatbg.ru/release/779>
 
 .REM – Everybody Hurts
 image:REM/REM - Automatic For The People/cover.jpg[Automatic For The People,200,200,role="thumb left"]
@@ -61,8 +59,7 @@ Gilbert O'Sullivan – Why, Oh Why, Oh Why
 ++++
 
 === Новости музыки, 12 апреля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2261320>
+<https://aerostatbg.ru/release/778>
 
 .Fairport Convention – Linseed Memories
 image:FAIRPORT CONVENTION/2020 - Shuffle And Go/cover.png[Shuffle And Go,200,200,role="thumb left"]
@@ -84,11 +81,10 @@ Dixie Chicks - Gaslighter
 ++++
 
 === Новые песни апреля, 5 апреля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2258315>
+<https://aerostatbg.ru/release/777>
 
 .Tamikrest - Awnafin
-image:Tamikrest - Tamotaït/cover.jpg[Tamotaït,200,200,role="thumb left"]
+image:Tamikrest/2020 - Tamotaït/cover.jpg[Tamotaït,200,200,role="thumb left"]
 
 .Pretenders - The Buzz
 image:Pretenders - The Best Of/cover.jpg[The Best Of,200,200,role="thumb left"]
@@ -116,8 +112,7 @@ Real Estate - November
 ++++
 
 === Интуиция и сознание, 29 марта 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2257872>
+<https://aerostatbg.ru/release/776>
 
 [%hardbreaks]
 Chieftains - An Ghaoth Aneas
@@ -133,8 +128,7 @@ Shi Zhi-You - Chrysanthemum
 ++++
 
 === Новые Имена, 22 марта 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2256007>
+<https://aerostatbg.ru/release/775>
 
 [%hardbreaks]
 Ricky Nelson - Poor Little Fool
@@ -152,8 +146,7 @@ Ming Flute Ensemble - The Song Of Four Seasons
 ++++
 
 === То да се, 15 марта 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2254136>
+<https://aerostatbg.ru/release/774>
 
 [%hardbreaks]
 Pajaro Sunrise - Ma's The Only Bird That Has No Fe
@@ -172,8 +165,7 @@ Joe Brown - There's No Pleasing You
 ++++
 
 === Песни для богини, 8 марта 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2252005>
+<https://aerostatbg.ru/release/773>
 
 .Red Hot Chili Peppers - Someone
 image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - Unpublished Songs/cover.jpg[Unpublished Songs,200,200,role="thumb left"]
@@ -207,8 +199,7 @@ Robert Palmer - You Blow Me Away
 ++++
 
 === Новые песни в марте, 1 марта 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2250202>
+<https://aerostatbg.ru/release/772>
 
 .Wire - Cactused
 image:Wire - Mind Hive/cover.jpg[Mind Hive,200,200,role="thumb left"]
@@ -229,8 +220,7 @@ Taylor Swift - Only The Young
 ++++
 
 === Джордж и его друзья, 23 февраля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2248524>
+<https://aerostatbg.ru/release/771>
 
 [%hardbreaks]
 George Harrison - My Sweet Lord
@@ -249,8 +239,7 @@ George Harrison - Fish On The Sand
 ++++
 
 === Nat King Cole, 16 февраля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2247027>
+<https://aerostatbg.ru/release/770>
 
 [%hardbreaks]
 Nat King Cole - Straighten Up And Fly Right
@@ -271,8 +260,7 @@ Nat King Cole - Night Lights
 ++++
 
 === Новые песни февраля, 9 февраля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2244573>
+<https://aerostatbg.ru/release/769>
 
 .Yann Tiersen - Tempelhof
 image:YANN TIERSEN/2019 - All/folder.jpg[All,200,200,role="thumb left"]
@@ -291,8 +279,7 @@ Nada Surf - So Much Love
 ++++
 
 === Химолк, 2 февраля 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2241484>
+<https://aerostatbg.ru/release/768>
 
 [%hardbreaks]
 Daimh - 'S Trusaidh Mi Na Coilleagan
@@ -309,8 +296,7 @@ Kinnaris Quintet - Nonna Pina
 ++++
 
 === Новые имена, 26 января 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2237849>
+<https://aerostatbg.ru/release/767>
 
 [%hardbreaks]
 Pied Pipers - In The Moon Mist
@@ -328,8 +314,7 @@ Pajaro Sunrise - 086
 ++++
 
 === The Cure, 19 января 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2237781>
+<https://aerostatbg.ru/release/766>
 
 .The Cure - In Between Days
 image:THE CURE/The Head On The Door/cover.jpg[The Head On The Door,200,200,role="thumb left"]
@@ -352,8 +337,7 @@ The Cure - The Caterpillar
 ++++
 
 === Новые песни января, 12 января 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2236152%22>
+<https://aerostatbg.ru/release/765>
 
 [%hardbreaks]
 Weezer - The End Of The Game
@@ -373,8 +357,7 @@ Divine Comedy - Don't Mention The War
 ++++
 
 === Новогодние притчи, 5 января 2020
-
-<https://www.radiorus.ru/brand/57083/episode/2234173>
+<https://aerostatbg.ru/release/764>
 
 .Elliot Smith - I Better Be Quiet Now
 image:ELLIOTT SMITH/Elliott Smith 2000 - Figure 8/Folder.jpg[Figure 8,200,200,role="thumb left"]
@@ -409,8 +392,7 @@ Robin Laing - Lochanside
 ++++
 
 === С Наступающим!, 29 декабря 2019
-
-<https://www.radiorus.ru/brand/57083/episode/2233216>
+<https://aerostatbg.ru/release/763>
 
 .Jethro Tull - Jack In The Green
 image:JETHRO TULL/1977  Songs From The Wood/cover.jpg[1977  Songs From The Wood,200,200,role="thumb left"]
@@ -441,8 +423,7 @@ Annie Lennox - The First Noel
 ++++
 
 === Рождество, 22 декабря 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2231513>
+<https://aerostatbg.ru/release/762>
 
 [%hardbreaks]
 Nat King Cole - Adeste Fideles
@@ -464,8 +445,7 @@ Bing Crosby - White Christmas
 ++++
 
 === Сила музыки, 15 декабря 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2229234>
+<https://aerostatbg.ru/release/761>
 
 [%hardbreaks]
 Te Vaka - Taka Uo Pele
@@ -486,8 +466,7 @@ Bitw - Poen Tyfiant
 ++++
 
 === Новые песни декабря, 8 декабря 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2226836>
+<https://aerostatbg.ru/release/760>
 
 [%hardbreaks]
 Pet Shop Boys - Burning The Heather
@@ -504,8 +483,7 @@ Paul McCartney - Home Tonight
 ++++
 
 === То да сё #5, 1 декабря 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2223937>
+<https://aerostatbg.ru/release/759>
 
 [%hardbreaks]
 High Llamas - Island People
@@ -523,8 +501,7 @@ Sergio Mendes - Night And Day
 ++++
 
 === "From Out Of Nowhere", 24 ноября 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2222868>
+<https://aerostatbg.ru/release/758>
 
 [%hardbreaks]
 Electric Light Orchestra - Help Yourself
@@ -544,8 +521,7 @@ Electric Light Orchestra - From Out Of Nowhere
 ++++
 
 === Новые песни ноября, 17 ноября 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2220587>
+<https://aerostatbg.ru/release/757>
 
 .Leonard Cohen - What Happened To The Heart
 image:LEONARD COHEN/2016 Thanks for the Dance/cover.png[2016 Thanks for the Dance,200,200,role="thumb left"]
@@ -566,8 +542,7 @@ Angel Olson - New Love Cassette
 ++++
 
 === Преобразование Тома Уэйтса, 10 ноября 2019
-
-<http://www.radiorus.ru/brand/57083/episode/2217965>
+<https://aerostatbg.ru/release/756>
 
 .Tom Waits - The Piano Has Been Drinking
 image:TOM WAITS/Tom Waits 1976 - Small Change/cover.jpg[Small Change,200,200,role="thumb left"]
@@ -604,8 +579,7 @@ Tom Waits - Big Black Maria
 ++++
 
 === Samhain 2019, 3 ноября 2019
-
-<https://www.radiorus.ru/brand/57083/episode/2216411>
+<https://aerostatbg.ru/release/755>
 
 .Lost Words - Blessing
 image:The Lost Words - Spell Songs/cover.jpg[Spell Songs,200,200,role="thumb left"]
@@ -625,8 +599,7 @@ Talisk - Cabot Trail
 ++++
 
 === Новые имена, 27 октября 2019
-
-<https://www.radiorus.ru/brand/57083/episode/2213755>
+<https://aerostatbg.ru/release/754>
 
 [%hardbreaks]
 Matshikos - New South Africa

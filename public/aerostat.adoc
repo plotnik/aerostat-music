@@ -22,8 +22,37 @@ code {
                                                                           
 == 38.
 
+=== October New, 1 октября 2023
+<https://aerostatbg.ru/release/956>
+
+.Old Crow Medicine Show – Ballad Of Jubilee Jones
+image:Old Crow Medicine Show 2023 - Jubilee/cover.jpg[Jubilee,200,200,role="thumb left"]
+
+.Animal Collective – Gem & I
+image:Animal Collective/2023 - Isn_t It Now/cover.jpg[Isn_t It Now,200,200,role="thumb left"]
+
+[%hardbreaks]
+Thomas Walsh – All This Hurt
+Burning Spear – The Spear
+Kathryn Tickell & The Darkening – Caelestis / Sheep In The Temple
+Hauschka – Limitations Of Lifetime
+Buffalo Nichols – You're Gonna Need Somebody On Your Bond
+Oneohtrix Point Never – A Barely Lit Path
+Paul Rodgers – Midnight Rose
+Peter Culshaw – Night Country (Mayotte)
+    
+++++
+<br clear="both">
+++++
+
 === Мир, В Котором Мы Живем, 24 сентября 2023
 <https://aerostatbg.ru/release/955>
+
+.Tamikrest – Manhouy Inerizhan
+image:Tamikrest/2017 - Kidal/front.jpg[Kidal,200,200,role="thumb left"]
+
+.Eels - link:EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html#_railroad_man[Railroad Man]
+image:EELS/Eels - Blinking Lights And Other Revelations/Folder.jpg[Blinking Lights And Other Revelations,200,200,role="thumb left"]
 
 [%hardbreaks]
 Wolfgang Amadeus Mozart – Andante in E-flat major, K. 15mm
@@ -31,8 +60,6 @@ Johann Sebastian Bach – Cello Suite No. 4 in E-Flat major: V. Bourrée I (Arr.
 David Sylvian – A Fire In The Forest
 Dragostin Folk National – Ишу, бяла Недо
 Michael Stipe – Future If Future
-Eels – Railroad Man
-Tamikrest – Manhouy Inerizhan
 Édith Piaf – Simply A Waltz
 Lúnasa – Bulgarian Rock
 Talking Heads – This Must Be The Place (Naïve Melody)

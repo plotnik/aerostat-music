@@ -474,11 +474,13 @@ image:COTTON MATHER/2017 - Wild Kingdom/cover.jpg[Wild Kingdom,200,200,role="thu
 .Procol Harum - Sunday Morning
 image:PROCOL HARUM/2017 - Novum/cover.jpg[Novum,200,200,role="thumb left"]
 
+.Tamikrest - Mawarniha Tartit
+image:Tamikrest/2017 - Kidal/front.jpg[Kidal,200,200,role="thumb left"]
+
 [%hardbreaks]
 Alt-J - In Cold Blood
 Chuck Berry - Big Boys
 Mark Lanegan Band - Beehive
-Tamikrest - Mawarniha Tartit
 Dirty Projectors - Little Bubble
 Bob Dylan - Once Upon a Time
 Inna de Yard feat. The Viceroys - Love Is the Key
