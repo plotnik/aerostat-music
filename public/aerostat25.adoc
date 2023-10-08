@@ -91,7 +91,7 @@ Chieftains – Love Theme (From Tristan And Isolde)
 image:YANN TIERSEN/2016 - Eusa/cover.jpg[Eusa,200,200,role="thumb left"]
 
 .Hauschka - Radar
-image:Hauschka - Salon Des Amateurs/cover.jpg[Salon Des Amateurs,200,200,role="thumb left"]
+image:Hauschka/2011 - Salon Des Amateurs/cover.jpg[Salon Des Amateurs,200,200,role="thumb left"]
 
 [%hardbreaks]
 Amiina - Sexfaldur

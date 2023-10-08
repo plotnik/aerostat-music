@@ -22,6 +22,37 @@ code {
                                                                           
 == 38.
 
+=== То Да Сё №31, 8 октября 2023
+<https://aerostatbg.ru/release/957>
+
+.Old Crow Medicine Show – Keel Over And Die
+image:Old Crow Medicine Show 2023 - Jubilee/cover.jpg[Jubilee,200,200,role="thumb left"]
+
+.Sufjan Stevens – Will Anybody Ever Love Me?
+image:SUFJAN STEVENS/2023 - Javelin/cover.jpg[Javelin,200,200,role="thumb left"]
+
+.Johann Sebastian Bach – Orchestral Suite No. 2 in B minor: VI. Menuet
+image:BACH/BWV 1066~1069, 1060, 1043 - Orchestral Suites/cover.jpg[Orchestral Suites,200,200,role="thumb left"]
+
+.Paul Rodgers – Dance In The Sun
+image:Paul Rodgers 2023 - Midnight Rose/cover.jpg[Midnight Rose,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Pink Floyd – Burning Bridges
+Cotton Mather – Fishes, Loaves And Hand Grenades
+Josquin des Prez – La Spagna
+Bob Marley & The Wailers – Turn Your Light Down Low
+Peter Gabriel – This Is Home (Dark-Side Mix)
+Olivier Messiaen – L'Ascension: II. Alleluias sereins d'une âme qui désire le ciel
+    
+++++
+<br clear="both">
+++++
+
 === October New, 1 октября 2023
 <https://aerostatbg.ru/release/956>
 
@@ -31,14 +62,24 @@ image:Old Crow Medicine Show 2023 - Jubilee/cover.jpg[Jubilee,200,200,role="thum
 .Animal Collective – Gem & I
 image:Animal Collective/2023 - Isn_t It Now/cover.jpg[Isn_t It Now,200,200,role="thumb left"]
 
+.Kathryn Tickell & The Darkening – Caelestis / Sheep In The Temple
+image:Kathryn Tickell 2023 - Cloud Horizons/cover.jpg[Cloud Horizons,200,200,role="thumb left"]
+
+.Oneohtrix Point Never – A Barely Lit Path
+image:Oneohtrix Point Never 2023 - Again/cover.jpg[Again,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Paul Rodgers – Midnight Rose
+image:Paul Rodgers 2023 - Midnight Rose/cover.jpg[Midnight Rose,200,200,role="thumb left"]
+
 [%hardbreaks]
 Thomas Walsh – All This Hurt
 Burning Spear – The Spear
-Kathryn Tickell & The Darkening – Caelestis / Sheep In The Temple
 Hauschka – Limitations Of Lifetime
 Buffalo Nichols – You're Gonna Need Somebody On Your Bond
-Oneohtrix Point Never – A Barely Lit Path
-Paul Rodgers – Midnight Rose
 Peter Culshaw – Night Country (Mayotte)
     
 ++++
