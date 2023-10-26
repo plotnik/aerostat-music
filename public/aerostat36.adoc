@@ -510,7 +510,7 @@ Charles Aznavour – Une vie d'amour
 <https://aerostatbg.ru/release/896>
 
 .Junipers – Wobbly Interlude
-image:The Junipers - Cut Your Key/cover.jpg[Cut Your Key,200,200,role="thumb left"]
+image:Junipers/2008 - Cut Your Key/cover.jpg[Cut Your Key,200,200,role="thumb left"]
 
 [%hardbreaks]
 Cass McCombs – Karaoke

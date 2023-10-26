@@ -467,8 +467,10 @@ image:REM/REM - Live In Stockholm/cover.jpg[Live In Stockholm,200,200,role="thum
 .George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Brainwashed/lyrics/brainwashed.html#_pisces_fish[Pisces Fish]
 image:GEORGE HARRISON/George Harrison - Brainwashed/cover.jpg[Brainwashed,200,200,role="thumb left"]
 
+.Junipers – Golden Fields In Golden Sun
+image:Junipers/2012 - Paint the Ground/cover.jpg[Paint the Ground,200,200,role="thumb left"]
+
 [%hardbreaks]
-Junipers – Golden Fields In Golden Sun
 Lumiere – The Silver Tassie
 J. S. Bach – Partita #1.IV Sarabande
 Buxtehude – Fuga In G Maj
