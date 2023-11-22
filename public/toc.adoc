@@ -6,7 +6,7 @@
 
 |===
 
-| link:aerostat36.html[Глава XXXVII] |   1.01.2023 -  2.07.2023 | 917 - 943
+| link:aerostat37.html[Глава XXXVII] |   1.01.2023 -  2.07.2023 | 917 - 943
 | link:aerostat36.html[Глава XXXVI]  |  18.06.2022 - 25.12.2022 | 890 - 916
 | link:aerostat35.html[Глава XXXV]   |  28.11.2021 - 12.06.2022 | 863 - 889
 | link:aerostat34.html[Глава XXXIV]  |  23.05.2021 - 21.11.2021 | 836 - 862
