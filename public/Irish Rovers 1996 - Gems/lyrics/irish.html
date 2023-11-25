@@ -1,0 +1,2100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="author" content="Irish Rovers">
+<title>Gems</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment the following line when using as a custom stylesheet */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+html{font-family:sans-serif;-webkit-text-size-adjust:100%}
+a{background:none}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+b,strong{font-weight:bold}
+abbr{font-size:.9em}
+abbr[title]{cursor:help;border-bottom:1px dotted #dddddf;text-decoration:none}
+dfn{font-style:italic}
+hr{height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type=checkbox],input[type=radio]{padding:0}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,::before,::after{box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;line-height:1;position:relative;cursor:auto;-moz-tab-size:4;-o-tab-size:4;tab-size:4;word-wrap:anywhere;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:0}
+p{line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:1px solid #dedede;word-wrap:normal}
+table thead,table tfoot{background:#f7f8f7}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt{background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.center{margin-left:auto;margin-right:auto}
+.stretch{width:100%}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre).nobreak{word-wrap:normal}
+:not(pre).nowrap{white-space:nowrap}
+:not(pre).pre-wrap{white-space:pre-wrap}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.2),inset 0 0 0 .1em #fff;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin:0 auto;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+#content{margin-top:1.25em}
+#content::before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border:1px solid #e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:none;background:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:hsla(0,0%,100%,.8);line-height:1.44}
+#content{margin-bottom:.625em}
+.sect1{padding-bottom:.625em}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details{margin-left:1.25rem}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
+details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
+details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
+details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class=paragraph]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans-serif;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;font-size:.85rem;text-align:left;margin-right:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content{margin-bottom:1.25em;word-wrap:anywhere}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all>*>tr>*{border-width:1px}
+table.grid-cols>*>tr>*{border-width:0 1px}
+table.grid-rows>*>tr>*{border-width:1px 0}
+table.frame-all{border-width:1px}
+table.frame-ends{border-width:1px 0}
+table.frame-sides{border-width:0 1px}
+table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-child>*{border-top-width:0}
+table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
+table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
+table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+ul.checklist>li>p:first-child{margin-left:-1em}
+ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
+ul.inline{display:flex;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+td.hdlist2{word-wrap:anywhere}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:4px solid #fff;box-shadow:0 0 0 1px #ddd}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background:#00fafa}
+.black{color:#000}
+.black-background{background:#000}
+.blue{color:#0000bf}
+.blue-background{background:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background:#fa00fa}
+.gray{color:#606060}
+.gray-background{background:#7d7d7d}
+.green{color:#006000}
+.green-background{background:#007d00}
+.lime{color:#00bf00}
+.lime-background{background:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background:#7d0000}
+.navy{color:#000060}
+.navy-background{background:#00007d}
+.olive{color:#606000}
+.olive-background{background:#7d7d00}
+.purple{color:#600060}
+.purple-background{background:#7d007d}
+.red{color:#bf0000}
+.red-background{background:#fa0000}
+.silver{color:#909090}
+.silver-background{background:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background:#fafa00}
+span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);border-radius:50%;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]::after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]{border-bottom:1px dotted}
+abbr[title]::after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#header,#content,#footnotes,#footer{max-width:none}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span::before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+@media amzn-kf8,print{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Gems</h1>
+<div class="details">
+<span id="author" class="author">Irish Rovers</span><br>
+<span id="revdate">1996</span>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_the_last_of_the_irish_rover">The Last Of The Irish Rover</a></li>
+<li><a href="#_star_of_the_county_down">Star Of The County Down</a></li>
+<li><a href="#_bonnets_of_bonnie_dundee">Bonnets Of Bonnie Dundee</a></li>
+<li><a href="#_liverpool_lou">Liverpool Lou</a></li>
+<li><a href="#_the_gypsy_rover">The Gypsy Rover</a></li>
+<li><a href="#_muirsheen_durkin">Muirsheen Durkin</a></li>
+<li><a href="#_come_by_the_hills">Come By The Hills</a></li>
+<li><a href="#_the_gallant_forty_twa">The Gallant Forty-Twa</a></li>
+<li><a href="#_no_nay_never">No Nay Never</a></li>
+<li><a href="#_whiskey_on_a_sunday">Whiskey On A Sunday</a></li>
+<li><a href="#_farewell_to_carlingford">Farewell To Carlingford</a></li>
+<li><a href="#_im_a_rambler_im_a_gambler">I&#8217;m A Rambler, I&#8217;m A Gambler</a></li>
+<li><a href="#_three_jigs">Three Jigs</a></li>
+<li><a href="#_the_unicorn">The Unicorn</a></li>
+<li><a href="#_the_orange_and_the_green">The Orange And The Green</a></li>
+<li><a href="#_lilly_the_pink">Lilly The Pink</a></li>
+<li><a href="#_the_bonnie_lass_of_fyvic">The Bonnie Lass Of Fyvic</a></li>
+<li><a href="#_donald_wheres_your_trousers">Donald Where&#8217;s Your Trousers</a></li>
+<li><a href="#_mountain_tay">Mountain Tay</a></li>
+<li><a href="#_sweet_strabane">Sweet Strabane</a></li>
+<li><a href="#_turra_market">Turra Market</a></li>
+<li><a href="#_young_roddy_mccorley">Young Roddy McCorley</a></li>
+<li><a href="#_tied_up_with_a_black_velvet_band">Tied Up With A Black Velvet Band</a></li>
+<li><a href="#_my_boy_willie">My Boy Willie</a></li>
+<li><a href="#_caltan_weaver">Caltan Weaver</a></li>
+<li><a href="#_the_lovely_isle_of_innishfree">The Lovely Isle Of Innishfree</a></li>
+<li><a href="#_good_luck_to_the_barleymow">Good Luck To The Barleymow</a></li>
+<li><a href="#_wild_mountain_thyne">Wild Mountain Thyne</a></li>
+<li><a href="#_three_reels">Three Reels</a></li>
+<li><a href="#_weigh_hey_and_up_she_rises">Weigh Hey And Up She Rises</a></li>
+<li><a href="#_rolling_home_to_ireland">Rolling Home To Ireland</a></li>
+<li><a href="#_wasnt_that_a_party">Wasn&#8217;t That A Party</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="image"><img src="../gems.jpg" alt="Gems" width="200" height="200"></span></p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">From</dt>
+<dd>
+<p><a href="https://genius.com/artists/The-irish-rovers" class="bare">https://genius.com/artists/The-irish-rovers</a><br>
+<a href="https://www.azlyrics.com/i/irishrovers.html" class="bare">https://www.azlyrics.com/i/irishrovers.html</a><br>
+<a href="https://www.flashlyrics.com/lyrics/the-irish-rovers" class="bare">https://www.flashlyrics.com/lyrics/the-irish-rovers</a></p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_last_of_the_irish_rover">The Last Of The Irish Rover</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">In the Year of our Lord Eighteen Hundred and Six
+We set sail from the cold cove of Cork
+We were sailing away with a cargo of bricks
+For the grand City Hall in New York
+She was a wonderful craft, she was rigged 'fore and aft
+And lord how the trade winds drove her
+She had twenty-three masts, and she stood several blasts
+And they called her the Irish Rover
+
+There was Barney McGee from the banks of the Lee
+There was Hogan from County Tyrone
+There was Johnny McGurk who was scared stiff of work
+And a man from Westmeath called Malone
+There was Slugger O&#8217;Toole who was drunk as a rule
+And fighting Bill Tracy from Dover
+And your man Mick McCann, from the banks of the Bann
+Was the skipper on the Irish Rover
+
+We had one million bags of the best Sligo rags
+We had two million barrels of bone
+We had three million bales of old nanny goats' tails
+We had four million barrels of stone
+We had five million hogs and six million dogs
+And seven million barrels of porter
+We had eight million sides of old blind horse&#8217;s hides
+In the hold of the Irish Rover
+
+We had sailed seven years when the measles broke out
+And our ship lost her way in the fog
+And the whole of the crew was reduced down to two
+'Twas meself and the captain&#8217;s old dog
+Then the ship struck a rock; oh Lord, what a shock
+We nearly tumbled over
+Turned nine times around and the poor old dog was drowned
+Now I&#8217;m the last of the Irish Rover</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_star_of_the_county_down">Star Of The County Down</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Near Banbridge Town in the County Down
+One morning last July
+Down a bóithrín green came a sweet cailín
+And she smiled as she passed me by
+She looked so sweet from her two bare feet
+To the sheen of her nut-brown hair
+Such a winsome elf, I&#8217;m ashamed of myself
+For to see I was staring there
+
+	From Bantry Bay up to Derry&#8217;s Quay
+	From Galway to Dublin Town
+	No maid I&#8217;ve seen like the fair cailín
+	That I met in the County Down
+
+As she onward sped, sure I scratched me head
+And I looked with a feelin' rare
+And I says, says I, to a passer-by
+"Who&#8217;s the maid with the nut-brown hair"?
+Well, he looked at me and he said to me:
+"That&#8217;s the gem of Ireland&#8217;s crown
+Young Rosie McCann from the banks of the Bann
+She&#8217;s the star of the County Down"
+
+	From Bantry Bay up to Derry&#8217;s Quay
+	From Galway to Dublin Town
+	No maid I&#8217;ve seen like the fair cailín
+	That I met in the County Down
+
+She&#8217;d soft brown eyes with a look so shy
+And a smile like the rose in June
+And she sang so sweet what a lovely treat
+As she lilted an Irish tune
+At the Lammas dance I was in the trance
+As she whirled with the lads of the town
+And it broke me heart just to be apart
+From the star of the County Down
+
+	From Bantry Bay up to Derry&#8217;s Quay
+	From Galway to Dublin Town
+	No maid I&#8217;ve seen like the fair cailín
+	That I met in the County Down
+
+At the Harvest Fair she&#8217;ll be surely there
+So I&#8217;ll dress in me Sunday clothes
+With me shoes shone bright and me hat cocked right
+For a smile from the nut brown rose
+No pipe I&#8217;ll smoke, no horse I&#8217;ll yoke
+Till my plough is a rust colored brown
+And a smiling bride by me own fireside
+Sits the star of the County Down</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_bonnets_of_bonnie_dundee">Bonnets Of Bonnie Dundee</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Tae the Lords o' convention 'twas Claverhouse spoke
+E&#8217;er the King&#8217;s Crown go down there are crowns to be broke
+So each caviler who loves honor and me
+Let him follow the bonnets o' Bonnie Dundee
+
+Come fill up my cup, come fill up can
+Come saddle my horses and call out my men
+Unhook the West Port and let us gae free
+For it&#8217;s up with the bonnets o' Bonnie Dundee
+
+Dundee he is mounted and rides up the street
+The bells tae ring backwards, the drums tae are beat
+But the provost douce man says, 'Just let it be'
+When the toon is well rid o' that devil Dundee
+
+Come fill up my cup, come fill up can
+Come saddle my horses and call out my men
+Unhook the West Port and let us gae free
+For it&#8217;s up with the bonnets o' Bonnie Dundee
+
+There are hills beyond Pentland and lands beyond Forth
+Be there lords in the south, there are chiefs in the north
+There are brave downie wassles three thousand times three
+Cry hey for the bonnets o' Bonnie Dundee
+
+Come fill up my cup, come fill up can
+Come saddle my horses and call out my men
+Unhook the West Port and let us gae free
+For it&#8217;s up with the bonnets o' Bonnie Dundee
+
+Then awa tae the hill to the lee and the rocks
+Ere I own a usurper I&#8217;ll crouch with the fox
+So tremble false wigs in the midst of yer glee
+For you&#8217;ve no seen the last of my bonnets and me
+
+Come fill up my cup, come fill up can
+Come saddle my horses and call out my men
+Unhook the West Port and let us gae free
+For it&#8217;s up with the bonnets o' Bonnie Dundee</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_liverpool_lou">Liverpool Lou</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Oh, Liverpool Lou, lovely Liverpool Lou
+Why can&#8217;t you behave just like the other girls do?
+Why must my poor heart be following you
+Stay home and love me, my Liverpool Lou
+
+When love is pleasing, and love is teasing
+And love is a pleasure, when first it is new love
+As love it grows it older, and love it grows colder
+And fear is the way love, like the more I need you
+
+Oh, Liverpool Lou, lovely Liverpool Lou
+Why can&#8217;t you behave just like the other girls do?
+Why must my poor heart be following you
+Stay home and love me, my Liverpool Lou
+
+When I go a-walking, I hear people talking
+School children playing, I know what they&#8217;re saying
+They&#8217;re saying you&#8217;ll grieve me, that you will deceive me
+Some morning you&#8217;ll leave me all packed up and gone
+
+Oh, Liverpool Lou, lovely Liverpool Lou
+Why can&#8217;t you behave just like the other girls do?
+Why must my poor heart be following you
+Stay home and love me, my Liverpool Lou</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_gypsy_rover">The Gypsy Rover</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">The gypsy rover came over the hill
+And down through the valley so shady
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady
+
+Ah di doo ah di doo dah day
+Ah di doo ah de da-a-y
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady
+
+She left her father&#8217;s castle gate
+She left her own fond lover
+She left her servants and her estate
+To follow the gypsy rover
+
+Ah di doo ah di doo dah day
+Ah di doo ah de da-a-y
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady
+
+Her father he saddled up his fastest steed
+And he roamed the valleys all over
+He sought his daughter at great speed
+And the whistling gypsy rover
+
+Ah di doo ah di doo dah day
+Ah di doo ah de da-a-y
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady
+
+He came at last to a mansion fine
+Down by the river clade
+And there was music, and there was wine
+For the gypsy and his lady
+
+Ah di doo ah di doo dah day
+Ah di doo ah de da-a-y
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady
+
+Well he&#8217;s no gypsy my father she said
+But lord of these lands all over
+And I will stay till me dying day
+With my whistling gypsy rover
+
+Ah di doo ah di doo dah day
+Ah di doo ah de da-a-y
+He whistled and he sang
+Till the green woods rang
+And he won the heart of a lady</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_muirsheen_durkin">Muirsheen Durkin</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">In the days when I was courting, I was never tired resorting
+To the alehouse and the playhouse, and the other house besides.
+But I told my brother Seamus, "I&#8217;ll be off now and grow famous
+And before that I return again, I&#8217;ll roam the whole world wide."
+So, it&#8217;s goodbye Mrs. Durkin, I&#8217;m sick and tired of workin'.
+No more I&#8217;ll dig your praties, no longer I&#8217;ll be poor.
+As sure as my name is Barney, I&#8217;m off to Califarny.
+Instead of digging praties, I&#8217;ll be digging lumps of gold.
+
+Well, I&#8217;ve courted girls in Blarney, in Antrim and Killarney,
+In Dublin and in Kerry, down to the coves of Cork.
+But I&#8217;m tired of all this pleasure, so now I&#8217;ll take my leisure.
+And the next time that you hear from me, I&#8217;ll write you from new York.
+
+So, it&#8217;s goodbye Mrs. Durkin, I&#8217;m sick and tired of workin'.
+No more I&#8217;ll dig your praties, no longer I&#8217;ll be poor.
+As sure as my name is Barney, I&#8217;m off to Califarny.
+Instead of digging praties, I&#8217;ll be digging lumps of gold.
+
+When I landed in America, I met a man named Burke.
+He told me if I&#8217;d stay a while, he&#8217;d surely find me work.
+But work he didn&#8217;t find me, so there&#8217;s nothing here to bind me.
+I&#8217;m bound for San Francisco, in Califor-ni-yay!
+
+So, it&#8217;s goodbye Mrs. Durkin, I&#8217;m sick and tired of workin'.
+No more I&#8217;ll dig your praties, no longer I&#8217;ll be poor.
+As sure as my name is Barney, I&#8217;m off to Califarny.
+Instead of digging praties, I&#8217;ll be digging lumps of gold.
+Well, I&#8217;m now in San Francisco, and my fortune it is made.
+My pockets loaded down with gold, I&#8217;ll throw away my spade.
+I&#8217;ll go back to dear old Erin, spend my fortune never carin'.
+I&#8217;ll marry Queen Victori', Mrs. Durkin for to spite.
+
+So, it&#8217;s goodbye Mrs. Durkin, I&#8217;m sick and tired of workin'.
+No more I&#8217;ll dig your praties, no longer I&#8217;ll be poor.
+As sure as my name is Barney, I&#8217;m off to Califarny.
+Instead of digging praties, I&#8217;ll be digging lumps of gold.</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_come_by_the_hills">Come By The Hills</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Come by the hills to the land where fancy is free
+And stand where the peaks meet the sky and the lochs meet the sea
+Where the rivers run clear and the bracken is gold in the sun
+Ah, the cares of to-morrow can wait 'til this day is done
+
+Oh, come by the hills to the land where life is a song
+And sing while the birds fill the air with their joy all day long
+Where the trees sway in time and even the wind sings in tune
+Ah, the cares of to-morrow can wait 'til this day is done
+
+Come by the hills to the land where legend re-mains
+Where stories of old fill the heart and may yet come a-gain
+Where our past has been lost and the future has still to be won
+Ah, the cares of to-morrow can wait 'til this day is done</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_gallant_forty_twa">The Gallant Forty-Twa</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">You may talk about your Lancers or your Irish Fusiliers
+The Aberdeen Militia or the Queen&#8217;s own Volunteers
+Or any other regiment that&#8217;s lying far awa'
+Come give to me the tartan of the Gallant Forty Twa
+And strolling through the green fields on a summer day
+Watching all the country girls working at the hay
+I really was delighted and he stole my heart awa'
+When I saw him in the tartan of the Gallant Forty Twa
+
+I never will forget the day his regiment marched past
+The pipes they played a lively tune but my heart was aghast
+He turned around and smiled farewell and then from far awa'
+He waved to me the tartan of the Gallant Forty Twa
+And strolling through the green fields on a summer day
+Watching all the country girls working at the hay
+I really was delighted and he stole my heart awa'
+When I saw him in the tartan of the Gallant Forty Twa
+
+Once again I heard the music of the pipers from afar
+They tramped and tramped the weary men returning from the war
+And as they nearer drew I brushed a woeful tear awa'
+To see my bonnie laddie of the Gallant Forty Twa
+And strolling through the green fields on a summer day
+Watching all the country girls working at the hay
+I really was delighted and he stole my heart awa'
+When I saw him in the tartan of the Gallant Forty Twa
+I really was delighted and he stole my heart awa'
+When I saw him in the tartan of the Gallant Forty Twa</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_no_nay_never">No Nay Never</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;ve been a wild rover for many a year
+And I spent all me money on whiskey and beer
+But now I&#8217;m returning with gold in great store
+And I swear I&#8217;ll will play a wild rover no more
+
+And it&#8217;s no nay never, no nay never no more
+Will I play a wild rover, no never no more
+
+I went into an ale house I used to frequent
+And I told the landlady me money was spent
+I asked her for credit but she answered me nay
+Said a custom like yours I can have anyday
+
+And it&#8217;s no nay never, no nay never no more
+Will I play a wild rover, no never no more
+
+Then I took from me pocket a handful of gold
+And on the round table it glittered and rolled
+Well, the landlady smiled as she served me the best
+What I told you before sure it was only in jest
+
+And it&#8217;s no nay never, no nay never no more
+Will I play a wild rover, no never no more
+
+I&#8217;ll go home to me parents confess what I&#8217;ve done
+And I&#8217;ll ask them to pardon there prodigal son
+And if they&#8217;ll forgive me as off time before
+Well, I never will play a wild rover no more
+
+And it&#8217;s no nay never, no nay never no more
+Will I play a wild rover, no never no more
+
+And it&#8217;s no nay never, no nay never no more
+Will I play a wild rover, no never no more</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_whiskey_on_a_sunday">Whiskey On A Sunday</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday
+
+He sits in the corner of old beggar&#8217;s bush
+On top of an old packing crate
+He has three wooden dolls
+That can dance and can sing
+And he croons with a smile on his face
+
+Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday
+
+His tired old hands tug away at the strings
+And the puppets dance up and down
+A far better show than you ever would see
+In the fanciest theatre in town
+
+Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday
+
+And sad to relate that old Seth Davy died in 1904
+The three wooden dolls in the dustbin were laid
+His song will be heard nevermore
+
+Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday
+
+But some stormy night when you&#8217;re passing that way
+And the wind&#8217;s blowing up from the sea
+You&#8217;ll still hear the song of old Seth Davy
+As he croons to his dancing dolls three
+
+Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday
+
+Come day, go day
+Wish in me heart it were Sunday
+Drinking buttermilk through the week
+Whiskey on a Sunday</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_farewell_to_carlingford">Farewell To Carlingford</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">When I was young and in my prime
+And could wander wild and free
+There was always a longing in my heart
+To follow the call of sea
+
+So I&#8217;ll sing farewell to Carlingford
+And farewell to Greenore
+I&#8217;ll think of both day and night
+Until I return once more
+Until I return once more
+
+On all of the stormy seven seas
+I have sailed before the mast
+But on every voyage I ever made
+I swore it would be my last
+
+Now I have a girl called Mary Doyle
+And she lives in Greenore
+And the foremost thought was in her mind
+To keep me safe on the shore
+
+Now a landsman&#8217;s life is all his own
+He can go or he can stay
+But when the sea gets in your blood
+When she calls you must obey</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_im_a_rambler_im_a_gambler">I&#8217;m A Rambler, I&#8217;m A Gambler</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;m a rambler, I&#8217;m a gambler, I&#8217;m a long way from home
+And if you don&#8217;t like me, then leave me alone
+I&#8217;ll eat when I&#8217;m hungry, I&#8217;ll drink when I&#8217;m dry
+And the moonshine don&#8217;t kill me, I&#8217;ll live 'til I die
+
+I&#8217;ve been a moonshiner for many a year
+I&#8217;ve spent all me money on whiskey and beer
+I&#8217;ll go to some hollow, I&#8217;ll set up my still
+And I&#8217;ll make you a gallon for a ten shilling bill
+
+I&#8217;m a rambler, I&#8217;m a gambler, I&#8217;m a long way from home
+And if you don&#8217;t like me, then leave me alone
+I&#8217;ll eat when I&#8217;m hungry, I&#8217;ll drink when I&#8217;m dry
+And the moonshine don&#8217;t kill me, I&#8217;ll live 'til I die
+
+I&#8217;ll go to some hollow in this country
+Ten gallons of wash, I will go on a spree
+No women to follow, the world is all mine
+I love none so well as I love my moonshine
+
+I&#8217;m a rambler, I&#8217;m a gambler, I&#8217;m a long way from home
+And if you don&#8217;t like me, then leave me alone
+I&#8217;ll eat when I&#8217;m hungry, I&#8217;ll drink when I&#8217;m dry
+And the moonshine don&#8217;t kill me, I&#8217;ll live 'til I die
+
+It&#8217;s moonshine for Molly and moonshine for May
+Moonshine for me love, she&#8217;ll sing all the day
+It&#8217;s moonshine for breakfast and moonshine for tea
+It&#8217;s moonshine, me hearties, it&#8217;s moonshine for me
+
+I&#8217;m a rambler, I&#8217;m a gambler, I&#8217;m a long way from home
+And if you don&#8217;t like me, then leave me alone
+I&#8217;ll eat when I&#8217;m hungry, I&#8217;ll drink when I&#8217;m dry
+And the moonshine don&#8217;t kill me, I&#8217;ll live 'til I die
+
+Well, moonshine, dear moonshine, oh, how I love thee
+You killed me ould father, but ah you try me
+I&#8217;ll bless all moonshiners and bless all moonshine
+Their breath smells as sweet as the dew on the vine
+
+I&#8217;m a rambler, I&#8217;m a gambler, I&#8217;m a long way from home
+And if you don&#8217;t like me, then leave me alone
+I&#8217;ll eat when I&#8217;m hungry, I&#8217;ll drink when I&#8217;m dry
+And the moonshine don&#8217;t kill me, I&#8217;ll live 'til I die</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_three_jigs">Three Jigs</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.google.com/search?q=Irish+Rovers+lyrics+Three+Jigs" class="bare">https://www.google.com/search?q=Irish+Rovers+lyrics+Three+Jigs</a></p>
+</div>
+<div class="verseblock">
+<pre class="content"></pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_unicorn">The Unicorn</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">A long time ago when the earth was green
+And there was more kinds of animals than you&#8217;ve ever seen
+They&#8217;d run around free while the earth was being born
+But the loveliest of them all was the Unicorn
+
+There were green alligators and long necked geese
+Some humpty-back camels and some chimpanzees
+Some cats and rats and elephants, but sure as you&#8217;re born
+The loveliest of all was the Unicorn
+
+Now God seen some sinning and it gave Him pain
+And He says "Stand back, I&#8217;m going to make it rain"
+He says "Hey brother Noah, I&#8217;ll tell you what to do
+Build me a floating zoo. And take some of them&#8230;&#8203;
+
+Green alligators and long necked geese
+Some humpty-back camels and some chimpanzees
+Some cats and rats and elephants, but sure as you&#8217;re born
+Don&#8217;t you forget My Unicorn"
+
+Old Noah was there to answer the call
+He finished up making the ark just as the rain started falling
+He marched in the animals two by two
+And he called out as they went through, "Hey Lord, I got your&#8230;&#8203;"
+
+Green alligators and long necked geese
+Some humpy-back camels and some chimpanzees
+Some cats and rats and elephants, but Lord, I&#8217;m so forlorn
+I just can&#8217;t see no Unicorn"
+
+Then Noah looked out through the driving rain
+Them Unicorns were hiding, playing silly games
+Kicking and splashing while the rain was pouring
+Oh, them silly Unicorns
+
+There were green alligators and long necked geese
+Some humpy-back camels and some chimpanzees
+Noah cried "Close the door, cause the rain is pouring
+And we just can&#8217;t wait for no Unicorn"
+
+The ark started moving, it drifted with the tide
+Them Unicorns looked up from the rocks and they cried
+And the waters came down and sort of floated them away
+And that&#8217;s why you&#8217;ll never seen a Unicorn&#8230;&#8203; to this very day
+
+You&#8217;ll see green alligators and long necked geese
+Some humpy-back camels and some chimpanzees
+Some cats and rats and elephants, but sure as you&#8217;re born
+You&#8217;re never gonna see no Unicorn</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_orange_and_the_green">The Orange And The Green</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+Oh, my father was an Ulsterman, proud Protestant was he
+My mother was a Catholic girl, from County Cork was she
+They were married in two churches, lived happily enough
+Until the day that I was born and things got rather tough
+
+Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+Baptised by father Reilly, I was rushed away by car
+To be made a little orangeman, my father&#8217;s shining star
+I was christened David Anthony, but still in spite of that
+To my father I was William while my mother called me Pat
+
+Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+With mother every Sunday to mass I&#8217;d proudly stroll
+Then after that the orange lads would try to save my soul
+For both sides tried to claim me, but I was smart because
+I played the flute or played the harp, depending where I was
+
+Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+One day my ma&#8217;s relations came round to visit me
+Just as my father&#8217;s kinfolk were all sittin' down to tea
+We tried to smooth things over, but they all began to fight
+And me being strictly neutral, I bashed everyone in sight
+
+Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+Now my parents never could agree about my type of school
+My learning was all done at home, that&#8217;s why I&#8217;m such a fool
+They both passed on, god rest them, but left me caught between
+That awful color problem of the orange and the green
+
+Oh, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green
+
+Yes, it is the biggest mix-up that you have ever seen
+My father he was orange and my mother she was green</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_lilly_the_pink">Lilly The Pink</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">We&#8217;ll drink a drink a drink
+To Lily the pink the pink the pink
+The savior of the human race
+She invented medicinal compound
+Most efficacious in every case
+
+Here&#8217;s a story, a little bit gory
+A little bit happy, a little bit sad
+Of Lily the Pink and her medicinal compound
+And how it slowly drove her to the bad
+
+Meet Ebenezer, thought he was Julius Caesar
+So they put him in a home
+And then they gave him medicinal compound
+And now he&#8217;s Emperor of Rome
+
+We&#8217;ll drink a drink a drink
+To Lily the pink the pink the pink
+The savior of the human race
+She invented medicinal compound
+Most efficacious in every case
+
+And Freddie Clinger, the opera singer
+Who could break glasses with his voice they said
+So on his tonsils he rubbed medicinal compound
+And now they break glasses over his head
+
+Meet Johnny Hammer had a t-t-terrible s-s-stammer
+He could b-barely say a word
+So they gave him medicinal compound
+And now he&#8217;s seen, but never heard
+
+We&#8217;ll drink a drink a drink
+To Lily the pink the pink the pink
+The savior of the human race
+She invented medicinal compound
+Most efficacious in every case
+
+And Uncle Paul, he was very small. He
+Was the shortest man in town
+So on his body he rubbed medicinal compound
+And now he&#8217;s six foot, but it&#8217;s underground
+
+Lily died and went up to heaven
+Oh, the church bells they did ring
+She took with her medicinal compound
+Hark the herald angels sing
+
+We&#8217;ll drink a drink a drink
+To Lily the pink the pink the pink
+The savior of the human race
+She invented medicinal compound
+Most efficacious in every case
+
+We&#8217;ll drink a drink a drink
+To Lily the pink the pink the pink
+The savior of the human race
+She invented medicinal compound
+Most efficacious in every case</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_bonnie_lass_of_fyvic">The Bonnie Lass Of Fyvic</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">There once was a troop of Irish Dragoons
+Came marchin' down through Fyvie&#8217;o
+And the captain fell in love wi' a very bonnie lass
+Her name it was called pretty Peggy&#8217;o
+
+There&#8217;s manys a bonnie lass in the town of Auchterlass
+There&#8217;s manys a bonnie lassie in ol' Gairioch
+There&#8217;s manys a bonnie Jean in the streets of Aberdeen
+But the flower of them all live in Fyvie&#8217;o
+
+Come down the stairs, pretty Peggy my dear
+Come down the stairs pretty Peggy&#8217;o
+A come down the stairs, comb back yer yellow hair
+Say a lang farewell to yer mammy&#8217;o
+
+I never did intend a solder&#8217;s lady for to be
+I never will marry a soldier&#8217;o
+I never did intend to gae tae a foreign land
+I never will marry a soldier&#8217;o
+
+The colonel he cried, "Mount!"
+"Mount, boys, mount!"
+The captain he cried, "Tally-ho!"
+And tallied for a while for another day or twa
+'Till I see if this bonnie lass will marry&#8217;o
+
+'Twas early next morning when we marched to war
+And oh! But our captain he was sorry&#8217;o
+The drums they did beat o' the merry braes o' Gight
+And the pipes played the Bonnie Lass of Fyvie&#8217;o
+
+Long ere we came tae Bethelnie toon
+We had our captain to carry&#8217;o
+And long ere we came to the town of Aberdene
+We had our captain to burry&#8217;o
+
+Green grow the birks on bonnie Ythanside
+And low lie the lowlands of Fyvie&#8217;o
+Our captain&#8217;s name was Ned and he died for a maid
+He died for the chamber maid of Fyvie&#8217;o</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_donald_wheres_your_trousers">Donald Where&#8217;s Your Trousers</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Let the wind blow high, let the wind blow low
+Through the streets in my kilt I&#8217;ll go
+All the lassies say hello
+Donald, where&#8217;s your trousers?
+
+I&#8217;ve just come down from the isle of Skye
+I&#8217;m no very big an' I&#8217;m awfully shy
+The lassies say as I go by
+Donald, where&#8217;s your trousers?
+
+Let the wind blow high, let the wind blow low
+Through the streets in my kilt I&#8217;ll go
+All the lassies say hello
+Donald, where&#8217;s your trousers?
+
+Now I went to a fancy ball
+And it was slippery in the hall
+And I was feared that I might fall
+For I hadnae on me trousers
+
+Let the wind blow high, let the wind blow low
+Through the streets in my kilt I&#8217;ll go
+All the lassies say hello
+Donald, where&#8217;s your trousers?
+
+Now I went down to London town
+To have a little fun on the underground
+The ladies turn their heads around
+Saying, Donald, where are your trousers?
+
+Let the wind blow high, let the wind blow low
+Through the streets in my kilt I&#8217;ll go
+All the lassies say hello
+Donald, where&#8217;s your trousers?
+
+The lassies love me every one
+But let them catch me if they can
+You cannae take the breeks off a Hielan' man
+Donald, where&#8217;s your trousers?
+
+Let the wind blow high, let the wind blow low
+Through the streets in my kilt I&#8217;ll go
+All the lassies say hello
+Donald, where&#8217;s your trousers?</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_mountain_tay">Mountain Tay</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Gather up the pots and the old tin can
+The mash, the corn, the barley and the bran
+Run like the devil from the excise man
+Keep the smoke from rising, Barney
+
+Mountain breezes as they blow
+Hear their echo in the glen below
+The excise men are on the go
+In the hills of Connemara
+
+Keep your eyes well peeled today
+The big, tall men are on their way
+Searching for the mountain tay
+In the hills of Connemara
+
+A gallon for the butcher, a quart for Tom
+A bottle for poor old Father John
+To help his prayers and hymns along
+In the hills of Connemara
+
+Stand your ground boys, it&#8217;s too late
+The excise men are at the gate
+Glory be to Paddy, but they&#8217;re drinking it straight
+In the hills of Connemara
+
+Swing to the left and swing to the right
+The excise men will dance all night
+Drinking up the tay till the broad daylight
+In the hills of Connemara</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sweet_strabane">Sweet Strabane</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">If I were King of Ireland
+And all things at my will
+I&#8217;d roam through all creation
+New fortunes to find still
+And the fortune I would seek the most
+You all must understand
+Is to win the heart of Martha
+The flower of sweet Strabane
+
+Her cheeks they are a rosy red
+Her hair a golden brown
+And o&#8217;er her snow white shoulders
+It carelessly falls down
+She is the fairest lassie
+You&#8217;ll find throughout the land
+And my heart is captivated by
+The flower of sweet Strabane
+
+If I had you lovely Martha
+Away in Innisowen
+Or in some lonesome valley
+In the wild woods of Tyrone
+I would use my best endeavour
+And try to work my plan
+For to win the prize and feast my eyes
+On the flower of sweet Strabane
+
+Now I&#8217;ll go o&#8217;er the Lagan
+By steam ships on the tide
+I&#8217;m sailing for Amerikay
+Across the ocean wide
+My boat is bound for Liverpool
+Down by the Isle of Man
+So farewell and God bless you Martha
+My flower of sweet Strabane</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_turra_market">Turra Market</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">As I got down to Turra market, Turra market for to fee
+I fell in with a wealthy farmer, the barnyards of Delgaty
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty
+
+He promised me the one best horse that e′er I set my eyes upon
+When I got to the barnyards, there was nothing there but skin and bone
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty
+
+As I go down to church on Sunday, many&#8217;s the bonnie lass I see
+Sitting by her mothers side, winkin′ over the pews at me
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty
+
+Now, I can drink and no be drunken, I can fight and no be slain
+I can court with another mans lass and still be welcome to me ain
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty
+
+Now, I can drink and no be drunken, I can fight and no be slain
+I can court with another mans lass and still be welcome to me ain
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty
+
+Ah, now my candle is burnt oot, my snotter&#8217;s fairly on the wane
+Fare ye well ye barnyards, you&#8217;ll never see me here again
+
+A linten addie toorin addie, linten addie toorin ae
+Linten lowrin lowrin lowrin, the barnyards of Delgaty</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_young_roddy_mccorley">Young Roddy McCorley</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Oh see the fleet foot host of men
+Who sped with faces wan
+From farmstedt and from fishers cot
+Along the banks of Bann
+They come with vengeance in their eyes
+Too late, too late are they
+For young Roddy McCorley goes to die
+On the bridge of Toome today
+
+Up the narrow streets he steps
+He smiling proud and young
+About the hemp rope 'round his neck
+The golden ringlets clung
+There&#8217;s never a tear in his blue eyes
+Both glad and bright are they
+For young Roddy McCorley goes to die
+On the bridge of Toome today
+
+When the last stepped up the street
+His shining pike in hand
+Behind him marched in grim array
+A stalwart earnest band
+For Antrim town, for Antrim town
+He led them to the fray
+For young Roddy McCorley goes to die
+On the bridge of Toome today
+
+There&#8217;s never a one of all your dead
+More bravely fell in fray
+Than he who marches to his fate
+On the bridge Toome today
+True to the last! True to the last!
+He treads the upward way
+For young Roddy McCorley goes to die
+On the bridge of Toome today</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_tied_up_with_a_black_velvet_band">Tied Up With A Black Velvet Band</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">In a neat little town they called Belfast
+Apprentice to trade, I was bound
+And many&#8217;s the hour of sweet happiness
+Oh, I spent in that neat little town
+'Til bad misfortune came over me
+That caused me to stray from the land
+Far away from my friends and relations
+To follow the black velvet band
+
+Her eyes, they shone like the diamonds
+You will think she was queen of the land
+And her hair hung over her shoulders
+Tied up with a black velvet band
+
+As I went walkin' down broadway
+Not meaning to stay very long
+I met with a frolic some damsel
+As she came a-dropping the lone
+A watch she pulled out of her pocket
+She slipped it right into me hands
+Then the law came and put me in prison
+Bad luck to her black velvet band
+
+Her eyes, they shone like the diamonds
+You will think she was queen of the land
+And her hair hung over her shoulders
+Tied up with a black velvet band
+
+Next morning before judge and jury
+The both of us had to appear
+And the judge said, "Majorly, I prefer a law"
+The case against you is quite clear
+And seven long years transportation
+You&#8217;re goin' to Van Diemen&#8217;s land
+Far away from your friends and relations
+Betrayed by the black velvet band
+
+Her eyes, they shone like the diamonds
+You&#8217;ll think she was queen of the land
+And her hair hung over her shoulders
+Tied up with a black velvet band
+
+So come on, all ye dummy young fellows
+You should all take a warning from me
+And when ever you&#8217;re out on the liquor, me lads
+Beware of the pretty colleens
+They&#8217;ll fill you with whisky and porter
+Until you are not able to stand
+And the very next thing that you know, me lads
+You&#8217;ll be sent off to Van Diemen&#8217;s land
+
+Her eyes, they shone like the diamonds
+You will think she was queen of the land
+And her hair hung over her shoulders
+Piled up with a black velvet band
+
+Her eyes, they shone like the diamonds
+You will think she was queen of the land
+And her hair hung over her shoulders
+Tied up with a black velvet band</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_my_boy_willie">My Boy Willie</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">It was early, early in the spring
+When my love Willy went to serve the king
+And all that vexed him or grieved his mind
+Was the leavin' of his dear girl behind
+
+Oh, father dear, built me a boat
+That on the ocean I might float
+And the view the ships, as they pass me by
+And to inquire, of my sailor boy
+
+She had not sailed long in the deep
+When a fine ships crew, she changed to meet
+And of the captain she inquired to
+Does my love Willy sail on board with you?
+
+What sort of lad, is your Willy fair?
+What sort of clothes does your Willy wear?
+He wears a coat of the royal blue
+And you&#8217;ll easily know him, for his heart is true
+
+If that&#8217;s your Willy, he is not here
+I doubt he&#8217;s drowned, as we do fear
+'t was at yonder green island, as we passed by
+It was there we lost a fine sailor boy
+
+Oh, dig my grave long, wide, and deep
+Put a marble stone at my head and feet
+And in the middle, a turtle dove
+So the whole world knows, that I died for love</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_caltan_weaver">Caltan Weaver</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I am a weaver, a Caltan weaver
+I am a rash and roving blade
+I&#8217;ve got silver in my pouches
+And I follow the roving trade
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+I came in by Glasgow city
+Nancy whiskey I chanced to smell
+I went in sat down beside her
+Seven long years I loved her well
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+The more I kissed her the more I loved her
+The more I loved her the more she smiled
+I forgot my mother&#8217;s teaching
+Nancy soon had me beguiled
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+When I awoke in the early morning
+To quench my thirst it was my need
+Tried to rise, but I wasnae able
+Nancy whiskey had me by the head
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+Come on landlady, what&#8217;s me owin'
+Tell me what there is to pay
+Fifteen shillings is a reckonin'
+Pay me quickly and go away
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+Come on you weavers you Caltan weavers
+Come all you young men where e&#8217;er you be
+Beware of whiskey, Nancy whiskey
+She&#8217;ll ruin you like she ruined me
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O
+
+Whiskey whiskey Nancy whiskey
+Whiskey whiskey Nancy-O</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_lovely_isle_of_innishfree">The Lovely Isle Of Innishfree</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I&#8217;ve met some folks who say that I&#8217;m a dreamer
+And I&#8217;ve no doubt there&#8217;s truth in what they say
+But sure a body&#8217;s bound to be a dreamer
+When all the things he loves are far away
+And precious things are dreams onto an exile
+They take him o&#8217;er the land across the sea
+Especially when it happens he&#8217;s an exile
+From that dear lovely Isle of Innisfree
+
+And when the moonlight peeps across the rooftops
+Of this great city wondrous tho' it be
+I scarcely feel its wonder or its laughter
+I&#8217;m once again back home in Innisfree
+
+I wander o&#8217;er green hills thro' dreamy valleys
+And find a peace no other land could know
+I hear the birds make music fit for angels
+And watch the rivers laughing as they flow
+And then into a humble shack I wander
+My dear old home, and tenderly behold
+The folks I love around the turf fire gathered
+On bended knees their rosary is told
+
+But dreams don&#8217;t last
+Tho' dreams are not forgotten
+And soon I&#8217;m back to stern reality
+But tho' they paved the footways here with gold dust
+I still would choose the Isle of Innisfree</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_good_luck_to_the_barleymow">Good Luck To The Barleymow</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Here&#8217;s good luck to the pint pot
+Good luck to the barleymow
+Jolly good luck to the pint pot
+Good luck to the barleymow
+Oh, the pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+And here&#8217;s good luck to the half-gallon
+Good luck to the barleymow
+Jolly good luck to the half-gallon
+Good luck to the barleymow
+Oh the half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the gallon
+Good luck the barleymow
+Jolly good luck to the gallon
+Good luck to the barleymow
+Oh, the gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the half-barrel
+Good luck to the barleymow
+Jolly good luck to the half-barrel
+Good luck to the barleymow
+Oh, the half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the barrel
+Good luck to the barleymow
+Jolly good luck to the barrel
+Good luck to the barleymow
+Oh, the barrel
+Half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the daughter
+Good luck to the barleymow
+Jolly good luck to the daughter
+Good luck to the barleymow
+Oh, the daughter
+Barrel
+Half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Here&#8217;s good luck to the landlord
+Good luck to the barleymow
+Jolly good luck to the landlord
+Good luck to the barleymow
+Oh, the landlord
+Daughter
+Barrel
+Half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the brewer
+Good luck to the barleymow
+Jolly good luck to the brewer
+Good luck to the barleymow
+Oh, the brewer
+Landlord
+Daughter
+Barrel
+Half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow
+
+Well, here&#8217;s good luck to the company
+Good luck to the barleymow
+Jolly good luck to the company
+Good luck to the barleymow
+Oh, the company
+Brewer
+Landlord
+Daughter
+Barrel
+Half-barrel
+Gallon
+Half-gallon
+Pint pot
+Half a pint
+Gill
+Half a gill
+Quarter gill
+Nipperkin
+Then the brown bowl
+Here&#8217;s good luck, good luck
+Good luck to the barleymow</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_wild_mountain_thyne">Wild Mountain Thyne</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Oh, the summer time is coming
+And the trees are sweetly blooming
+And the wild mountain thyme
+Grows around the blooming heather
+Will you go lassie, go?
+
+And we&#8217;ll all go together
+To pluck wild mountain thyme
+All around the blooming heather
+Will you go lassie, go?
+
+I will build my love a tower
+Near yond pure crystal fountain
+And on it I will buy her
+All the flowers of the mountain
+Will you go lassie, go?
+
+And we&#8217;ll all go together
+To pluck wild mountain thyme
+All around the blooming heather
+Will you go lassie, go?
+
+Yes, my true love she was gone
+I would surely find another
+Where the wild mountain thyme
+Grows around the blooming heather
+Will you go lassie, go?
+
+And we&#8217;ll all go together
+To pluck wild mountain thyme
+All around the blooming heather
+Will you go lassie, go?
+
+Oh, the summer time is coming
+And the trees are sweetly blooming
+And the wild mountain thyme
+Grows around the blooming heather
+Will you go lasie, go?
+
+And we&#8217;ll all go together
+To pluck wild mountain thyme
+All around the blooming heather
+Will you go lassie, go?
+Will you go lassie, go?
+Will you go lassie, go?</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_three_reels">Three Reels</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.google.com/search?q=Irish+Rovers+lyrics+Three+Reels" class="bare">https://www.google.com/search?q=Irish+Rovers+lyrics+Three+Reels</a></p>
+</div>
+<div class="verseblock">
+<pre class="content"></pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_weigh_hey_and_up_she_rises">Weigh Hey And Up She Rises</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">What will we do with a drunken sailor?
+What will we do with a drunken sailor?
+What will we do with a drunken sailor?
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+Shave his belly with a rusty razor
+Shave his belly with a rusty razor
+Shave his belly with a rusty razor
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+Put him in a long boat till his sober
+Put him in a long boat till his sober
+Put him in a long boat till his sober
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+Stick him in a barrel with a hosepipe on him
+Stick him in a barrel with a hosepipe on him
+Stick him in a barrel with a hosepipe on him
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+Put him in the bed with the captain&#8217;s daughter
+Put him in the bed with the captain&#8217;s daughter
+Put him in the bed with the captain&#8217;s daughter
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+That&#8217;s what we do with a drunken sailor
+That&#8217;s what we do with a drunken sailor
+That&#8217;s what we do with a drunken sailor
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!
+
+Way hay and up she rises
+Way hay and up she rises
+Way hay and up she rises
+Early in the morning!</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rolling_home_to_ireland">Rolling Home To Ireland</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">I come from Paddy’s land; I’m a rake and ramblin’ man
+Since I was young, I’ve had the urge to roam
+So don’t you weep for me. When I’m sailing on the sea
+For you won’t see me till I come rolling home
+Rolling home to Ireland, rolling home across the sea
+Back to me own con-ter-ree (country)
+Two thousand miles behind us and a thousand more to go
+So fill the sails and blow winds blow!
+
+We sailed away from Cork; We were headed for New York
+I’d always dreamed the sailor’s life for me
+But the days were hard and long; With no women, wine, or song
+And it wasn’t quite the fun I’d thought ‘twould be
+Rolling home to Ireland, rolling home across the sea
+Back to me own con-ter-ree (country)
+Two thousand miles behind us and a thousand more to go
+So fill the sails and blow winds blow!
+
+We weren’t too long a-sail; When the wind became a gale
+Our boat was tossed and turned upon the foam
+With waves like moutains high; Well I thought that I would die
+I wished to God that I was rolling home
+Rolling home to Ireland, rolling home across the sea
+Back to me own con-ter-ree (country)
+Two thousand miles behind us and a thousand more to go
+So fill the sails and blow winds blow!
+
+And when I reach the shore; I will go to sea no more
+There’s more to life than sailing ‘round the Horn
+Good luck to sailor men; When they’re headed out again
+I wish them all safe harbor from the storm
+Rolling home to Ireland, rolling home across the sea
+Back to me own con-ter-ree (country)
+Two thousand miles behind us and a thousand more to go
+So fill the sails and blow winds blow!</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_wasnt_that_a_party">Wasn&#8217;t That A Party</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Could&#8217;ve been the whiskey
+It might have been the gin
+Could have been the three or four six packs, I don&#8217;t know
+But look at the mess I&#8217;m in
+My head is like a football
+I think I&#8217;m going to die
+Tell me, me oh, me oh my
+Wasn&#8217;t that a party
+
+Someone took a grapefruit
+He wore it like a hat
+I saw someone under my kitchen table
+Talking to my old tom cat
+They were talking about hockey
+And the cat was talking back
+Long about then everything went black
+Wasn&#8217;t that a party
+
+I&#8217;m sure it&#8217;s just my memory
+Playing tricks on me
+But I think I saw my buddy
+Cutting down my neighbor&#8217;s tree
+
+Could&#8217;ve been the whiskey
+It might have been the gin
+Could have been the three or four six packs, I don&#8217;t know
+But look at the mess I&#8217;m in
+My head is like a football
+I think I&#8217;m going to die
+Tell me, me oh, me oh my
+Wasn&#8217;t that a party?
+
+Billy, Joe and Tommy
+Well, they went a little far
+They were sitting in the backyard, blowing on a siren
+From somebody&#8217;s police car
+
+So you see, your honor
+It was all in fun
+The little bitty track meet down on main street
+Was just to see if the cops could run
+Well, they run us in to see you
+In an alcoholic haze
+I sure can use those 30 days
+To recover from the party
+
+Could&#8217;ve been the whiskey
+It might have been the gin
+Could have been the three or four six packs, I don&#8217;t know
+But look at the mess I&#8217;m in
+My head is like a football
+I think I&#8217;m going to die
+Tell me, me oh, me oh my
+Wasn&#8217;t that a party
+
+Could&#8217;ve been the whiskey
+It might have been the gin
+Could have been the three or four six packs, I don&#8217;t know
+But look at the mess I&#8217;m in
+My head is like a football
+I think I&#8217;m going to die
+Tell me, me oh, me oh my
+Wasn&#8217;t that a party
+
+Wasn&#8217;t that a party
+Wasn&#8217;t that a party
+Whoa, what a party
+Wasn&#8217;t that a party
+Aww, what a part
+Wasn&#8217;t that a party
+Oh, what a party
+Whoa, wasn&#8217;t a party
+Hmm, what a party
+Wasn&#8217;t that a party
+Wasn&#8217;t that a party
+
+Thank you, thank you, thank you very much, thank you very much
+I appreciate ladies and gentlemen
+Thank you, thank you very much
+I&#8217;m leaving the building</pre>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2023-11-25 11:21:23 +0200
+</div>
+</div>
+</body>
+</html>
