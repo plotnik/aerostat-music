@@ -22,18 +22,100 @@ code {
                                                                           
 == 38.
 
+=== Лучшие Альбомы 2023, 7 января 2024
+<https://aerostatbg.ru/release/970>
+
+.Sufjan Stevens – A Running Start
+image:SUFJAN STEVENS/2023 - Javelin/cover.jpg[Javelin,200,200,role="thumb left"]
+
+.Yusuf/Cat Stevens – How Good It Feels
+image:CAT STEVENS/2023 - King Of A Land/cover.png[King Of A Land,200,200,role="thumb left"]
+
+.Sparks – Nothing Is As Good As They Say It Is
+image:SPARKS/2023 - The Girl Is Crying in Her Latte/cover.png[The Girl Is Crying in Her Latte,200,200,role="thumb left"]
+
+.Blur – The Narcissist
+image:Blur 2023 - The Ballad of Darren/cover.png[The Ballad of Darren,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tinariwen feat. Fats Kaplin – Anemouhagh
+image:TINARIWEN/2023 - Amatssou/cover.jpg[Amatssou,200,200,role="thumb left"]
+
+.PJ Harvey – A Child's Question, July
+image:PJ Harvey/2023 - I Inside the Old Year Dying/folder.jpg[I Inside the Old Year Dying,200,200,role="thumb left"]
+
+[%hardbreaks]
+Billy Nomates – Cacti
+Shirley Collins – Hand And Heart
+Thomas Walsh – Everyone Back In The Water
+Rolling Stones – Whole Wide World
+
+++++
+<br clear="both">
+++++
+
+=== Happy New Year, 31 декабря 2023
+<https://aerostatbg.ru/release/969>
+
+.King Crimson – In The Wake Of Poseidon
+image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
+
+[%hardbreaks]
+Bing Crosby – Let’s Start The New Year Right
+Beatles – Ask Me Why
+Bryan Ferry – Sonnet 18
+Bob Dylan – She Belongs To Me
+Charley Patton – Tell Me Man Blues
+David Bowie – God Only Knows
+Jethro Tull – My Sunday Feeling
+Мистерията на българските гласове – Атмаджа дума Страхилу
+Crosby, Stills, Nash & Young – Our House
+    
+++++
+<br clear="both">
+++++
+
+=== Christmas, 24 декабря 2023
+<https://aerostatbg.ru/release/968>
+
+.Kate Rusby – Spean
+image:KATE RUSBY/2023 - Light Years/cover.jpg[Light Years,200,200,role="thumb left"]
+
+.Jethro Tull – Holly Herald
+image:JETHRO TULL/2003 - Christmas_Album/cover.jpg[Christmas_Album,200,200,role="thumb left"]
+
+[%hardbreaks]
+Shakin' Stevens – Merry Christmas Everyone
+Mud – Lonely This Christmas
+Chuck Beard – Lo, How A Rose E'er Blooming
+Elvis Presley – O Little Town Of Bethlehem
+Harry Belafonte – I Heard The Bells On Christmas Day
+Joan Baez – What Child Is This
+Eurythmics – Winter Wonderland
+Joe Brown – All I Want For Christmas Is Peace
+Bing Crosby – White Christmas
+
+++++
+<br clear="both">
+++++
+
 === То да Сё №33, 17 декабря 2023
 <https://aerostatbg.ru/release/967>
 
 .Harry Nilsson – Nobody Cares About The Railroads Anymore
 image:Harry Nilsson/1969 - Harry/cover.png[Harry,200,200,role="thumb left"]
 
+.Donovan – Poor Cow
+image:DONOVAN/Donovan - Love Is Hot, Truth Is Molten/cover.jpg[Love Is Hot  Truth Is Molten,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bing Crosby – Away In A Manger
 Rolling Stones – We Had It All
 Pogues – Transmetropolitan
 Moody Blues – Go Now!
-Donovan – Poor Cow
 Gabriel Urbain Fauré – Après un rêve, Op. 7, No. 1
 Faustus – The Green Willow Tree
 Fisherman's Friends – John Kanaka

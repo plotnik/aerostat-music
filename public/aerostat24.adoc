@@ -399,7 +399,7 @@ image:BRIAN ENO/Brian Eno 2016 - The Ship/folder.jpg[The Ship,200,200,role="thum
 image:Eric Clapton/2016 - I Still Do/folder.jpg[I Still Do,200,200,role="thumb left"]
 
 .PJ Harvey - The Community Of Hope
-image:PJ Harvey 2016 - The Hope Six Demolition Project/cover.jpg[The Hope Six Demolition Project,200,200,role="thumb left"]
+image:PJ Harvey/2016 - The Hope Six Demolition Project/cover.jpg[The Hope Six Demolition Project,200,200,role="thumb left"]
 
 ++++
 <br clear="both">
