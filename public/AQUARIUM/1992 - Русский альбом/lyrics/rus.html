@@ -4,8 +4,9 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.20">
-<title>Радио Аэростат</title>
+<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="author" content="Аквариум">
+<title>Русский альбом</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -84,10 +85,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
-ul.square{list-style-type:square}
-ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -193,8 +194,7 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
-details>summary::-webkit-details-marker{display:none}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -208,10 +208,13 @@ table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
 .admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
 .admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
 .exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
 .sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
 .sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
-.exampleblock>.content>:first-child,.sidebarblock>.content>:first-child{margin-top:0}
-.exampleblock>.content>:last-child,.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
 .literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
 @media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
 @media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
@@ -233,8 +236,9 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -271,7 +275,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -287,11 +291,10 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
-li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -334,6 +337,8 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -390,7 +395,7 @@ b.conum *{color:inherit!important}
 dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
 h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
 p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
-p,blockquote,dt,td.content,td.hdlist1,span.alt,summary{font-size:1.0625rem}
+p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
 p{margin-bottom:1.25rem}
 .sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
 .exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
@@ -435,200 +440,566 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article">
 <div id="header">
-<h1>Радио Аэростат</h1>
+<h1>Русский альбом</h1>
+<div class="details">
+<span id="author" class="author">Аквариум</span><br>
+<span id="revdate">1992</span>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_архистратиг">Архистратиг</a></li>
+<li><a href="#_никита_рязанский">Никита Рязанский</a></li>
+<li><a href="#_государыня">Государыня</a></li>
+<li><a href="#_ласточка">Ласточка</a></li>
+<li><a href="#_волки_и_вороны">Волки и вороны</a></li>
+<li><a href="#_заповедная_песня">Заповедная песня</a></li>
+<li><a href="#_сирин_алконост_гамаюн">Сирин, Алконост, Гамаюн</a></li>
+<li><a href="#_кони_беспредела">Кони беспредела</a></li>
+<li><a href="#_елизавета">Елизавета</a></li>
+<li><a href="#_бурлак">Бурлак</a></li>
+<li><a href="#_25_й_день_луны">25-й день луны</a></li>
+<li><a href="#_русская_симфония">Русская симфония</a></li>
+<li><a href="#_ода_критику">Ода критику</a></li>
+<li><a href="#_никон">Никон</a></li>
+<li><a href="#_генерал">Генерал</a></li>
+<li><a href="#_день_радости">День радости</a></li>
+</ul>
+</div>
 </div>
 <div id="content">
-<div class="quoteblock">
-<blockquote>
+<div id="preamble">
+<div class="sectionbody">
 <div class="paragraph">
-<p><a href="aerostat.html">&lt;Home&gt;</a>
-<a href="lyrics.html">&lt;Lyrics&gt;</a></p>
+<p><span class="image"><img src="../cover.jpg" alt="Русский альбом" width="200" height="200"></span></p>
 </div>
-</blockquote>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">From</dt>
+<dd>
+<p><a href="http://old.aquarium.ru/discography/index.html" class="bare">http://old.aquarium.ru/discography/index.html</a></p>
+</dd>
+</dl>
 </div>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 33.3333%;">
-<col style="width: 33.3334%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat38.html">Глава XXXVIII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">9.07.2023 -  7.01.2024</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">944 - 970</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat37.html">Глава XXXVII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">1.01.2023 -  2.07.2023</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">917 - 943</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat36.html">Глава XXXVI</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">18.06.2022 - 25.12.2022</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">890 - 916</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat35.html">Глава XXXV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">28.11.2021 - 12.06.2022</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">863 - 889</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat34.html">Глава XXXIV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">23.05.2021 - 21.11.2021</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">836 - 862</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat33.html">Глава XXXIII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">8.11.2020 - 16.05.2021</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">808 - 835</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat32.html">Глава XXXII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">3.05.2020 -  1.11.2020</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">781 - 807</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat31.html">Глава XXXI</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">27.10.2019 - 26.04.2020</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">754 - 780</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat30.html">Глава XXX</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">28.04.2019 - 20.10.2019</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">728 - 753</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat29.html">Глава XXIX</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14.10.2018 - 21.04.2019</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">700 - 727</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat28.html">Глава XXVIII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">8.04.2018 -  7.10.2018</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">673 - 699</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat27.html">Глава XXVII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10.09.2017 -  1.04.2018</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">643 - 672</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat26.html">Глава XXVI</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">5.03.2017 -  3.09.2017</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">616 - 642</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat25.html">Глава XXV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">28.08.2016 - 26.02.2017</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">589 - 615</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat24.html">Глава XXIV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16.02.2016 - 21.08.2016</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">563 - 588</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat23.html">Глава XXIII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">30.08.2015 - 21.02.2016</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">537 - 562</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat22.html">Глава XXII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">1.03.2015 - 23.08.2015</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">511 - 536</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat21.html">Глава XXI</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">31.08.2014 - 22.02.2015</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">485 - 510</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat20.html">Глава XX</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">2.03.2014 - 24.08.2014</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">459 - 484</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat19.html">Глава XIX</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">15.09.2013 - 23.02.2014</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">435 - 458</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat18.html">Глава XVIII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">31.03.2013 -  8.09.2013</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">411 - 434</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat17.html">Глава XVII</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14.10.2012 - 24.03.2013</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">387 - 410</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat16.html">Глава XVI</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">29.04.2012 -  7.10.2012</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">363 - 386</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat15.html">Глава XV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">13.11.2011 - 29.04.2012</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">339 - 362</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat14.html">Глава XIV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">15.05.2011 -  6.11.2011</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">313 - 338</p></td>
-</tr>
-</tbody>
-</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_архистратиг">Архистратиг</h2>
+<div class="sectionbody">
 <div class="paragraph">
-<p>&#8230;&#8203;</p>
+<p><a href="https://www.google.com/search?q=Аквариум+текст+Архистратиг" class="bare">https://www.google.com/search?q=Аквариум+текст+Архистратиг</a></p>
 </div>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 33.3333%;">
-<col style="width: 33.3334%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat05.html">Глава V</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">25.03.2006 -  9.09.2007</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">97 - 122</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat04.html">Глава IV</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">8.10.2006 - 18.03.2007</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">73 - 96</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat03.html">Глава III</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">23.04.2006 -  1.10.2006</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">49 - 72</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat02.html">Глава II</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">6.11.2005 - 16.04.2006</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">25 - 48</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="aerostat01.html">Глава I</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">22.05.2005 - 30.10.2005</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">1 - 24</p></td>
-</tr>
-</tbody>
-</table>
-<div class="quoteblock">
-<blockquote>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_никита_рязанский">Никита Рязанский</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Никита Рязанский
+Строил город, и ему не хватило гвоздя.
+Никита Рязанский
+Протянул ладони и увидел в них капли дождя.
+Никита Рязанский
+Оставил город и вышел в сад.
+Никита Рязанский
+Оставль старца и учаше кто млад…
+
+Святая София,
+Узнав о нем, пришла к нему в дом;
+Святая София
+Искала его и нашла его под кустом;
+Она крестила его
+Соленым хлебом и горьким вином,
+И они молились и смеялись вдвоем:
+
+Смотри, Господи:
+Крепость, и от крепости – страх,
+И мы, Господи, дети у Тебя в руках,
+Научи нас видеть Тебя
+За каждой бедой…
+Прими, Господи, этот хлеб и вино,
+Смотри, Господи – вот мы уходим на дно,
+Научи нас дышать под водой…
+
+Девять тысяч церквей
+Ждут Его, потому что Он должен спасти;
+Девять тысяч церквей
+Ищут Его, и не могут Его найти;
+А ночью опять был дождь,
+И пожар догорел, нам остался лишь дым;
+Но город спасется,
+Пока трое из нас
+Продолжают говорить с Ним:
+
+Смотри, Господи:
+Крепость, и от крепости – страх,
+И мы, Господи, дети у Тебя в руках,
+Научи нас видеть Тебя
+За каждой бедой…
+Прими, Господи, этот хлеб и вино,
+Смотри, Господи – вот мы уходим на дно,
+Научи нас дышать под водой…</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_государыня">Государыня</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Государыня, помнишь ли, как строили дом -
+Всем он был хорош, но пустой;
+Столько лет, шили по снегу серебром,
+Боялись прикоснуть кислотой.
+
+Столько лет, пели до седьмых петухов,
+Пели, но боялись сказать.
+Государыня, ведь если ты хотела врагов,
+Кто же тебе смел отказать?
+
+Так что же мы, до сих пор все пьем эту дрянь,
+Цапаем чертей за бока?
+Нам же сказано, что утро не возьмет свою дань,
+Обещано, что ноша легка.
+
+Так полно, зря ли мы
+Столько лет все строили дом -
+Наша ли вина, что пустой?
+Зато теперь, мы знаем, каково с серебром;
+Посмотрим, каково с кислотой&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_ласточка">Ласточка</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Прыг, ласточка, прыг, по белой стене.
+Прыг, ласточка, прыг, прямо ко мне;
+Солнце взошло - видно время пришло.
+Прыг, ласточка, прыг - дело к войне.
+
+Прыг, ласточка, прыг, прямо на двор;
+Прыг, ласточка, прыг, в лапках топор.
+С одной стороны свет; другой стороны нет.
+Значит, в нашем дому спрятался вор.
+
+Жизнь канет, как камень, в небе круги.
+Прыг, ласточка, прыг - всюду враги.
+Источник teksty-pesenok.ru
+На битву со злом взвейся сокол, козлом,
+А ты, ласточка, пой, а вслед не беги.
+
+Пой, ласточка, пой - а мы бьем в тамтам.
+Ясны соколы здесь, ясны соколы там.
+Сокол летит, а баба родит;
+Значит, все, как всегда, и все по местам&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_волки_и_вороны">Волки и вороны</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Пили-пили, а проснулися - и ночь пахнет ладаном.
+А кругом высокий лес, темен и замшел.
+То ли это благодать, то ли это засада нам;
+Весело наощупь, да сквозняк на душе.
+
+Вот идут с образами - с образами незнакомыми,
+Да светят им лампады из-под темной воды;
+Я не помню, как мы встали, как мы вышли из комнаты,
+Только помню, что идти нам до теплой звезды&#8230;&#8203;
+
+Вот стоит храм высок, да тьма под куполом.
+Проглядели все глаза, да ни хрена не видать.
+Я поставил бы свечу, да все свечи куплены.
+Зажег бы спирт на руке - да где ж его взять?
+
+А кругом лежат снега на все четыре стороны;
+Легко по снегу босиком, если души чисты.
+А мы пропали бы совсем, когда б не волки да вороны;
+Они спросили: "Вы куда? Небось, до теплой звезды?.."
+
+Назолотили крестов, навтыкали, где ни попадя;
+Да променяли на вино один, который был дан.
+А поутру с похмелья пошли к реке по воду,
+А там вместо воды - Монгол Шуудан.
+
+А мы хотели дать веселый знак ангелам,
+Да потеряли их из виду, заметая следы;
+Вот и вышло бы каждому по делам его,
+Если бы не свет этой чистой звезды.
+
+Так что нам делать, как нам петь, как не ради пустой руки?
+А если нам не петь, то сгореть в пустоте;
+А петь и не допеть - то за мной придут орлики;
+С белыми глазами, да по мутной воде.
+
+Только пусть они идут - я и сам птица черная,
+Смотри, мне некуда бежать: еще метр - и льды;
+Так я прикрою вас, а вы меня, волки да вороны,
+Чтобы кто-нибудь дошел до этой чистой звезды&#8230;&#8203;
+
+Так что теперь с того, что тьма под куполом,
+Что теперь с того, что ни хрена не видать?
+Что теперь с того, что все свечи куплены,
+Ведь если нет огня, мы знаем, где его взять;
+
+Может правда, что нет путей, кроме торного,
+И нет рук для чудес, кроме тех, что чисты,
+А все равно нас грели только волки да вороны,
+И благословили нас до чистой звезды&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_заповедная_песня">Заповедная песня</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Отчини мне, природа, стакан молока -
+Молока от загадочных звезд.
+И простой, как река, я пущу с молотка
+Свой умственный рост&#8230;&#8203;
+
+Я поставлю в деревне большую кровать,
+Приглашу в нее всех лошадей;
+И седой с бородой стану бегать с дудой
+И никто мне не скажет, что я лицедей&#8230;&#8203;
+А когда, наконец, смерть придет ко мне спать,
+Она ляжет со мной в тишине;
+Она скажет "еще", и опять, и опять,
+И - ура! - будет радостно мне&#8230;&#8203;
+
+Не вменяйте мне, ангелы, это в вину;
+Не крутите мне, ангелы, хвост:
+Кто-то ж должен постичь красоту в глубину
+От Москвы до загадочных звезд&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_сирин_алконост_гамаюн">Сирин, Алконост, Гамаюн</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">В жилищных конторах лесной полумрак;
+На крышах домов фонари с египетской тьмой:
+Тронулся лед - так часто бывает весной:
+Живущим на льдинах никто не сказал,
+Что может быть так&#8230;&#8203;
+
+Откуда нам знать, что такое волна?
+Полуденный фавн, трепет русалок во тьме&#8230;&#8203;
+Наступила ночь - начнем подготовку к зиме;
+И может быть, следующим, кто постучит
+К нам в дверь,
+Будет война&#8230;&#8203;
+
+Я возьму на себя зеркала,
+Кто-то другой - хмель и трепетный вьюн&#8230;&#8203;
+Все уже здесь: Сирин, Алконост, Гамаюн;
+Как мы условились, я буду ждать по ту
+Сторону стекла.</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_кони_беспредела">Кони беспредела</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Ехали мы, ехали с горки на горку,
+Да потеряли ось от колеса.
+Вышли мы вприсядку, мундиры в оборку;
+Солдатики любви - синие глаза&#8230;&#8203;
+
+Как взяли - повели нас дорогами странными;
+Вели - да привели, как я погляжу;
+Сидит птица бледная с глазами окаянными;
+Что же, спой мне, птица - может, я попляшу&#8230;&#8203;
+
+Спой мне, птица, сладко ли душе без тела?
+Легко ли быть птицей - да так, чтоб не петь?
+Запрягай мне, Господи, коней беспредела;
+Я хотел пешком, да видно, мне не успеть&#8230;&#8203;
+
+А чем мне их кормить, если кони не сыты?
+Как их напоить? - они не пьют воды.
+Шелковые гривы надушены, завиты;
+Острые копыта, алые следы.
+
+А вот и все мои товарищи - водка без хлеба,
+Один брат - Сирин, а другой брат - Спас.
+А третий хотел дойти ногами до неба,
+Но выпил, удолбался - вот и весь сказ.
+
+Эх, вылетела пташка - да не долетела;
+Заклевал коршун - да голубя.
+Запрягли, взнуздали мне коней беспредела,
+А кони понесли - да все прочь от тебя&#8230;&#8203;
+Метились мы в дамки, да масть ушла мимо;
+Все козыри в грязи, как ни крути.
+Отче мой Сергие, отче Серафиме!
+Звезды - наверху, а мы здесь - на пути&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_елизавета">Елизавета</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">У Елизаветы два друга:
+Конь и тот, кто во сне.
+За шторами вечный покой, шелест дождя,
+А здесь, как всегда, воскресенье,
+И свечи, и праздник,
+И лето, и смех,
+И то, что нельзя&#8230;&#8203;
+
+Скажи мне, зачем тогда
+Статуи падали вниз, в провода,
+Зачем мы стрелялись и шли
+Горлом на плеть?
+Она положила
+Мне палец на губы,
+И шепчет: "Делай, что хочешь,
+Но молчи, слова - это смерть;
+Это смерть&#8230;&#8203;"
+
+И наши тела распахнутся, как двери,
+И - вверх, в небеса,
+Туда, где привольно лететь,
+Плавно скользя.
+А там, как всегда, воскресенье,
+И свечи, и праздник,
+И лето, и смех,
+И то, что нельзя;
+То, что нельзя&#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_бурлак">Бурлак</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">А как по Волге ходит одинокий бурлак,
+Ходит бечевой небесных равнин;
+Ему господин кажет с неба кулак,
+А ему все смешно - в кулаке кокаин;
+
+А вниз по Волге - Золотая Орда,
+Вверх по Волге - барышни глядят с берега.
+Ох, козельское зелье - живая вода;
+Отпустите мне кровь, голубые снега.
+Как мирила нас зима железом и льдом,
+Замирила, а сама обернулась весной.
+Как пойдет таять снег - ох, что будет потом,
+А как тронется лед - ох, что будет со мной&#8230;&#8203;
+
+А то ли волжский разлив, то ли вселенский потоп,
+То ли просто господин заметает следы,
+Только мне все равно - я почти готов,
+Готов тебе петь по-над темной воды;
+
+А из-под темной воды бьют колокола,
+Из-под древней стены - ослепительный чиж.
+Отпусти мне грехи первым взмахом крыла;
+Отпусти мне грехи - ну почему ты молчишь?!
+Ты гори, Серафим, золотые крыла -
+Гори, не стесняйся, путеводной звездой.
+Мне все равно - я потерял удила,
+И нет другого пути, только вместе с тобой&#8230;&#8203;
+
+Вот так и вся наша жизнь - то Секам, а то Пал;
+То во поле кранты, то в головах Спас.
+Вышел, чтоб идти к началу начал,
+Но выпил и упал - вот и весь сказ;
+
+А вороны молчат, а барышни кричат,
+Тамбовской волчицей или светлой сестрой.
+То спасительный пост, то спасительный яд;
+Но слышишь, я стучу - открой!
+Так причисли нас к ангелам, или среди зверей,
+Но только не молчи - я не могу без огня;
+И, где бы я ни шел, я все стучусь у дверей:
+Так Господи мой Боже, помилуй меня!</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_25_й_день_луны">25-й день луны</h2>
+<div class="sectionbody">
 <div class="paragraph">
-<p><a href="aerostat.html">&lt;Home&gt;</a>
-<a href="lyrics.html">&lt;Lyrics&gt;</a></p>
+<p><a href="https://www.google.com/search?q=Аквариум+текст+25-й+день+луны" class="bare">https://www.google.com/search?q=Аквариум+текст+25-й+день+луны</a></p>
 </div>
-</blockquote>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_русская_симфония">Русская симфония</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>(А. Гуницкий)</p>
+</div>
+<div class="verseblock">
+<pre class="content">Издалека течет река,
+Ей жить осталось года три.
+В объятьях черного крюка
+Она умрет, а ты смотри:
+Там на горе у трех осин
+Гуляет полуидиот,
+Жует он сгнивший апельсин
+И корочки плюет вперед.
+
+Он шел упорно и упрямо,
+Он верил в старую сову.
+И у дверей святого храма
+Ему сломали голову.
+Он умер - ну а что сова?
+Цела, здорова и жива!
+
+Когда мы были молоды,
+Мы все растили бороды,
+Мы все носили волосы
+И пели ясным голосом.
+Теперь другой расклад,
+Дороги нет назад&#8230;&#8203;
+
+Зеркала вы мои, зеркала!
+Потому что я пьяница, что ли,
+Возвращаюсь я к вам поневоле,
+Позабыв про другие дела;
+Зеркала вы мои, зеркала;
+Гастроном на улице Ракова
+Был построен зодчим из Кракова,
+Но его забыла История;
+Вот такая, брат, &#8230;&#8203;</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_ода_критику">Ода критику</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Ты в плоскости ума
+Подобен таракану,
+А в остальном подобен пескарю;
+Все лысиной вертишь,
+И ждешь, когда я кану,
+А может быть, сгорю;
+
+И в этот грозный час,
+Чапаеву подобен,
+Ты выползешь из всех своих щелей;
+Как Усть-Илимский ГЭС,
+Ты встанешь меж колдобин,
+И станешь мне в могильную дыру
+Просовывать елей.
+
+А я, бесплатно
+Над тобой летая
+И хохоча,
+Смотрю, как голова твоя,
+Портвейном облитая,
+Перегорела, как авто-
+-мобильная свеча.</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_никон">Никон</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Никон поджигает ночь;
+Ночь поджигает коня;
+Кони бегут по земле,
+Кони говорят человечьим огнем.
+А Никону стоять на холме,
+У Никона отсюда и досюда броня,
+А жена его сидит на земле,
+У нее между ног - крылья
+
+Никон поджигает ночь,
+Ночь поджигает коня,
+А кони поднимают глаза -
+И ангелы спустились с небес;
+А Никону стоять на холме -
+Никону стоять в ожиданьи чудес,
+А жена его летит над землей,
+У нее между ног - крылья.</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_генерал">Генерал</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Снесла мне крышу кислота,
+И свод небес надо мной поет тишиной,
+И вся природа пуста такой особой пустотой.
+
+Генерал! разрешите войти без доклада;
+Не стреляйте в меня, посидим полчаса в тишине.
+Я хотел Вам сказать&#8230;&#8203; - хотя, может быть, лучше не надо:
+То, что можно сказать, без того уже видно по мне.
+
+Мы больны, что мы столько лет пьем эту дрянь, и, впридачу,
+Нам никак уже не отличить, где враги, где свои:
+Генерал! Ах, уедемте лучше на дачу -
+Получать, генерал, кислоту из сосновой хвои.
+
+В подмосковных лесах листопад - веселей чем, медали;
+Вместо ржавых штыков - вакхканалия белых берез.
+А НЗ, генерал, - то, которое нам недодали, -
+Прикажите штабным, пусть потратят на девок и коз.
+
+Пусть живут, как хотят, ну а мы с Вами - тропкой тесной:
+Самовар, философия, колба и чаша вина;
+Так в безлунную ночь нам откроется суть Поднебесной:
+Ах, запомнить бы суть - и Россия опять спасена</pre>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_день_радости">День радости</h2>
+<div class="sectionbody">
+<div class="verseblock">
+<pre class="content">Когда то, что мы сделали,
+Выйдет без печали из наших рук;
+Когда семь разойдутся,
+Чтобы не смотреть, кто войдет в круг;
+Когда белый конь
+Узнает своих подруг,
+Это значит - день радости.
+
+Когда звезда Можжевельник
+Ляжет перед нами во сне,
+Когда в камнях будет сказано
+То, что было сказано мне;
+Когда над белых холмом
+Будет место звериной Луне,
+Это значит - день радости.
+
+Когда то, что мы сделали,
+Выйдет без печали из наших рук,
+Когда семь разойдутся,
+Потому что не от кого прятаться в круг;
+Когда белый конь
+Поймет и признает своих подруг,
+Это значит - день радости.
+
+И теперь, когда растаяла пыль,
+Под копытами волчьей зари;
+Талая вода
+И пламя бесконечной зимы -
+Это ж, Господи, зрячему видно,
+А для нас повтори:
+Бог есть Свет, и в нем нет никакой тьмы.
+Бог есть Свет, и в нем нет никакой тьмы.</pre>
+</div>
+</div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2024-01-28 11:13:28 +0200
+Last updated 2023-11-25 11:27:36 +0200
 </div>
 </div>
 </body>

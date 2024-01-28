@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="generator" content="Asciidoctor 2.0.20">
 <title>Радио Аэростат</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -84,10 +84,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
-ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
-ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -193,7 +193,8 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
+details>summary::-webkit-details-marker{display:none}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -207,13 +208,10 @@ table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
 .admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
 .admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
 .exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
-.exampleblock>.content>:first-child{margin-top:0}
-.exampleblock>.content>:last-child{margin-bottom:0}
 .sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
-.sidebarblock>:first-child{margin-top:0}
-.sidebarblock>:last-child{margin-bottom:0}
 .sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
-.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content>:first-child,.sidebarblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child,.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
 .literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
 @media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
 @media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
@@ -235,9 +233,8 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
-pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
-pre.pygments .lineno::before{content:"";margin-right:-.125em}
+table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+pre.pygments span.linenos{display:inline-block;margin-right:.75em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -274,7 +271,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
+table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -290,10 +287,11 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
+li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -336,8 +334,6 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
-.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
-.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -394,7 +390,7 @@ b.conum *{color:inherit!important}
 dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
 h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
 p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
-p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p,blockquote,dt,td.content,td.hdlist1,span.alt,summary{font-size:1.0625rem}
 p{margin-bottom:1.25rem}
 .sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
 .exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
@@ -443,35 +439,11 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
-<li><a href="#_38">38.</a>
+<li><a href="#_39">39.</a>
 <ul class="sectlevel2">
-<li><a href="#_лучшие_альбомы_2023_7_января_2024">Лучшие Альбомы 2023, 7 января 2024</a></li>
-<li><a href="#_happy_new_year_31_декабря_2023">Happy New Year, 31 декабря 2023</a></li>
-<li><a href="#_christmas_24_декабря_2023">Christmas, 24 декабря 2023</a></li>
-<li><a href="#_то_да_сё_33_17_декабря_2023">То да Сё №33, 17 декабря 2023</a></li>
-<li><a href="#_bhajan_kirtan_10_декабря_2023">Bhajan &amp; Kirtan, 10 декабря 2023</a></li>
-<li><a href="#_новые_песни_декабря_3_декабря_2023">Новые Песни Декабря, 3 декабря 2023</a></li>
-<li><a href="#_ответы_и_стихи_26_ноября_2023">Ответы и Стихи, 26 ноября 2023</a></li>
-<li><a href="#_ответы_на_вопросы_19_ноября_2023">Ответы На Вопросы, 19 ноября 2023</a></li>
-<li><a href="#_то_да_сё_32_12_ноября_2023">То Да Сё № 32, 12 ноября 2023</a></li>
-<li><a href="#_новые_песни_ноября_5_ноября_2023">Новые Песни Ноября, 5 ноября 2023</a></li>
-<li><a href="#_samhain_2023_29_октября_2023">Samhain 2023, 29 октября 2023</a></li>
-<li><a href="#_система_безумия_т_уэйтса_22_октября_2023">Система Безумия Т. Уэйтса, 22 октября 2023</a></li>
-<li><a href="#_new_names_15_октября_2023">New Names, 15 октября 2023</a></li>
-<li><a href="#_то_да_сё_31_8_октября_2023">То Да Сё №31, 8 октября 2023</a></li>
-<li><a href="#_october_new_1_октября_2023">October New, 1 октября 2023</a></li>
-<li><a href="#_мир_в_котором_мы_живем_24_сентября_2023">Мир, В Котором Мы Живем, 24 сентября 2023</a></li>
-<li><a href="#_новости_и_богрукиног_17_сентября_2023">Новости и БОГРУКИНОГ, 17 сентября 2023</a></li>
-<li><a href="#_то_да_сё_30_10_сентября_2023">То да Сё № 30, 10 сентября 2023</a></li>
-<li><a href="#_новые_песни_сентября_3_сентября_2023">Новые Песни Сентября, 3 сентября 2023</a></li>
-<li><a href="#_ответы_на_вопросы_27_августа_2023">Ответы На Вопросы, 27 августа 2023</a></li>
-<li><a href="#_новые_имена_42_20_августа_2023">Новые Имена № 42, 20 августа 2023</a></li>
-<li><a href="#_два_и_один_13_августа_2023">Два и Один, 13 августа 2023</a></li>
-<li><a href="#_август_новые_песни_6_августа_2023">Август: Новые Песни, 6 августа 2023</a></li>
-<li><a href="#_lunassad_2023_30_июля_2023">Lunassad 2023, 30 июля 2023</a></li>
-<li><a href="#_новые_имена_23_июля_2023">Новые Имена, 23 июля 2023</a></li>
-<li><a href="#_мир_как_отражение_16_июля_2023">Мир Как Отражение, 16 июля 2023</a></li>
-<li><a href="#_court_and_spark_9_июля_2023">Court And Spark, 9 июля 2023</a></li>
+<li><a href="#_химолк_2024_28_января_2024">Химолк 2024, 28 января 2024</a></li>
+<li><a href="#_коммерция_и_му_21_января_2024">Коммерция и Му, 21 января 2024</a></li>
+<li><a href="#_new_january_songs_14_января_2024">New January songs, 14 января 2024</a></li>
 </ul>
 </li>
 </ul>
@@ -503,674 +475,66 @@ code {
 </div>
 </div>
 <div class="sect1">
-<h2 id="_38">38.</h2>
+<h2 id="_39">39.</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_лучшие_альбомы_2023_7_января_2024">Лучшие Альбомы 2023, 7 января 2024</h3>
+<h3 id="_химолк_2024_28_января_2024">Химолк 2024, 28 января 2024</h3>
 <div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/970" class="bare">https://aerostatbg.ru/release/970</a></p>
+<p><a href="https://aerostatbg.ru/release/973" class="bare">https://aerostatbg.ru/release/973</a></p>
 </div>
 <div class="paragraph">
-<div class="title">Sufjan Stevens – A Running Start</div>
-<p><span class="image thumb left"><img src="SUFJAN%20STEVENS/2023%20-%20Javelin/cover.jpg" alt="Javelin" width="200" height="200"></span></p>
+<div class="title">Flook – Ellie Goes West</div>
+<p><span class="image thumb left"><img src="Flook%202019%20-%20Ancora/cover.jpg" alt="Ancora" width="200" height="200"></span></p>
 </div>
 <div class="paragraph">
-<div class="title">Yusuf/Cat Stevens – How Good It Feels</div>
-<p><span class="image thumb left"><img src="CAT%20STEVENS/2023%20-%20King%20Of%20A%20Land/cover.png" alt="King Of A Land" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Sparks – Nothing Is As Good As They Say It Is</div>
-<p><span class="image thumb left"><img src="SPARKS/2023%20-%20The%20Girl%20Is%20Crying%20in%20Her%20Latte/cover.png" alt="The Girl Is Crying in Her Latte" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Blur – The Narcissist</div>
-<p><span class="image thumb left"><img src="Blur%202023%20-%20The%20Ballad%20of%20Darren/cover.png" alt="The Ballad of Darren" width="200" height="200"></span></p>
-</div>
-<br clear="both">
-<div class="paragraph">
-<div class="title">Tinariwen feat. Fats Kaplin – Anemouhagh</div>
-<p><span class="image thumb left"><img src="TINARIWEN/2023%20-%20Amatssou/cover.jpg" alt="Amatssou" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">PJ Harvey – A Child&#8217;s Question, July</div>
-<p><span class="image thumb left"><img src="PJ%20Harvey/2023%20-%20I%20Inside%20the%20Old%20Year%20Dying/folder.jpg" alt="I Inside the Old Year Dying" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Billy Nomates – Cacti<br>
-Shirley Collins – Hand And Heart<br>
-Thomas Walsh – Everyone Back In The Water<br>
-Rolling Stones – Whole Wide World</p>
+<p>Martin Carthy feat. Dave Swarbrick – And A-Begging I Will Go<br>
+Richard Thompson – Light Bob&#8217;s Lassie<br>
+Watersons – The Greenland Whale Fishery<br>
+Lumiere – Edward On Loch Erne&#8217;s Shore<br>
+Nic Jones – The Little Pot Stove<br>
+Kate Rusby – Broken-Hearted I Will Wander<br>
+Andy M. Stewart – I&#8217;d Cross The Wild Atlantic<br>
+Chieftains &amp; The Low Anthem – School Days Over</p>
 </div>
 <br clear="both">
 </div>
 <div class="sect2">
-<h3 id="_happy_new_year_31_декабря_2023">Happy New Year, 31 декабря 2023</h3>
+<h3 id="_коммерция_и_му_21_января_2024">Коммерция и Му, 21 января 2024</h3>
 <div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/969" class="bare">https://aerostatbg.ru/release/969</a></p>
-</div>
-<div class="paragraph">
-<div class="title">King Crimson – In The Wake Of Poseidon</div>
-<p><span class="image thumb left"><img src="KING%20CRIMSON/In%20The%20Wake%20Of%20Poseidon/cover.jpg" alt="In The Wake Of Poseidon" width="200" height="200"></span></p>
+<p><a href="https://aerostatbg.ru/release/972" class="bare">https://aerostatbg.ru/release/972</a></p>
 </div>
 <div class="paragraph">
-<p>Bing Crosby – Let’s Start The New Year Right<br>
-Beatles – Ask Me Why<br>
-Bryan Ferry – Sonnet 18<br>
-Bob Dylan – She Belongs To Me<br>
-Charley Patton – Tell Me Man Blues<br>
-David Bowie – God Only Knows<br>
-Jethro Tull – My Sunday Feeling<br>
-Мистерията на българските гласове – Атмаджа дума Страхилу<br>
-Crosby, Stills, Nash &amp; Young – Our House</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_christmas_24_декабря_2023">Christmas, 24 декабря 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/968" class="bare">https://aerostatbg.ru/release/968</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Kate Rusby – Spean</div>
-<p><span class="image thumb left"><img src="KATE%20RUSBY/2023%20-%20Light%20Years/cover.jpg" alt="Light Years" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Jethro Tull – Holly Herald</div>
-<p><span class="image thumb left"><img src="JETHRO%20TULL/2003%20-%20Christmas_Album/cover.jpg" alt="Christmas_Album" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Shakin' Stevens – Merry Christmas Everyone<br>
-Mud – Lonely This Christmas<br>
-Chuck Beard – Lo, How A Rose E&#8217;er Blooming<br>
-Elvis Presley – O Little Town Of Bethlehem<br>
-Harry Belafonte – I Heard The Bells On Christmas Day<br>
-Joan Baez – What Child Is This<br>
-Eurythmics – Winter Wonderland<br>
-Joe Brown – All I Want For Christmas Is Peace<br>
-Bing Crosby – White Christmas</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_то_да_сё_33_17_декабря_2023">То да Сё №33, 17 декабря 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/967" class="bare">https://aerostatbg.ru/release/967</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Harry Nilsson – Nobody Cares About The Railroads Anymore</div>
-<p><span class="image thumb left"><img src="Harry%20Nilsson/1969%20-%20Harry/cover.png" alt="Harry" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Donovan – Poor Cow</div>
-<p><span class="image thumb left"><img src="DONOVAN/Donovan%20-%20Love%20Is%20Hot,%20Truth%20Is%20Molten/cover.jpg" alt="Love Is Hot  Truth Is Molten" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Bing Crosby – Away In A Manger<br>
-Rolling Stones – We Had It All<br>
-Pogues – Transmetropolitan<br>
-Moody Blues – Go Now!<br>
-Gabriel Urbain Fauré – Après un rêve, Op. 7, No. 1<br>
-Faustus – The Green Willow Tree<br>
-Fisherman&#8217;s Friends – John Kanaka<br>
-Mary Hopkin – Silver Birch And Weeping Willow<br>
-Franz Peter Schubert – Symphony No. 3 in D major: II. Allegretto<br>
-Flanagan &amp; Allen – Run, Rabbit, Run</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_bhajan_kirtan_10_декабря_2023">Bhajan &amp; Kirtan, 10 декабря 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/966" class="bare">https://aerostatbg.ru/release/966</a></p>
-</div>
-<div class="paragraph">
-<p>Uma Mohan – Śrī Mahālakṣmī Sūktam<br>
-Krishna Das – Lokāḥ Samastāḥ Sukhino Bhavantu<br>
-Lama Gyurme &amp; Jean-Philippe Rykiel – Hope For Enlightenment<br>
-БГ – Hanumān<br>
-Lama Ngodup Jungney &amp; Pema Wangdi Lama feat. Raman Maharjan &amp; Tsering Gyurmey – Prayers, To Wish Prevalence Of Happiness In The World</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новые_песни_декабря_3_декабря_2023">Новые Песни Декабря, 3 декабря 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/965" class="bare">https://aerostatbg.ru/release/965</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Cat Stevens – Train On A Hill</div>
-<p><span class="image thumb left"><img src="CAT%20STEVENS/2023%20-%20King%20Of%20A%20Land/cover.png" alt="King Of A Land" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Smile – Wall Of Eyes<br>
-Black Grape – Pimp Wars<br>
-Miles Davis – Nuit sur les Champs-Élysées (Take 3)<br>
-Gaslight Anthem feat. Bruce Springsteen – History Books<br>
-Alborosie feat. Kabaka Pyramid – Nah Sell Out<br>
-Enji – Тэмээн дээрээс тэнгэр ойрхон<br>
-Guided By Voices – The Race Is On, The King Is Dead<br>
-Unthanks – Waters Of Tyne<br>
-Taj Mahal – I&#8217;m Just A Lucky So-And-So</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_ответы_и_стихи_26_ноября_2023">Ответы и Стихи, 26 ноября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/964" class="bare">https://aerostatbg.ru/release/964</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Leon Redbone – Nobody&#8217;s Sweetheart</div>
-<p><span class="image thumb left"><img src="LEON%20REDBONE/Double%20Time/cover.jpg" alt="Double Time" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Enya – Caribbean Blue</div>
-<p><span class="image thumb left"><img src="ENYA/enya-02-Shepherd%20Moons%201991/cover.jpg" alt="02-Shepherd Moons 1991" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Annie Lennox – Love Song For A Vampire</div>
-<p><span class="image thumb left"><img src="ANNIE%20LENNOX/2009%20-%20The%20Annie%20Lennox%20Collection/cover.png" alt="The Annie Lennox Collection" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Donovan – Over Grown Garden Of Dream<br>
-Elvis Presley – Harbour Lights<br>
-Dr. John – Stack-A-Lee<br>
-Террариум – Гарфункель<br>
-Charles Trenet – Ménilmontant<br>
-Sting – Mad About You<br>
-Richard Armitage &amp; The Dwarf Cast – Misty Mountains<br>
-Pérotin – Deus Pacis, Conduit à deux voix<br>
-Stevie Wonder – Blame It On The Sun</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_ответы_на_вопросы_19_ноября_2023">Ответы На Вопросы, 19 ноября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/963" class="bare">https://aerostatbg.ru/release/963</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Robert Wyatt – Heaps Of Sheep</div>
-<p><span class="image thumb left"><img src="ROBERT%20WYATT/Shleep/cover.png" alt="Shleep" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Jethro Tull – Pastime With Good Company</div>
-<p><span class="image thumb left"><img src="JETHRO%20TULL/2007%20-%20The%20Best%20Of%20Acoustic%20Jethro%20Tull/cover.jpg" alt="The Best Of Acoustic Jethro Tull" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Bing Crosby &amp; The Andrews Sisters feat. Vic Schoen &amp; His Orchestra – Don&#8217;t Fence Me In<br>
-Aквариум feat. Kyiv Virtuosi – Дело мастера Бо<br>
-Grateful Dead – Black Muddy River<br>
-Donovan – Grace<br>
-Melodium – Flacana 11<br>
-Русско-абиссинский оркестр – Sirakh Malatoy Tan / Skir Lametan<br>
-Grasscut – The Branches Of The Tree</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_то_да_сё_32_12_ноября_2023">То Да Сё № 32, 12 ноября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/962" class="bare">https://aerostatbg.ru/release/962</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Danger Mouse &amp; Sparklehorse feat. The Flaming Lips – Revenge</div>
-<p><span class="image thumb left"><img src="Sparklehorse/2010%20-%20Dark%20Night%20of%20the%20Soul/front.jpg" alt="Dark Night of the Soul" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Anthony Holborne – Almaine: The Honie-suckle<br>
-Beatles – Now And Then<br>
-Rolling Stones – Driving Me Too Hard<br>
-Roy Wood – Wake Up<br>
-Ed Sheeran – American Town<br>
-Purushottama – More Than Enough<br>
-Peter Gabriel – And Still (Dark-Side Mix)<br>
-João Gilberto – Bim Bom</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новые_песни_ноября_5_ноября_2023">Новые Песни Ноября, 5 ноября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/961" class="bare">https://aerostatbg.ru/release/961</a></p>
-</div>
-<div class="paragraph">
-<div class="title">King Creosote – It&#8217;s Sin That&#8217;s Got Its Hold Upon Us</div>
-<p><span class="image thumb left"><img src="King%20Creosote/2023%20-%20I%20DES/cover.jpg" alt="I DES" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Madness – C&#8217;est la vie</div>
-<p><span class="image thumb left"><img src="Madness/2023%20-%20Theatre%20of%20the%20Absurd%20presents%20C’est%20La%20Vie/cover.png" alt="Theatre of the Absurd presents C’est La Vie" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Gong – Tiny Galaxies<br>
-Togo All Stars – Kokoko<br>
-Stephen Marley feat. Damian Marley – Cast The First Stone<br>
-Roger Eno – That Which Is Hidden<br>
-Harp – I Am The Seed<br>
-Metric – Days Of Oblivion<br>
-Ed Sheeran – Magical<br>
-Ringo Starr – Feeling The Sunlight</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_samhain_2023_29_октября_2023">Samhain 2023, 29 октября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/960" class="bare">https://aerostatbg.ru/release/960</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Planxty – Only Our Rivers</div>
+<div class="title">Planxty – Sí bheag, Sí mhór</div>
 <p><span class="image thumb left"><img src="PLANXTY/Planxty%201973%20-%20Planxty/cover.jpg" alt="Planxty" width="200" height="200"></span></p>
 </div>
 <div class="paragraph">
-<div class="title">Steeleye Span – Jack Hall</div>
-<p><span class="image thumb left"><img src="STEELEYE%20SPAN/1989%20-%20Tempted%20and%20Tried/cover.jpg" alt="Tempted and Tried" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Flook – Koady/The Burning Lion<br>
-Archie Fisher – The Broom O' The Cowdenknowes<br>
-Andy M. Stewart – Kathy-Anne&#8217;s Waltz<br>
-Richard Thompson feat. Danny Thompson – Sweetheart On The Barricade<br>
-Phil Cunningham – The Sadness Of It All<br>
-Pete Coe – Light From The Lighthouse</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_система_безумия_т_уэйтса_22_октября_2023">Система Безумия Т. Уэйтса, 22 октября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/959" class="bare">https://aerostatbg.ru/release/959</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_i_ll_be_gone">I&#8217;ll Be Gone</a></div>
-<p><span class="image thumb left"><img src="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/cover.jpg" alt="Franks Wild Years" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Tom Waits – Jersey Girl</div>
-<p><span class="image thumb left"><img src="TOM%20WAITS/Tom%20Waits%201980%20-%20Heartattack%20And%20Vine/cover.jpg" alt="Heartattack And Vine" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Tom Waits – Underground</div>
-<p><span class="image thumb left"><img src="TOM%20WAITS/Tom%20Waits%201983%20-%20Swordfishtrombones/cover.jpg" alt="Swordfishtrombones" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_blind_love">Blind Love</a></div>
-<p><span class="image thumb left"><img src="TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/raindogs.png" alt="Rain Dogs - part 1" width="200" height="200"></span></p>
-</div>
-<br clear="both">
-<div class="paragraph">
-<p>Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_more_than_rain">More Than Rain</a><br>
-Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_train_song">Train Song</a><br>
-Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_clap_hands">Clap Hands</a><br>
-Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_yesterday_is_here">Yesterday Is Here</a><br>
-Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_big_black_mariah">Big Black Mariah</a><br>
-Tom Waits - <a href="TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_innocent_when_you_dream">Innocent When You Dream</a></p>
+<p>Русско-Абиссинский оркестр – Zarn Hlar<br>
+Аквариум – Иван-чай<br>
+ABBA – The Winner Takes It All<br>
+Afro Celt Sound System feat. Sinéad O&#8217;Connor – Release<br>
+Beatles – There&#8217;s A Place<br>
+Brian Setzer – Let&#8217;s Shake<br>
+Weepies, Deb Talan &amp; Steve Tannen – Gotta Have You<br>
+Phil Cunningham &amp; Aly Bain – Spring The Summer Long<br>
+Bryan Ferry – I&#8217;ll See You Again</p>
 </div>
 <br clear="both">
 </div>
 <div class="sect2">
-<h3 id="_new_names_15_октября_2023">New Names, 15 октября 2023</h3>
+<h3 id="_new_january_songs_14_января_2024">New January songs, 14 января 2024</h3>
 <div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/958" class="bare">https://aerostatbg.ru/release/958</a></p>
-</div>
-<div class="paragraph">
-<p>Murder Capital – The Star Will Leave Their Stage<br>
-Moby Grape – 8:05<br>
-Electric Sufi feat. Professor Chill, Sarah Yaseen &amp; Mina Salama – Hudaaya<br>
-Fanny Mendelssohn Hensel – Piano Sonata in G minor: II. Scherzo<br>
-Nashville Ambient Ensemble – Waveguide<br>
-Lutan Fyah – Never Stop Hail Rastafari<br>
-Curtis Mayfield – Superfly<br>
-Supersport! – Allt fólkið allt í kringum mig<br>
-Pharoah Sanders – You Don&#8217;t Know What Love Is</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_то_да_сё_31_8_октября_2023">То Да Сё №31, 8 октября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/957" class="bare">https://aerostatbg.ru/release/957</a></p>
+<p><a href="https://aerostatbg.ru/release/971" class="bare">https://aerostatbg.ru/release/971</a></p>
 </div>
 <div class="paragraph">
-<div class="title">Old Crow Medicine Show – Keel Over And Die</div>
-<p><span class="image thumb left"><img src="Old%20Crow%20Medicine%20Show%202023%20-%20Jubilee/cover.jpg" alt="Jubilee" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Sufjan Stevens – Will Anybody Ever Love Me?</div>
-<p><span class="image thumb left"><img src="SUFJAN%20STEVENS/2023%20-%20Javelin/cover.jpg" alt="Javelin" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Johann Sebastian Bach – Orchestral Suite No. 2 in B minor: VI. Menuet</div>
-<p><span class="image thumb left"><img src="BACH/BWV%201066~1069,%201060,%201043%20-%20Orchestral%20Suites/cover.jpg" alt="Orchestral Suites" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Paul Rodgers – Dance In The Sun</div>
-<p><span class="image thumb left"><img src="Paul%20Rodgers%202023%20-%20Midnight%20Rose/cover.jpg" alt="Midnight Rose" width="200" height="200"></span></p>
-</div>
-<br clear="both">
-<div class="paragraph">
-<p>Pink Floyd – Burning Bridges<br>
-Cotton Mather – Fishes, Loaves And Hand Grenades<br>
-Josquin des Prez – La Spagna<br>
-Bob Marley &amp; The Wailers – Turn Your Light Down Low<br>
-Peter Gabriel – This Is Home (Dark-Side Mix)<br>
-Olivier Messiaen – L&#8217;Ascension: II. Alleluias sereins d&#8217;une âme qui désire le ciel</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_october_new_1_октября_2023">October New, 1 октября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/956" class="bare">https://aerostatbg.ru/release/956</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Old Crow Medicine Show – Ballad Of Jubilee Jones</div>
-<p><span class="image thumb left"><img src="Old%20Crow%20Medicine%20Show%202023%20-%20Jubilee/cover.jpg" alt="Jubilee" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Animal Collective – Gem &amp; I</div>
-<p><span class="image thumb left"><img src="Animal%20Collective/2023%20-%20Isn_t%20It%20Now/cover.jpg" alt="Isn_t It Now" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Kathryn Tickell &amp; The Darkening – Caelestis / Sheep In The Temple</div>
-<p><span class="image thumb left"><img src="Kathryn%20Tickell%202023%20-%20Cloud%20Horizons/cover.jpg" alt="Cloud Horizons" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Oneohtrix Point Never – A Barely Lit Path</div>
-<p><span class="image thumb left"><img src="Oneohtrix%20Point%20Never%202023%20-%20Again/cover.jpg" alt="Again" width="200" height="200"></span></p>
-</div>
-<br clear="both">
-<div class="paragraph">
-<div class="title">Paul Rodgers – Midnight Rose</div>
-<p><span class="image thumb left"><img src="Paul%20Rodgers%202023%20-%20Midnight%20Rose/cover.jpg" alt="Midnight Rose" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Thomas Walsh – All This Hurt<br>
-Burning Spear – The Spear<br>
-Hauschka – Limitations Of Lifetime<br>
-Buffalo Nichols – You&#8217;re Gonna Need Somebody On Your Bond<br>
-Peter Culshaw – Night Country (Mayotte)</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_мир_в_котором_мы_живем_24_сентября_2023">Мир, В Котором Мы Живем, 24 сентября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/955" class="bare">https://aerostatbg.ru/release/955</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Tamikrest – Manhouy Inerizhan</div>
-<p><span class="image thumb left"><img src="Tamikrest/2017%20-%20Kidal/front.jpg" alt="Kidal" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Eels - <a href="EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html#_railroad_man">Railroad Man</a></div>
-<p><span class="image thumb left"><img src="EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/Folder.jpg" alt="Blinking Lights And Other Revelations" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Wolfgang Amadeus Mozart – Andante in E-flat major, K. 15mm<br>
-Johann Sebastian Bach – Cello Suite No. 4 in E-Flat major: V. Bourrée I (Arr. for Trumpet and Organ)<br>
-David Sylvian – A Fire In The Forest<br>
-Dragostin Folk National – Ишу, бяла Недо<br>
-Michael Stipe – Future If Future<br>
-Édith Piaf – Simply A Waltz<br>
-Lúnasa – Bulgarian Rock<br>
-Talking Heads – This Must Be The Place (Naïve Melody)</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новости_и_богрукиног_17_сентября_2023">Новости и БОГРУКИНОГ, 17 сентября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/954" class="bare">https://aerostatbg.ru/release/954</a></p>
-</div>
-<div class="paragraph">
-<div class="title">БГ+ – Черный лебедь</div>
-<p><span class="image thumb left"><img src="AQUARIUM/БГ%20-%20БОГРУКИНОГ/cover.jpg" alt="БОГРУКИНОГ" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Rolling Stones – Angry<br>
-БГ+ – Незабыто<br>
-БГ+ – Новый шелковый путь<br>
-Chieftains – Bonaparte&#8217;s Retreat<br>
-Gus Teja World Music – Beauty In Colors</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_то_да_сё_30_10_сентября_2023">То да Сё № 30, 10 сентября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/953" class="bare">https://aerostatbg.ru/release/953</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Band – Across The Great Divide</div>
-<p><span class="image thumb left"><img src="The%20Band%201969%20-%20The%20Band/Folder.jpg" alt="The Band" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Shirley &amp; Dolly Collins – Fare Thee Well My Dearest Dear</div>
-<p><span class="image thumb left"><img src="Shirley%20&amp;%20Dolly%20Collins%20-%20Anthems%20in%20Eden/folder.jpg" alt="Anthems in Eden" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Donovan – Bleak City Woman</div>
-<p><span class="image thumb left"><img src="DONOVAN/1967%20-%20Mellow%20Yellow%20(2005,%20RE,%20with%20bonus%20tracks)/cover.png" alt="Mellow Yellow (2005  RE  with bonus tracks)" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">High Llamas – Tides</div>
-<p><span class="image thumb left"><img src="The%20High%20Llamas%201996%20-%20Hawaii/cover.jpg" alt="Hawaii" width="200" height="200"></span></p>
-</div>
-<br clear="both">
-<div class="paragraph">
-<p>Lutan Fyah – These Are My Better Days<br>
-Ronnie Lane &amp; Slim Chance – Careless Love<br>
-Sun Ra &amp; His Arkestra – Bassism<br>
-Uma Mohan – Brahma Krtam Mahalakshmi Kavacham<br>
-Stevie Wonder – Heaven Is 10 Zillion Light Years Away<br>
-Charles Aznavour – Bon anniversaire</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новые_песни_сентября_3_сентября_2023">Новые Песни Сентября, 3 сентября 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/952" class="bare">https://aerostatbg.ru/release/952</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Dengue Fever – Touch Me Not</div>
-<p><span class="image thumb left"><img src="Dengue%20Fever%202023%20-%20Ting%20Mong/cover.jpg" alt="Ting Mong" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Pretenders – A Love<br>
-Blind Boys Of Alabama – Work Until My Days Are Done<br>
-Flyte – Speech Bubble<br>
-Alice Cooper feat. Tom Morello – White Line Frankenstein<br>
-Orchestral Manoeuvres In The Dark – Bauhaus Staircase<br>
-Kara Jackson – Pawnshop<br>
-Sufjan Stevens – So You Are Tired<br>
-Chemical Brothers – Skipping Like a Stone<br>
-Herb Alpert – East Bound and Down</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_ответы_на_вопросы_27_августа_2023">Ответы На Вопросы, 27 августа 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/951" class="bare">https://aerostatbg.ru/release/951</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Swingle Singers – Prelude No. 11 in F major (BWV 880)</div>
-<p><span class="image thumb left"><img src="Les%20Swingle%20Singers%20-%20Jazz%20Sebastien%20Bach/cover.jpg" alt="Jazz Sebastien Bach" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Leonard Cohen - <a href="LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_love_itself">Love Itself</a></div>
-<p><span class="image thumb left"><img src="LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/cover.jpg" alt="Ten New Songs" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Ivor Cutler Trio – Flim Flam Flum</div>
-<p><span class="image thumb left"><img src="Ivor%20Cutler%20Trio%20-%20Ludo/cover.jpg" alt="Ludo" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Blur – Barbaric<br>
-Brian Eno &amp; Harold Budd – First Light<br>
-Ivo Sedláček – Gopala Gopala<br>
-Talking Heads – I Zimbra<br>
-Isan – Recently In The Sahara<br>
-Ivor Cutler Trio – Darling, Will You Marry Me Twice?</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новые_имена_42_20_августа_2023">Новые Имена № 42, 20 августа 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/950" class="bare">https://aerostatbg.ru/release/950</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Soha – C&#8217;est bien mieux comme ça</div>
-<p><span class="image thumb left"><img src="Soha%20-%20D_Ici%20et%20d_Ailleurs/cover.jpg" alt="D_Ici et d_Ailleurs" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Brian Houston – The Days Of Pearly Spencer<br>
-Ernest Hood – Bedroom Of The Absent Child<br>
-Christian Besa Wright – Cherry Blossom Oak<br>
-Mellow Candle – Reverend Sisters<br>
-Doug McKechnie – Gyre And Gimble<br>
-Kíla – Rachel Corrie<br>
-Giulio Briccialdi – Wind Quintet in D major, Op. 124: II. Andante<br>
-Crooked Still – Come On In My Kitchen</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_два_и_один_13_августа_2023">Два и Один, 13 августа 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/949" class="bare">https://aerostatbg.ru/release/949</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Enya – Book Of Days</div>
-<p><span class="image thumb left"><img src="ENYA/enya-02-Shepherd%20Moons%201991/cover.jpg" alt="02-Shepherd Moons 1991" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Robert Fripp – Music For Quiet Moments 52 – Time And Time Again</div>
-<p><span class="image thumb left"><img src="KING%20CRIMSON/Robert%20Fripp%20-%20Music%20For%20Quiet%20Moments%20Vol.%201-52/cover.jpg" alt="Music For Quiet Moments Vol. 1-52" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Ernest Hood – The Jantzen Rag (Raccoons)<br>
-Paul &amp; Linda McCartney – Dear Boy<br>
-Chopstick Dubplate feat. Mr. Williamz – Wanted<br>
-Yamato Ensemble – Futatsu no Den‐en‐shi: No. 1<br>
-Yash-ar – Kaldıralım<br>
-Blake Mills – There Is No Now<br>
-Beach Boys – In My Room<br>
-Ben Folds – But Wait, There&#8217;s More</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_август_новые_песни_6_августа_2023">Август: Новые Песни, 6 августа 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/948" class="bare">https://aerostatbg.ru/release/948</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Sinéad O&#8217;Connor – Dancing Lessons</div>
-<p><span class="image thumb left"><img src="SINEAD%20OCONNOR/Faith%20And%20Courage/cover.jpg" alt="Faith And Courage" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Pregoblin feat. Peter Doherty – These Hands AKA Danny Knife<br>
-Peter Gabriel – So Much (Dark-Side Mix)<br>
-Domenico Lancellotti – Aterrizar<br>
-Blake Mills – Skeleton Is Walking<br>
-Sparklehorse – Evening Star Supercharger<br>
-Protomartyr – For Tomorrow<br>
-African Head Charge – Accra Electronica<br>
-Beck &amp; Phoenix – Odyssey</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_lunassad_2023_30_июля_2023">Lunassad 2023, 30 июля 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/947" class="bare">https://aerostatbg.ru/release/947</a></p>
-</div>
-<div class="paragraph">
-<p>Full English – Awake Awake<br>
-Nuala Kennedy – Ye Lover&#8217;s All<br>
-Trials Of Cato – Aberdaron<br>
-Me Lost Me – Mirie It Is While Summer I Last<br>
-Belshazzar&#8217;s Feast – Hills Of The North<br>
-Lankum – The Young People<br>
-Battlefield Band feat. Christine Primrose &amp; Nuala Kennedy – Scots Gaelic Song: An Gille Mear<br>
-Lúnasa – Paddy&#8217;s Green Shamrock Shore<br>
-Belshazzar&#8217;s Feast – Museum Hornpipe</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_новые_имена_23_июля_2023">Новые Имена, 23 июля 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/946" class="bare">https://aerostatbg.ru/release/946</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Tally Hall – Turn The Lights Off</div>
-<p><span class="image thumb left"><img src="Tally%20Hall/2011%20-%20Good%20&amp;%20Evil/tally_hall-good_and_evil-web-2011.jpg" alt="Good &amp; Evil" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>José Miguel Moreno &amp; Orphénica Lyra – Canarios<br>
-Sister Rosetta Tharpe &amp; Sam Price Trio - When I Move To The Sky<br>
-Ultramarine – Kingdom<br>
-Samuel Blaser – Thoroughfare<br>
-Petula Clark – Downtown<br>
-Singers &amp; Players feat. Prince Far I – Quanté Jubila<br>
-Blossom Dearie – I Won&#8217;t Dance<br>
-Antônio Carlos Jobim – Wave<br>
-Jane Birkin – Jane B<br>
-Domenico Lancellotti – Tá brabo</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_мир_как_отражение_16_июля_2023">Мир Как Отражение, 16 июля 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/945" class="bare">https://aerostatbg.ru/release/945</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Richard Thompson – The Ghost Of You Walks</div>
-<p><span class="image thumb left"><img src="RICHARD%20THOMPSON/2001%20-%20Action%20Packed%20-%20The%20Best%20of%20the%20Capitol%20Years/cover.jpg" alt="Action Packed - The Best of the Capitol Years" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<div class="title">Paul Simon – Some Folks' Lives Roll Easy</div>
-<p><span class="image thumb left"><img src="PAUL%20SIMON/2018%20-%20In%20The%20Blue%20Light/cover.jpg" alt="In The Blue Light" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Chad &amp; Jeremy – A Summer Song<br>
-Lei Qiang – Embroidered Pouch<br>
-Nick Drake – Bryter Later<br>
-Hemant Kumar – Chole Jay Mori Hay Basanter Din<br>
-Jack Hylton &amp; His Orchestra – By A Waterfall<br>
-Ólafur Arnalds – Loftið verður skyndilega kalt<br>
-Nik Freitas – In The Frame<br>
-Franz Joseph Haydn – Trumpet Concerto in E-flat major: II. Adagio</p>
-</div>
-<br clear="both">
-</div>
-<div class="sect2">
-<h3 id="_court_and_spark_9_июля_2023">Court And Spark, 9 июля 2023</h3>
-<div class="paragraph">
-<p><a href="https://aerostatbg.ru/release/944" class="bare">https://aerostatbg.ru/release/944</a></p>
-</div>
-<div class="paragraph">
-<div class="title">Joni Mitchell – Help Me</div>
-<p><span class="image thumb left"><img src="JONI%20MITCHELL/Court%20and%20Spark%20(remastered)/cover.jpg" alt="Court and Spark (remastered)" width="200" height="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Joni Mitchell – Raised On Robbery<br>
-Joni Mitchell – Blue<br>
-Joni Mitchell – Court And Spark<br>
-Joni Mitchell – Free Man In Paris<br>
-Joni Mitchell – Car On A Hill<br>
-Joni Mitchell – Down On You<br>
-Joni Mitchell – People&#8217;s Parties<br>
-Joni Mitchell – Just Like This Train<br>
-Joni Mitchell – Twisted<br>
-Joni Mitchell – The Same Situation</p>
+<p>Grandaddy – Watercooler<br>
+Joe Jackson &amp; Max Champion – The Bishop And The Actress<br>
+Dead South – A Little Devil<br>
+Lee Scratch Perry feat. Greentea Peng – 100lbs Of Summer<br>
+БГ – Saraswati<br>
+Bill Ryder-Jones – If Tomorrow Starts Without Me<br>
+Ty Segall – My Best Friend<br>
+Joni Mitchell – Like Veils Said Lorraine<br>
+Cast – Faraway</p>
 </div>
 <br clear="both">
 <hr>
@@ -1189,7 +553,7 @@ Joni Mitchell – The Same Situation</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2024-01-07 11:58:13 +0200
+Last updated 2024-01-28 11:24:08 +0200
 </div>
 </div>
 </body>

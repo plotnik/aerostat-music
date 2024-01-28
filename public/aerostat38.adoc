@@ -1,0 +1,678 @@
+= Радио Аэростат. Глава XXXVIII
+:toc: left
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
+
+== 9 июля 2023 - 7 января 2024
+
+++++
+<style>
+h2 {
+  background-color: #FFC0CB;
+}
+h3 {
+  clear: both;
+}
+</style>
+++++
+
+
+=== Лучшие Альбомы 2023, 7 января 2024
+<https://aerostatbg.ru/release/970>
+
+.Sufjan Stevens – A Running Start
+image:SUFJAN STEVENS/2023 - Javelin/cover.jpg[Javelin,200,200,role="thumb left"]
+
+.Yusuf/Cat Stevens – How Good It Feels
+image:CAT STEVENS/2023 - King Of A Land/cover.png[King Of A Land,200,200,role="thumb left"]
+
+.Sparks – Nothing Is As Good As They Say It Is
+image:SPARKS/2023 - The Girl Is Crying in Her Latte/cover.png[The Girl Is Crying in Her Latte,200,200,role="thumb left"]
+
+.Blur – The Narcissist
+image:Blur 2023 - The Ballad of Darren/cover.png[The Ballad of Darren,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Tinariwen feat. Fats Kaplin – Anemouhagh
+image:TINARIWEN/2023 - Amatssou/cover.jpg[Amatssou,200,200,role="thumb left"]
+
+.PJ Harvey – A Child's Question, July
+image:PJ Harvey/2023 - I Inside the Old Year Dying/folder.jpg[I Inside the Old Year Dying,200,200,role="thumb left"]
+
+.Thomas Walsh – Everyone Back In The Water
+image:PUGWASH/2023 - The Rest Is History/cover.jpg[The Rest Is History,200,200,role="thumb left"]
+
+.Billy Nomates – Cacti
+image:Billy Nomates - 2023 - Cacti/cover.jpg[2023 - Cacti,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Shirley Collins – Hand And Heart
+Rolling Stones – Whole Wide World
+
+++++
+<br clear="both">
+++++
+
+=== Happy New Year, 31 декабря 2023
+<https://aerostatbg.ru/release/969>
+
+.King Crimson – In The Wake Of Poseidon
+image:KING CRIMSON/In The Wake Of Poseidon/cover.jpg[In The Wake Of Poseidon,200,200,role="thumb left"]
+
+.Bob Dylan – She Belongs To Me
+image:BOB DYLAN/Bob Dylan 1970 - Selfportrait/cover.jpg[Selfportrait,200,200,role="thumb left"]
+
+[%hardbreaks]
+Bing Crosby – Let’s Start The New Year Right
+Beatles – Ask Me Why
+Bryan Ferry – Sonnet 18
+Charley Patton – Tell Me Man Blues
+David Bowie – God Only Knows
+Jethro Tull – My Sunday Feeling
+Мистерията на българските гласове – Атмаджа дума Страхилу
+Crosby, Stills, Nash & Young – Our House
+    
+++++
+<br clear="both">
+++++
+
+=== Christmas, 24 декабря 2023
+<https://aerostatbg.ru/release/968>
+
+.Kate Rusby – Spean
+image:KATE RUSBY/2023 - Light Years/cover.jpg[Light Years,200,200,role="thumb left"]
+
+.Jethro Tull – Holly Herald
+image:JETHRO TULL/2003 - Christmas_Album/cover.jpg[Christmas_Album,200,200,role="thumb left"]
+
+[%hardbreaks]
+Shakin' Stevens – Merry Christmas Everyone
+Mud – Lonely This Christmas
+Chuck Beard – Lo, How A Rose E'er Blooming
+Elvis Presley – O Little Town Of Bethlehem
+Harry Belafonte – I Heard The Bells On Christmas Day
+Joan Baez – What Child Is This
+Eurythmics – Winter Wonderland
+Joe Brown – All I Want For Christmas Is Peace
+Bing Crosby – White Christmas
+
+++++
+<br clear="both">
+++++
+
+=== То да Сё №33, 17 декабря 2023
+<https://aerostatbg.ru/release/967>
+
+.Harry Nilsson – Nobody Cares About The Railroads Anymore
+image:Harry Nilsson/1969 - Harry/cover.png[Harry,200,200,role="thumb left"]
+
+.Donovan – Poor Cow
+image:DONOVAN/Donovan - Love Is Hot, Truth Is Molten/cover.jpg[Love Is Hot  Truth Is Molten,200,200,role="thumb left"]
+
+[%hardbreaks]
+Bing Crosby – Away In A Manger
+Rolling Stones – We Had It All
+Pogues – Transmetropolitan
+Moody Blues – Go Now!
+Gabriel Urbain Fauré – Après un rêve, Op. 7, No. 1
+Faustus – The Green Willow Tree
+Fisherman's Friends – John Kanaka
+Mary Hopkin – Silver Birch And Weeping Willow
+Franz Peter Schubert – Symphony No. 3 in D major: II. Allegretto
+Flanagan & Allen – Run, Rabbit, Run
+
+++++
+<br clear="both">
+++++
+
+=== Bhajan & Kirtan, 10 декабря 2023
+<https://aerostatbg.ru/release/966>
+
+[%hardbreaks]
+Uma Mohan – Śrī Mahālakṣmī Sūktam
+Krishna Das – Lokāḥ Samastāḥ Sukhino Bhavantu
+Lama Gyurme & Jean-Philippe Rykiel – Hope For Enlightenment
+БГ – Hanumān
+Lama Ngodup Jungney & Pema Wangdi Lama feat. Raman Maharjan & Tsering Gyurmey – Prayers, To Wish Prevalence Of Happiness In The World
+    
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Декабря, 3 декабря 2023
+<https://aerostatbg.ru/release/965>
+
+.Cat Stevens – Train On A Hill
+image:CAT STEVENS/2023 - King Of A Land/cover.png[King Of A Land,200,200,role="thumb left"]
+
+.Miles Davis – Nuit sur les Champs-Élysées (Take 3)
+image:MILES DAVIS/1957 - Ascenseur Pour L_Echafaud/Folder.jpg[Ascenseur Pour L_Echafaud,200,200,role="thumb left"]
+
+[%hardbreaks]
+Smile – Wall Of Eyes
+Black Grape – Pimp Wars
+Gaslight Anthem feat. Bruce Springsteen – History Books
+Alborosie feat. Kabaka Pyramid – Nah Sell Out
+Enji – Тэмээн дээрээс тэнгэр ойрхон
+Guided By Voices – The Race Is On, The King Is Dead
+Unthanks – Waters Of Tyne
+Taj Mahal – I'm Just A Lucky So-And-So
+
+++++
+<br clear="both">
+++++
+
+=== Ответы и Стихи, 26 ноября 2023
+<https://aerostatbg.ru/release/964>
+
+.Leon Redbone – Nobody's Sweetheart
+image:LEON REDBONE/Double Time/cover.jpg[Double Time,200,200,role="thumb left"]
+
+.Enya – Caribbean Blue
+image:ENYA/enya-02-Shepherd Moons 1991/cover.jpg[02-Shepherd Moons 1991,200,200,role="thumb left"]
+
+.Annie Lennox – Love Song For A Vampire
+image:ANNIE LENNOX/2009 - The Annie Lennox Collection/cover.png[The Annie Lennox Collection,200,200,role="thumb left"]
+
+[%hardbreaks]
+Donovan – Over Grown Garden Of Dream
+Elvis Presley – Harbour Lights
+Dr. John – Stack-A-Lee
+Террариум – Гарфункель
+Charles Trenet – Ménilmontant
+Sting – Mad About You
+Richard Armitage & The Dwarf Cast – Misty Mountains
+Pérotin – Deus Pacis, Conduit à deux voix
+Stevie Wonder – Blame It On The Sun
+
+++++
+<br clear="both">
+++++
+
+=== Ответы На Вопросы, 19 ноября 2023
+<https://aerostatbg.ru/release/963>
+
+.Robert Wyatt – Heaps Of Sheep
+image:ROBERT WYATT/Shleep/cover.png[Shleep,200,200,role="thumb left"]
+
+.Jethro Tull – Pastime With Good Company
+image:JETHRO TULL/2007 - The Best Of Acoustic Jethro Tull/cover.jpg[The Best Of Acoustic Jethro Tull,200,200,role="thumb left"]
+
+[%hardbreaks]
+Bing Crosby & The Andrews Sisters feat. Vic Schoen & His Orchestra – Don't Fence Me In
+Aквариум feat. Kyiv Virtuosi – Дело мастера Бо
+Grateful Dead – Black Muddy River
+Donovan – Grace
+Melodium – Flacana 11
+Русско-абиссинский оркестр – Sirakh Malatoy Tan / Skir Lametan
+Grasscut – The Branches Of The Tree
+
+++++
+<br clear="both">
+++++
+
+=== То Да Сё № 32, 12 ноября 2023
+<https://aerostatbg.ru/release/962>
+
+.Danger Mouse & Sparklehorse feat. The Flaming Lips – Revenge
+image:Sparklehorse/2010 - Dark Night of the Soul/front.jpg[Dark Night of the Soul,200,200,role="thumb left"]
+
+[%hardbreaks]
+Anthony Holborne – Almaine: The Honie-suckle
+Beatles – Now And Then
+Rolling Stones – Driving Me Too Hard
+Roy Wood – Wake Up
+Ed Sheeran – American Town
+Purushottama – More Than Enough
+Peter Gabriel – And Still (Dark-Side Mix)
+João Gilberto – Bim Bom
+    
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Ноября, 5 ноября 2023
+<https://aerostatbg.ru/release/961>
+
+.King Creosote – It's Sin That's Got Its Hold Upon Us
+image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
+
+.Madness - link:Madness/2023%20-%20Theatre%20of%20the%20Absurd%20presents%20C%E2%80%99est%20La%20Vie/lyrics/absurd.html#_cest_la_vie[C'est la vie]
+image:Madness/2023 - Theatre of the Absurd presents C’est La Vie/cover.png[Theatre of the Absurd presents C’est La Vie,200,200,role="thumb left"]
+
+.Roger Eno – That Which Is Hidden
+image:ROGER ENO/2023 - The Skies they shift like chords/cover.jpg[The Skies they shift like chords,200,200,role="thumb left"]
+
+.Ed Sheeran – Magical
+image:Ed Sheeran/2023 - Autumn Variations/cover.png[Autumn Variations,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Gong – Tiny Galaxies
+Togo All Stars – Kokoko
+Stephen Marley feat. Damian Marley – Cast The First Stone
+Harp – I Am The Seed
+Metric – Days Of Oblivion
+Ringo Starr – Feeling The Sunlight
+
+++++
+<br clear="both">
+++++
+
+=== Samhain 2023, 29 октября 2023
+<https://aerostatbg.ru/release/960>
+
+.Planxty – Only Our Rivers
+image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
+
+.Steeleye Span – Jack Hall
+image:STEELEYE SPAN/1989 - Tempted and Tried/cover.jpg[Tempted and Tried,200,200,role="thumb left"]
+
+.Richard Thompson feat. Danny Thompson – Sweetheart On The Barricade
+image:RICHARD THOMPSON/1997 - Industry/folder.jpg[Industry,200,200,role="thumb left"]
+
+[%hardbreaks]
+Flook – Koady/The Burning Lion
+Archie Fisher – The Broom O' The Cowdenknowes
+Andy M. Stewart – Kathy-Anne's Waltz
+Phil Cunningham – The Sadness Of It All
+Pete Coe – Light From The Lighthouse
+    
+++++
+<br clear="both">
+++++
+
+=== Система Безумия Т. Уэйтса, 22 октября 2023
+<https://aerostatbg.ru/release/959>
+
+.Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_i_ll_be_gone[I'll Be Gone]
+image:TOM WAITS/Tom Waits 1987 - Franks Wild Years/cover.jpg[Franks Wild Years,200,200,role="thumb left"]
+
+.Tom Waits – Jersey Girl
+image:TOM WAITS/Tom Waits 1980 - Heartattack And Vine/cover.jpg[Heartattack And Vine,200,200,role="thumb left"]
+
+.Tom Waits – Underground
+image:TOM WAITS/Tom Waits 1983 - Swordfishtrombones/cover.jpg[Swordfishtrombones,200,200,role="thumb left"]
+
+.Tom Waits - link:TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_blind_love[Blind Love]
+image:TOM WAITS/Tom Waits 1985 - Rain Dogs - part 1/raindogs.png[Rain Dogs - part 1,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_more_than_rain[More Than Rain]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_train_song[Train Song]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_clap_hands[Clap Hands]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_yesterday_is_here[Yesterday Is Here]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201985%20-%20Rain%20Dogs%20-%20part%201/lyrics/raindogs.html#_big_black_mariah[Big Black Mariah]
+Tom Waits - link:TOM%20WAITS/Tom%20Waits%201987%20-%20Franks%20Wild%20Years/lyrics/franks.html#_innocent_when_you_dream[Innocent When You Dream]
+    
+++++
+<br clear="both">
+++++
+
+=== New Names, 15 октября 2023
+<https://aerostatbg.ru/release/958>
+
+[%hardbreaks]
+Murder Capital – The Star Will Leave Their Stage
+Moby Grape – 8:05
+Electric Sufi feat. Professor Chill, Sarah Yaseen & Mina Salama – Hudaaya
+Fanny Mendelssohn Hensel – Piano Sonata in G minor: II. Scherzo
+Nashville Ambient Ensemble – Waveguide
+Lutan Fyah – Never Stop Hail Rastafari
+Curtis Mayfield – Superfly
+Supersport! – Allt fólkið allt í kringum mig
+Pharoah Sanders – You Don't Know What Love Is
+    
+++++
+<br clear="both">
+++++
+
+=== То Да Сё №31, 8 октября 2023
+<https://aerostatbg.ru/release/957>
+
+.Old Crow Medicine Show – Keel Over And Die
+image:Old Crow Medicine Show 2023 - Jubilee/cover.jpg[Jubilee,200,200,role="thumb left"]
+
+.Sufjan Stevens – Will Anybody Ever Love Me?
+image:SUFJAN STEVENS/2023 - Javelin/cover.jpg[Javelin,200,200,role="thumb left"]
+
+.Johann Sebastian Bach – Orchestral Suite No. 2 in B minor: VI. Menuet
+image:BACH/BWV 1066~1069, 1060, 1043 - Orchestral Suites/cover.jpg[Orchestral Suites,200,200,role="thumb left"]
+
+.Paul Rodgers – Dance In The Sun
+image:Paul Rodgers 2023 - Midnight Rose/cover.jpg[Midnight Rose,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Pink Floyd – Burning Bridges
+Cotton Mather – Fishes, Loaves And Hand Grenades
+Josquin des Prez – La Spagna
+Bob Marley & The Wailers – Turn Your Light Down Low
+Peter Gabriel – This Is Home (Dark-Side Mix)
+Olivier Messiaen – L'Ascension: II. Alleluias sereins d'une âme qui désire le ciel
+    
+++++
+<br clear="both">
+++++
+
+=== October New, 1 октября 2023
+<https://aerostatbg.ru/release/956>
+
+.Old Crow Medicine Show – Ballad Of Jubilee Jones
+image:Old Crow Medicine Show 2023 - Jubilee/cover.jpg[Jubilee,200,200,role="thumb left"]
+
+.Animal Collective – Gem & I
+image:Animal Collective/2023 - Isn_t It Now/cover.jpg[Isn_t It Now,200,200,role="thumb left"]
+
+.Kathryn Tickell & The Darkening – Caelestis / Sheep In The Temple
+image:Kathryn Tickell 2023 - Cloud Horizons/cover.jpg[Cloud Horizons,200,200,role="thumb left"]
+
+.Oneohtrix Point Never – A Barely Lit Path
+image:Oneohtrix Point Never 2023 - Again/cover.jpg[Again,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Paul Rodgers – Midnight Rose
+image:Paul Rodgers 2023 - Midnight Rose/cover.jpg[Midnight Rose,200,200,role="thumb left"]
+
+[%hardbreaks]
+Thomas Walsh – All This Hurt
+Burning Spear – The Spear
+Hauschka – Limitations Of Lifetime
+Buffalo Nichols – You're Gonna Need Somebody On Your Bond
+Peter Culshaw – Night Country (Mayotte)
+    
+++++
+<br clear="both">
+++++
+
+=== Мир, В Котором Мы Живем, 24 сентября 2023
+<https://aerostatbg.ru/release/955>
+
+.Tamikrest – Manhouy Inerizhan
+image:Tamikrest/2017 - Kidal/front.jpg[Kidal,200,200,role="thumb left"]
+
+.Eels - link:EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html#_railroad_man[Railroad Man]
+image:EELS/Eels - Blinking Lights And Other Revelations/Folder.jpg[Blinking Lights And Other Revelations,200,200,role="thumb left"]
+
+[%hardbreaks]
+Wolfgang Amadeus Mozart – Andante in E-flat major, K. 15mm
+Johann Sebastian Bach – Cello Suite No. 4 in E-Flat major: V. Bourrée I (Arr. for Trumpet and Organ)
+David Sylvian – A Fire In The Forest
+Dragostin Folk National – Ишу, бяла Недо
+Michael Stipe – Future If Future
+Édith Piaf – Simply A Waltz
+Lúnasa – Bulgarian Rock
+Talking Heads – This Must Be The Place (Naïve Melody)
+
+++++
+<br clear="both">
+++++
+
+=== Новости и БОГРУКИНОГ, 17 сентября 2023
+<https://aerostatbg.ru/release/954>
+
+.БГ+ – Черный лебедь
+image:AQUARIUM/БГ - БОГРУКИНОГ/cover.jpg[БОГРУКИНОГ,200,200,role="thumb left"]
+
+[%hardbreaks]
+Rolling Stones – Angry
+БГ+ – Незабыто
+БГ+ – Новый шелковый путь
+Chieftains – Bonaparte's Retreat
+Gus Teja World Music – Beauty In Colors
+
+++++
+<br clear="both">
+++++
+
+=== То да Сё № 30, 10 сентября 2023
+<https://aerostatbg.ru/release/953>
+
+.Band – Across The Great Divide
+image:The Band 1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
+
+.Shirley & Dolly Collins – Fare Thee Well My Dearest Dear
+image:Shirley & Dolly Collins - Anthems in Eden/folder.jpg[Anthems in Eden,200,200,role="thumb left"]
+
+.Donovan – Bleak City Woman
+image:DONOVAN/1967 - Mellow Yellow (2005, RE, with bonus tracks)/cover.png[Mellow Yellow (2005  RE  with bonus tracks),200,200,role="thumb left"]
+
+.High Llamas – Tides
+image:The High Llamas 1996 - Hawaii/cover.jpg[Hawaii,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Lutan Fyah – These Are My Better Days
+Ronnie Lane & Slim Chance – Careless Love
+Sun Ra & His Arkestra – Bassism
+Uma Mohan – Brahma Krtam Mahalakshmi Kavacham
+Stevie Wonder – Heaven Is 10 Zillion Light Years Away
+Charles Aznavour – Bon anniversaire
+
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Сентября, 3 сентября 2023
+<https://aerostatbg.ru/release/952>
+
+.Dengue Fever – Touch Me Not
+image:Dengue Fever 2023 - Ting Mong/cover.jpg[Ting Mong,200,200,role="thumb left"]
+
+[%hardbreaks]
+Pretenders – A Love
+Blind Boys Of Alabama – Work Until My Days Are Done
+Flyte – Speech Bubble
+Alice Cooper feat. Tom Morello – White Line Frankenstein
+Orchestral Manoeuvres In The Dark – Bauhaus Staircase
+Kara Jackson – Pawnshop
+Sufjan Stevens – So You Are Tired
+Chemical Brothers – Skipping Like a Stone
+Herb Alpert – East Bound and Down
+
+++++
+<br clear="both">
+++++ 
+
+=== Ответы На Вопросы, 27 августа 2023
+<https://aerostatbg.ru/release/951>
+
+.Swingle Singers – Prelude No. 11 in F major (BWV 880)
+image:Les Swingle Singers - Jazz Sebastien Bach/cover.jpg[Jazz Sebastien Bach,200,200,role="thumb left"]
+
+.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_love_itself[Love Itself]
+image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
+
+.Ivor Cutler Trio – Flim Flam Flum
+image:Ivor Cutler Trio - Ludo/cover.jpg[Ludo,200,200,role="thumb left"]
+
+[%hardbreaks]
+Blur – Barbaric
+Brian Eno & Harold Budd – First Light
+Ivo Sedláček – Gopala Gopala
+Talking Heads – I Zimbra
+Isan – Recently In The Sahara
+Ivor Cutler Trio – Darling, Will You Marry Me Twice?
+
+++++
+<br clear="both">
+++++ 
+
+=== Новые Имена № 42, 20 августа 2023
+<https://aerostatbg.ru/release/950>
+
+.Soha – C'est bien mieux comme ça
+image:Soha - D_Ici et d_Ailleurs/cover.jpg[D_Ici et d_Ailleurs,200,200,role="thumb left"]
+
+[%hardbreaks]
+Brian Houston – The Days Of Pearly Spencer
+Ernest Hood – Bedroom Of The Absent Child
+Christian Besa Wright – Cherry Blossom Oak
+Mellow Candle – Reverend Sisters
+Doug McKechnie – Gyre And Gimble
+Kíla – Rachel Corrie
+Giulio Briccialdi – Wind Quintet in D major, Op. 124: II. Andante
+Crooked Still – Come On In My Kitchen
+
+++++
+<br clear="both">
+++++ 
+
+=== Два и Один, 13 августа 2023
+<https://aerostatbg.ru/release/949>
+
+.Enya – Book Of Days
+image:ENYA/enya-02-Shepherd Moons 1991/cover.jpg[02-Shepherd Moons 1991,200,200,role="thumb left"]
+
+.Robert Fripp – Music For Quiet Moments 52 – Time And Time Again
+image:KING CRIMSON/Robert Fripp - Music For Quiet Moments Vol. 1-52/cover.jpg[Music For Quiet Moments Vol. 1-52,200,200,role="thumb left"]
+
+[%hardbreaks]
+Ernest Hood – The Jantzen Rag (Raccoons)
+Paul & Linda McCartney – Dear Boy
+Chopstick Dubplate feat. Mr. Williamz – Wanted
+Yamato Ensemble – Futatsu no Den‐en‐shi: No. 1
+Yash-ar – Kaldıralım
+Blake Mills – There Is No Now
+Beach Boys – In My Room
+Ben Folds – But Wait, There's More
+
+++++
+<br clear="both">
+++++ 
+
+=== Август: Новые Песни, 6 августа 2023
+<https://aerostatbg.ru/release/948>
+
+.Sinéad O'Connor – Dancing Lessons
+image:SINEAD OCONNOR/Faith And Courage/cover.jpg[Faith And Courage,200,200,role="thumb left"]
+
+[%hardbreaks]
+Pregoblin feat. Peter Doherty – These Hands AKA Danny Knife
+Peter Gabriel – So Much (Dark-Side Mix)
+Domenico Lancellotti – Aterrizar
+Blake Mills – Skeleton Is Walking
+Sparklehorse – Evening Star Supercharger
+Protomartyr – For Tomorrow
+African Head Charge – Accra Electronica
+Beck & Phoenix – Odyssey
+    
+++++
+<br clear="both">
+++++     
+
+=== Lunassad 2023, 30 июля 2023
+<https://aerostatbg.ru/release/947>
+
+[%hardbreaks]
+Full English – Awake Awake
+Nuala Kennedy – Ye Lover's All
+Trials Of Cato – Aberdaron
+Me Lost Me – Mirie It Is While Summer I Last
+Belshazzar's Feast – Hills Of The North
+Lankum – The Young People
+Battlefield Band feat. Christine Primrose & Nuala Kennedy – Scots Gaelic Song: An Gille Mear
+Lúnasa – Paddy's Green Shamrock Shore
+Belshazzar's Feast – Museum Hornpipe
+
+++++
+<br clear="both">
+++++ 
+
+=== Новые Имена, 23 июля 2023
+<https://aerostatbg.ru/release/946>
+
+.Tally Hall – Turn The Lights Off
+image:Tally Hall/2011 - Good & Evil/tally_hall-good_and_evil-web-2011.jpg[Good & Evil,200,200,role="thumb left"]
+
+[%hardbreaks]
+José Miguel Moreno & Orphénica Lyra – Canarios
+Sister Rosetta Tharpe & Sam Price Trio - When I Move To The Sky
+Ultramarine – Kingdom
+Samuel Blaser – Thoroughfare
+Petula Clark – Downtown
+Singers & Players feat. Prince Far I – Quanté Jubila
+Blossom Dearie – I Won't Dance
+Antônio Carlos Jobim – Wave
+Jane Birkin – Jane B
+Domenico Lancellotti – Tá brabo
+
+++++
+<br clear="both">
+++++ 
+
+=== Мир Как Отражение, 16 июля 2023
+<https://aerostatbg.ru/release/945>
+
+.Richard Thompson – The Ghost Of You Walks
+image:RICHARD THOMPSON/2001 - Action Packed - The Best of the Capitol Years/cover.jpg[Action Packed - The Best of the Capitol Years,200,200,role="thumb left"]
+
+.Paul Simon – Some Folks' Lives Roll Easy
+image:PAUL SIMON/2018 - In The Blue Light/cover.jpg[In The Blue Light,200,200,role="thumb left"]
+
+[%hardbreaks]
+Chad & Jeremy – A Summer Song
+Lei Qiang – Embroidered Pouch
+Nick Drake – Bryter Later
+Hemant Kumar – Chole Jay Mori Hay Basanter Din
+Jack Hylton & His Orchestra – By A Waterfall
+Ólafur Arnalds – Loftið verður skyndilega kalt
+Nik Freitas – In The Frame
+Franz Joseph Haydn – Trumpet Concerto in E-flat major: II. Adagio
+
+++++
+<br clear="both">
+++++ 
+
+=== Court And Spark, 9 июля 2023
+<https://aerostatbg.ru/release/944>
+
+.Joni Mitchell – Help Me
+image:JONI MITCHELL/Court and Spark (remastered)/cover.jpg[Court and Spark (remastered),200,200,role="thumb left"]
+
+[%hardbreaks]
+Joni Mitchell – Raised On Robbery
+Joni Mitchell – Blue
+Joni Mitchell – Court And Spark
+Joni Mitchell – Free Man In Paris
+Joni Mitchell – Car On A Hill
+Joni Mitchell – Down On You
+Joni Mitchell – People's Parties
+Joni Mitchell – Just Like This Train
+Joni Mitchell – Twisted
+Joni Mitchell – The Same Situation
+    
+++++
+<br clear="both">
+++++ 
+
+---
+
+> link:aerostat.html[<Home>]
+> link:toc.html[<Contents>]
+> link:lyrics.html[<Lyrics>]
