@@ -179,6 +179,7 @@
 - link:./SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Sounds%20of%20Silence/lyrics/silence.html[SIMON & GARFUNKEL/Simon & Garfunkel - Sounds of Silence]
 - link:./SINEAD%20OCONNOR/Faith%20And%20Courage/lyrics/faith.html[SINEAD OCONNOR/Faith And Courage]
 - link:./SPARKS/2002%20-%20Lil%20Beethoven/lyrics/lil.html[SPARKS/2002 - Lil Beethoven]
+- link:./SPARKS/2023%20-%20The%20Girl%20Is%20Crying%20in%20Her%20Latte/lyrics/latte.html[SPARKS/2023 - The Girl Is Crying in Her Latte]
 - link:./SPARKS/Sparks%202017%20-%20Hippopotamus/lyrics/hippo.html[SPARKS/Sparks 2017 - Hippopotamus]
 - link:./Specials/Encore%20(Deluxe)/lyrics/encore.html[Specials/Encore (Deluxe)]
 - link:./STEELEYE%20SPAN/links.html[STEELEYE SPAN]
