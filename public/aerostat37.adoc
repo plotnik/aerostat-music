@@ -21,8 +21,10 @@ h3 {
 === Новые Песни Июля и Философия, 2 июля 2023
 <https://aerostatbg.ru/release/943>
 
+.Blur – The Narcissist
+image:Blur 2023 - The Ballad of Darren/cover.png[The Ballad of Darren,200,200,role="thumb left"]
+
 [%hardbreaks]
-Blur – The Narcissist
 Sigur Rós – Skel
 Shaggy (feat. Konshens & Noah Powa) – Buddy Bye
 Smile – Bending Hectic
@@ -45,11 +47,13 @@ image:Gilberto Astrud/Verve Jazz Masters 9/cover.jpg[Verve Jazz Masters 9,200,20
 .Jeff Beck – A Day In The Life
 image:Eric Clapton/2009 - Eric Clapton & Jeff Beck - Two Blue Birds Fly/29zrgva.jpg[Eric Clapton & Jeff Beck - Two Blue Birds Fly,200,200,role="thumb left"]
 
+.Procol Harum – Too Much Between Us
+image:PROCOL HARUM/1969 - A Salty Dog/images.jpg[A Salty Dog,200,200,role="thumb left"]
+
 [%hardbreaks]
 Harry Belafonte – Banana Boat (Day-O)
 Harry Belafonte – Jamaica Farewell
 Gentle Giant – On Reflection
-Procol Harum – Too Much Between Us
 Pop Group – She Is Beyond Good And Evil
 Ryuichi Sakamoto – Okinawa Song (Chin Nuku Juushii)
 Ahmad Jamal – For All We Know
@@ -65,9 +69,11 @@ Gordon Lightfoot – Rainy Day People
 .The Ink Spots – Whispering Grass (Don't Tell The Trees)
 image:Ink Spots - The Very Best/Folder.jpg[The Very Best,200,200,role="thumb left"]
 
+.Glenn Miller & His Orchestra – When That Man Is Dead and Gone
+image:Glenn Miller/The Complete Glenn Miller/CD08/cover.png[CD08,200,200,role="thumb left"]
+
 [%hardbreaks]
 Flanagan & Allen – Dreaming
-Glenn Miller & His Orchestra – When That Man Is Dead and Gone
 Vera Lynn – The White Cliffs of Dover
 Novelty Aces – Stars And Stripes On Iwo Jima
 Song Spinners – Comin' In On A Wing And A Prayer
@@ -118,11 +124,17 @@ image:PJ Harvey/2023 - I Inside the Old Year Dying/folder.jpg[I Inside the Old Y
 .Tinariwen – Tenere Den
 image:TINARIWEN/2023 - Amatssou/cover.jpg[Amatssou,200,200,role="thumb left"]
 
+.Yusuf / Cat Stevens – King Of A Land
+image:CAT STEVENS/2023 - King Of A Land/cover.png[King Of A Land,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++ 
+
 [%hardbreaks]
 Utan Green feat. Mutabaruka – Troubles No More
 Peter Gabriel – Four Kinds of Horses (Bright-Side Mix)
 Chemical Brothers – All Of A Sudden
-Yusuf / Cat Stevens – King Of A Land
 Kele Okereke – Never Have I Ever
 
 ++++
@@ -195,8 +207,10 @@ Charles Coburn – The Man Who Broke The Bank At Monte Carlo
 === Новые Песни Мая, 7 мая 2023
 <https://aerostatbg.ru/release/935>
 
+.Cat Stevens – Take The World Apart
+image:CAT STEVENS/2023 - King Of A Land/cover.png[King Of A Land,200,200,role="thumb left"]
+
 [%hardbreaks]
-Cat Stevens – Take The World Apart
 A Certain Ratio – 1982
 Shirley Collins – High And Away
 Peter Gabriel – i/o (Bright-Side Mix)
