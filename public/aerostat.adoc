@@ -22,6 +22,42 @@ code {
                                                                           
 == 39.
 
+=== Австралия, 26 мая 2024
+<https://aerostatbg.ru/release/990>
+
+[%hardbreaks]
+Lucksmiths – Synchronised Sinking
+King Gizzard & The Lizard Wizard – Nuclear Fusion
+Lazy Harry – Wild Colonial Boy
+Easybeats – Friday On My Mind
+AC/DC – Back In Black
+Midnight Oil – Beds Are Burning
+Men At Work – Who Can It Be Now?
+Nick Cave & The Bad Seeds – Girl In Amber
+Rolf Harris – Tie Me Kangaroo Down, Sport
+Lucksmiths – The Great Dividing Range
+
+++++
+<br clear="both">
+++++
+
+=== Новые Имена, 19 мая 2024
+<https://aerostatbg.ru/release/989>
+
+[%hardbreaks]
+Knack – My Sharona
+Asa Tone – Perpetual Motion Via Jungle Transport
+T Bone Burnett feat. Steven Soles – Hawaiian Blue Songs
+Slowdive – Slomo
+Louise Ferrenc – Quintet for Piano and Winds, Op. 8: III. Scherzo
+Maya Ongaku – Something In Morning Rain
+Avett Brothers – Live And Die
+Stephen Marley feat. Ziggy Marley – There's A Reward
+Séamus Ennis – A Little Bench Of Rushes
+
+++++
+<br clear="both">
+++++
 
 === Боги и Тату, 12 мая 2024
 <https://aerostatbg.ru/release/988>
@@ -33,7 +69,6 @@ image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
 image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
 
 [%hardbreaks]
-
 King Creosote – Love Is A Curse
 БГ+ – Не убивает
 Talking Heads – This Must Be the Place (Naïve Melody)
