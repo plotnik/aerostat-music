@@ -400,6 +400,9 @@ Beatles - Golden Slumbers
 
 <http://old.aquarium.ru/misc/aerostat/aerostat56.html>
 
+.Talking Heads - Once in a Lifetime
+image:Talking Heads/Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
+
 [%hardbreaks]
 Devo - Whip It
 Gary Numan - Are Friends Electric?
@@ -407,7 +410,6 @@ XTC - Making Plans For Nigel
 Visage - We Fade To Grey
 The Jam - Going Underground
 Police - Message In The Bottle
-Talking Heads - Once in a Lifetime
 Eurythmics - Sweet Dreams
 Roxy Music - Do The Strand
 Elvis Costello - Oliver's Army

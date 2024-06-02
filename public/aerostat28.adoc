@@ -281,8 +281,14 @@ image:LEONARD COHEN/09-The Future (1992)/cover.jpg[The Future (1992),200,200,rol
 .T.Rex - The Time Of Love Is Now
 image:T-REX/T-Rex/cover.jpg[Rex,200,200,role="thumb left"]
 
+.Talking Heads - Burning Down The House
+image:Talking Heads/Speaking in Tongues/cover.jpg[Speaking in Tongues,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Talking Heads - Burning Down The House
 Cat Empire - The Lost Song
 Antonio Carlos Jobim - The Face I Love (Seu Encanto)
 Family - Summer ‘67
@@ -298,7 +304,7 @@ Gin Blossoms - Break
 <https://aerostatbg.ru/release/687>
 
 .Talking Heads - Crosseyed And Painless
-image:Talking Heads - Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
+image:Talking Heads/Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
 
 [%hardbreaks]
 Talking Heads - Born Under Punches (The Heat Goes On)

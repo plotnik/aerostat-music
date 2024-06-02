@@ -22,6 +22,24 @@ code {
                                                                           
 == 39.
 
+=== Новые Песни. Июнь, 2 июня 2024
+<https://aerostatbg.ru/release/991>
+
+[%hardbreaks]
+Seasick Steve – Internet Cowboys
+Bat For Lashes – The Dream Of Delphi
+Mdou Moctar – Imouhar
+Guided By Voices – Cavemen Running Naked
+Beth Gibbons – Floating On A Moment
+Einstürzende Neubauten – Isso Isso
+William Elliott Whitmore – Be Still
+Mark Knopfler – Mr. Solomons Said
+Slowdive – Alife
+
+++++
+<br clear="both">
+++++
+
 === Австралия, 26 мая 2024
 <https://aerostatbg.ru/release/990>
 
@@ -68,10 +86,12 @@ image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
 .Beck – Turn Away
 image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
 
+.Talking Heads – This Must Be the Place (Naïve Melody)
+image:Talking Heads/Speaking in Tongues/cover.jpg[Speaking in Tongues,200,200,role="thumb left"]
+
 [%hardbreaks]
 King Creosote – Love Is A Curse
 БГ+ – Не убивает
-Talking Heads – This Must Be the Place (Naïve Melody)
 Steve Jansen – Ballad Of A Deadman
 Sufjan Stevens – Futile Devices
 Who – Tattoo
@@ -89,6 +109,9 @@ King Creosote – Walter de la Nightmare
 .Bonnie 'Prince' Billy – Like It Or Not
 image:Bonnie Prince Billy/2023 Keeping Secrets Will Destroy You/cover.jpg[2023 Keeping Secrets Will Destroy You,200,200,role="thumb left"]
 
+.George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html#_blow_away[Blow Away]
+image:GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989/Folder.jpg[Best Of Dark Horse 1976-1989,200,200,role="thumb left"]
+
 [%hardbreaks]
 David Gilmour – The Piper's Call
 Brad Mehldau – Between Bach
@@ -97,7 +120,6 @@ Johnny Cash – Well Alright
 Brian Eno feat. Leo Abrahams, Jon Hopkins – Emerald And Lime
 UB40 – Home
 Yard Act – The Undertow
-George Harrison – Blow Away
 
 ++++
 <br clear="both">

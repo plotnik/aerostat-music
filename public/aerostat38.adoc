@@ -416,6 +416,9 @@ image:Tamikrest/2017 - Kidal/front.jpg[Kidal,200,200,role="thumb left"]
 .Eels - link:EELS/Eels%20-%20Blinking%20Lights%20And%20Other%20Revelations/lyrics/blinking.html#_railroad_man[Railroad Man]
 image:EELS/Eels - Blinking Lights And Other Revelations/Folder.jpg[Blinking Lights And Other Revelations,200,200,role="thumb left"]
 
+.Talking Heads – This Must Be The Place (Naïve Melody)
+image:Talking Heads/Speaking in Tongues/cover.jpg[Speaking in Tongues,200,200,role="thumb left"]
+
 [%hardbreaks]
 Wolfgang Amadeus Mozart – Andante in E-flat major, K. 15mm
 Johann Sebastian Bach – Cello Suite No. 4 in E-Flat major: V. Bourrée I (Arr. for Trumpet and Organ)
@@ -424,7 +427,6 @@ Dragostin Folk National – Ишу, бяла Недо
 Michael Stipe – Future If Future
 Édith Piaf – Simply A Waltz
 Lúnasa – Bulgarian Rock
-Talking Heads – This Must Be The Place (Naïve Melody)
 
 ++++
 <br clear="both">

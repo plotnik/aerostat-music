@@ -460,7 +460,7 @@ image:DONOVAN/Donovan - Hurdy Gurdy Man/cover.jpg[Hurdy Gurdy Man,200,200,role="
 image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - By the way/cover.jpg[By the way,200,200,role="thumb left"]
 
 .Talking Heads - Crosseyed And Painless
-image:Talking Heads - Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
+image:Talking Heads/Remain In Light/Folder.jpg[Remain In Light,200,200,role="thumb left"]
 
 .T-Rex - King Of The Mountain Cometh
 image:T-REX/T-Rex - Electric Warrior/folder.jpg[Rex - Electric Warrior,200,200,role="thumb left"]
