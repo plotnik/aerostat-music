@@ -22,8 +22,129 @@ code {
                                                                           
 == 39.
 
+=== Ambient, 7 июля 2024
+<https://aerostatbg.ru/release/996>
+
+.Brian Eno – By This River
+image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Science,200,200,role="thumb left"]
+
+.Brian Eno – 2/1
+image:BRIAN ENO/Brian Eno - Music For Airports/cover.jpg[Music For Airports,200,200,role="thumb left"]
+
+[%hardbreaks]
+Clive Wright & Harold Budd – Of Many Mirrors
+Daniel Lanois – Little Mustang (Gold Top Edition)
+Erik Satie – Gymnopédie No. 2
+Aphex Twin – #17 (Z Twig)
+David Bowie – Sense Of Doubt
+Roger Eno – Deep Blue Day (Piano Version)
+Hans Zimmer – Day One (Interstellar Theme)
+Linda Long – Clover (Trifolium repens) cyanogenic β-glucosidase
+
+++++
+<br clear="both">
+++++
+
+=== Новые песни июля, 30 июня 2024
+<https://aerostatbg.ru/release/995>
+
+[%hardbreaks]
+Zawose Queens – Maisha
+Nick Cave & The Bad Seeds – Frogs
+Landless – Lúireach Bhríde
+Mysterines – Stray
+Iron & Wine feat. Fiona Apple – All In Good Time
+A Lily – Flimkien Ngħaddu Mill-Bieb
+Graham Gouldman – We're Alive
+F.Y.A.H. – Cool Down
+Luke Combs – The Man He Sees In Me
+Ringo Starr – Crooked Boy
+
+++++
+<br clear="both">
+++++
+
+=== То да Сё №37, 23 июня 2024
+<https://aerostatbg.ru/release/994>
+
+.Leon Redbone – Sweet Sue (Just You)
+image:LEON REDBONE/Champagne Charlie/cover.jpg[Champagne Charlie,200,200,role="thumb left"]
+
+.Electric Light Orchestra – Strange Magic
+image:Electric Light Orchestra/11_Face The Music (1975)/cover.jpg[11_Face The Music (1975),200,200,role="thumb left"]
+
+.Judy Collins – Hey, That's No Way To Say Goodbye
+image:Judy Collins - Wildflowers/folder.jpg[Wildflowers,200,200,role="thumb left"]
+
+.Paul McCartney & The Wings – I'll Give You A Ring
+image:PAUL MCCARTNEY/Tug of War 24bit Deluxe Edition/cover.jpg[Tug of War 24bit Deluxe Edition,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Paul McCartney & The Wings – All Of You
+Iron Butterfly – In The Crowds
+Sam Lee – Bushes And Briars
+Ralph McTell – Mrs Adlam's Angels
+Françoise Hardy – Tous les garçons et les filles
+Landless – The Trees They Grow Tall
+Сплин – Древний грек
+
+++++
+<br clear="both">
+++++
+
+=== Country, 16 июня 2024
+<https://aerostatbg.ru/release/993>
+
+[%hardbreaks]
+George Jones – You're Still On My Mind
+Waylon Jennings & Willie Nelson – Mammas Don't Let Your Babies Grow Up To Be Cowboys
+Eck Robertson & Family – Brilliancy Medley
+Jimmie Rodgers – The Soldier's Sweetheart
+Hank Williams – Hey, Good Lookin'
+Bill Monroe & The Bluegrass Boys – Footprints In The Snow
+Gene Vincent & His Blue Caps – Be-Bop-a-Lula
+Johnny Cash & The Tennessee Two – I Walk The Line
+Dolly Parton – Jolene
+Byrds – You Ain't Goin' Nowhere
+Kris Kristofferson – Sunday Morning Coming Down
+Taylor Swift – Nothing New
+Willie Nelson & Ray Charles – Seven Spanish Angels
+Everly Brothers – I'm So Lonesome I Could Cry
+
+++++
+<br clear="both">
+++++
+
+=== Ютори, 9 июня 2024
+<https://aerostatbg.ru/release/992>
+
+.Mark Knopfler – Bad Day A Knife Thrower
+image:MARK KNOPFLER/2024 - The Boy/cover.jpg[The Boy,200,200,role="thumb left"]
+
+[%hardbreaks]
+Mills Brothers – Tiger Rag
+Harold Budd – The Room Of Secondary Light
+George Jones – If Drinking Don't Kill Me (Her Memory Will)
+Four Tet – Watersynth
+Кино – Дерево
+Free – Wishing Well
+Huun-Huur-Tu, Carmen Rizzo, Dhani Harrison – Mazhalyk
+Mantra Of The Cosmos – Gorilla Guerilla
+Ricky Nelson – Hello, Mary Lou
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни. Июнь, 2 июня 2024
 <https://aerostatbg.ru/release/991>
+
+.Mark Knopfler – Mr. Solomons Said
+image:MARK KNOPFLER/2024 - The Boy/cover.jpg[The Boy,200,200,role="thumb left"]
 
 [%hardbreaks]
 Seasick Steve – Internet Cowboys
@@ -33,7 +154,6 @@ Guided By Voices – Cavemen Running Naked
 Beth Gibbons – Floating On A Moment
 Einstürzende Neubauten – Isso Isso
 William Elliott Whitmore – Be Still
-Mark Knopfler – Mr. Solomons Said
 Slowdive – Alife
 
 ++++
@@ -43,6 +163,9 @@ Slowdive – Alife
 === Австралия, 26 мая 2024
 <https://aerostatbg.ru/release/990>
 
+.Nick Cave & The Bad Seeds – Girl In Amber
+image:NICK CAVE/2016 - Skeleton Tree/cover.jpg[Skeleton Tree,200,200,role="thumb left"]
+
 [%hardbreaks]
 Lucksmiths – Synchronised Sinking
 King Gizzard & The Lizard Wizard – Nuclear Fusion
@@ -51,7 +174,6 @@ Easybeats – Friday On My Mind
 AC/DC – Back In Black
 Midnight Oil – Beds Are Burning
 Men At Work – Who Can It Be Now?
-Nick Cave & The Bad Seeds – Girl In Amber
 Rolf Harris – Tie Me Kangaroo Down, Sport
 Lucksmiths – The Great Dividing Range
 
@@ -193,14 +315,18 @@ Bothy Band – Calum Sgaire
 === Новые Песни Апреля, 7 апреля 2024
 <https://aerostatbg.ru/release/983>
 
+.Black Keys – Beautiful People (Stay High)
+image:Black Keys/2024 - Ohio Players/cover.png[Ohio Players,200,200,role="thumb left"]
+
+.Shabaka Hutchings – End Of Innocence
+image:Shabaka Hutchings - Perceive Its Beauty, Acknowledge Its Grace/cover.jpg[Perceive Its Beauty  Acknowledge Its Grace,200,200,role="thumb left"]
+
 [%hardbreaks]
-Black Keys – Beautiful People (Stay High)
 Waxahatchee – 365
 Pearl Jam – Dark Matter
 Katherine Priddy – Selah
 MC5 – Kick Out The Jams
 Blitzen Trapper – Hello Hallelujah
-Shabaka Hutchings – End Of Innocence
 Sahra Halgan – Laga
 Chris Brain – Now Westlin Winds
 Cast – Faraway
@@ -218,10 +344,18 @@ image:KING CRIMSON/2008 - Theo Travis and Robert Fripp - Thread/folder.jpg[Theo 
 .Johann Sebastian Bach – Orchestral Suite No. 3 in D major: I. Overture
 image:BACH/BWV 1066~1069, 1060, 1043 - Orchestral Suites/cover.jpg[Orchestral Suites,200,200,role="thumb left"]
 
+.Can – Sing Swan Song
+image:Can/1972 - Ege Bamyası/cover.jpg[Ege Bamyası,200,200,role="thumb left"]
+
+.Melanie – The Good Guys
+image:Melanie/1970 - Candles In The Rain/cover.jpg[Candles In The Rain,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 World Party – Is It Like Today?
-Melanie – The Good Guys
-Can – Sing Swan Song
 Paul McCartney & Wings – Mama's Little Girl
 БГ+ – На берегу пруда
 
@@ -233,7 +367,7 @@ Paul McCartney & Wings – Mama's Little Girl
 <https://aerostatbg.ru/release/981>
 
 .Jimmy Page & Robert Plant – Friends
-image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
+image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[Led Zeppelin,200,200,role="thumb left"]
 
 .Beatles – Within You Without You
 image:THE BEATLES/1967a - Sgt Peppers Lonely Hearts Club Band/cover.jpg[Sgt Peppers Lonely Hearts Club Band,200,200,role="thumb left"]
@@ -267,11 +401,17 @@ Rolling Stones – Little Red Rooster
 === Nu March Songs, 17 марта 2024
 <https://aerostatbg.ru/release/980>
 
+.Richard Thompson – Singapore Sadie
+image:RICHARD THOMPSON/2024 - Ship To Shore/Cover.jpg[Ship To Shore,200,200,role="thumb left"]
+
+.Smile – Read The Room
+image:Smile/Wall Of Eyes/cover.png[Wall Of Eyes,200,200,role="thumb left"]
+
+.Crowded House – Oh Hi
+image:CROWDED HOUSE/2024 - Gravity Stairs/Front.jpg[Gravity Stairs,200,200,role="thumb left"]
+
 [%hardbreaks]
-Crowded House – Oh Hi
 БГ+ – Текила, виски и джин
-Smile – Read The Room
-Richard Thompson – Singapore Sadie
 Eels – Time
 Pet Shop Boys – Loneliness
 Liam Gallagher & John Squire – Mars To Liverpool
@@ -332,6 +472,9 @@ Bereket Getachew – Afzeza
 .King Creosote – Love Is A Curse
 image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
 
+.King Crimson feat. Keith Tippett – Prince Rupert Awakes
+image:KING CRIMSON/1970 - Lizard/cover.jpg[Lizard,200,200,role="thumb left"]
+
 [%hardbreaks]
 Jack Bruce – There's A Forest
 Rhythms del Mundo feat. Jack Johnson – Better Together
@@ -340,7 +483,6 @@ Jack Hylton & His Orchestra – Happy Days Are Here Again
 Japan – Taking Islands In Africa
 Kevin Ayers – The Confessions of Doctor Dream, Part 1: Irreversible Neural Damage
 Terakaft – Alghalem
-King Crimson feat. Keith Tippett – Prince Rupert Awakes
 Eno Moebius Roedelius – Broken Head
 
 ++++
