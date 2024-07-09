@@ -31,13 +31,23 @@ image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Scie
 .Brian Eno – 2/1
 image:BRIAN ENO/Brian Eno - Music For Airports/cover.jpg[Music For Airports,200,200,role="thumb left"]
 
+.Roger Eno – Deep Blue Day (Piano Version)
+image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition CD1/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition CD1,200,200,role="thumb left"]
+
+.Aphex Twin – #17 (Z Twig)
+image:APHEX TWIN/Selected Ambient Works Volume II/cover.jpg[Selected Ambient Works Volume II,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Erik Satie – Gymnopédie No. 2
+image:Erik Satie - 3 Gymnopedies & other piano works (Pascal Roge)/front.jpg[3 Gymnopedies & other piano works (Pascal Roge),200,200,role="thumb left"]
+
 [%hardbreaks]
 Clive Wright & Harold Budd – Of Many Mirrors
 Daniel Lanois – Little Mustang (Gold Top Edition)
-Erik Satie – Gymnopédie No. 2
-Aphex Twin – #17 (Z Twig)
 David Bowie – Sense Of Doubt
-Roger Eno – Deep Blue Day (Piano Version)
 Hans Zimmer – Day One (Interstellar Theme)
 Linda Long – Clover (Trifolium repens) cyanogenic β-glucosidase
 
@@ -48,13 +58,17 @@ Linda Long – Clover (Trifolium repens) cyanogenic β-glucosidase
 === Новые песни июля, 30 июня 2024
 <https://aerostatbg.ru/release/995>
 
+.Iron & Wine feat. Fiona Apple – All In Good Time
+image:IRON AND WINE/Light Verse/cover.png[Light Verse,200,200,role="thumb left"]
+
+.A Lily – Flimkien Ngħaddu Mill-Bieb
+image:A Lily - Saru l-Qamar/cover.jpg[Saru l-Qamar,200,200,role="thumb left"]
+
 [%hardbreaks]
 Zawose Queens – Maisha
 Nick Cave & The Bad Seeds – Frogs
 Landless – Lúireach Bhríde
 Mysterines – Stray
-Iron & Wine feat. Fiona Apple – All In Good Time
-A Lily – Flimkien Ngħaddu Mill-Bieb
 Graham Gouldman – We're Alive
 F.Y.A.H. – Cool Down
 Luke Combs – The Man He Sees In Me
@@ -99,6 +113,9 @@ Landless – The Trees They Grow Tall
 === Country, 16 июня 2024
 <https://aerostatbg.ru/release/993>
 
+.Taylor Swift – Nothing New
+image:Taylor Swift - Red/cover.jpg[Red,200,200,role="thumb left"]
+
 [%hardbreaks]
 George Jones – You're Still On My Mind
 Waylon Jennings & Willie Nelson – Mammas Don't Let Your Babies Grow Up To Be Cowboys
@@ -111,7 +128,6 @@ Johnny Cash & The Tennessee Two – I Walk The Line
 Dolly Parton – Jolene
 Byrds – You Ain't Goin' Nowhere
 Kris Kristofferson – Sunday Morning Coming Down
-Taylor Swift – Nothing New
 Willie Nelson & Ray Charles – Seven Spanish Angels
 Everly Brothers – I'm So Lonesome I Could Cry
 
@@ -211,11 +227,19 @@ image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
 .Talking Heads – This Must Be the Place (Naïve Melody)
 image:Talking Heads/Speaking in Tongues/cover.jpg[Speaking in Tongues,200,200,role="thumb left"]
 
+.Steve Jansen – Ballad Of A Deadman
+image:Steve Jansen - Slope/Steve Jansen - Slope.jpg[Slope,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Sufjan Stevens – Futile Devices
+image:SUFJAN STEVENS/The Age of Adz/cover.jpg[The Age of Adz,200,200,role="thumb left"]
+
 [%hardbreaks]
 King Creosote – Love Is A Curse
 БГ+ – Не убивает
-Steve Jansen – Ballad Of A Deadman
-Sufjan Stevens – Futile Devices
 Who – Tattoo
 Stella Jang – Walking Down The Road
 Lei Qiang – Crescent Moon Before Dawn
