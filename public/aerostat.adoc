@@ -20,13 +20,75 @@ code {
 ++++
 
                                                                           
-== 39.
+== 40.
+
+=== 1001 Аэростат, 11 августа 2024
+<https://aerostatbg.ru/release/1001>
+
+.Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html#_vegetable_row[Vegetable Row]
+image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
+
+[%hardbreaks]
+Band – Ophelia
+Cocteau Twins & Harold Budd – Sea, Swallow Me
+John McCusker feat. Battlefield Band – The Shepherd Lad
+Barbara Keith – The Road I Took To You
+Aквариум – Дуй
+Cormac Breatnach – Mujeres
+Cornelius – Sleep Warm
+Roger McGuinn – May The Road Rise To Meet You
+
+++++
+<br clear="both">
+++++
+
+=== Творчество, 4 августа 2024
+<https://aerostatbg.ru/release/1001>
+
+.Bob Dylan - link:BOB%20DYLAN/Bob%20Dylan%201966%20-%20Blonde%20On%20Blonde/lyrics/blonde.html#_i_want_you[I Want You]
+image:BOB DYLAN/Bob Dylan 1966 - Blonde On Blonde/cover.jpg[Blonde On Blonde,200,200,role="thumb left"]
+
+.T-Rex – Lofty Skies
+image:T-REX/T-Rex - A Beard Of Stars/cover.jpg[Rex - A Beard Of Stars,200,200,role="thumb left"]
+
+.Archie Fisher – Upstairs And Downstairs
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_and_your_bird_can_sing[And Your Bird Can Sing]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Beatles - link:THE%20BEATLES/1967b%20-%20Magical%20Mystery%20Tour/lyrics/tour.html#_strawberry_fields_forever[Strawberry Fields Forever]
+image:THE BEATLES/1967b - Magical Mystery Tour/cover.jpg[Magical Mystery Tour,200,200,role="thumb left"]
+
+.Lovin’ Spoonful – Butchie’s Tune
+image:Lovin Spoonful - Daydream/cover.jpg[Daydream,200,200,role="thumb left"]
+
+.Simon & Garfunkel - link:SIMON%20&%20GARFUNKEL/Simon%20&%20Garfunkel%20-%20Parsley,%20Sage,%20Rosemary%20and%20Thyme/lyrics/parsley.html[Flowers Never Bend With the Rainfall]
+image:SIMON & GARFUNKEL/Simon & Garfunkel - Parsley, Sage, Rosemary and Thyme/cover.jpg[Parsley  Sage  Rosemary and Thyme,200,200,role="thumb left"]
+
+[%hardbreaks]
+Eric Burdon & The Animals – Orange And Red Beams
+Byrds – Wild Mountain Thyme
+King Crimson – Book of Saturdays
+Rolling Stones – Ruby Tuesday
+Family – My Friend The Sun
+
+++++
+<br clear="both">
+++++
 
 === Лунасса, 28 июля 2024
-<https://aerostatbg.ru/release/998>
+<https://aerostatbg.ru/release/999>
 
 .Archie Fisher – The Cruel Brother
 image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
+
+.Van Morrison & The Chieftains – Tá Mo Chleamhnas Déanta
+image:VAN MORRISON/Van Morrison - Irish Heartbeat/cover.jpg[Irish Heartbeat,200,200,role="thumb left"]
 
 [%hardbreaks]
 Lumiere – Fair And Tender Ladies
@@ -36,7 +98,6 @@ Bothy Band – The Butterfly
 Lumiere – The Streets Of Derry
 Ruth Notman – The Bonny Boy
 Robin Williamson – I'll Mak' Ye Fain to Follow Me
-Van Morrison & The Chieftains – Tá Mo Chleamhnas Déanta
 
 ++++
 <br clear="both">
@@ -45,10 +106,12 @@ Van Morrison & The Chieftains – Tá Mo Chleamhnas Déanta
 === Новые Имена, 21 июля 2024
 <https://aerostatbg.ru/release/998>
 
+.Tony Rice – Last Thing On My Mind
+image:Tony Rice - Church Street Blues/cover.jpg[Church Street Blues,200,200,role="thumb left"]
+
 [%hardbreaks]
 Units – High Pressure Days
 VOCES8 – Pyramid Song
-Tony Rice – Last Thing On My Mind
 Peter Murphy – Cuts You Up
 Anna Bon – Piano Sonata Op.2 No.2 Andante (Ivana Francisci)
 Paul Clayton – Who’s Gonna Buy You Ribbons (When I’m Gone)
@@ -61,655 +124,6 @@ Kedar Pandit & Sanjeev Abhyankar – Gayatri Invocation... Vakratunda Mahakaya
 ++++
 <br clear="both">
 ++++
-
-=== Шопенгауэр и Другие, 14 июля 2024
-<https://aerostatbg.ru/release/997>
-
-.Eels – Time
-image:EELS/2024 - Time!/cover.jpg[Time!,200,200,role="thumb left"]
-
-[%hardbreaks]
-Sandy Denny & The Strawbs – Nothing Else Will Do
-Sam Cooke & René Hall's Orchestra – I'll Come Running Back To You
-Kunihiko Ryo – Emma
-Hemant Kumar & Lata Mangeshkar – Tomar Holo Shuru Amar Holo Sara
-Lucky Dube – The Way It Is
-George Harrison – Beautiful Girl
-Edvard Grieg – From Holberg's Time, Op. 40: II. Sarabande
-Eels – We Won't See Her Like Again
-Jimi Hendrix – Golden Rose
-Tony Rice – Church Street Blues
-Idle Race – The End Of The Road
-
-++++
-<br clear="both">
-++++
-
-=== Ambient, 7 июля 2024
-<https://aerostatbg.ru/release/996>
-
-.Brian Eno – By This River
-image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Science,200,200,role="thumb left"]
-
-.Brian Eno – 2/1
-image:BRIAN ENO/Brian Eno - Music For Airports/cover.jpg[Music For Airports,200,200,role="thumb left"]
-
-.Roger Eno – Deep Blue Day (Piano Version)
-image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition CD1/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition CD1,200,200,role="thumb left"]
-
-.Aphex Twin – #17 (Z Twig)
-image:APHEX TWIN/Selected Ambient Works Volume II/cover.jpg[Selected Ambient Works Volume II,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-.Erik Satie – Gymnopédie No. 2
-image:Erik Satie - 3 Gymnopedies & other piano works (Pascal Roge)/front.jpg[3 Gymnopedies & other piano works (Pascal Roge),200,200,role="thumb left"]
-
-[%hardbreaks]
-Clive Wright & Harold Budd – Of Many Mirrors
-Daniel Lanois – Little Mustang (Gold Top Edition)
-David Bowie – Sense Of Doubt
-Hans Zimmer – Day One (Interstellar Theme)
-Linda Long – Clover (Trifolium repens) cyanogenic β-glucosidase
-
-++++
-<br clear="both">
-++++
-
-=== Новые песни июля, 30 июня 2024
-<https://aerostatbg.ru/release/995>
-
-.Iron & Wine feat. Fiona Apple – All In Good Time
-image:IRON AND WINE/Light Verse/cover.png[Light Verse,200,200,role="thumb left"]
-
-.A Lily – Flimkien Ngħaddu Mill-Bieb
-image:A Lily - Saru l-Qamar/cover.jpg[Saru l-Qamar,200,200,role="thumb left"]
-
-[%hardbreaks]
-Zawose Queens – Maisha
-Nick Cave & The Bad Seeds – Frogs
-Landless – Lúireach Bhríde
-Mysterines – Stray
-Graham Gouldman – We're Alive
-F.Y.A.H. – Cool Down
-Luke Combs – The Man He Sees In Me
-Ringo Starr – Crooked Boy
-
-++++
-<br clear="both">
-++++
-
-=== То да Сё №37, 23 июня 2024
-<https://aerostatbg.ru/release/994>
-
-.Leon Redbone – Sweet Sue (Just You)
-image:LEON REDBONE/Champagne Charlie/cover.jpg[Champagne Charlie,200,200,role="thumb left"]
-
-.Electric Light Orchestra – Strange Magic
-image:Electric Light Orchestra/11_Face The Music (1975)/cover.jpg[11_Face The Music (1975),200,200,role="thumb left"]
-
-.Judy Collins – Hey, That's No Way To Say Goodbye
-image:Judy Collins - Wildflowers/folder.jpg[Wildflowers,200,200,role="thumb left"]
-
-.Paul McCartney & The Wings – I'll Give You A Ring
-image:PAUL MCCARTNEY/Tug of War 24bit Deluxe Edition/cover.jpg[Tug of War 24bit Deluxe Edition,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-[%hardbreaks]
-Paul McCartney & The Wings – All Of You
-Iron Butterfly – In The Crowds
-Sam Lee – Bushes And Briars
-Ralph McTell – Mrs Adlam's Angels
-Françoise Hardy – Tous les garçons et les filles
-Landless – The Trees They Grow Tall
-Сплин – Древний грек
-
-++++
-<br clear="both">
-++++
-
-=== Country, 16 июня 2024
-<https://aerostatbg.ru/release/993>
-
-.Taylor Swift – Nothing New
-image:Taylor Swift - Red/cover.jpg[Red,200,200,role="thumb left"]
-
-[%hardbreaks]
-George Jones – You're Still On My Mind
-Waylon Jennings & Willie Nelson – Mammas Don't Let Your Babies Grow Up To Be Cowboys
-Eck Robertson & Family – Brilliancy Medley
-Jimmie Rodgers – The Soldier's Sweetheart
-Hank Williams – Hey, Good Lookin'
-Bill Monroe & The Bluegrass Boys – Footprints In The Snow
-Gene Vincent & His Blue Caps – Be-Bop-a-Lula
-Johnny Cash & The Tennessee Two – I Walk The Line
-Dolly Parton – Jolene
-Byrds – You Ain't Goin' Nowhere
-Kris Kristofferson – Sunday Morning Coming Down
-Willie Nelson & Ray Charles – Seven Spanish Angels
-Everly Brothers – I'm So Lonesome I Could Cry
-
-++++
-<br clear="both">
-++++
-
-=== Ютори, 9 июня 2024
-<https://aerostatbg.ru/release/992>
-
-.Mark Knopfler – Bad Day A Knife Thrower
-image:MARK KNOPFLER/2024 - The Boy/cover.jpg[The Boy,200,200,role="thumb left"]
-
-[%hardbreaks]
-Mills Brothers – Tiger Rag
-Harold Budd – The Room Of Secondary Light
-George Jones – If Drinking Don't Kill Me (Her Memory Will)
-Four Tet – Watersynth
-Кино – Дерево
-Free – Wishing Well
-Huun-Huur-Tu, Carmen Rizzo, Dhani Harrison – Mazhalyk
-Mantra Of The Cosmos – Gorilla Guerilla
-Ricky Nelson – Hello, Mary Lou
-
-++++
-<br clear="both">
-++++
-
-=== Новые Песни. Июнь, 2 июня 2024
-<https://aerostatbg.ru/release/991>
-
-.Mark Knopfler – Mr. Solomons Said
-image:MARK KNOPFLER/2024 - The Boy/cover.jpg[The Boy,200,200,role="thumb left"]
-
-[%hardbreaks]
-Seasick Steve – Internet Cowboys
-Bat For Lashes – The Dream Of Delphi
-Mdou Moctar – Imouhar
-Guided By Voices – Cavemen Running Naked
-Beth Gibbons – Floating On A Moment
-Einstürzende Neubauten – Isso Isso
-William Elliott Whitmore – Be Still
-Slowdive – Alife
-
-++++
-<br clear="both">
-++++
-
-=== Австралия, 26 мая 2024
-<https://aerostatbg.ru/release/990>
-
-.Nick Cave & The Bad Seeds – Girl In Amber
-image:NICK CAVE/2016 - Skeleton Tree/cover.jpg[Skeleton Tree,200,200,role="thumb left"]
-
-[%hardbreaks]
-Lucksmiths – Synchronised Sinking
-King Gizzard & The Lizard Wizard – Nuclear Fusion
-Lazy Harry – Wild Colonial Boy
-Easybeats – Friday On My Mind
-AC/DC – Back In Black
-Midnight Oil – Beds Are Burning
-Men At Work – Who Can It Be Now?
-Rolf Harris – Tie Me Kangaroo Down, Sport
-Lucksmiths – The Great Dividing Range
-
-++++
-<br clear="both">
-++++
-
-=== Новые Имена, 19 мая 2024
-<https://aerostatbg.ru/release/989>
-
-[%hardbreaks]
-Knack – My Sharona
-Asa Tone – Perpetual Motion Via Jungle Transport
-T Bone Burnett feat. Steven Soles – Hawaiian Blue Songs
-Slowdive – Slomo
-Louise Ferrenc – Quintet for Piano and Winds, Op. 8: III. Scherzo
-Maya Ongaku – Something In Morning Rain
-Avett Brothers – Live And Die
-Stephen Marley feat. Ziggy Marley – There's A Reward
-Séamus Ennis – A Little Bench Of Rushes
-
-++++
-<br clear="both">
-++++
-
-=== Боги и Тату, 12 мая 2024
-<https://aerostatbg.ru/release/988>
-
-.King Creosote – I Des
-image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
-
-.Beck – Turn Away
-image:BECK/Morning Phase/Cover.jpg[Morning Phase,200,200,role="thumb left"]
-
-.Talking Heads – This Must Be the Place (Naïve Melody)
-image:Talking Heads/Speaking in Tongues/cover.jpg[Speaking in Tongues,200,200,role="thumb left"]
-
-.Steve Jansen – Ballad Of A Deadman
-image:Steve Jansen - Slope/Steve Jansen - Slope.jpg[Slope,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-.Sufjan Stevens – Futile Devices
-image:SUFJAN STEVENS/The Age of Adz/cover.jpg[The Age of Adz,200,200,role="thumb left"]
-
-[%hardbreaks]
-King Creosote – Love Is A Curse
-БГ+ – Не убивает
-Who – Tattoo
-Stella Jang – Walking Down The Road
-Lei Qiang – Crescent Moon Before Dawn
-King Creosote – Walter de la Nightmare
-
-++++
-<br clear="both">
-++++
-
-=== Новые песни мая. Пасха, 5 мая 2024
-<https://aerostatbg.ru/release/987>
-
-.Bonnie 'Prince' Billy – Like It Or Not
-image:Bonnie Prince Billy/2023 Keeping Secrets Will Destroy You/cover.jpg[2023 Keeping Secrets Will Destroy You,200,200,role="thumb left"]
-
-.George Harrison - link:GEORGE%20HARRISON/George%20Harrison%20-%20Best%20Of%20Dark%20Horse%201976-1989/lyrics/darkhorse.html#_blow_away[Blow Away]
-image:GEORGE HARRISON/George Harrison - Best Of Dark Horse 1976-1989/Folder.jpg[Best Of Dark Horse 1976-1989,200,200,role="thumb left"]
-
-[%hardbreaks]
-David Gilmour – The Piper's Call
-Brad Mehldau – Between Bach
-Thom Yorke – Knife Edge
-Johnny Cash – Well Alright
-Brian Eno feat. Leo Abrahams, Jon Hopkins – Emerald And Lime
-UB40 – Home
-Yard Act – The Undertow
-
-++++
-<br clear="both">
-++++
-
-=== Beltain Красота, 28 апреля 2024
-<https://aerostatbg.ru/release/986>
-
-.Planxty – 'P' Stands For Paddy, I Suppose
-image:PLANXTY/Planxty 1974 - Cold Blow and the Rainy Night/cover.jpg[Cold Blow and the Rainy Night,200,200,role="thumb left"]
-
-[%hardbreaks]
-Chieftains – An Dhruimfhionn Donn Dílis (Slow Air)
-Tannas – Sabhal Ia'n 'ic Uisdean
-Old Blind Dogs – Johnny O' Braidislee
-Guidewires, Pádraig Rynne, Tóla Custy, Sylvain Barou, Karol Lynch & Paul McSherry (feat. Mike Shimmin) – Caoimhín
-Silly Sisters – How Shall I Your True Love Know?
-Silly Wizard – Tha Mi Sgith (Strathspey) / Eck Stewart's March / MacKenzie's Fancy (Marches)
-Dick Gaughan – The Recruited Collier
-Anna Mhoireach – Tìr nan Òg
-High Level Ranters – Fortune Turns The Wheel
-
-++++
-<br clear="both">
-++++
-
-=== То да Сё №35, 21 апреля 2024
-<https://aerostatbg.ru/release/985>
-
-.Jimmy Page & Robert Plant - link:ROBERT%20PLANT/Robert%20Plant%20-%20Sixty%20Six%20To%20Timbuktu%20(Disc%201)/lyrics/timbuktu.html#_rude_world[Rude World]
-image:ROBERT PLANT/Robert Plant - Sixty Six To Timbuktu (Disc 1)/cover.jpg[Sixty Six To Timbuktu (Disc 1),200,200,role="thumb left"]
-
-.Cat Stevens – Angelsea
-image:CAT STEVENS/Catch Bull At Four/front.jpg[Catch Bull At Four,200,200,role="thumb left"]
-
-.Beatles – Keep Your Hands Off My Baby
-image:THE BEATLES/Live at the BBC/cover.jpg[Live at the BBC,200,200,role="thumb left"]
-
-[%hardbreaks]
-Buddy Greco – The Lady Is A Tramp
-James McCartney – Primrose Hill
-Kraftwerk – The Hall of Mirrors
-Jimmy Page & Robert Plant – Most High
-Antonio Cece, Ludovica Bastianini & Nico Sommese – Seikilos Epitaph
-Paul McCartney – Yvonne's The One
-
-++++
-<br clear="both">
-++++
-
-=== Новые Имена, 14 апреля 2024
-<https://aerostatbg.ru/release/984>
-
-[%hardbreaks]
-Pietro Mascagni – Cavalleria Rusticana: Intermezzo
-Noga Erez feat. Reo Cragun & Rousso – Views
-Ruhollâh Khâleqi feat. Gholâm-Hoseyn Banân – Shab-e Javâni
-Limp Bizkit – My Way
-High Level Ranters – Fortune Turns The Wheel
-Marie Laforêt – Mon amour, mon ami
-Bothy Band – Fionnghuala
-Erroll Garner – Misty
-Fungus – Farewell To Tarwathie
-António Carreira – Canção a quatro glosada
-Bothy Band – Calum Sgaire
-
-++++
-<br clear="both">
-++++
-
-=== Новые Песни Апреля, 7 апреля 2024
-<https://aerostatbg.ru/release/983>
-
-.Black Keys – Beautiful People (Stay High)
-image:Black Keys/2024 - Ohio Players/cover.png[Ohio Players,200,200,role="thumb left"]
-
-.Shabaka Hutchings – End Of Innocence
-image:Shabaka Hutchings - Perceive Its Beauty, Acknowledge Its Grace/cover.jpg[Perceive Its Beauty  Acknowledge Its Grace,200,200,role="thumb left"]
-
-[%hardbreaks]
-Waxahatchee – 365
-Pearl Jam – Dark Matter
-Katherine Priddy – Selah
-MC5 – Kick Out The Jams
-Blitzen Trapper – Hello Hallelujah
-Sahra Halgan – Laga
-Chris Brain – Now Westlin Winds
-Cast – Faraway
-
-++++
-<br clear="both">
-++++
-
-=== То да Сё №34, 31 марта 2024
-<https://aerostatbg.ru/release/982>
-
-.Theo Travis & Robert Fripp – The Power To Believe / Pastorale
-image:KING CRIMSON/2008 - Theo Travis and Robert Fripp - Thread/folder.jpg[Theo Travis and Robert Fripp - Thread,200,200,role="thumb left"]
-
-.Johann Sebastian Bach – Orchestral Suite No. 3 in D major: I. Overture
-image:BACH/BWV 1066~1069, 1060, 1043 - Orchestral Suites/cover.jpg[Orchestral Suites,200,200,role="thumb left"]
-
-.Can – Sing Swan Song
-image:Can/1972 - Ege Bamyası/cover.jpg[Ege Bamyası,200,200,role="thumb left"]
-
-.Melanie – The Good Guys
-image:Melanie/1970 - Candles In The Rain/cover.jpg[Candles In The Rain,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-[%hardbreaks]
-World Party – Is It Like Today?
-Paul McCartney & Wings – Mama's Little Girl
-БГ+ – На берегу пруда
-
-++++
-<br clear="both">
-++++
-
-=== Свадьба Культур, 24 марта 2024
-<https://aerostatbg.ru/release/981>
-
-.Jimmy Page & Robert Plant – Friends
-image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[Led Zeppelin,200,200,role="thumb left"]
-
-.Beatles – Within You Without You
-image:THE BEATLES/1967a - Sgt Peppers Lonely Hearts Club Band/cover.jpg[Sgt Peppers Lonely Hearts Club Band,200,200,role="thumb left"]
-
-.Astrud Gilberto – The Girl From Ipanema
-image:Gilberto Astrud/Verve Jazz Masters 9/cover.jpg[Verve Jazz Masters 9,200,200,role="thumb left"]
-
-.Paul Simon – Diamonds On The Soles Of Her Shoes
-image:PAUL SIMON/Paul Simon - Graceland/Folder.jpg[Graceland,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-.Beatles – The Inner Light
-image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
-
-.Silly Wizard – Highland Clearances
-image:SILLY WIZARD/Silly Wizard - So Many Partings/cover.jpg[So Many Partings,200,200,role="thumb left"]
-
-[%hardbreaks]
-Specials – Stupid Marriage
-George Harrison – Singing Om
-Rolling Stones – Little Red Rooster
-Борис Гребенщиков – Голубиное слово
-
-++++
-<br clear="both">
-++++
-
-=== Nu March Songs, 17 марта 2024
-<https://aerostatbg.ru/release/980>
-
-.Richard Thompson – Singapore Sadie
-image:RICHARD THOMPSON/2024 - Ship To Shore/Cover.jpg[Ship To Shore,200,200,role="thumb left"]
-
-.Smile – Read The Room
-image:Smile/Wall Of Eyes/cover.png[Wall Of Eyes,200,200,role="thumb left"]
-
-.Crowded House – Oh Hi
-image:CROWDED HOUSE/2024 - Gravity Stairs/Front.jpg[Gravity Stairs,200,200,role="thumb left"]
-
-[%hardbreaks]
-БГ+ – Текила, виски и джин
-Eels – Time
-Pet Shop Boys – Loneliness
-Liam Gallagher & John Squire – Mars To Liverpool
-Kacey Musgraves – Too Good To Be True
-Richard Hawley – Two For His Heels
-Keith Richards – I'm Waiting For The Man
-
-++++
-<br clear="both">
-++++
-
-=== Ответы на Ваши Вопросы, 10 марта 2024
-<https://aerostatbg.ru/release/979>
-
-.Jethro Tull – Slipstream
-image:JETHRO TULL/1971  Aqualung/cover.jpg[1971  Aqualung,200,200,role="thumb left"]
-
-.Donovan – The Little Tin Soldier
-image:DONOVAN/Donovan - Fairytale/cover.jpg[Fairytale,200,200,role="thumb left"]
-
-[%hardbreaks]
-Roxy Music – Over You
-Séamus Begley – Will You Go To Flanders
-Searchers – Someday We're Gonna Love Again
-Claude Le Jeune – Un gentil amoureux
-Jimi Hendrix – One Rainy Wish
-Deep Purple – Black Night
-Аквариум – Нога судьбы
-State of Bengal & Paban Das Baul – Moner Manush
-Martin Carthy & Family – Hog-Eye Man
-
-++++
-<br clear="both">
-++++
-
-=== New Имена, 3 марта 2024
-<https://aerostatbg.ru/release/978>
-
-[%hardbreaks]
-Adama Koita – Fantainfalla Toyi Bolo
-Them Crooked Vultures – Gunman
-Amistat – Seasons
-Kaleo – Way Down We Go
-Mississippi Fred McDowell – You Gotta Move
-Vieux Farka Touré & Julia Easterlin – A'Bashiye
-McDonald & Giles – Is She Waiting?
-Barbara Strozzi – Che si può fare
-Ariel Kalma, Jeremiah Chiu & Marta Sofia Honer – A Treasure Chest
-Bereket Getachew – Afzeza
-
-++++
-<br clear="both">
-++++
-
-=== Кодекс Джедая, 25 февраля 2024 
-<https://aerostatbg.ru/release/977>
-
-.King Creosote – Love Is A Curse
-image:King Creosote/2023 - I DES/cover.jpg[I DES,200,200,role="thumb left"]
-
-.King Crimson feat. Keith Tippett – Prince Rupert Awakes
-image:KING CRIMSON/1970 - Lizard/cover.jpg[Lizard,200,200,role="thumb left"]
-
-[%hardbreaks]
-Jack Bruce – There's A Forest
-Rhythms del Mundo feat. Jack Johnson – Better Together
-Thomas Mapfumo & The Blacks Unlimited – Tombi Wachena
-Jack Hylton & His Orchestra – Happy Days Are Here Again
-Japan – Taking Islands In Africa
-Kevin Ayers – The Confessions of Doctor Dream, Part 1: Irreversible Neural Damage
-Terakaft – Alghalem
-Eno Moebius Roedelius – Broken Head
-
-++++
-<br clear="both">
-++++
-
-=== О Чём Ваши Песни? 18 февраля 2024 
-<https://aerostatbg.ru/release/976>
-
-.Robert Plant – Falling In Love Again
-image:ROBERT PLANT/2010 - Band of Joy/120s8xu.jpg[Band of Joy,200,200,role="thumb left"]
-
-.Richard Thompson – Ghost Of You Walks
-image:RICHARD THOMPSON/2001 - Action Packed - The Best of the Capitol Years/cover.jpg[Action Packed - The Best of the Capitol Years,200,200,role="thumb left"]
-
-.Leonard Cohen - link:LEONARD%20COHEN/Leonard%20Cohen%20-%20Ten%20New%20Songs/lyrics/ten.html#_by_the_rivers_dark[By The Rivers Dark]
-image:LEONARD COHEN/Leonard Cohen - Ten New Songs/cover.jpg[Ten New Songs,200,200,role="thumb left"]
-
-.Steeleye Span – Little Sir Hugh
-image:STEELEYE SPAN/Steeleye Span - Commoners Crown/cover.jpg[Commoners Crown,200,200,role="thumb left"]
-
-++++
-<br clear="both">
-++++
-
-.Damian Marley – Time Travel
-image:Damian Marley - Stony Hill/cover.jpg[Stony Hill,200,200,role="thumb left"]
-
-[%hardbreaks]
-Tony Scott – Za-Zen (Meditation)
-Bob Marley & The Wailers – Ride Natty Ride
-Rolling Stones – Angie
-David Bowie – Because You're Young
-БГ+ – Bernie & Ciaran
-
-++++
-<br clear="both">
-++++
-
-=== День Серебра, 11 февраля 2024 
-<https://aerostatbg.ru/release/975>
-
-[%hardbreaks]
-Аквариум – Сидя На Красивом Холме
-Аквариум – Иван Бодхидхарма
-Аквариум – Дело Мастера Бо
-Аквариум – Выстрелы С Той Стороны
-Аквариум – Двигаться Дальше
-Аквариум – Она не знает, что это (Сны)
-Аквариум – Электричество
-Аквариум – Глаз
-Аквариум – Здравствуй, Моя Смерть
-Аквариум – Колыбельная
-Аквариум – Пока Не Начался Джаз
-
-++++
-<br clear="both">
-++++
-
-=== New February Songs, 4 февраля 2024 
-<https://aerostatbg.ru/release/974>
-
-[%hardbreaks]
-Vaccines – Lunar Eclipse
-Cosmo Sheldrake – Stop The Music
-Ambrose Akinmusire feat. Bill Frisell & Herlin Riley – Weighted Corners
-Solomon – Bloom
-Jesus and Mary Chain – Chemical Animal
-Hans-Joachim Roedelius & Arnold Kasar – Wordless
-Castellows – I Know It'll Never End
-Villagers – That Golden Time
-Les Amazones d'Afrique – Kuma Fo
-Malice K – Radio
-Noah Kahan – Stick Season
-
-++++
-<br clear="both">
-++++
-
-=== Химолк 2024, 28 января 2024
-<https://aerostatbg.ru/release/973>
-
-.Flook – Ellie Goes West
-image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
-
-[%hardbreaks]
-Martin Carthy feat. Dave Swarbrick – And A-Begging I Will Go
-Richard Thompson – Light Bob's Lassie
-Watersons – The Greenland Whale Fishery
-Lumiere – Edward On Loch Erne's Shore
-Nic Jones – The Little Pot Stove
-Kate Rusby – Broken-Hearted I Will Wander
-Andy M. Stewart – I'd Cross The Wild Atlantic
-Chieftains & The Low Anthem – School Days Over
-
-++++
-<br clear="both">
-++++
-
-=== Коммерция и Му, 21 января 2024
-<https://aerostatbg.ru/release/972>
-
-.Planxty – Sí bheag, Sí mhór
-image:PLANXTY/Planxty 1973 - Planxty/cover.jpg[Planxty,200,200,role="thumb left"]
-
-[%hardbreaks]
-Русско-Абиссинский оркестр – Zarn Hlar
-Аквариум – Иван-чай
-ABBA – The Winner Takes It All
-Afro Celt Sound System feat. Sinéad O'Connor – Release
-Beatles – There's A Place
-Brian Setzer – Let's Shake
-Weepies, Deb Talan & Steve Tannen – Gotta Have You
-Phil Cunningham & Aly Bain – Spring The Summer Long
-Bryan Ferry – I'll See You Again
-
-++++
-<br clear="both">
-++++
-
-=== New January songs, 14 января 2024
-<https://aerostatbg.ru/release/971>
-
-[%hardbreaks]
-Grandaddy – Watercooler
-Joe Jackson & Max Champion – The Bishop And The Actress
-Dead South – A Little Devil
-Lee Scratch Perry feat. Greentea Peng – 100lbs Of Summer
-БГ – Saraswati
-Bill Ryder-Jones – If Tomorrow Starts Without Me
-Ty Segall – My Best Friend
-Joni Mitchell – Like Veils Said Lorraine
-Cast – Faraway
-
-
-++++
-<br clear="both">
-++++
-
----
 
 > link:aerostat.html[<Home>]
 > link:toc.html[<Contents>]
