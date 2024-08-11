@@ -160,9 +160,13 @@ Everly Brothers – I'm So Lonesome I Could Cry
 .Mark Knopfler – Bad Day A Knife Thrower
 image:MARK KNOPFLER/2024 - The Boy/cover.jpg[The Boy,200,200,role="thumb left"]
 
+.Mills Brothers – Tiger Rag
+image:Mills Brothers - The Anthology 1931-1968/albumart.jpg[The Anthology 1931-1968,200,200,role="thumb left"]
+
+.Harold Budd – The Room Of Secondary Light
+image:Harold Budd - The Room/cover.jpg[The Room,200,200,role="thumb left"]
+
 [%hardbreaks]
-Mills Brothers – Tiger Rag
-Harold Budd – The Room Of Secondary Light
 George Jones – If Drinking Don't Kill Me (Her Memory Will)
 Four Tet – Watersynth
 Кино – Дерево
