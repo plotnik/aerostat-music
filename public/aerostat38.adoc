@@ -453,7 +453,7 @@ Gus Teja World Music – Beauty In Colors
 <https://aerostatbg.ru/release/953>
 
 .Band – Across The Great Divide
-image:The Band 1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
+image:The Band/1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
 
 .Shirley & Dolly Collins – Fare Thee Well My Dearest Dear
 image:Shirley & Dolly Collins - Anthems in Eden/folder.jpg[Anthems in Eden,200,200,role="thumb left"]

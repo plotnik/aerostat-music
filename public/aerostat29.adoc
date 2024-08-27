@@ -558,7 +558,7 @@ Alice Coltrane - Jagadishwar
 <https://aerostatbg.ru/release/704>
 
 .Band - Across The Great Divide
-image:The Band 1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
+image:The Band/1969 - The Band/Folder.jpg[The Band,200,200,role="thumb left"]
 
 [%hardbreaks]
 Band - The Night They Drove Old Dixie Down

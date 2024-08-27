@@ -22,14 +22,57 @@ code {
                                                                           
 == 40.
 
+=== Мантры и Слова, 25 августа 2024
+<https://aerostatbg.ru/release/1002>
+
+.Krishna Das – Hara Hara Mahadev
+image:KRISHNA DAS/1998 - Pilgrim Heart/cover.jpg[Pilgrim Heart,200,200,role="thumb left"]
+
+.David Sylvian – Orpheus
+image:David Sylvian/1987 - Secrets Of The Beehive/Folder.jpg[Secrets Of The Beehive,200,200,role="thumb left"]
+
+.Robert Fripp – Music For Quiet Moments 30 – Strong Quiet I
+image:KING CRIMSON/Robert Fripp - Music For Quiet Moments Vol. 1-52/cover.jpg[Music For Quiet Moments Vol. 1-52,200,200,role="thumb left"]
+
+[%hardbreaks]
+Fratellis – Alive
+David Bowie – Station To Station
+Johann Sebastian Bach – Concerto for two harpsichords in C minor: II. Adagio
+    
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Августа, 18 августа 2024
+<https://aerostatbg.ru/release/1002>
+
+[%hardbreaks]
+Pom Poko – Champion
+Wett Brain, Kabaka Pyramid & tbriz – Too Irie
+Laurie Anderson feat. Anohni – India And On Down To Australia
+Eminem – Houdini
+Jónsi – Cherry Blossom
+Oso Oso – The Country Club
+Chrystabell & David Lynch – She Knew
+Archie Fisher – Men O' Worth
+Alan Sparhawk – Can U Hear
+Courteneers – Solitude Of The Night Bus
+Bryan Ferry – She Belongs To Me
+
+++++
+<br clear="both">
+++++
+
 === 1001 Аэростат, 11 августа 2024
 <https://aerostatbg.ru/release/1001>
 
 .Cotton Mather - link:COTTON%20MATHER/Cotton%20Mather%20-%20Kon%20Tiki/lyrics/kontiki.html#_vegetable_row[Vegetable Row]
 image:COTTON MATHER/Cotton Mather - Kon Tiki/Folder.jpg[Kon Tiki,200,200,role="thumb left"]
 
+.Band – Ophelia
+image:The Band/2013 - Opus Collection/cover.jpg[Opus Collection,200,200,role="thumb left"]
+
 [%hardbreaks]
-Band – Ophelia
 Cocteau Twins & Harold Budd – Sea, Swallow Me
 John McCusker feat. Battlefield Band – The Shepherd Lad
 Barbara Keith – The Road I Took To You

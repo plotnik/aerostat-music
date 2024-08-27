@@ -139,6 +139,11 @@
 - link:./MR%20FOX/1971%20-%20The%20Gypsy/lyrics/gypsy.html[MR FOX/1971 - The Gypsy]
 
 
+=== N
+
+- link:./NICK%20CAVE/1990%20-%20The%20Good%20Son/lyrics/good_son.html[NICK CAVE/1990 - The Good Son]
+
+
 === P
 
 - link:./PAUL%20MCCARTNEY/Paul%20McCartney%20-%20Chaos%20And%20Creation%20In%20The%20Backyard/lyrics/backyard.html[PAUL MCCARTNEY/Paul McCartney - Chaos And Creation In The Backyard]
