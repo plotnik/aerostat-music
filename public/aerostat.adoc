@@ -22,6 +22,61 @@ code {
                                                                           
 == 40.
 
+=== То да Сё №38, 29 сентября 2024
+<https://aerostatbg.ru/release/1008>
+
+.Damien Rice – Delicate
+image:DAMIEN RICE/Damien Rice - O/Damien_Rice_O_album_cover.jpg[O,200,200,role="thumb left"]
+
+.New Vaudeville Band – Peek-A-Boo
+image:New Vaudeville Band - 1967 - Winchester Cathedral/cover.jpg[1967 - Winchester Cathedral,200,200,role="thumb left"]
+
+.Tom Petty & The Heartbreakers – You Got Lucky
+image:TOM PETTY/Tom Petty - Long After Dark/Folder.jpg[Long After Dark,200,200,role="thumb left"]
+
+.Villagers – Nothing Arrived
+image:VILLAGERS/2013 - Awayland/folder.jpg[Awayland,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Whistlebinkies – My Bonny Moor Hen
+image:Whistlebinkies/2006 - Albannach/front.jpg[Albannach,200,200,role="thumb left"]
+
+.Beatles – Rain
+image:THE BEATLES/1988 - Past Masters/cover.jpg[Past Masters,200,200,role="thumb left"]
+
+[%hardbreaks]
+John Mayall & The Bluesbreakers – All Your Love
+Cream – Wrapping Paper
+Who – Whiskey Man
+Bing Crosby & Victor Young – I Apologize
+Country Joe & The Fish – Sad And Lonely Times
+
+++++
+<br clear="both">
+++++
+
+=== Новые Имена, 22 сентября 2024
+<https://aerostatbg.ru/release/1007>
+
+[%hardbreaks]
+David Carroll – Gentlemen Of High Renown
+Sizzla – Political Lies
+Wolfgang Press – Going South
+Mahlathini & The Mahotella Queens – Lilizela Mlilizeli
+Pill – Bale Of Hay
+Dorothy Carter – The Morning Star
+Jimmy Reed – Baby What You Want Me To Do
+Count Basie & Jimmy Rushing – Goin' To Chicago Blues
+Eiko Ishibashi – Evil Does Not Exist
+Edmofo & Camélia Jordana – Doudou
+
+++++
+<br clear="both">
+++++
+
 === Квадратный Корень из Солнца, 15 сентября 2024
 <https://aerostatbg.ru/release/1006>
 
@@ -129,12 +184,14 @@ Johann Sebastian Bach – Concerto for two harpsichords in C minor: II. Adagio
 === Новые Песни Августа, 18 августа 2024
 <https://aerostatbg.ru/release/1002>
 
+.Jónsi – Cherry Blossom
+image:Jonsi/First Light/cover.jpg[First Light,200,200,role="thumb left"]
+
 [%hardbreaks]
 Pom Poko – Champion
 Wett Brain, Kabaka Pyramid & tbriz – Too Irie
 Laurie Anderson feat. Anohni – India And On Down To Australia
 Eminem – Houdini
-Jónsi – Cherry Blossom
 Oso Oso – The Country Club
 Chrystabell & David Lynch – She Knew
 Archie Fisher – Men O' Worth

@@ -657,7 +657,7 @@ Moody Blues – Are You Sitting Comfortable?
 <https://aerostatbg.ru/release/864>
 
 .Jonsi – Obsidian
-image:Jonsi - Obsidian/cover.jpg[Obsidian,200,200,role="thumb left"]
+image:Jonsi/Obsidian/cover.jpg[Obsidian,200,200,role="thumb left"]
 
 .Taylor Swift feat. Phoebe Bridgers – Nothing New
 image:Taylor Swift - Red/cover.jpg[Red,200,200,role="thumb left"]
