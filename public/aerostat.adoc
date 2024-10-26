@@ -22,6 +22,81 @@ code {
                                                                           
 == 40.
 
+=== То да Сё – Исцеление, 20 октября 2024
+<https://aerostatbg.ru/release/1011>
+
+.Beatles – Another Girl
+image:THE BEATLES/The Beatles - Help!/front.jpg[Help!,200,200,role="thumb left"]
+
+.Jethro Tull – Skating Away (On The Thin Ice Of The New Day)
+image:JETHRO TULL/2007 - The Best Of Acoustic Jethro Tull/cover.jpg[The Best Of Acoustic Jethro Tull,200,200,role="thumb left"]
+
+.Procol Harum - link:PROCOL%20HARUM/1973%20-%20Grand%20Hotel/lyrics/grand.html#_for_liquorice_john[For Liquorice John]
+image:PROCOL HARUM/1973 - Grand Hotel/images.jpg[Grand Hotel,200,200,role="thumb left"]
+
+.George Harrison – Someplace Else
+image:GEORGE HARRISON/George Harrison - Cloud Nine/cover.jpg[Cloud Nine,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+T-Rex – Demon Queen
+Smile – Instant Psalm
+Pink Floyd – Burning Bridges
+Kris Kristofferson – Loving Her Was Easier (Than Anything I'll Ever Do Again)
+Sérgio Mendes – Mas Que Nada
+Phoebe Bridgers – Funeral
+
+++++
+<br clear="both">
+++++
+
+=== История Цивилизаций, 13 октября 2024
+<https://aerostatbg.ru/release/1010>
+
+.Cat Stevens – O' Caritas
+image:CAT STEVENS/Catch Bull At Four/front.jpg[Catch Bull At Four,200,200,role="thumb left"]
+
+.Paul Simon - link:PAUL%20SIMON/Paul%20Simon%20-%20Songwriter/lyrics/songwriter.html#_ren%C3%A9_and_georgette_magritte_with_their_dog_after_the_war[René And Georgette Magritte With Their Dog After The War]
+image:PAUL SIMON/Paul Simon - Songwriter/cover.jpg[Songwriter,200,200,role="thumb left"]
+
+.Led Zeppelin – No Quarter
+image:LED ZEPPELIN/Led Zeppelin - House Of The Holy/House Of The Holy.jpg[House Of The Holy,200,200,role="thumb left"]
+
+[%hardbreaks]
+Who – Heinz Baked Beans
+Brian Finnegan – Ton bale ar pont
+Jimmy Page & Robert Plant – The Truth Explodes
+Дживан Гаспарян – Mair Araks
+Alap Desai – Paṅkhīḍā nē ā pīn̄jaruṁ
+Lei Qiang – Picking Flowers
+Codex Faenza – J'ay grant désespoir de ma vie
+Paul McCartney & Wings – Country Dreamer
+
+++++
+<br clear="both">
+++++
+
+=== Октябрь, 6 октября 2024
+<https://aerostatbg.ru/release/1009>
+
+[%hardbreaks]
+Fanfare Orchestra Of The Castle Guard – Sonata No. 5
+Cure – Alone
+U2 – Country Mile
+The The – Cognitive Dissident
+Brian Finnegan – Dobbin's Flowery Vale
+Bryan Ferry – Star
+Serj Tankian – Life's Revengeful Son
+Phoebe Bridgers – Nothing Else Matters
+Van Morrison – Avalon Of The Heart
+
+++++
+<br clear="both">
+++++
+
 === То да Сё №38, 29 сентября 2024
 <https://aerostatbg.ru/release/1008>
 
@@ -61,8 +136,10 @@ Country Joe & The Fish – Sad And Lonely Times
 === Новые Имена, 22 сентября 2024
 <https://aerostatbg.ru/release/1007>
 
+.David Carroll – Gentlemen Of High Renown
+image:David Carroll - Bold Reynold/cover.jpg[Bold Reynold,200,200,role="thumb left"]
+
 [%hardbreaks]
-David Carroll – Gentlemen Of High Renown
 Sizzla – Political Lies
 Wolfgang Press – Going South
 Mahlathini & The Mahotella Queens – Lilizela Mlilizeli
