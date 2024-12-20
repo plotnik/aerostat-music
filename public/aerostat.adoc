@@ -50,13 +50,15 @@ Bonzo Dog Doo-Dah Band – The Equestrian Statue
 .Cranberries – You And Me
 image:CRANBERRIES/1999 - Bury the Hatchet/cover.jpg[Bury the Hatchet,200,200,role="thumb left"]
 
+.Cream – Wrapping Paper
+image:Cream/2005 - I Feel Free - Ultimate Cream/cover.jpg[I Feel Free - Ultimate Cream,200,200,role="thumb left"]
+
 [%hardbreaks]
 Stevie Wonder – Sir Duke
 Gerry Rafferty – Right Down The Line
 Glasgow Hebridean Choir – All Through The Night
 Creedence Clearwater Revival – Run Through The Jungle
 John Chibadura & The Tembo Brothers – Chimeso Mesomeso
-Cream – Wrapping Paper
 Аквариум – Не пей вина, Гертруда
 George Harrison – Soft-Hearted Hana
 Jethro Tull – 17
@@ -71,6 +73,12 @@ Jethro Tull – 17
 .John Lee Hooker - link:JOHN%20LEE%20HOOKER/John%20Lee%20Hooker%20-%20The%20Ultimate%20Collection%20(CD%202)/lyrics/hooker2.html#_boom_boom[Boom Boom]
 image:JOHN LEE HOOKER/John Lee Hooker - The Ultimate Collection (CD 2)/cover.jpg[The Ultimate Collection (CD 2),200,200,role="thumb left"]
 
+.Johnny Cash – I Walk The Line
+image:Johnny Cash/2020 - Man In Black The Best of Johnny Cash/cover.jpg[Man In Black The Best of Johnny Cash,200,200,role="thumb left"]
+
+.Chet Baker – Sweet Lorraine
+image:Chet Baker/1995 - The Best Of Chet Baker Plays/0221.jpg[The Best Of Chet Baker Plays,200,200,role="thumb left"]
+
 [%hardbreaks]
 Little Richard – Keep A-Knockin'
 Elvis Presley – Blue Moon Of Kentucky
@@ -79,9 +87,7 @@ Bing Crosby – Mademoiselle de Paris
 Chuck Berry – Roll Over Beethoven
 Five Satins – In The Still Of The Night
 Sam Cooke – Only Sixteen
-Chet Baker – Sweet Lorraine
 João Gilberto – Chega de Saudade
-Johnny Cash – I Walk The Line
 Kingston Trio – Ally Ally Oxen Free
 Yves Montand – Giroflé, girofla
 Harry Belafonte – Man Smart (Woman Smarter)
@@ -94,16 +100,20 @@ Elvis Presley – I Want You, I Need You, I Love You
 === Новые Имена, 10 ноября 2024
 <https://aerostatbg.ru/release/1014>
 
+.Perry Como – Magic Moments
+image:Perry Como 2000 - Legendary 3CD/cover.jpg[Legendary 3CD,200,200,role="thumb left"]
+
+.Penguins – Earth Angel (Will You Be Mine)
+image:Penguins/Earth Angel Cool Sounds Of West Coast DooWop 1954 - 1960 Disc 1/front.jpg[1960 Disc 1,200,200,role="thumb left"]
+
 [%hardbreaks]
 Who – (Love Is Like A) Heat Wave
 Flat Party – Madonna
 Vybz Kartel – Every Hustler
 Scatman John – Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
 Dreamers' Circus – North Of Trondheim
-Perry Como – Magic Moments
 Fear – The Mouth Don't Stop (The Trouble With Women Is)
 Ray Bryant Trio – Willow Weeps For Me
-Penguins – Earth Angel (Will You Be Mine)
 Labi Siffre – Bless The Telephone
 Bayanni & Ruger – Goddess
 Gillian Welch & David Rawlings – Hashtag
