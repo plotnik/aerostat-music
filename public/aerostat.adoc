@@ -22,6 +22,29 @@ code {
                                                                           
 == 40.
 
+=== Хmas: Жизнь Как Искусство, 22 декабря 2024
+<https://aerostatbg.ru/release/1018>
+
+.King Crimson – In The Court Of The Crimson King (Abridged)
+image:KING CRIMSON/1969 - In the Court of the Crimson King/cover.jpg[In the Court of the Crimson King,200,200,role="thumb left"]
+
+.Cocteau Twins – Frosty The Snowman
+image:Cocteau Twins/2005 - Lullabies to Violaine CD3/cover.jpg[Lullabies to Violaine CD3,200,200,role="thumb left"]
+
+[%hardbreaks]
+Albion Christmas Band – Sweet Chiming Bells
+Frank Sinatra – Christmas Dreaming
+John Rutter & Choir Of Clare College (Cambridge) – Gabriel's Message
+Pete Coe – Wassail Song
+Gottfried Finger – Sonata For Trumpet And Violin in C major: I. Andante
+Quincy Jones – Boogie Joe, The Grinder
+Who – I Can't Explain
+Bing Crosby – White Christmas
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Декабря, 1 декабря 2024
 <https://aerostatbg.ru/release/1017>
 
@@ -31,9 +54,11 @@ image:Bonzo Dog Doo-Dah Band/Gorilla/cover.jpg[Gorilla,200,200,role="thumb left"
 .Tinariwen – Amoss Idjraw
 image:TINARIWEN/2024 - Idrache (Traces Of The Past)/cover.jpg[Idrache (Traces Of The Past),200,200,role="thumb left"]
 
+.Mary Coughlan feat. Ultan Conlon – Freefalling
+image:Mary Coughlan - Repeat Rewind/cover.jpg[Repeat Rewind,200,200,role="thumb left"]
+
 [%hardbreaks]
 Father John Misty – Josh Tillman And The Accidental Dose
-Mary Coughlan feat. Ultan Conlon – Freefalling
 Kim Deal – Crystal Breath
 Sleaford Mods & Hot Chip – Nom Nom Nom
 Fat Freddy's Drop – Stand Straight
