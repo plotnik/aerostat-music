@@ -58,14 +58,26 @@ Kate Rusby – Sweet Bride
 === Новые Имена, 26 января 2025
 <https://aerostatbg.ru/release/1023>
 
+.Paper Kites – Bloom
+image:Paper Kites - Bloom (EP)/cover.jpg[Bloom (EP),200,200,role="thumb left"]
+
+.Veronique Chalot – Danse des sorcières
+image:Veronique Chalot - A L_entree du Temps Clair/cover.jpg[A L_entree du Temps Clair,200,200,role="thumb left"]
+
+.Jean-Michel Jarre – Oxygène (Part IV)
+image:Jean-Michel Jarre - Oxygene/Folder.jpg[Michel Jarre - Oxygene,200,200,role="thumb left"]
+
+.Julie Tippetts – What Is?
+image:Julie Tippetts - Sunset glow/cover.jpg[Sunset glow,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
-Paper Kites – Bloom
-Veronique Chalot – Danse des sorcières
-Jean-Michel Jarre – Oxygène (Part IV)
 America – I Need You
 Charli XCX – Sympathy Is A Knife
 Tsuki No Wa – Air Ship LZ 129
-Julie Tippetts – What Is?
 African Jazz feat. Grand Kallé – Indépendance Cha Cha
 Jean-Claude Vannier – Perdue dans la cite
 Verve – Bitter Sweet Symphony
