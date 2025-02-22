@@ -6,7 +6,7 @@
 
 |===
 
-| link:aerostat40.html[Глава XL]      |  21.07.2024 -  2.02.2005 | 998 - 1024
+| link:aerostat40.html[Глава XL]      |  21.07.2024 -  2.02.2025 | 998 - 1024
 | link:aerostat39.html[Глава XXXIX]   |  14.01.2024 - 14.07.2024 | 971 - 997
 | link:aerostat38.html[Глава XXXVIII] |   9.07.2023 -  7.01.2024 | 944 - 970
 | link:aerostat37.html[Глава XXXVII]  |   1.01.2023 -  2.07.2023 | 917 - 943

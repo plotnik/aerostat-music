@@ -41,12 +41,15 @@ image:FAIRPORT CONVENTION/Fairport Convention-Liege & Lief-2002 Remaster/Fairpor
 .Archie Fisher & Garnet Rogers – Joy Of My Heart
 image:ARCHIE FISHER/1986 - Off The Map - With Garnet Rogers/off_the_map.jpg[Off The Map - With Garnet Rogers,200,200,role="thumb left"]
 
+.Kate Rusby – Sweet Bride
+image:KATE RUSBY/2003 - Heartlands/cover.jpg[Heartlands,200,200,role="thumb left"]
+
+.Maddy Prior – Rosettes
+image:STEELEYE SPAN/1978 - Woman In The Wings/cover.jpg[Woman In The Wings,200,200,role="thumb left"]
 
 [%hardbreaks]
-Maddy Prior – Rosettes
 Lumiere – My Dearest Dear
 Dick Gaughan – Jock O' Hazeldean
-Kate Rusby – Sweet Bride
 
 ++++
 <br clear="both">

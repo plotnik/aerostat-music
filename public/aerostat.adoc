@@ -34,11 +34,17 @@ image:LED ZEPPELIN/Led Zeppelin - III/III.jpg[III,200,200,role="thumb left"]
 .Soft Machine – Moon In June
 image:SOFT MACHINE/1970 - Third/Folder.jpg[Third,200,200,role="thumb left"]
 
+.Loudon Wainwright III – Do We? We Do
+image:BECK/2014 - Song reader/cover.jpg[Song reader,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Éamon Doorley, Muireann Nic Amhlaoibh, Julie Fowlis & Ross Martin – An eala bhán
 Chris Brain – Wish
 Lumiere – Poor Wayfaring Stranger
-Loudon Wainwright III – Do We? We Do
 Black Sabbath – Who Are You?
 Éamon Doorley, Muireann Nic Amhlaoibh, Julie Fowlis & Ross Martin – Dá bhfaigheann mo rogha de thriúr acu / Dhannsamaid le Ailean / Cairistion' nigh'n Eòghainn
 
