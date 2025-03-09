@@ -74,12 +74,14 @@ image:Julie Tippetts - Sunset glow/cover.jpg[Sunset glow,200,200,role="thumb lef
 <br clear="both">
 ++++
 
+.Jean-Claude Vannier – Perdue dans la cite
+image:Jean Claude Vannier et son orchestre de mandolines/cover.jpg[Jean Claude Vannier et son orchestre de mandolines,200,200,role="thumb left"]
+
 [%hardbreaks]
 America – I Need You
 Charli XCX – Sympathy Is A Knife
 Tsuki No Wa – Air Ship LZ 129
 African Jazz feat. Grand Kallé – Indépendance Cha Cha
-Jean-Claude Vannier – Perdue dans la cite
 Verve – Bitter Sweet Symphony
 
 ++++
