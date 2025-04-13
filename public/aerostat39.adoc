@@ -613,7 +613,7 @@ Noah Kahan – Stick Season
 <https://aerostatbg.ru/release/973>
 
 .Flook – Ellie Goes West
-image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
+image:Flook/2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
 
 [%hardbreaks]
 Martin Carthy feat. Dave Swarbrick – And A-Begging I Will Go

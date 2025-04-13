@@ -586,7 +586,7 @@ Stray Cats - Rock It Off
 <http://old.aquarium.ru/misc/aerostat/aerostat728.html>
 
 .Flook - Lalabee/Jig For Simon
-image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
+image:Flook/2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
 
 [%hardbreaks]
 Flook - Omos Sheamuis/The Quickenbeam

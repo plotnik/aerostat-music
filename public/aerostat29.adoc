@@ -32,7 +32,7 @@ code {
 image:CRANBERRIES/2019 In The End/wm.jpg[2019 In The End,200,200,role="thumb left"]
 
 .Flook - Companion Star/The Coral Castle
-image:Flook 2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
+image:Flook/2019 - Ancora/cover.jpg[Ancora,200,200,role="thumb left"]
 
 [%hardbreaks]
 Vampire Weekend - Big Blue

@@ -22,8 +22,27 @@ code {
                                                                           
 == 41.
 
+=== Новые Имена, 13 апреля 2025
+<https://aerostatbg.ru/release/1034>
+
+[%hardbreaks]
+Basia Bulat – My Angel
+Fugazi – Waiting Room
+Mimi & Richard Fariña – Pack Up Your Sorrows
+Zaz – Sains et saufs
+Horace Silver – Opus De Funk
+Damned – Love Song
+Anouar Brahem feat. Anja Lechner – In The Shade Of Your Eyes
+Protoje – Big 45
+Belly – Feed The Tree
+Humsufi Band – Humsufi (Bondhu Re)
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Апреля, 6 апреля 2025
-<https://aerostatbg.ru/release/1032>
+<https://aerostatbg.ru/release/1033>
 
 .Brian Eno – Cascade
 image:BRIAN ENO/2025 - Aurum/cover.jpg[Aurum,200,200,role="thumb left"]
@@ -45,8 +64,10 @@ Kate Rusby – Let Your Light Shine
 === Flook Sanju, 30 марта 2025
 <https://aerostatbg.ru/release/1032>
 
+.Flook – The Farther Shore/Winter Flower
+image:Flook/2025 - Sanju/cover.jpg[Sanju,200,200,role="thumb left"]
+
 [%hardbreaks]
-Flook – The Farther Shore/Winter Flower
 Flook – Jig For Sham/The Dawn Wall/Johnny Ds/Timewaver
 Flook – Koady/The Burning Lion
 Flook – Tie The Knot In Georgia/Ed’s Big Five-O/Faqqua
@@ -99,8 +120,10 @@ Who – Baba O'Riley
 === Танцы в Честь Ушедших, 9 марта 2025
 <https://aerostatbg.ru/release/1029>
 
+.Band – Acadian Driftwood
+image:The Band/1975 - Northern Lights - Southern Cross/Folder.jpg[Northern Lights - Southern Cross,200,200,role="thumb left"]
+
 [%hardbreaks]
-Band – Acadian Driftwood
 Peter, Paul & Mary – Early Mornin' Rain
 Sam & Dave – Soul Man
 Olivia Tremor Control – Hideaway
