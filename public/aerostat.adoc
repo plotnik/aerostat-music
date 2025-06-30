@@ -22,6 +22,126 @@ code {
                                                                           
 == 41.
 
+=== Редкости, 22 июня 2025
+<https://aerostatbg.ru/release/1044>
+
+[%hardbreaks]
+Jethro Tull – Jack Frost And The Hooded Crow
+Paul McCartney – Great Day
+Beatles – A Beginning
+Nick Drake – Time Has Told Me
+Donovan – What A Beautiful Creature You Are
+Mary Hopkin – Wrap Me In Your Arms
+Melanie – All The Things I Should Have Known
+Grateful Dead – Me And My Uncle
+Byrds – Why
+Bruce Springsteen – Repo Man
+Florence & The Machine – Free
+
+++++
+<br clear="both">
+++++
+
+=== То Да Сё № 43, 15 июня 2025
+<https://aerostatbg.ru/release/1043>
+
+.Beach Boys – Good Vibrations
+image:The Beach Boys/Smiley Smile/folder.jpg[Smiley Smile,200,200,role="thumb left"]
+
+.Ink Spots - link:Ink%20Spots%20-%20The%20Very%20Best/lyrics/ink.html#_we_three_my_echo_my_shadow_me[We Three (My Echo, My Shadow And Me)]
+image:Ink Spots - The Very Best/Folder.jpg[The Very Best,200,200,role="thumb left"]
+
+.Jethro Tull – Drive On The Young Side Of Life
+image:JETHRO TULL/1993  Nightcap (Your Round) - Unrele/cover.jpg[Unrele,200,200,role="thumb left"]
+
+.Idle Race – On With The Show
+image:Idle Race - Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Swingle Singers – Prelude No. 11 in F major (BWV 880)
+image:Les Swingle Singers - Jazz Sebastien Bach/cover.jpg[Jazz Sebastien Bach,200,200,role="thumb left"]
+
+.Joe Brown – You've Got Your Troubles
+image:Joe Brown - The Ukulele Album/cover.jpg[The Ukulele Album,200,200,role="thumb left"]
+
+[%hardbreaks]
+Everything Is Everything – Witchi Tai To
+Al Green – You Ought To Be With Me
+Jimi Hendrix – Pali Gap
+Alan Price – Sell Sell
+
+++++
+<br clear="both">
+++++
+
+=== Песни Джорджа, 8 июня 2025
+<https://aerostatbg.ru/release/1042>
+
+[%hardbreaks]
+Аквариум – 15 голых баб
+Террариум – Сибирская песня
+Террариум – Несинхрон
+Аквариум – К друзьям
+Аквариум – Хорал
+Аквариум – Марш
+Аквариум – Из Тамбова с любовью
+БГ-Бэнд – Русская симфония
+Террариум – Китайцы не хотят
+Террариум – Лабрадор/Гибралтар
+Аквариум – Сонет
+Террариум – Зоя и Соня
+
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Июня, 1 июня 2025
+<https://aerostatbg.ru/release/1041>
+
+.REM - link:REM/REM%20-%20Eponymous/lyrics/eponymous.html#_radio_free_europe[Radio Free Europe]
+image:REM/REM - Eponymous/cover.jpg[Eponymous,200,200,role="thumb left"]
+
+.REM – Sitting Still
+image:REM/REM - Murmur/cover.jpg[Murmur,200,200,role="thumb left"]
+
+[%hardbreaks]
+Stereolab – Aerial Troubles
+Robert Forster – Strawberries
+Snapped Ankles – Personal Responsibilities
+Beirut – Tuanaki Atoll
+Nils Frahm – Kanten
+Van Morrison – Down To Joy
+Brian Eno & Beatie Wolfe – Suddenly
+T. Rex – Lady
+
+
+++++
+<br clear="both">
+++++
+
+=== 20 Лет Аэростату, 25 мая 2025
+<https://aerostatbg.ru/release/1040>
+
+[%hardbreaks]
+Борис Гребенщиков – У кошки четыре ноги
+Борис Гребенщиков – Услышь меня, хорошая
+Борис Гребенщиков – Шинкарёвский романс
+Борис Гребенщиков – Станочек
+Борис Гребенщиков – Чёрный Ворон
+Борис Гребенщиков – Сердце
+Борис Гребенщиков – Снился Мне Сад
+Борис Гребенщиков – Песня о Встречном
+Борис Гребенщиков – Тёмная Ночь
+Борис Гребенщиков – Тучи над Городом Встали
+Борис Гребенщиков – Чубчик
+
+++++
+<br clear="both">
+++++
+
 === Новые Имена, 18 мая 2025
 <https://aerostatbg.ru/release/1039>
 
@@ -146,8 +266,10 @@ Humsufi Band – Humsufi (Bondhu Re)
 .Brian Eno – Cascade
 image:BRIAN ENO/2025 - Aurum/cover.jpg[Aurum,200,200,role="thumb left"]
 
+.Suzanne Vega – Speakers' Corner
+image:SUZANNE VEGA/2025 - Flying with Angels/front.jpg[Flying with Angels,200,200,role="thumb left"]
+
 [%hardbreaks]
-Suzanne Vega – Speakers' Corner
 Jim Kweskin feat. Matt Leavenworth – Four Or Five Times
 Yazz Ahmed – She Stands On The Shore
 Ye Banished Privateers – Raise Your Glass
