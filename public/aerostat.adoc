@@ -22,6 +22,60 @@ code {
                                                                           
 == 41.
 
+=== Новые Песни Июля, 6 июля 2025
+<https://aerostatbg.ru/release/1046>
+
+.Garbage – There's No Future In Optimism
+image:Garbage - Let All That We Imagine Be the Light/cover.jpg[Let All That We Imagine Be the Light,200,200,role="thumb left"]
+
+[%hardbreaks]
+David Byrne – Everybody Laughs
+Alice Cooper – Wild Ones
+Rolling Stones feat. Steve Riley – Zydeco Sont Pas Salés
+Peggy Seeger – Sing About These Hard Times
+Little Simz – Flood
+Dropkick Murphys – Who'll Stand With Us?
+Black Keys – Babygirl
+Fontaines D.C. – Starbuster
+Counting Crows – Spaceman In Tulsa
+
+++++
+<br clear="both">
+++++
+
+=== Время Мифа, 29 июня 2025
+<https://aerostatbg.ru/release/1045>
+
+.Cocteau Twins – Watchlar
+image:Cocteau Twins/Cocteau Twins - 1991 CD Single Box Set/Cocteau Twins - 09 Iceblink Luck/covers.jpg[09 Iceblink Luck,200,200,role="thumb left"]
+
+.Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_here_there_and_everywhere[Here, There And Everywhere]
+image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
+
+.Jethro Tull - link:JETHRO%20TULL/Jethro%20Tull%20-%20Heavy%20Horses/lyrics/horses.html#_acres_wild[Acres Wild]
+image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role="thumb left"]
+
+.Jethro Tull – Look Into The Sun
+image:JETHRO TULL/Jethro Tull - Stand Up/cover.jpg[Stand Up,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Dieterich Buxtehude – Toccata In G Major
+image:Buxtehude - Complete Organ Works/cover.jpg[Complete Organ Works,200,200,role="thumb left"]
+
+[%hardbreaks]
+Rolling Stones – 2000 Light Years From Home
+Paul McCartney – Cafe On The Left Bank
+Idle Race – End Of The Road
+Jimi Hendrix Experience – Bold As Love
+Robin Laing – Summer Of ‘46
+
+++++
+<br clear="both">
+++++
+
 === Редкости, 22 июня 2025
 <https://aerostatbg.ru/release/1044>
 
@@ -67,9 +121,11 @@ image:Les Swingle Singers - Jazz Sebastien Bach/cover.jpg[Jazz Sebastien Bach,20
 .Joe Brown – You've Got Your Troubles
 image:Joe Brown - The Ukulele Album/cover.jpg[The Ukulele Album,200,200,role="thumb left"]
 
+.Al Green – You Ought To Be With Me
+image:Al Green - Call Me/Folder.jpg[Call Me,200,200,role="thumb left"]
+
 [%hardbreaks]
 Everything Is Everything – Witchi Tai To
-Al Green – You Ought To Be With Me
 Jimi Hendrix – Pali Gap
 Alan Price – Sell Sell
 
