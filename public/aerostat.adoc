@@ -325,14 +325,26 @@ image:BRIAN ENO/2025 - Aurum/cover.jpg[Aurum,200,200,role="thumb left"]
 .Suzanne Vega – Speakers' Corner
 image:SUZANNE VEGA/2025 - Flying with Angels/front.jpg[Flying with Angels,200,200,role="thumb left"]
 
+.Jim Kweskin feat. Matt Leavenworth – Four Or Five Times
+image:Jim Kweskin - Doing Things Right/cover.jpg[Doing Things Right,200,200,role="thumb left"]
+
+.Yazz Ahmed – She Stands On The Shore
+image:Yazz Ahmed - A Paradise in the Hold/cover.jpg[A Paradise in the Hold,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Kate Rusby – Let Your Light Shine
+image:KATE RUSBY/2025 - When They All Looked Up/cover.jpg[When They All Looked Up,200,200,role="thumb left"]
+
 [%hardbreaks]
-Jim Kweskin feat. Matt Leavenworth – Four Or Five Times
-Yazz Ahmed – She Stands On The Shore
+
 Ye Banished Privateers – Raise Your Glass
 Black Country, New Road – Besties
 Billy Gibbons – Livin' It Up In Texas
 Jethro Tull – Tomorrow Was Today
-Kate Rusby – Let Your Light Shine
+
 
 ++++
 <br clear="both">
