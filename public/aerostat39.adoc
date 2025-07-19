@@ -51,7 +51,7 @@ image:BRIAN ENO/Brian Eno - Before & After Science/cover.jpg[Before & After Scie
 image:BRIAN ENO/Brian Eno - Music For Airports/cover.jpg[Music For Airports,200,200,role="thumb left"]
 
 .Roger Eno – Deep Blue Day (Piano Version)
-image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition CD1/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition CD1,200,200,role="thumb left"]
+image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition[BRIAN ENO,200,200,role="thumb left"]
 
 .Aphex Twin – #17 (Z Twig)
 image:APHEX TWIN/Selected Ambient Works Volume II/cover.jpg[Selected Ambient Works Volume II,200,200,role="thumb left"]

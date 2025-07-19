@@ -188,6 +188,9 @@ image:REM/REM - Eponymous/cover.jpg[Eponymous,200,200,role="thumb left"]
 .REM – Sitting Still
 image:REM/REM - Murmur/cover.jpg[Murmur,200,200,role="thumb left"]
 
+.Brian Eno & Beatie Wolfe – Suddenly
+image:BRIAN ENO/2025 - Luminal/cover.jpg[Luminal,200,200,role="thumb left"]
+
 [%hardbreaks]
 Stereolab – Aerial Troubles
 Robert Forster – Strawberries
@@ -195,7 +198,6 @@ Snapped Ankles – Personal Responsibilities
 Beirut – Tuanaki Atoll
 Nils Frahm – Kanten
 Van Morrison – Down To Joy
-Brian Eno & Beatie Wolfe – Suddenly
 T. Rex – Lady
 
 

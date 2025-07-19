@@ -281,7 +281,7 @@ Bobby Fuller Four - I Fought The Law
 <https://www.radiorus.ru/brand/57083/episode/2189790>
 
 .Brian Eno - Capsule
-image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition CD1/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition CD1,200,200,role="thumb left"]
+image:BRIAN ENO/2019 - Apollo Atmospheres and Soundtracks - Extended Edition/cover.jpg[Apollo Atmospheres and Soundtracks - Extended Edition,200,200,role="thumb left"]
 
 .Tinariwen - Taqkal Tarha
 image:TINARIWEN/Tinariwen - Amadjar/cover.jpg[Amadjar,200,200,role="thumb left"]
