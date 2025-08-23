@@ -25,8 +25,10 @@ code {
 === Ответы на Вопросы, 17 августа 2025
 <https://aerostatbg.ru/release/1052>
 
+.Derek & The Dominoes – Bell Bottom Blues
+image:Eric Clapton/1970 - Layla and Other Assorted Love Songs/cover.jpg[Layla and Other Assorted Love Songs,200,200,role="thumb left"]
+
 [%hardbreaks]
-Derek & The Dominoes – Bell Bottom Blues
 Idle Race – A Better Life (The Weather Man Knows)
 Борис Гребенщиков – Прощание с новогодней ёлкой (Б. Окуджава)
 George Frideric Handel – Oboe Concerto No. 1 in B-flat major: I. Adagio
@@ -43,6 +45,9 @@ Incredible String Band – Gently Tender
 === Новые Имена, 10 августа 2025
 <https://aerostatbg.ru/release/1051>
 
+.Shaboozey – A Bar Song (Tipsy)
+image:Shaboozey - Where I_ve Been Isn_t Where I_m Going/cover.png[Where I_ve Been Isn_t Where I_m Going,200,200,role="thumb left"]
+
 [%hardbreaks]
 Horslips – Trouble (With A Capital T)
 Acker Bilk – Stranger On The Shore
@@ -53,7 +58,6 @@ Isokratisses – Rina, Katerina
 Lionel Hampton – I Surrender, Dear
 Sanam – Harik
 Holy Modal Rounders – Euphoria
-Shaboozey – A Bar Song (Tipsy)
 
 ++++
 <br clear="both">
