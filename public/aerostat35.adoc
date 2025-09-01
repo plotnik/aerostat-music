@@ -61,10 +61,12 @@ image:Ink Spots - The Very Best/Folder.jpg[The Very Best,200,200,role="thumb lef
 .Jimmy Page & Robert Plant – Nobody's Fault But Mine
 image:LED ZEPPELIN/Led Zeppelin - Presence/Presence.jpg[Presence,200,200,role="thumb left"]
 
+.Idle Race – Lucky Man
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
 [%hardbreaks]
 Johann Sebastian Bach – Mass in B minor: Kyrie eleison
 Incredible String Band – My Name Is Death
-Idle Race – Lucky Man
 Аквариум – Агатина песня
 
 ++++
@@ -93,7 +95,7 @@ Bishwa Nepali & Sujata Upadhyaya – Aaye Ma Ta Parera Chitikai / Kavi Devkota
 <https://aerostatbg.ru/release/886>
 
 .Leyla McCalla – Dodinin
-image:Leyla McCalla - Breaking the Thermometer/cover.jpg[Breaking the Thermometer,200,200,role="thumb left"]
+image:Leyla McCalla/Breaking the Thermometer/cover.jpg[Breaking the Thermometer,200,200,role="thumb left"]
 
 [%hardbreaks]
 Liam Gallagher – Better Days

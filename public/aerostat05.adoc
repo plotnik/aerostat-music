@@ -464,6 +464,9 @@ Matching Mole - O Caroline
 .Procol Harum - link:PROCOL%20HARUM/1967%20-%20Procol%20Harum%20(With%20Bonus%20Tracks)/lyrics/procol.html#_good_captain_clack[Good Captain Clack]
 image:PROCOL HARUM/1967 - Procol Harum (With Bonus Tracks)/cover.png[Procol Harum (With Bonus Tracks),200,200,role="thumb left"]
 
+.Idle Race - Sea Of Dreams
+image:Idle Race/Idle Race/Idle_Race_(album).jpeg[Idle Race,200,200,role="thumb left"]
+
 [%hardbreaks]
 Donovan - Mr.Wind
 Tyrannosaurus Rex - Blessed Wild Apple Girl
@@ -475,7 +478,6 @@ King Crimson - I Talk To The Wind
 Beatles - What's New, Mary Jane?
 Incredible String Band - Minotaur's Song
 Nick Drake - I Was Made To Love Magic
-Idle Race - Sea Of Dreams
 
 ++++
 <br clear="both">

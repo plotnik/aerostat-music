@@ -405,13 +405,15 @@ image:MARY HOPKIN/Mary Hopkin - Those Were The Days/cover.jpg[Those Were The Day
 <br clear="both">
 ++++
 
+.Idle Race - No More Sad Songs
+image:Idle Race/Idle Race/Idle_Race_(album).jpeg[Idle Race,200,200,role="thumb left"]
+
 [%hardbreaks]
 Tyrannosaurus Rex - Great Horse
 Beatles - Here There And Everywhere
 Rolling Stones - Ruby Tuesday
 Traffic - Paper Sun
 Kinks - Days
-Idle Race - No More Sad Songs
 Family - No Mule's Fool
 The Who - I Can't Reach You
 
@@ -495,8 +497,10 @@ image:PROCOL HARUM/1968 - Shine On Brightly/cover.jpg[Shine On Brightly,200,200,
 .Donovan - link:DONOVAN/Donovan%20-%20Brother%20Sun,%20Sister%20Moon/lyrics/moon.html#_brother_sun_sister_moon[Brother Sun, Sister Moon]
 image:DONOVAN/Donovan - Brother Sun, Sister Moon/Folder.jpg[Brother Sun Sister Moon,200,200,role="thumb left"]
 
+.Idle Race - Follow Me Follow
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
 [%hardbreaks]
-Idle Race - Follow Me Follow
 Move - Blackberry Way
 Scaffold - Lily The Pink
 Herman's Hermits - No Milk Today

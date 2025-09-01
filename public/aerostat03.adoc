@@ -27,10 +27,14 @@ h3 {
 .Traveling Wilburys - New Blue Moon
 image:Traveling Wilburys - Volume 3/cover.jpg[Volume 3,200,200,role="thumb left"]
 
+.Idle Race - Girl At The Window
+image:Idle Race/Idle Race/Idle_Race_(album).jpeg[Idle Race,200,200,role="thumb left"]
+
+.Idle Race - Morning Sunshine
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
 [%hardbreaks]
-Idle Race - Morning Sunshine
 Electric Light Orchestra - Mr.Radio
-Idle Race - Girl At The Window
 Electric Light Orchestra - Queen Of The Hours
 Electric Light Orchestra - Telephone Line
 Jeff Lynne - Now You're Gone

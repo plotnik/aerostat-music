@@ -486,13 +486,15 @@ image:DONOVAN/Donovan - Barabajagal/cover.jpg[Barabajagal,200,200,role="thumb le
 .Led Zeppelin – Down By The Seaside
 image:LED ZEPPELIN/Led Zeppelin - Physical Graffiti/Physical Graffiti.jpg[Physical Graffiti,200,200,role="thumb left"]
 
+.Idle Race – I'm Going Home
+image:Idle Race/Idle Race/Idle_Race_(album).jpeg[Idle Race,200,200,role="thumb left"]
+
 [%hardbreaks]
 New Vaudeville Band – Lily Marlene
 Family – From Past Archives
 Who – So Sad About Us
 Free – Be My Friend
 George Harrison – Beware Of Darkness
-Idle Race – I'm Going Home
 Herman's Hermits – Museum
 Fortunes – Here It Comes Again
 

@@ -243,11 +243,17 @@ image:JETHRO TULL/Jethro Tull - Heavy Horses/cover.jpg[Heavy Horses,200,200,role
 .Beatles - link:THE%20BEATLES/1966%20-%20Revolver/lyrics/revolver.html#_here_there_and_everywhere[Here There And Everywhere]
 image:THE BEATLES/1966 - Revolver/cover.jpg[Revolver,200,200,role="thumb left"]
 
+.Idle Race – The End Of The Road
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Rolling Stones – 2000 Light Years From Home
 Buxtehude – Toccata In G Major
 Paul McCartney – Cafe On The Left Banke
-Idle Race – The End Of The Road
 Jimi Hendrix – Bold As Love
 Robin Laing – Summer Of '46
 Jethro Tull – Look Into The Sun

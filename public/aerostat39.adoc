@@ -24,6 +24,9 @@ h3 {
 .Eels – Time
 image:EELS/2024 - Time!/cover.jpg[Time!,200,200,role="thumb left"]
 
+.Idle Race – The End Of The Road
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sandy Denny & The Strawbs – Nothing Else Will Do
 Sam Cooke & René Hall's Orchestra – I'll Come Running Back To You
@@ -35,7 +38,6 @@ Edvard Grieg – From Holberg's Time, Op. 40: II. Sarabande
 Eels – We Won't See Her Like Again
 Jimi Hendrix – Golden Rose
 Tony Rice – Church Street Blues
-Idle Race – The End Of The Road
 
 ++++
 <br clear="both">

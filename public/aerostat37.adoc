@@ -624,7 +624,7 @@ image:Howlin Wolf - His Best/cover.jpg[His Best,200,200,role="thumb left"]
 image:FAIRPORT CONVENTION/Fairport Convention-What We Did On Our Holidays-1969/cover.jpg[What We Did On Our Holidays-1969,200,200,role="thumb left"]
 
 .Idle Race – I Like My Toys
-image:Idle Race - Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
+image:Idle Race/Birthday Party/Folder.jpg[Birthday Party,200,200,role="thumb left"]
 
 .Lisa Gerrard feat. Patrick Cassidy – Adrift
 image:DEAD CAN DANCE/2014 - Twilight Kingdom/Front.jpg[Twilight Kingdom,200,200,role="thumb left"]
