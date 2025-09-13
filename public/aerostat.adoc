@@ -22,6 +22,29 @@ code {
                                                                           
 == 42.
 
+=== Новые Песни Сентября, 7 сентября 2025
+<https://aerostatbg.ru/release/1055>
+
+.Steeleye Span – Trees Are Whispering
+image:STEELEYE SPAN/2025 - Conflict/cover.jpg[Conflict,200,200,role="thumb left"]
+
+.Ed Sheeran – Old Phone
+image:Ed Sheeran/2025 - Play/cover.png[Play,200,200,role="thumb left"]
+
+[%hardbreaks]
+Future Clouds & Radar – The Man Who Would Be King
+Brian Eno & Beatie Wolfe – Ringing Ocean
+Junior Murvin – No Bed Of Roses
+Solomon – Unrequited
+Ty Segall – Shoplifter
+Matmos – The Chrome Reflects Our Image
+Elizabeth Fraser – At Last I Am Free
+Neil Young & The Chrome Hearts – Silver Eagle
+
+++++
+<br clear="both">
+++++
+
 === То да Cё (к Первому сентября), 31 августа 2025
 <https://aerostatbg.ru/release/1054>
 
