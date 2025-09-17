@@ -22,6 +22,38 @@ code {
                                                                           
 == 42.
 
+=== Высокодуховные Ответы, 14 сентября 2025
+<https://aerostatbg.ru/release/1056>
+
+.George Harrison – On The Bed
+image:GEORGE HARRISON/Wonderwall Music/cover.jpg[Wonderwall Music,200,200,role="thumb left"]
+
+.Doors – The Crystal Ship
+image:DOORS/1967 - The Doors/Folder.jpg[The Doors,200,200,role="thumb left"]
+
+.Giles, Giles & Fripp – One In A Million
+image:KING CRIMSON/1968 - The Cheerful Insanity Of/Folder.jpg[The Cheerful Insanity Of,200,200,role="thumb left"]
+
+.George Harrison – Flying Hour
+image:GEORGE HARRISON/1995 - Pirate Songs/cover.jpg[Pirate Songs,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Brian Eno – Fickle Sun (III) I'm Set Free
+image:BRIAN ENO/Brian Eno 2016 - The Ship/folder.jpg[The Ship,200,200,role="thumb left"]
+
+[%hardbreaks]
+Cocteau Twins & Harold Budd – Eyes Are Mosaics
+Brian Eno & Harold Budd – Late October
+Аквариум – Комната, лишённая зеркал
+Donovan – Roots Of Oak
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Сентября, 7 сентября 2025
 <https://aerostatbg.ru/release/1055>
 
@@ -94,7 +126,7 @@ Yusuf / Cat Stevens – Greenfields, Golden Sands
 image:Eric Clapton/1970 - Layla and Other Assorted Love Songs/cover.jpg[Layla and Other Assorted Love Songs,200,200,role="thumb left"]
 
 .Idle Race – A Better Life (The Weather Man Knows)
-image:Idle Race/Idle Race/Idle_Race_(album).jpeg[Idle Race,200,200,role="thumb left"]
+image:Idle Race/Idle Race/cover.jpg[Idle Race,200,200,role="thumb left"]
 
 [%hardbreaks]
 Борис Гребенщиков – Прощание с новогодней ёлкой (Б. Окуджава)
