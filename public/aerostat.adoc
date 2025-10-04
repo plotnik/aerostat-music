@@ -31,12 +31,14 @@ image:DIVINE COMEDY/2025 - Rainy Sunday Afternoon/cover.jpg[Rainy Sunday Afterno
 .Suede – Dancing With The Europeans
 image:Suede - Antidepressants/cover.jpg[Antidepressants,200,200,role="thumb left"]
 
+.Orb – Arabebonics
+image:The Orb/2025 - Buddhist Hipsters/cover.jpg[Buddhist Hipsters,200,200,role="thumb left"]
+
 [%hardbreaks]
 Gruff Rhys – Cân I'r Cymylau
 Dean Johnson – Carol
 Baby Cham, Damian Marley & Stephen Marley – Hustling In My Blood
 Gorillaz feat. Sparks – The Happy Dictator
-Orb – Arabebonics
 Beatles – Free As A Bird (2025 Mix)
 
 ++++
