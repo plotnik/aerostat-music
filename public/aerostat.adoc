@@ -22,6 +22,66 @@ code {
                                                                           
 == 42.
 
+=== Новые Имена, 12 октября 2025
+<https://aerostatbg.ru/release/1060>
+
+[%hardbreaks]
+Tractor – Madrigal
+Mary Black – Sonny
+Montgolfier Brothers – Even If My Mind Can't Tell You
+Jesse Welles – War Isn't Murder
+Dawn Penn – You Don't Love Me (No, No, No)
+ULD – Jeg skal finne deg
+Xmal Deutschland – I'll Be Near You
+Blackberry Smoke – One Horse Town
+Julee Cruise – Falling
+
+++++
+<br clear="both">
+++++
+
+=== Прогулки Романтика, 5 октября 2025
+<https://aerostatbg.ru/release/1059>
+
+.Red Hot Chili Peppers – Can't Stop
+image:RED HOT CHILI PEPPERS/Red Hot Chilli Peppers - By the way/cover.jpg[By the way,200,200,role="thumb left"]
+
+.Tom Petty & The Heartbreakers - link:TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html#_echo[Echo]
+image:TOM PETTY/Tom Petty - Echo/cover.jpg[Echo,200,200,role="thumb left"]
+
+.Richard Thompson & Danny Thompson – Children Of The Dark
+image:RICHARD THOMPSON/1997 - Industry/folder.jpg[Industry,200,200,role="thumb left"]
+
+.Robert Plant – It's A Beautiful Day Today
+image:ROBERT PLANT/2025 - Saving Grace/Front.jpg[Saving Grace,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.REM – Wall Of Death
+image:REM/1996 - New Adventures in Hi‐Fi/cover.jpg[New Adventures in Hi‐Fi,200,200,role="thumb left"]
+
+.REM - link:REM/REM%20-%20Up/lyrics/up.html#_why_not_smile[Why Not Smile]
+image:REM/REM - Up/cover.jpg[Up,200,200,role="thumb left"]
+
+.Nusrat Fateh Ali Khan – Nothing Without You
+image:Nusrat Fateh Ali Khan - Mustt Mustt/cover.jpg[Mustt Mustt,200,200,role="thumb left"]
+
+.Ravi Shankar – Hari Om
+image:RAVI SHANKAR/2010 - Chants Of India/cover.jpg[Chants Of India,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+[%hardbreaks]
+Кино – Прогулка романтика
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Октября, 28 сентября 2025
 <https://aerostatbg.ru/release/1058>
 
