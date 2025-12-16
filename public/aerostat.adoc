@@ -22,6 +22,30 @@ code {
                                                                           
 == 42.
 
+=== Трень-Брень, 14 декабря 2025
+<https://aerostatbg.ru/release/1069>
+
+.Imarhan – Derhan N'Oulhine
+image:Imarhan - Aboogi/cover.jpg[Aboogi,200,200,role="thumb left"]
+
+.Melody's Echo Chamber – In The Stars
+image:Melodys Echo Chamber - Unclouded/cover.jpg[Unclouded,200,200,role="thumb left"]
+
+[%hardbreaks]
+Dub Pistols & Freestylers feat. JA-13 – Ska Train
+Damned – There's A Ghost In My House
+Judy Collins – Pretty Saro
+Harper Finn – Winter Sky
+Langhorne Slim – Dream Come True
+Sleaford Mods feat. Gwendoline Christie & Big Special – The Good Life
+Булат Окуджава – Грузинская песня
+Владимир Высоцкий – Притча о правде и лжи
+Yusuf / Cat Stevens – Take The World Apart
+
+++++
+<br clear="both">
+++++
+
 === Время Петь, 7 декабря 2025
 <https://aerostatbg.ru/release/1068>
 
