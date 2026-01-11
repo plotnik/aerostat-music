@@ -22,16 +22,59 @@ code {
                                                                           
 == 42.
 
+=== Ответы на Вопросы, 11 января 2026
+<https://aerostatbg.ru/release/1073>
+
+.Ivor Cutler – Last Song
+image:Ivor Cutler Trio - Ludo/cover.jpg[Ludo,200,200,role="thumb left"]
+
+.Leon Redbone – I Ain't Gonna Give You None Of My Jelly Roll
+image:LEON REDBONE/2001 - Any Time/cover.jpg[Any Time,200,200,role="thumb left"]
+
+.Jethro Tull – Sweet Dreams
+image:JETHRO TULL/Jethro Tull - 2002  Living With The Past/cover.jpg[2002  Living With The Past,200,200,role="thumb left"]
+
+.Donovan - link:DONOVAN/Donovan%20-%20HMS%20Donovan/lyrics/hms.html#_mr_wind[Mr. Wind]
+image:DONOVAN/Donovan - HMS Donovan/cover.jpg[HMS Donovan,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Glenn Miller Orchestra – Polka Dots And Moonbeams
+image:Glenn Miller/The Complete Glenn Miller/CD05/cover.png[CD05,200,200,role="thumb left"]
+
+.Kinks – Tin Soldier Man
+image:Kinks/1967 - Something Else/Folder.jpg[Something Else,200,200,role="thumb left"]
+
+.Who – Doctor, Doctor
+image:The Who/A Quick One (Stereo Mix)/cover.jpg[A Quick One (Stereo Mix),200,200,role="thumb left"]
+
+[%hardbreaks]
+Kraftwerk – Boing Boom Tschak
+Johann Christoph Pezel – Trumpet Sonata No. 71
+Vjaceslav Grochovskij – Uruli
+Wailers – Put It On
+БГ+ – Верный раб ветра
+
+++++
+<br clear="both">
+++++
+
 === New January Songs, 4 января 2026
 <https://aerostatbg.ru/release/1072>
 
 .Chris Rea – Auberge
 image:Chris Rea/Auberge/cover.jpg[Auberge,200,200,role="thumb left"]
 
+.Barr Brothers – Run Right Into It
+image:Barr Brothers - Let It Hiss/cover.jpg[Let It Hiss,200,200,role="thumb left"]
+
+.Belair Lip Bombs – Cinema
+image:Belair Lip Bombs - Again/cover.jpg[Again,200,200,role="thumb left"]
+
 [%hardbreaks]
 Soulwax – New Earth Time
-Belair Lip Bombs – Cinema
-Barr Brothers – Run Right Into It
 Queen – Not For Sale (Polar Bear)
 Alborosie – Ipanema
 Charles Lloyd – Abide With Me
