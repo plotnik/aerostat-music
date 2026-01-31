@@ -22,6 +22,48 @@ code {
                                                                           
 == 42.
 
+=== То да Сё № 47, 25 января 2026
+<https://aerostatbg.ru/release/1075>
+
+.Tom Petty & The Heartbreakers - link:TOM%20PETTY/Tom%20Petty%20-%20Echo/lyrics/echo.html#_counting_on_you[Counting On You]
+image:TOM PETTY/Tom Petty - Echo/cover.jpg[Echo,200,200,role="thumb left"]
+
+[%hardbreaks]
+Who – Postcard
+Аквариум – Морской конёк
+Bob Weir – Cassidy
+Jimmy Cliff – Many Rivers To Cross
+Frank Zappa – I'm The Slime
+Franz Schubert – Symphony No. 3 in D major: II. Allegretto
+Bill Haley & His Comets – Crazy Man, Crazy
+Shawn Lee & Clutchy Hopkins – Root Trees
+Free – Mourning Sad Morning
+
+++++
+<br clear="both">
+++++
+
+=== Странные Новости с Далёкой Звезды, 18 января 2026
+<https://aerostatbg.ru/release/1074>
+
+.Аквариум – Апокалипсис
+image:AQUARIUM/2026 - Странные Новости с Далёкой Звезды/cover.jpg[Странные Новости с Далёкой Звезды,200,200,role="thumb left"]
+
+[%hardbreaks]
+Аквариум – Поговорим о мёртвых
+Аквариум – Все кошки серы
+Аквариум – Вороны вороны
+Аквариум – Спаси и сохрани
+Аквариум – Зелёный ангел
+Аквариум – Горизонт
+Аквариум – Шила-на-Гиг
+Аквариум – Странные новости с далёкой звезды
+Аквариум – Из сада камней
+
+++++
+<br clear="both">
+++++
+
 === Ответы на Вопросы, 11 января 2026
 <https://aerostatbg.ru/release/1073>
 
