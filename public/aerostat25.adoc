@@ -457,7 +457,7 @@ Ustad Shudjaat Khan - Utsav
 image:LAMBCHOP/Lambchop 2016 - FLOTUS/folder.jpg[FLOTUS,200,200,role="thumb left"]
 
 .Sleaford Mods - TCR
-image:Sleaford Mods - TCR EP/folder.jpg[TCR EP,200,200,role="thumb left"]
+image:Sleaford Mods/Sleaford Mods - TCR EP/folder.jpg[TCR EP,200,200,role="thumb left"]
 
 .Tinariwen - Tenere Taqqai
 image:TINARIWEN/Tinariwen - Elwan/cover.jpg[Elwan,200,200,role="thumb left"]
