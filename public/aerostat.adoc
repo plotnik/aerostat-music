@@ -22,8 +22,82 @@ code {
                                                                           
 == 43.
 
+=== То да Сё № 52, 21 июня 2026
+<https://aerostatbg.ru/release/1096>
+
+.Miles Davis – Nuit sur les Champs-Élysées (Take 1)
+image:MILES DAVIS/1957 - Ascenseur Pour L_Echafaud/Folder.jpg[Ascenseur Pour L_Echafaud,200,200,role="thumb left"]
+
+.Archie Fisher – Dark Eyed Molly
+image:ARCHIE FISHER/1976 - The Man with a Rhyme/cover.jpg[The Man with a Rhyme,200,200,role="thumb left"]
+
+.Tom Petty & The Heartbreakers - link:TOM%20PETTY/Tom%20Petty%201994%20-%20Wildflowers/lyrics/wildflowers.html#_to_find_a_friend[To Find A Friend]
+image:TOM PETTY/Tom Petty 1994 - Wildflowers/cover.jpg[Wildflowers,200,200,role="thumb left"]
+
+.John Lennon – Going Down On Love
+image:THE BEATLES/John Lennon - Walls and Bridges/cover.png[Walls and Bridges,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
+.Screamin' Jay Hawkins – I Put A Spell On You
+image:Screamin Jay Hawkins - Voodoo Jive/Folder.jpg[Voodoo Jive,200,200,role="thumb left"]
+
+.George Harrison – Cowboy Music
+image:GEORGE HARRISON/Wonderwall Music/cover.jpg[Wonderwall Music,200,200,role="thumb left"]
+
+[%hardbreaks]
+Rjanikanto – Jekhane Se Dayal Amar
+Laurie Anderson – Strange Angels
+Arthur Brown – Junkyard King
+Barleyjuice – Weekend Irish
+
+++++
+<br clear="both">
+++++
+
+=== Новости, 14 июня 2026
+<https://aerostatbg.ru/release/1095>
+
+.Paul McCartney – Never Know
+image:PAUL MCCARTNEY/2026 - The Boys of Dungeon Lane/front.jpg[The Boys of Dungeon Lane,200,200,role="thumb left"]
+
+.Planxty – The Irish Marche
+image:PLANXTY/Words and Music/cover.jpg[Words and Music,200,200,role="thumb left"]
+
+[%hardbreaks]
+Peter Gabriel – A Hard Lesson
+Sonny Rollins & Wynton Kelly – Tune Up
+Michael Stipe & Andrew Watt – I Played The Fool
+Pogues – A Pair Of Brown Eyes
+Afrika Bambaataa – Soul Makossa
+Frightened Rabbit – I Wish I Was Sober
+
+++++
+<br clear="both">
+++++
+
+=== Снежный Лев, 7 июня 2026
+<https://aerostatbg.ru/release/1094>
+
+[%hardbreaks]
+Аквариум – Инцидент в Настасьино
+Аквариум – Центр циклона
+Аквариум – Максим-лесник
+Аквариум – Древнерусская тоска
+Аквариум – Дубровский
+Аквариум – Истребитель
+Аквариум – Чёрный брахман
+Аквариум – Великая железнодорожная симфония
+Аквариум – Серебряная роза
+
+++++
+<br clear="both">
+++++
+
 === Новые Песни Июня, 31 мая 2026
-<https://aerostatbg.ru/release/1092>
+<https://aerostatbg.ru/release/1093>
 
 .Claypool Lennon Delirium – Meat Machines
 image:The Claypool Lennon Delirium - The Great Parrot-Ox and the Golden Egg of Empathy/folder.jpg[The Great Parrot-Ox and the Golden Egg of Empathy,200,200,role="thumb left"]
@@ -85,13 +159,15 @@ image:PAUL MCCARTNEY/2026 - The Boys of Dungeon Lane/front.jpg[The Boys of Dunge
 .Johann Sebastian Bach – English Suite No. 4 in F major: VI. Menuet II
 image:BACH/Bach English Suites Leonardt/cover.jpg[Bach English Suites Leonardt,200,200,role="thumb left"]
 
+.Smile – Instant Psalm
+image:Smile/2024 - Cutouts/TheSmileCutouts.jpg[Cutouts,200,200,role="thumb left"]
+
 [%hardbreaks]
 Bing Crosby – I Whistle A Happy Tune
 Rolling Stones – In The Stars
 Peter Gabriel – Won't Stand Down
 Who – Faith In Something Bigger
 Don McLean – Magdalene Lane
-Smile – Instant Psalm
 Eurythmics – A Little Of You
 Yusuf / Cat Stevens – To Be What You Must
 
