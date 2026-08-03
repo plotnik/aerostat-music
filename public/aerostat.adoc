@@ -22,6 +22,47 @@ code {
                                                                           
 == 43.
 
+=== Лунассад 2026, 2 августа 2026
+<https://aerostatbg.ru/release/1101>
+
+.Five Hand Reel – My Love Is Like A Red, Red Rose
+image:5 Hand Reel/For A That/cover.jpg[For A That,200,200,role="thumb left"]
+
+.Lumiere – The West's Awake
+image:Lumiere - Lumiere/folder.jpg[Lumiere,200,200,role="thumb left"]
+
+[%hardbreaks]
+Lúnasa – Pontivy
+Dé Danann – Ireland
+Flook – Waltzes
+Andy M. Stewart – Ca' The Yowes To The Knowes
+Declan O'Rourke – The Connaught Orphan
+High Kings – The Parting Glass
+
+++++
+<br clear="both">
+++++
+
+=== Новые Имена, 26 июля 2026
+<https://aerostatbg.ru/release/1101>
+
+[%hardbreaks]
+Muna Clay – Tudo Sorri
+Ventures – Walk Don't Run
+Buckinghams – Mercy, Mercy, Mercy
+Kanho Yakushiji & Kissaquo – Heart Sutra (Cho ver.)
+Ma Rainey – Jelly Bean Blues
+U.K. Subs – Stranglehold
+Cinna Peyghamy feat. Quelque Bourdon – Slow Eaters
+Bonnie Dobson – Morning Dew
+Musical Youth – Pass The Dutchie
+Mojave 3 – Love Songs On The Radio
+Jean Ferrat – La Montagne
+
+++++
+<br clear="both">
+++++
+
 === Paul McCartney/The Rolling Stones, 19 июля 2026
 <https://aerostatbg.ru/release/1100>
 
@@ -103,11 +144,17 @@ image:GEORGE HARRISON/George Harrison - Brainwashed/cover.jpg[Brainwashed,200,20
 .Weepies – All This Beauty
 image:Weepies - Hideaway/Front.jpg[Hideaway,200,200,role="thumb left"]
 
+.Jesse Welles – Domestic Error
+image:Jesse Welles - Masks Off/cover.jpg[Masks Off,200,200,role="thumb left"]
+
+++++
+<br clear="both">
+++++
+
 [%hardbreaks]
 Peter Noone – Meet Me On The Corner Down At Joe's Café
 Yusuf / Cat Stevens – Heaven / Where True Love Go
 Gentle Giant – No God's A Man
-Jesse Welles – Domestic Error
 Аквариум – Suaimhneas Intinne
 
 ++++
@@ -194,6 +241,9 @@ Frightened Rabbit – I Wish I Was Sober
 .Claypool Lennon Delirium – Meat Machines
 image:The Claypool Lennon Delirium - The Great Parrot-Ox and the Golden Egg of Empathy/folder.jpg[The Great Parrot-Ox and the Golden Egg of Empathy,200,200,role="thumb left"]
 
+.Reverend & The Makers (feat. Robbie Williams) – Fucked Up
+image:Reverend and the Makers - Is This How Happiness Feels/front.jpg[Is This How Happiness Feels,200,200,role="thumb left"]
+
 [%hardbreaks]
 Sunny Eldr – Eldr! Ulfr!
 Martin Simpson – Recruited Collier
@@ -201,7 +251,6 @@ Capleton & Little Lion Sound – Jah Is My Leader
 Beck – Ride Lonesome
 Lambchop – Weakened
 Noah Kahan – End Of August
-Reverend & The Makers (feat. Robbie Williams) – Fucked Up
 
 ++++
 <br clear="both">
