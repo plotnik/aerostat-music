@@ -22,8 +22,77 @@ code {
                                                                           
 == 43.
 
+=== Ответы на Вопросы, 23 августа 2026
+<https://aerostatbg.ru/release/1105>
+
+.Tom Waits – John The Revelator
+image:TOM WAITS/God Dont Never Change - The Songs Of Blind Willie Johnson/Cover.jpg[The Songs Of Blind Willie Johnson,200,200,role="thumb left"]
+
+.Cat Stevens – Sweet Scarlet
+image:CAT STEVENS/Catch Bull At Four/front.jpg[Catch Bull At Four,200,200,role="thumb left"]
+
+[%hardbreaks]
+Traffic – Here We Go Round The Mulberry Bush
+AC/DC – Kick You When You're Down
+Association – Cherish
+Ace Brigode & His 14 Virginians – Yes Sir, That's My Baby
+Hema Desai – Narayan nu Naam
+Hollies – Peculiar Situation
+Аквариум – Трудовая пчела
+Traffic – Empty Pages
+
+++++
+<br clear="both">
+++++
+
+=== Traveling Wilburys 2, 16 августа 2026
+<https://aerostatbg.ru/release/1104>
+
+.Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_heading_for_the_light[Heading For The Light]
+image:Traveling Wilburys - Volume 1/cover.jpg[Volume 1,200,200,role="thumb left"]
+
+.Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_poor_house[Poor House]
+image:Traveling Wilburys - Volume 3/cover.jpg[Volume 3,200,200,role="thumb left"]
+
+.Tom Petty & The Heartbreakers feat. Jeff Lynne – Don't Treat Me Like A Stranger
+image:TOM PETTY/Tom Petty 2008 - An American Treasure/cover.jpg[An American Treasure,200,200,role="thumb left"]
+
+[%hardbreaks]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_handle_with_care[Handle With Care]
+Traveling Wilburys – Maxine
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_where_were_you_last_night[Where Were You Last Night?]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_rattled[Rattled]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%201/lyrics/wilburys1.html#_margarita[Margarita]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_if_you_belonged_to_me[If You Belonged To Me]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_wilbury_twist[Wilbury Twist]
+Traveling Wilburys - link:Traveling%20Wilburys%20-%20Volume%203/lyrics/wilburys3.html#_you_took_my_breath_away[You Took My Breath Away]
+
+++++
+<br clear="both">
+++++
+
+=== Новые Песни Августа, 9 августа 2026
+<https://aerostatbg.ru/release/1103>
+
+.Cornelius feat. Sean Ono Lennon – Aeons
+image:Cornelius - Refractions/folder.jpg[Refractions,200,200,role="thumb left"]
+
+[%hardbreaks]
+Afghan Whigs – House Of I
+Peter Gabriel – I Belong To The Sky
+Guided By Voices – Lost In The Sun
+Keb' Mo' – Hand It Over
+Yard Act – New Beginnings
+Gracie Abrams – Death Wish
+Аквариум – Homo homini lupus est
+Lee Perry & Max Romeo – Three Blind Mice
+
+++++
+<br clear="both">
+++++
+
 === Лунассад 2026, 2 августа 2026
-<https://aerostatbg.ru/release/1101>
+<https://aerostatbg.ru/release/1102>
 
 .Five Hand Reel – My Love Is Like A Red, Red Rose
 image:5 Hand Reel/For A That/cover.jpg[For A That,200,200,role="thumb left"]
@@ -118,8 +187,10 @@ Roger McGuinn – If We Never Meet Again
 .Boards Of Canada – Father And Son
 image:Boards of Canada - Inferno/cover.png[Inferno,200,200,role="thumb left"]
 
+.East Pointers – Maritime Moonshine
+image:East Pointers - Schoonertown/cover.jpg[Schoonertown,200,200,role="thumb left"]
+
 [%hardbreaks]
-East Pointers – Maritime Moonshine
 Peter Gabriel – A Hard Lesson
 Dropkick Murphys & Shane MacGowan – The Body Of An American
 Arthur Brown & The Crazy World Of Arthur Brown & Dan Smith – Nature
