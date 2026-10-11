@@ -45,8 +45,14 @@
         
     <target name="ll"
             description="Собрать ссылки на тексты песен в один файл Asciidoctor">
-		<exec executable="jbang">
-		  <arg line="lyrics.java"/>
+		<exec executable="cmd" osfamily="windows" failonerror="true">
+			<arg value="/c"/>
+			<arg value="jbang"/>
+			<arg value="lyrics.java"/>
+		</exec>
+
+		<exec executable="jbang" osfamily="unix" failonerror="true">
+			<arg value="lyrics.java"/>
 		</exec>
     </target>
     

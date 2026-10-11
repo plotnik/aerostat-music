@@ -160,6 +160,9 @@ Monkees – When Love Comes Knockin' (At Your Door)
 === Новые Песни Сентября, 30 августа 2026
 <https://aerostatbg.ru/release/1106>
 
+.King Ayisoba – Property
+image:King Ayisoba - Pure Confusion/cover.jpg[Pure Confusion,200,200,role="thumb left"]
+
 [%hardbreaks]
 Mountain Goats – Shallow Grave
 Tubs – Stoop To Me
@@ -168,7 +171,6 @@ Eels – Cap In Hand
 David Sylvian & Robert Fripp – The First Day
 Echo & The Bunnymen – Brussels Is Haunted
 Richard Thompson – Cocaine Walking, Booze Talking
-King Ayisoba – Property
 
 ++++
 <br clear="both">
