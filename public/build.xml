@@ -45,8 +45,8 @@
         
     <target name="ll"
             description="Собрать ссылки на тексты песен в один файл Asciidoctor">
-		<exec executable="groovy">
-		  <arg line="lyrics.groovy"/>
+		<exec executable="jbang">
+		  <arg line="lyrics.java"/>
 		</exec>
     </target>
     
